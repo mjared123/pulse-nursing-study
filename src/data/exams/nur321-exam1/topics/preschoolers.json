@@ -1,0 +1,711 @@
+{
+  "slug": "preschoolers",
+  "title": "Health Promotion of Preschoolers",
+  "short": "Preschoolers",
+  "icon": "lightbulb",
+  "description": "The 3- to 5-year-old child: Erikson's initiative vs guilt, common fears, magical thinking and other typical behaviors, growth and motor milestones, procedure preparation through play, and injury prevention.",
+  "keyPoints": [
+    "Erikson: initiative vs guilt. Preschoolers plan, explore, and try new things; praise attempts and offer real choices, and avoid shaming or overly harsh limits that produce guilt.",
+    "Superego (conscience) is developing; preschoolers may feel guilty for 'bad thoughts' and may believe illness or hospitalization is punishment for something they did.",
+    "Piaget preoperational (intuitive) thinking: egocentric, magical thinking, animism, and centration; they take words literally ('a little stick' or 'dye').",
+    "Greatest fears: bodily injury and mutilation (intrusive procedures, blood loss), the dark, being left alone, ghosts and imaginary creatures. Offer adhesive bandages, night-lights, honesty, and play.",
+    "Prepare preschoolers shortly before a procedure using simple, concrete words and hands-on play with dolls or equipment; let them touch the equipment and practice on a doll.",
+    "Normal behaviors: imaginary friends, associative play, sex-role imitation, fibbing or taking things (not true lying/stealing at this age), sleep problems such as nightmares and night terrors, and some aggression that needs consistent limits.",
+    "Growth slows to about 2 to 3 kg and 6.5 to 9 cm per year; by age 4 the child hops on one foot, by age 5 skips and hops alternately, copies a triangle, and draws a person with 7 to 9 parts.",
+    "Injury prevention: car seat with harness until outgrowing it, then a belt-positioning booster; swim supervision; helmets; teach street and stranger safety; lock up medications, firearms, and poisons."
+  ],
+  "questions": [
+    {
+      "id": "preschoolers-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to Erikson, which psychosocial task is the preschool child (ages 3 to 5) working to master?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trust vs mistrust",
+          "correct": false,
+          "rationale": "Trust vs mistrust is the infant's task (birth to 1 year), developed through consistent caregiving."
+        },
+        {
+          "id": "b",
+          "text": "Initiative vs guilt",
+          "correct": true,
+          "rationale": "Preschoolers develop initiative by planning, exploring, and attempting new activities. Guilt results when their efforts are criticized or punished excessively."
+        },
+        {
+          "id": "c",
+          "text": "Autonomy vs shame and doubt",
+          "correct": false,
+          "rationale": "Autonomy vs shame and doubt is the toddler's task (1 to 3 years), centered on independence such as toileting and feeding self."
+        },
+        {
+          "id": "d",
+          "text": "Industry vs inferiority",
+          "correct": false,
+          "rationale": "Industry vs inferiority is the school-age child's task, centered on accomplishment and productivity."
+        }
+      ],
+      "explanation": "Erikson's stage for the preschooler is initiative vs guilt. The child is energetic, imaginative, and eager to do things. Adults support initiative by encouraging attempts and allowing choices while setting reasonable limits without shaming."
+    },
+    {
+      "id": "preschoolers-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old spills juice while trying to pour it independently at snack time. Which parental response best supports the child's development of initiative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll pour from now on so this doesn't happen again.\"",
+          "correct": false,
+          "rationale": "Taking the task away discourages the child from trying new things and can build guilt about attempting activities."
+        },
+        {
+          "id": "b",
+          "text": "\"You're too little to pour by yourself.\"",
+          "correct": false,
+          "rationale": "This message criticizes the child's ability and undermines initiative."
+        },
+        {
+          "id": "c",
+          "text": "\"Good try pouring by yourself. Let's get a towel and wipe it up together.\"",
+          "correct": true,
+          "rationale": "Praising the attempt and involving the child in fixing the mistake supports initiative and avoids shame or guilt."
+        },
+        {
+          "id": "d",
+          "text": "\"That was naughty. You need to sit in time-out.\"",
+          "correct": false,
+          "rationale": "An accident while trying a new skill is not misbehavior. Punishing it teaches the child to feel guilty for taking initiative."
+        }
+      ],
+      "explanation": "Initiative grows when the child's self-started activities are encouraged. Accidents are expected as the child practices new skills. Praising the effort and letting the child help clean up teaches responsibility without guilt."
+    },
+    {
+      "id": "preschoolers-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 5-year-old hospitalized with pneumonia tells the nurse, \"I got sick because I hit my sister.\" How should the nurse interpret this statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child may be experiencing abuse at home and needs a referral.",
+          "correct": false,
+          "rationale": "Nothing in the statement suggests abuse. It reflects a typical preschool belief about the cause of illness."
+        },
+        {
+          "id": "b",
+          "text": "The child is showing signs of an emotional disorder.",
+          "correct": false,
+          "rationale": "This thinking is developmentally normal for a preschooler and is not a sign of pathology."
+        },
+        {
+          "id": "c",
+          "text": "The child understands the germ theory of illness.",
+          "correct": false,
+          "rationale": "Linking illness to hitting a sibling shows the child does not yet understand the physiologic cause of illness."
+        },
+        {
+          "id": "d",
+          "text": "The child views illness as punishment, a typical belief linked to initiative vs guilt and magical thinking.",
+          "correct": true,
+          "rationale": "Preschoolers' developing conscience and magical thinking lead them to believe illness or hospitalization is punishment for bad thoughts or actions."
+        }
+      ],
+      "explanation": "Preschoolers have a developing superego and use magical thinking, so they often believe thoughts or misbehavior cause events. The nurse should clearly reassure the child that the illness is not punishment and that nothing they did or thought caused it."
+    },
+    {
+      "id": "preschoolers-04",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches a parent ways to support a 4-year-old's sense of initiative. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll let her choose between two outfits each morning.\"",
+          "correct": false,
+          "rationale": "Offering limited choices supports initiative and is an appropriate strategy."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll let her help set the table and water the plants.\"",
+          "correct": false,
+          "rationale": "Meaningful household tasks build initiative and a sense of purpose."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll tell her she's bad whenever she makes a mess while playing.\"",
+          "correct": true,
+          "rationale": "Labeling the child as bad for messes made during exploration produces guilt and discourages initiative, so more teaching is needed."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll encourage her pretend play, even if it gets a little noisy.\"",
+          "correct": false,
+          "rationale": "Imaginative play is how preschoolers practice roles and develop initiative; this is appropriate."
+        }
+      ],
+      "explanation": "Parents promote initiative by offering choices, assigning simple responsibilities, and encouraging play and exploration. Criticizing the child as a person rather than addressing the behavior fosters guilt. Discipline should target the behavior, not the child's worth."
+    },
+    {
+      "id": "preschoolers-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old has a small puncture site after a venipuncture and is crying, \"All my blood is going to leak out!\" Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Explain how the circulatory system replaces lost blood.",
+          "correct": false,
+          "rationale": "A physiologic explanation is too abstract for a preoperational child and will not relieve the fear."
+        },
+        {
+          "id": "b",
+          "text": "Apply a colorful adhesive bandage over the site.",
+          "correct": true,
+          "rationale": "Preschoolers fear body intrusion and believe their insides can leak out. A bandage provides concrete reassurance that the body is intact."
+        },
+        {
+          "id": "c",
+          "text": "Tell the child that big kids do not cry over a little poke.",
+          "correct": false,
+          "rationale": "This shames the child, dismisses a developmentally normal fear, and does not address it."
+        },
+        {
+          "id": "d",
+          "text": "Leave the site uncovered so the child can see it has stopped bleeding.",
+          "correct": false,
+          "rationale": "Seeing the puncture site can increase fear of body intrusion. Covering it is the recommended approach."
+        }
+      ],
+      "explanation": "Fear of bodily injury and mutilation peaks in the preschool years. Children worry that their skin is a fragile boundary and that blood or body contents can leak out. Bandages are a simple, effective intervention after injections and venipunctures."
+    },
+    {
+      "id": "preschoolers-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 3-year-old asks why the child is suddenly afraid of the dark and wants the bedroom door open. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Fear of the dark is common at this age because of an active imagination. A night-light and a calm bedtime routine can help.\"",
+          "correct": true,
+          "rationale": "Fears of the dark, monsters, and being alone are normal in preschoolers because of magical thinking. Night-lights and routines provide security."
+        },
+        {
+          "id": "b",
+          "text": "\"This fear usually means something frightening has happened to your child.\"",
+          "correct": false,
+          "rationale": "Fear of the dark is developmentally expected and does not by itself indicate trauma."
+        },
+        {
+          "id": "c",
+          "text": "\"Keep the light off so your child learns there is nothing to be afraid of.\"",
+          "correct": false,
+          "rationale": "Forcing exposure without support can intensify the fear and disrupt sleep."
+        },
+        {
+          "id": "d",
+          "text": "\"Let your child fall asleep in front of the television until the fear passes.\"",
+          "correct": false,
+          "rationale": "Screen time before sleep interferes with sleep quality and can introduce frightening images."
+        }
+      ],
+      "explanation": "Preschool fears include the dark, being left alone, animals, ghosts, monsters, and bodily injury. These fears are fueled by magical thinking and a vivid imagination. Parents should acknowledge the fear, avoid ridicule, and provide comfort measures such as a night-light and consistent routines."
+    },
+    {
+      "id": "preschoolers-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is preparing a 4-year-old for a scheduled IV insertion. Which approach is most developmentally appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Show a detailed diagram of veins the day before the procedure.",
+          "correct": false,
+          "rationale": "Diagrams are abstract, and preparing a day ahead allows fear to build; preschoolers do best with preparation shortly before the procedure."
+        },
+        {
+          "id": "b",
+          "text": "Avoid telling the child about the procedure to prevent anxiety.",
+          "correct": false,
+          "rationale": "Withholding information destroys trust and increases fear when the procedure happens unexpectedly."
+        },
+        {
+          "id": "c",
+          "text": "Tell the child the IV will not hurt at all.",
+          "correct": false,
+          "rationale": "This is dishonest and damages trust. The nurse should describe sensations honestly."
+        },
+        {
+          "id": "d",
+          "text": "Let the child place a tourniquet and tape on a doll shortly before the procedure while using simple words.",
+          "correct": true,
+          "rationale": "Hands-on play with real equipment, simple concrete language, and timing close to the procedure fit the preschooler's preoperational thinking."
+        }
+      ],
+      "explanation": "Preschoolers learn through play and concrete experience. Allow the child to handle equipment and practice on a doll, use short and honest explanations of what they will see, hear, and feel, and prepare them shortly before the procedure. Avoid words that may be misinterpreted, such as 'shot' or 'stick.'"
+    },
+    {
+      "id": "preschoolers-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse tells a 4-year-old, \"I'm going to take your temperature and blood pressure now.\" The child begins to cry and says, \"Don't take it away!\" What best explains the child's reaction?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child is experiencing separation anxiety.",
+          "correct": false,
+          "rationale": "Separation anxiety relates to being away from the parent, not to the nurse's words about vital signs."
+        },
+        {
+          "id": "b",
+          "text": "The child has developed a phobia of health care workers.",
+          "correct": false,
+          "rationale": "Nothing suggests a phobia; the reaction is tied to a specific phrase."
+        },
+        {
+          "id": "c",
+          "text": "The child interpreted the word \"take\" literally because of preoperational thinking.",
+          "correct": true,
+          "rationale": "Preschoolers interpret words literally, so 'take your temperature' can mean something will be removed from them."
+        },
+        {
+          "id": "d",
+          "text": "The child is showing the egocentrism of formal operational thought.",
+          "correct": false,
+          "rationale": "Formal operational thought begins in adolescence; preschoolers are preoperational."
+        }
+      ],
+      "explanation": "Preoperational children take words at face value. Phrases such as 'take your temperature,' 'put you to sleep,' or 'a little stick' can be frightening. Nurses should choose neutral words, for example 'I'm going to see how warm you are.'"
+    },
+    {
+      "id": "preschoolers-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 4-year-old is concerned because the child talks to an imaginary friend named \"Bo\" and blames Bo for breaking a lamp. Which response by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Imaginary friends are normal at this age. Acknowledge Bo, but make sure your child takes responsibility for what they did.\"",
+          "correct": true,
+          "rationale": "Imaginary companions are common and healthy in preschoolers. Parents can accept the friend while not allowing the child to escape responsibility through it."
+        },
+        {
+          "id": "b",
+          "text": "\"Tell your child firmly that Bo does not exist.\"",
+          "correct": false,
+          "rationale": "Denying the companion is unnecessary; imaginary friends help children cope, practice social skills, and distinguish reality from fantasy."
+        },
+        {
+          "id": "c",
+          "text": "\"This may be an early sign of a psychiatric disorder, and your child should be evaluated.\"",
+          "correct": false,
+          "rationale": "Imaginary friends are a normal preschool phenomenon and are not a sign of mental illness."
+        },
+        {
+          "id": "d",
+          "text": "\"Punish your child each time Bo is mentioned so the behavior stops.\"",
+          "correct": false,
+          "rationale": "Punishing normal imaginative play produces guilt and is not appropriate."
+        }
+      ],
+      "explanation": "Imaginary companions often appear around ages 3 to 4. They serve as friends, help the child cope with loneliness and fears, and let the child try out roles. Parents can acknowledge the companion while keeping limits and responsibility clear."
+    },
+    {
+      "id": "preschoolers-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent reports that a 4-year-old came home from a friend's house with a toy car in a pocket. Which guidance should the nurse provide?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child is showing early antisocial behavior and needs counseling.\"",
+          "correct": false,
+          "rationale": "Taking items at this age is not stealing in the moral sense and is not a sign of antisocial behavior."
+        },
+        {
+          "id": "b",
+          "text": "\"Ignore it; children this age outgrow taking things.\"",
+          "correct": false,
+          "rationale": "Ignoring the behavior misses a teaching opportunity about ownership and respect for others' belongings."
+        },
+        {
+          "id": "c",
+          "text": "\"Spank your child so they understand that stealing is wrong.\"",
+          "correct": false,
+          "rationale": "Corporal punishment is not recommended and does not teach the concept of ownership."
+        },
+        {
+          "id": "d",
+          "text": "\"Preschoolers don't fully understand ownership yet. Calmly help your child return the toy and talk about asking first.\"",
+          "correct": true,
+          "rationale": "Preschoolers take things because they want them and have limited understanding of ownership. Calm correction and returning the item teaches the rule."
+        }
+      ],
+      "explanation": "Preschoolers' sense of property and honesty is still forming. Taking items and fibbing (often a mix of fantasy and reality) are common. Parents should respond calmly, teach the correct behavior, and model honesty rather than labeling the child a thief or liar."
+    },
+    {
+      "id": "preschoolers-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which type of play is most characteristic of preschool children?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Associative play",
+          "correct": true,
+          "rationale": "Preschoolers play together in a group doing similar activities, but without strict rules, goals, or assigned roles."
+        },
+        {
+          "id": "b",
+          "text": "Parallel play",
+          "correct": false,
+          "rationale": "Parallel play, playing beside but not with other children, is characteristic of toddlers."
+        },
+        {
+          "id": "c",
+          "text": "Solitary play",
+          "correct": false,
+          "rationale": "Solitary play is typical of infants, who play alone with toys."
+        },
+        {
+          "id": "d",
+          "text": "Cooperative play with formal rules",
+          "correct": false,
+          "rationale": "Organized cooperative play with rules and team goals is typical of school-age children."
+        }
+      ],
+      "explanation": "Associative play is the preschool hallmark: children share materials and interact, but the play lacks organization and a common goal. Imitative, dramatic, and pretend play are also prominent and help preschoolers learn roles, including sex-role behaviors."
+    },
+    {
+      "id": "preschoolers-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A parent says a 4-year-old wakes about 1 to 2 hours after falling asleep, sits up screaming and thrashing with eyes open, does not respond to comforting, and remembers nothing in the morning. Which teaching is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Wake your child fully and talk about the bad dream.\"",
+          "correct": false,
+          "rationale": "This describes a night terror, not a nightmare. Fully waking the child during a night terror can prolong agitation."
+        },
+        {
+          "id": "b",
+          "text": "\"These are night terrors. Stay nearby to keep your child safe and let the episode pass without waking them.\"",
+          "correct": true,
+          "rationale": "Night terrors occur in deep non-REM sleep early in the night, the child is not truly awake, and there is no memory afterward. Parents should ensure safety and allow the child to return to sleep."
+        },
+        {
+          "id": "c",
+          "text": "\"Give your child an antihistamine at bedtime to prevent these episodes.\"",
+          "correct": false,
+          "rationale": "Medications are not the treatment for occasional night terrors; regular sleep schedules and avoiding overtiredness help."
+        },
+        {
+          "id": "d",
+          "text": "\"Let your child sleep in your bed every night from now on.\"",
+          "correct": false,
+          "rationale": "Co-sleeping does not prevent night terrors and may create new sleep-association problems."
+        }
+      ],
+      "explanation": "Nightmares occur in REM sleep later in the night; the child wakes, is frightened, can be comforted, and remembers the dream. Night terrors occur in non-REM sleep early in the night; the child is not responsive, is hard to wake, and has no recall. For night terrors, parents should protect the child from injury, avoid waking them, and maintain a regular bedtime routine."
+    },
+    {
+      "id": "preschoolers-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During a well-child visit, the nurse assesses a 5-year-old. Which finding would warrant further evaluation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child skips and hops on alternate feet.",
+          "correct": false,
+          "rationale": "Skipping on alternate feet is an expected gross motor milestone by age 5."
+        },
+        {
+          "id": "b",
+          "text": "The child copies a triangle and a square.",
+          "correct": false,
+          "rationale": "Copying a square and triangle is expected fine motor development by age 5."
+        },
+        {
+          "id": "c",
+          "text": "The child gained 2.5 kg in the past year.",
+          "correct": false,
+          "rationale": "Preschoolers gain about 2 to 3 kg per year, so this is expected."
+        },
+        {
+          "id": "d",
+          "text": "The child is unable to hop on one foot or draw a person with more than a head.",
+          "correct": true,
+          "rationale": "Hopping on one foot is expected by age 4, and a 5-year-old typically draws a person with 7 to 9 parts. Missing both milestones suggests a delay."
+        }
+      ],
+      "explanation": "Key preschool motor milestones: age 3 rides a tricycle and copies a circle; age 4 hops on one foot, throws overhand, and copies a square; age 5 skips with alternate feet, jumps rope, copies a triangle, and draws a person with 7 to 9 parts. Growth slows to about 2 to 3 kg and 6.5 to 9 cm per year."
+    },
+    {
+      "id": "preschoolers-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 4-year-old weighing 18 kg asks about car safety. The child has not outgrown the weight or height limits of a forward-facing car seat with a harness. Which recommendation is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Move the child to the front seat using the adult seat belt.",
+          "correct": false,
+          "rationale": "Children younger than 13 should ride in the back seat, and adult belts do not fit preschoolers safely."
+        },
+        {
+          "id": "b",
+          "text": "Switch to a belt-positioning booster seat now because the child is 4.",
+          "correct": false,
+          "rationale": "Age alone is not the trigger. Children should stay in a harnessed seat until they reach its maximum height or weight limit."
+        },
+        {
+          "id": "c",
+          "text": "Keep the child in the forward-facing harnessed seat in the back seat until reaching the seat's limits.",
+          "correct": true,
+          "rationale": "AAP recommends using a forward-facing seat with a harness as long as possible, up to the seat's highest weight or height limit, and always in the back seat."
+        },
+        {
+          "id": "d",
+          "text": "Use the adult lap belt only in the back seat.",
+          "correct": false,
+          "rationale": "A lap belt alone does not properly restrain a preschooler and can cause abdominal and spinal injury."
+        }
+      ],
+      "explanation": "Motor vehicle crashes are a leading cause of injury death in young children. Preschoolers should ride in a forward-facing harnessed seat until outgrowing it, then use a belt-positioning booster until the adult belt fits properly (usually around 145 cm or 4 ft 9 in, ages 8 to 12). Children ride in the back seat until age 13."
+    },
+    {
+      "id": "preschoolers-15",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks how to handle a 4-year-old's frequent hitting and temper outbursts toward a younger sibling. Which nursing advice is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Spank your child so they learn how it feels to be hit.\"",
+          "correct": false,
+          "rationale": "Physical punishment models aggression and is associated with more aggressive behavior; it is not recommended by AAP."
+        },
+        {
+          "id": "b",
+          "text": "\"Set consistent limits, use a brief time-out (about 1 minute per year of age), and praise gentle behavior.\"",
+          "correct": true,
+          "rationale": "Consistent limits, short time-outs, and positive reinforcement are effective discipline strategies for preschool aggression."
+        },
+        {
+          "id": "c",
+          "text": "\"Ignore all hitting so your child doesn't get attention for it.\"",
+          "correct": false,
+          "rationale": "Hitting that can injure another child must be stopped; ignoring is reserved for minor, safe attention-seeking behaviors."
+        },
+        {
+          "id": "d",
+          "text": "\"Keep the children separated at all times until your child outgrows this phase.\"",
+          "correct": false,
+          "rationale": "Permanent separation is unrealistic and prevents the child from learning appropriate interaction."
+        }
+      ],
+      "explanation": "Some aggression is common in preschoolers as they learn to manage frustration and sibling rivalry. Effective discipline is consistent, immediate, and focused on the behavior. Time-out of about 1 minute per year of age, modeling calm behavior, and praising positive behavior are recommended."
+    },
+    {
+      "id": "preschoolers-16",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 4-year-old is admitted for a laceration repair and is visibly frightened. Which nursing interventions address common preschool fears? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encourage the parent to stay with the child during the procedure if possible.",
+          "correct": true,
+          "rationale": "Preschoolers fear being left alone and abandonment; parental presence provides security."
+        },
+        {
+          "id": "b",
+          "text": "Let the child handle a stethoscope and practice on a stuffed animal.",
+          "correct": true,
+          "rationale": "Hands-on play with equipment reduces fear of the unknown and of body intrusion."
+        },
+        {
+          "id": "c",
+          "text": "Explain that the stitches will help keep the skin closed so the inside stays inside.",
+          "correct": true,
+          "rationale": "This concrete explanation directly addresses the fear of mutilation and body contents leaking out."
+        },
+        {
+          "id": "d",
+          "text": "Use the phrase \"We're going to cut a little bit\" to describe trimming the dressing.",
+          "correct": false,
+          "rationale": "Words like 'cut' are frightening to preschoolers, who interpret them literally; neutral words should be used."
+        },
+        {
+          "id": "e",
+          "text": "Cover the repaired laceration with a bandage the child helps choose.",
+          "correct": true,
+          "rationale": "Bandages reassure the child that the body is intact, and choosing one gives a sense of control."
+        },
+        {
+          "id": "f",
+          "text": "Schedule detailed teaching about the procedure for 2 days before it occurs.",
+          "correct": false,
+          "rationale": "Preschoolers should be prepared shortly before a procedure; long lead times increase anxiety."
+        }
+      ],
+      "explanation": "Common preschool fears include bodily injury and mutilation, being left alone, the dark, and imaginary creatures. Interventions include parental presence, therapeutic play with real equipment, concrete and honest explanations, bandages, and careful word choice. Preparation should occur close to the time of the procedure."
+    },
+    {
+      "id": "preschoolers-17",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is teaching a parent about expected preschool behaviors. Which behaviors are considered developmentally normal for a 3- to 5-year-old? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Believing that the moon follows the car",
+          "correct": true,
+          "rationale": "This reflects egocentric and magical thinking, which is typical of the preoperational stage."
+        },
+        {
+          "id": "b",
+          "text": "Imitating a parent's household and work activities during play",
+          "correct": true,
+          "rationale": "Imitative play and sex-role learning through identification with parents are normal preschool behaviors."
+        },
+        {
+          "id": "c",
+          "text": "Having an imaginary playmate",
+          "correct": true,
+          "rationale": "Imaginary companions are common and healthy during the preschool years."
+        },
+        {
+          "id": "d",
+          "text": "Understanding that a tall, thin glass and a short, wide glass can hold the same amount",
+          "correct": false,
+          "rationale": "Conservation is a concrete operational skill that develops in the school-age years, not in preschoolers."
+        },
+        {
+          "id": "e",
+          "text": "Consistently following complex game rules with a team",
+          "correct": false,
+          "rationale": "Rule-based cooperative team play is typical of school-age children."
+        },
+        {
+          "id": "f",
+          "text": "Attributing feelings to objects, such as saying a chair is \"sad\"",
+          "correct": true,
+          "rationale": "Animism, giving life and feelings to inanimate objects, is characteristic of preoperational thought."
+        }
+      ],
+      "explanation": "Preschool thinking is egocentric, magical, and animistic, and preschoolers lack conservation. Imaginary friends and imitative play are normal. Rule-based cooperative play and conservation develop in the school-age years with concrete operational thinking."
+    },
+    {
+      "id": "preschoolers-18",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The parent of a 5-year-old asks how to prepare the child to start kindergarten. Which suggestions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Visit the school and meet the teacher before the first day.",
+          "correct": true,
+          "rationale": "Familiarizing the child with the new environment reduces fear of the unknown."
+        },
+        {
+          "id": "b",
+          "text": "Talk positively about school and read stories about starting kindergarten.",
+          "correct": true,
+          "rationale": "Positive discussion and stories help the child anticipate and look forward to school."
+        },
+        {
+          "id": "c",
+          "text": "Begin a school-night bedtime and morning routine a couple of weeks before school starts.",
+          "correct": true,
+          "rationale": "Establishing the routine ahead of time eases the transition and supports adequate sleep (preschoolers need about 10 to 13 hours per day including naps)."
+        },
+        {
+          "id": "d",
+          "text": "Avoid mentioning school until the first day so the child does not worry.",
+          "correct": false,
+          "rationale": "Surprising the child increases anxiety; gradual preparation is recommended."
+        },
+        {
+          "id": "e",
+          "text": "Warn the child that the teacher will punish them if they misbehave.",
+          "correct": false,
+          "rationale": "Framing school as a place of punishment creates fear and negative attitudes toward school."
+        }
+      ],
+      "explanation": "School readiness is supported by preparing the child ahead of time: visiting the school, meeting the teacher, reading books, speaking positively, and establishing routines. Preschool or group experiences also help build the social skills needed for kindergarten."
+    },
+    {
+      "id": "preschoolers-19",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse reviews injury prevention with the parents of a 4-year-old. Which statements by the parents indicate correct understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Our child can swim a little now, so we can leave her alone in the shallow end for a few minutes.\"",
+          "correct": false,
+          "rationale": "Preschoolers must have constant, within-reach adult supervision near water, even if they have had swim lessons."
+        },
+        {
+          "id": "b",
+          "text": "\"He will wear a helmet every time he rides his tricycle or bike.\"",
+          "correct": true,
+          "rationale": "Helmets prevent head injury and should be worn with every ride to build a lifelong habit."
+        },
+        {
+          "id": "c",
+          "text": "\"We store our firearm unloaded and locked, with the ammunition locked separately.\"",
+          "correct": true,
+          "rationale": "Safe firearm storage is a key prevention measure because preschoolers are curious and can open doors and cabinets."
+        },
+        {
+          "id": "d",
+          "text": "\"We are teaching her to stop at the curb and hold an adult's hand to cross the street.\"",
+          "correct": true,
+          "rationale": "Preschoolers cannot judge traffic speed or distance, so they need to learn street safety and be supervised."
+        },
+        {
+          "id": "e",
+          "text": "\"We keep vitamins in a purse because they're not real medicine.\"",
+          "correct": false,
+          "rationale": "Iron-containing vitamins are a common cause of poisoning; all medications and vitamins must be stored locked and out of reach."
+        }
+      ],
+      "explanation": "Preschool injury risks reflect their increased motor skills, curiosity, and poor judgment of danger: drowning, motor vehicle and pedestrian injuries, falls, burns, poisoning, and firearms. Teaching includes constant water supervision, helmets, safe storage of firearms and medications, and street safety."
+    },
+    {
+      "id": "preschoolers-20",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is preparing a 4-year-old for a throat culture. Place the nurse's actions in the most developmentally appropriate order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Introduce yourself to the child and parent and explain in simple words what will happen just before the procedure"
+        },
+        {
+          "id": "b",
+          "text": "Let the child hold a swab and pretend to take a culture from a doll's throat"
+        },
+        {
+          "id": "c",
+          "text": "Offer a simple choice, such as sitting on the parent's lap or on the exam table"
+        },
+        {
+          "id": "d",
+          "text": "Obtain the culture quickly while the parent holds the child securely"
+        },
+        {
+          "id": "e",
+          "text": "Praise the child for helping and offer a sticker"
+        }
+      ],
+      "explanation": "The nurse first builds rapport and gives a brief, concrete explanation close to the procedure time. Therapeutic play with the equipment reduces fear of the unknown. Offering a limited choice supports initiative and a sense of control. The procedure is done quickly with the child positioned securely, and it ends with praise and a reward to reinforce coping rather than leaving the child with a sense of failure."
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "slug": "immunizations",
+  "title": "Immunizations",
+  "short": "Immunizations",
+  "icon": "shield",
+  "description": "Routine childhood immunization: the 2-, 4-, and 6-month infant series, 12- to 15-month and 4- to 6-year doses, administration technique and sites, live vaccine precautions, true vs false contraindications, side effects, atraumatic care, documentation, and catch-up principles.",
+  "keyPoints": [
+    "Infant series at 2, 4, and 6 months: DTaP, IPV, Hib, PCV, and oral rotavirus (IPV dose 3 is due between 6 and 18 months; some Hib and rotavirus products need only 2 doses).",
+    "At 12 to 15 months: MMR, varicella, and the Hib and PCV boosters; hepatitis A begins at 12 months. DTaP dose 4 is given at 15 to 18 months.",
+    "Preschool (4 to 6 years) boosters before kindergarten: DTaP, IPV, MMR, and varicella.",
+    "Give infant IM injections in the vastus lateralis (anterolateral thigh) with a 1-inch, 22- to 25-gauge needle at 90 degrees; the deltoid is used for older toddlers and children with adequate muscle mass.",
+    "Live vaccines (MMR, varicella, rotavirus, intranasal influenza) are contraindicated in severe immunocompromise and pregnancy; live injectable vaccines not given on the same day are separated by at least 28 days.",
+    "True contraindication: severe allergic reaction (anaphylaxis) to a prior dose or vaccine component. Mild illness, low-grade fever, antibiotic use, and prematurity are NOT contraindications. Moderate or severe acute illness is a precaution.",
+    "Expected effects: soreness, redness, mild fever, and fussiness; treat with cool compresses and acetaminophen as directed. MMR can cause fever and rash 1 to 2 weeks later. Report seizures, high fever, inconsolable crying 3 hours or more, or signs of anaphylaxis.",
+    "Give the Vaccine Information Statement (VIS) before each vaccine; document vaccine, date, dose, site, route, lot number, manufacturer, VIS date, and administrator. Never restart a series; continue where it left off."
+  ],
+  "questions": [
+    {
+      "id": "immunizations-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A healthy 2-month-old is at a well-child visit. Which group of vaccines does the nurse anticipate administering?",
+      "options": [
+        {
+          "id": "a",
+          "text": "MMR, varicella, and hepatitis A",
+          "correct": false,
+          "rationale": "MMR, varicella, and hepatitis A are first given at 12 months or later, not at 2 months."
+        },
+        {
+          "id": "b",
+          "text": "DTaP, IPV, Hib, PCV, and oral rotavirus",
+          "correct": true,
+          "rationale": "These vaccines begin at 2 months and continue at 4 and 6 months as the primary infant series."
+        },
+        {
+          "id": "c",
+          "text": "Tdap, HPV, and meningococcal conjugate",
+          "correct": false,
+          "rationale": "These are adolescent vaccines routinely given at 11 to 12 years."
+        },
+        {
+          "id": "d",
+          "text": "DTaP, MMR, and intranasal influenza",
+          "correct": false,
+          "rationale": "MMR is not given before 12 months for routine immunization, and intranasal influenza is not approved for children younger than 2 years."
+        }
+      ],
+      "explanation": "The routine infant series given at 2, 4, and 6 months includes DTaP, IPV, Hib, PCV, and rotavirus, with the hepatitis B series continuing as scheduled. Combination vaccines can reduce the number of injections."
+    },
+    {
+      "id": "immunizations-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-month-old weighing 6.5 kg is due for injectable vaccines. Which site should the nurse select?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deltoid",
+          "correct": false,
+          "rationale": "The deltoid muscle is too small in infants; it is used for older toddlers and children with adequate muscle mass."
+        },
+        {
+          "id": "b",
+          "text": "Dorsogluteal",
+          "correct": false,
+          "rationale": "The dorsogluteal site is avoided in children because of the risk of sciatic nerve injury and poorly developed gluteal muscles."
+        },
+        {
+          "id": "c",
+          "text": "Vastus lateralis",
+          "correct": true,
+          "rationale": "The vastus lateralis (anterolateral thigh) is the preferred IM site for infants because it is large, well developed, and free of major nerves and vessels."
+        },
+        {
+          "id": "d",
+          "text": "Ventrogluteal",
+          "correct": false,
+          "rationale": "The ventrogluteal site can be used in some children, but the recommended site for infant vaccines is the anterolateral thigh."
+        }
+      ],
+      "explanation": "For infants and young toddlers, IM vaccines go in the vastus lateralis using a 1-inch, 22- to 25-gauge needle at a 90-degree angle. When more than one injection is given in the same limb, sites are separated by at least 1 inch."
+    },
+    {
+      "id": "immunizations-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-month-old has a runny nose, a temperature of 37.8 °C (100.0 °F), and is eating and playing normally. The infant is due for the 6-month vaccines. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Postpone all vaccines until the infant has been well for 2 weeks.",
+          "correct": false,
+          "rationale": "Mild illness is not a contraindication; delaying puts the infant at risk and creates a missed opportunity."
+        },
+        {
+          "id": "b",
+          "text": "Give only the oral rotavirus vaccine today.",
+          "correct": false,
+          "rationale": "There is no reason to withhold the injectable vaccines for a mild cold."
+        },
+        {
+          "id": "c",
+          "text": "Administer acetaminophen and wait 1 hour before vaccinating.",
+          "correct": false,
+          "rationale": "Routine prophylactic antipyretics before vaccination are not recommended and are unnecessary."
+        },
+        {
+          "id": "d",
+          "text": "Administer the scheduled vaccines.",
+          "correct": true,
+          "rationale": "A mild illness with low-grade fever is not a contraindication to vaccination."
+        }
+      ],
+      "explanation": "Mild acute illness with or without low-grade fever, current antibiotic therapy, recent exposure to an illness, and prematurity are not contraindications. Moderate or severe acute illness is a precaution, and vaccination is deferred until the child improves."
+    },
+    {
+      "id": "immunizations-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-month-old is due for vaccines. The parent reports that after the 2-month DTaP dose, the infant developed hives, lip swelling, and wheezing within 15 minutes and needed epinephrine. What is the nurse's priority action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Withhold the DTaP and notify the provider about the anaphylactic reaction.",
+          "correct": true,
+          "rationale": "A severe allergic reaction (anaphylaxis) to a previous dose is a true contraindication to further doses of that vaccine."
+        },
+        {
+          "id": "b",
+          "text": "Give the DTaP and observe the infant for 15 minutes.",
+          "correct": false,
+          "rationale": "Anaphylaxis to a prior dose is a contraindication; giving the vaccine could cause a life-threatening reaction."
+        },
+        {
+          "id": "c",
+          "text": "Premedicate with diphenhydramine and administer the DTaP.",
+          "correct": false,
+          "rationale": "Premedication does not make it safe to give a vaccine that previously caused anaphylaxis."
+        },
+        {
+          "id": "d",
+          "text": "Administer half of the DTaP dose today and the rest next week.",
+          "correct": false,
+          "rationale": "Split or reduced doses are never recommended and do not prevent anaphylaxis."
+        }
+      ],
+      "explanation": "The only contraindication that applies to all vaccines is a severe allergic reaction to a previous dose or a vaccine component. Every site that gives vaccines must have epinephrine available and staff ready to manage anaphylaxis."
+    },
+    {
+      "id": "immunizations-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 12-month-old is receiving chemotherapy for leukemia. The parent asks about the 12-month vaccines. Which vaccine should the nurse expect to be withheld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inactivated influenza vaccine",
+          "correct": false,
+          "rationale": "Inactivated vaccines cannot cause infection and are generally recommended, although the immune response may be reduced."
+        },
+        {
+          "id": "b",
+          "text": "Pneumococcal conjugate vaccine",
+          "correct": false,
+          "rationale": "PCV is not a live vaccine and is especially important for immunocompromised children."
+        },
+        {
+          "id": "c",
+          "text": "Measles, mumps, and rubella (MMR)",
+          "correct": true,
+          "rationale": "MMR is a live attenuated vaccine and is contraindicated in children with severe immunosuppression, such as during chemotherapy."
+        },
+        {
+          "id": "d",
+          "text": "Haemophilus influenzae type b (Hib)",
+          "correct": false,
+          "rationale": "Hib is a conjugate vaccine, not a live vaccine, and is not contraindicated by immunosuppression."
+        }
+      ],
+      "explanation": "Live vaccines (MMR, varicella, rotavirus, intranasal influenza) can cause disease in severely immunocompromised children and are withheld during chemotherapy, high-dose steroid therapy, and other significant immunosuppression. Household contacts should be fully vaccinated to protect the child."
+    },
+    {
+      "id": "immunizations-06",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 12-month-old is due for MMR and varicella vaccines. The mother states she is 10 weeks pregnant. Which response by the nurse is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child's vaccines will have to wait until after you deliver.\"",
+          "correct": false,
+          "rationale": "A pregnant household member is not a contraindication to the child receiving MMR or varicella."
+        },
+        {
+          "id": "b",
+          "text": "\"Your child can receive both vaccines today; having a pregnant household member is not a reason to delay them.\"",
+          "correct": true,
+          "rationale": "MMR and varicella vaccines can be given to children of pregnant women; vaccinating the child actually helps protect the pregnant contact from exposure to wild disease."
+        },
+        {
+          "id": "c",
+          "text": "\"Your child can have MMR but not varicella until after delivery.\"",
+          "correct": false,
+          "rationale": "Varicella vaccine is also recommended for children of pregnant women; transmission of vaccine virus is very rare."
+        },
+        {
+          "id": "d",
+          "text": "\"You should receive the MMR vaccine today along with your child.\"",
+          "correct": false,
+          "rationale": "Live vaccines such as MMR are contraindicated during pregnancy."
+        }
+      ],
+      "explanation": "Pregnancy is a contraindication for the pregnant person receiving live vaccines, not for the child. Children of pregnant household members should receive MMR and varicella on schedule. If a vaccinated child develops a varicella vaccine rash, the rash should be covered and contact with the pregnant person limited."
+    },
+    {
+      "id": "immunizations-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-year-old is starting kindergarten next month and has received all vaccines on schedule. Which vaccines does the nurse anticipate at this visit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tdap, HPV, and meningococcal conjugate",
+          "correct": false,
+          "rationale": "These are given at 11 to 12 years of age."
+        },
+        {
+          "id": "b",
+          "text": "Hib, PCV, and rotavirus",
+          "correct": false,
+          "rationale": "Rotavirus is only given in infancy, and Hib and PCV are not routinely given to healthy children at this age."
+        },
+        {
+          "id": "c",
+          "text": "Hepatitis A and hepatitis B",
+          "correct": false,
+          "rationale": "These series are completed in infancy and toddlerhood when given on schedule."
+        },
+        {
+          "id": "d",
+          "text": "DTaP, IPV, MMR, and varicella",
+          "correct": true,
+          "rationale": "The 4- to 6-year booster visit includes the final doses of DTaP, IPV, MMR, and varicella before school entry."
+        }
+      ],
+      "explanation": "Before school entry (ages 4 to 6 years), children receive DTaP dose 5, IPV dose 4, MMR dose 2, and varicella dose 2. Annual influenza vaccine continues throughout childhood. These doses are often required for kindergarten attendance."
+    },
+    {
+      "id": "immunizations-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks why the infant's rotavirus vaccine is given by mouth. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It is a live oral vaccine that protects against a common cause of severe diarrhea and dehydration in infants.\"",
+          "correct": true,
+          "rationale": "Rotavirus vaccine is an oral live attenuated vaccine given in infancy to prevent severe rotavirus gastroenteritis."
+        },
+        {
+          "id": "b",
+          "text": "\"It is an oral vaccine that prevents ear infections.\"",
+          "correct": false,
+          "rationale": "Rotavirus vaccine prevents rotavirus gastroenteritis; pneumococcal vaccine helps reduce some ear infections."
+        },
+        {
+          "id": "c",
+          "text": "\"It is given by mouth because it is safe to give at any age.\"",
+          "correct": false,
+          "rationale": "Rotavirus vaccine has strict age limits: the first dose must be given by 14 weeks 6 days and the series finished by 8 months."
+        },
+        {
+          "id": "d",
+          "text": "\"It is an inactivated vaccine, so it is given orally.\"",
+          "correct": false,
+          "rationale": "Rotavirus vaccine is a live attenuated vaccine, not an inactivated one."
+        }
+      ],
+      "explanation": "Rotavirus vaccine is given orally at 2 and 4 months (and 6 months, depending on product). If the infant spits up or vomits after the dose, it is not repeated. Because it is live, it is contraindicated in severe combined immunodeficiency and in infants with a history of intussusception."
+    },
+    {
+      "id": "immunizations-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent calls 8 hours after a 4-month-old received vaccines. The infant has a temperature of 38.2 °C (100.8 °F), is fussy, and has a small red, tender area at the thigh injection site but is feeding well. Which instruction should the nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Bring your baby to the emergency department immediately.\"",
+          "correct": false,
+          "rationale": "Low-grade fever, fussiness, and local tenderness are expected reactions and do not require emergency care."
+        },
+        {
+          "id": "b",
+          "text": "\"Apply a warm heating pad to the site for several hours.\"",
+          "correct": false,
+          "rationale": "Cool compresses are recommended; prolonged heating pad use risks burns on infant skin."
+        },
+        {
+          "id": "c",
+          "text": "\"You may give acetaminophen as directed for your baby's weight and apply a cool compress to the site.\"",
+          "correct": true,
+          "rationale": "Acetaminophen dosed by weight and cool compresses relieve expected fever and local soreness after vaccination."
+        },
+        {
+          "id": "d",
+          "text": "\"This is an allergic reaction, so your baby should not receive future vaccines.\"",
+          "correct": false,
+          "rationale": "Local redness and mild fever are expected side effects, not an allergic reaction or contraindication."
+        }
+      ],
+      "explanation": "Common, expected reactions include low-grade fever, fussiness, drowsiness, and local redness, swelling, or tenderness within 1 to 2 days. Parents should call for fever of 40.5 °C (105 °F) or higher, seizures, inconsolable crying for 3 hours or more, or signs of an allergic reaction such as hives or difficulty breathing."
+    },
+    {
+      "id": "immunizations-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 9-month-old who received DTaP, IPV, Hib, and PCV at 2 months has had no vaccines since because the family moved. Which plan should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Restart the entire series because too much time has passed.",
+          "correct": false,
+          "rationale": "Vaccine series are never restarted; previous doses still count regardless of the interval."
+        },
+        {
+          "id": "b",
+          "text": "Continue the series where it left off, using catch-up minimum intervals.",
+          "correct": true,
+          "rationale": "Catch-up vaccination continues from the last valid dose following minimum intervals, without restarting."
+        },
+        {
+          "id": "c",
+          "text": "Give MMR and varicella now to make up for the missed doses.",
+          "correct": false,
+          "rationale": "MMR and varicella are not given before 12 months for routine immunization and do not replace the missed infant series."
+        },
+        {
+          "id": "d",
+          "text": "Give double doses of each vaccine to catch up faster.",
+          "correct": false,
+          "rationale": "Doses are never doubled; each dose is given in the standard amount at appropriate intervals."
+        }
+      ],
+      "explanation": "A delayed series does not need to be restarted. The child receives the remaining doses following the CDC catch-up schedule and minimum intervals, and multiple vaccines can be given at the same visit. Note that rotavirus cannot be started or continued past the maximum age limits."
+    },
+    {
+      "id": "immunizations-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A 12-month-old received MMR in the clinic today. The parent asks when the child's varicella vaccine can be given, since the clinic was out of stock. What should the nurse explain?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can be given tomorrow.",
+          "correct": false,
+          "rationale": "Live injectable vaccines not given on the same day must be separated by at least 28 days to avoid interference with the immune response."
+        },
+        {
+          "id": "b",
+          "text": "It must wait until the child is 4 years old.",
+          "correct": false,
+          "rationale": "Varicella dose 1 is due at 12 to 15 months and does not need to wait until preschool age."
+        },
+        {
+          "id": "c",
+          "text": "It can be given any time within the next 2 weeks.",
+          "correct": false,
+          "rationale": "A dose given within 28 days of another live injectable vaccine may be less effective and would need to be repeated."
+        },
+        {
+          "id": "d",
+          "text": "It should be given at least 28 days after the MMR.",
+          "correct": true,
+          "rationale": "If live injectable vaccines are not given on the same day, they are separated by at least 4 weeks (28 days)."
+        }
+      ],
+      "explanation": "MMR and varicella may be given at the same visit in separate sites, or as the combined MMRV vaccine. If they are not given together, at least 28 days must pass between them. Inactivated vaccines can be given at any interval from live vaccines."
+    },
+    {
+      "id": "immunizations-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is preparing to give three injections to a 6-month-old. Which atraumatic care measures should the nurse use? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply a topical anesthetic cream to the sites before the injections, as prescribed",
+          "correct": true,
+          "rationale": "Topical anesthetics such as lidocaine-prilocaine cream reduce injection pain when applied ahead of time."
+        },
+        {
+          "id": "b",
+          "text": "Offer oral sucrose solution or breastfeed during the injections",
+          "correct": true,
+          "rationale": "Sucrose and breastfeeding provide comfort and reduce pain responses in infants."
+        },
+        {
+          "id": "c",
+          "text": "Have the parent hold the infant securely on the lap",
+          "correct": true,
+          "rationale": "Being held by a parent provides comfort and safe positioning; supine restraint increases distress."
+        },
+        {
+          "id": "d",
+          "text": "Aspirate for 10 seconds before injecting each vaccine",
+          "correct": false,
+          "rationale": "Aspiration is not recommended for vaccine injections because it prolongs needle time and increases pain."
+        },
+        {
+          "id": "e",
+          "text": "Inject slowly over 30 seconds",
+          "correct": false,
+          "rationale": "Rapid injection without aspiration is recommended because it reduces pain."
+        },
+        {
+          "id": "f",
+          "text": "Give the most painful vaccine last",
+          "correct": true,
+          "rationale": "Giving the most painful injection (for example, PCV) last reduces overall pain because pain from the first does not heighten the response to later injections."
+        }
+      ],
+      "explanation": "Atraumatic care minimizes physical and psychological distress. Evidence-based measures for vaccine pain include topical anesthetics, sucrose or breastfeeding, holding or skin-to-skin contact, distraction, rapid injection without aspiration, and giving the most painful vaccine last."
+    },
+    {
+      "id": "immunizations-13",
+      "type": "sata",
+      "bloom": "remember",
+      "stem": "The nurse has administered vaccines to an 18-month-old. Which information must be documented? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vaccine lot number and manufacturer",
+          "correct": true,
+          "rationale": "Lot number and manufacturer are required by federal law so that vaccines can be traced if a problem occurs."
+        },
+        {
+          "id": "b",
+          "text": "Date the Vaccine Information Statement (VIS) was published and the date it was given",
+          "correct": true,
+          "rationale": "Documentation must include the edition date of the VIS and the date it was provided to the parent."
+        },
+        {
+          "id": "c",
+          "text": "Name and title of the person administering the vaccine",
+          "correct": true,
+          "rationale": "The name, title, and office address of the person administering the vaccine are required documentation."
+        },
+        {
+          "id": "d",
+          "text": "The parent's religious affiliation",
+          "correct": false,
+          "rationale": "Religious affiliation is not part of required vaccine documentation."
+        },
+        {
+          "id": "e",
+          "text": "The site and route of each vaccine",
+          "correct": true,
+          "rationale": "Site and route are documented so reactions can be linked to the correct vaccine and technique."
+        }
+      ],
+      "explanation": "The National Childhood Vaccine Injury Act requires giving the current VIS before each dose and documenting the vaccine, date, manufacturer, lot number, VIS edition date and date given, and the administrator's name, title, and address. Site, route, and dose are also recorded, and many states require entry in the immunization registry."
+    },
+    {
+      "id": "immunizations-14",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is screening children before vaccination. For which children should the nurse withhold the vaccine and notify the provider? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 15-month-old due for MMR who is taking prednisone 2 mg/kg/day for the past 3 weeks",
+          "correct": true,
+          "rationale": "High-dose corticosteroids (2 mg/kg/day or 20 mg/day or more for 14 days or longer) cause immunosuppression, so live vaccines such as MMR are deferred."
+        },
+        {
+          "id": "b",
+          "text": "A 4-month-old with a mild ear infection who is on day 3 of amoxicillin",
+          "correct": false,
+          "rationale": "Mild illness and current antibiotic therapy are not contraindications; the infant should be vaccinated."
+        },
+        {
+          "id": "c",
+          "text": "A 6-month-old with a temperature of 39.6 °C (103.3 °F), lethargy, and poor feeding",
+          "correct": true,
+          "rationale": "Moderate or severe acute illness is a precaution; vaccination is deferred until the child improves so a reaction is not confused with the illness."
+        },
+        {
+          "id": "d",
+          "text": "A 2-month-old born at 32 weeks' gestation who is now stable and gaining weight",
+          "correct": false,
+          "rationale": "Preterm infants are vaccinated at the same chronologic age as term infants, using full doses."
+        },
+        {
+          "id": "e",
+          "text": "A 4-year-old due for DTaP who had a severe allergic reaction with throat swelling after a prior DTaP dose",
+          "correct": true,
+          "rationale": "Anaphylaxis after a previous dose is a contraindication to further doses of that vaccine."
+        },
+        {
+          "id": "f",
+          "text": "A 12-month-old whose sibling at home has chickenpox",
+          "correct": false,
+          "rationale": "Exposure to an infectious disease is not a contraindication, and vaccinating can protect the child."
+        }
+      ],
+      "explanation": "True contraindications and precautions include anaphylaxis to a prior dose or component, moderate or severe acute illness, and, for live vaccines, significant immunosuppression (including high-dose steroids) or pregnancy. Mild illness, antibiotics, prematurity, recent exposure, and family history of reactions are false contraindications that lead to missed opportunities."
+    },
+    {
+      "id": "immunizations-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is administering an IM vaccine to a 2-month-old. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Provide the Vaccine Information Statement and screen the parent for contraindications"
+        },
+        {
+          "id": "b",
+          "text": "Perform hand hygiene and prepare the vaccine using the correct needle (1 inch, 22 to 25 gauge)"
+        },
+        {
+          "id": "c",
+          "text": "Have the parent hold the infant and expose the anterolateral thigh"
+        },
+        {
+          "id": "d",
+          "text": "Clean the site, then insert the needle at 90 degrees and inject the vaccine without aspirating"
+        },
+        {
+          "id": "e",
+          "text": "Dispose of the needle in a sharps container, comfort the infant, and document"
+        }
+      ],
+      "explanation": "Before vaccinating, the nurse gives the VIS and screens for contraindications and precautions. The vaccine is prepared with hand hygiene and the correct needle length. The infant is positioned securely by the parent with the vastus lateralis exposed. The site is cleaned and the vaccine injected at 90 degrees without aspiration. The needle is discarded immediately, the infant comforted, and the vaccine documented."
+    }
+  ]
+}

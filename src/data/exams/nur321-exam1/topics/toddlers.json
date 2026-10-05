@@ -1,0 +1,971 @@
+{
+  "slug": "toddlers",
+  "title": "Health Promotion of Toddlers",
+  "short": "Toddlers",
+  "icon": "play",
+  "description": "Toddler growth and nutrition, autonomy vs shame and doubt, parallel play and safe toys, negativism, ritualism, and toilet-training readiness, injury prevention, sibling rivalry, temper tantrums, and communicating with toddlers.",
+  "keyPoints": [
+    "Erikson autonomy vs shame and doubt (1-3 years): offer simple, real choices and let the toddler do things alone; harsh criticism or overcontrol produces shame and doubt.",
+    "Typical behaviors are negativism (\"No!\"), ritualism (comforting routines), and egocentrism; keep home routines and avoid yes/no questions when there is no real choice.",
+    "Play is parallel: side by side with similar toys but not together. Good toys include push-pull toys, large blocks, large-piece puzzles, and simple shape sorters; avoid small parts and balloons.",
+    "Safety is the top priority: lock up medicines and chemicals (Poison Control 1-800-222-1222), use 4-sided pool fencing and constant supervision near water, keep rear-facing car seats as long as possible, turn pot handles inward, and anchor furniture.",
+    "Choking: cut hot dogs and grapes into small pieces and avoid nuts, popcorn, and hard candy. For a responsive choking child older than 1 year, give abdominal thrusts.",
+    "Temper tantrums: keep the child safe, stay calm, ignore the behavior, and be consistent; time-out is about 1 minute per year of age.",
+    "Sibling rivalry and regression are expected when a new baby arrives; plan major changes well before or after the birth and give the toddler one-on-one time.",
+    "Growth slows: physiologic anorexia and food jags are normal. Offer small, nutritious portions, limit milk to about 16-24 oz/day, begin dental visits by age 1, and brush with a rice-grain smear of fluoride toothpaste."
+  ],
+  "questions": [
+    {
+      "id": "toddlers-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 20-month-old says, \"He insists on feeding himself, and it's such a mess. Should I just feed him?\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Letting him feed himself builds his independence. Offering finger foods can make it easier.\"",
+          "correct": true,
+          "rationale": "Self-feeding supports Erikson's task of autonomy vs shame and doubt. Finger foods and a spill-proof cup make success more likely."
+        },
+        {
+          "id": "b",
+          "text": "\"Yes, feeding him yourself will make sure he eats enough.\"",
+          "correct": false,
+          "rationale": "Taking over tasks the toddler wants to do undermines autonomy and can lead to power struggles at meals."
+        },
+        {
+          "id": "c",
+          "text": "\"Let him feed himself only if he can do it without spilling.\"",
+          "correct": false,
+          "rationale": "Mess is expected at this age. Demanding neatness sets the toddler up for failure and shame."
+        },
+        {
+          "id": "d",
+          "text": "\"Save self-feeding for after he is toilet trained.\"",
+          "correct": false,
+          "rationale": "Self-feeding skills do not depend on toilet training. Delaying them limits the toddler's independence."
+        }
+      ],
+      "explanation": "Erikson's toddler stage is autonomy vs shame and doubt. Toddlers gain a sense of control by doing things for themselves, such as feeding, dressing, and choosing. Parents support autonomy with safe opportunities and patience, while too much control or criticism creates shame and doubt."
+    },
+    {
+      "id": "toddlers-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse needs to give an oral antibiotic to a hospitalized 2-year-old. Which statement best supports the toddler's autonomy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Do you want to take your medicine now?\"",
+          "correct": false,
+          "rationale": "A yes/no question invites the toddler's typical \"No!\" and offers a choice the nurse cannot honor."
+        },
+        {
+          "id": "b",
+          "text": "\"It's time for your medicine. Do you want to take it from the cup or the syringe?\"",
+          "correct": true,
+          "rationale": "Offering a real choice in how, not whether, the medicine is taken gives the toddler a sense of control while still getting the medication in."
+        },
+        {
+          "id": "c",
+          "text": "\"If you don't take your medicine, you'll have to stay here longer.\"",
+          "correct": false,
+          "rationale": "Threats increase fear and shame and do not support autonomy."
+        },
+        {
+          "id": "d",
+          "text": "\"Your mom will hold you still while I give it to you.\"",
+          "correct": false,
+          "rationale": "Using restraint first takes away all control. The toddler should first be offered a chance to cooperate."
+        }
+      ],
+      "explanation": "Toddlers need opportunities for control, especially in the hospital where they lose so much of it. Give limited, real choices (\"this cup or that one\") and avoid yes/no questions when the answer must be yes. State the task simply and positively."
+    },
+    {
+      "id": "toddlers-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is discussing toilet training with the parent of a 2½-year-old. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I praise her every time she tries to use the potty, even if nothing happens.\"",
+          "correct": false,
+          "rationale": "Positive reinforcement for effort supports autonomy and is appropriate."
+        },
+        {
+          "id": "b",
+          "text": "\"I put her on the potty chair after meals and when she wakes up.\"",
+          "correct": false,
+          "rationale": "Using predictable times when elimination is likely helps build a routine."
+        },
+        {
+          "id": "c",
+          "text": "\"When she has an accident, I tell her she should be ashamed of acting like a baby.\"",
+          "correct": true,
+          "rationale": "Shaming or punishing accidents promotes shame and doubt rather than autonomy and can delay toilet training. This parent needs more teaching."
+        },
+        {
+          "id": "d",
+          "text": "\"I dress her in pants she can pull down by herself.\"",
+          "correct": false,
+          "rationale": "Easy-to-remove clothing lets the toddler succeed independently."
+        }
+      ],
+      "explanation": "Toilet training should be positive and patient. Accidents are expected and are handled matter-of-factly. Criticism, shaming, or punishment threaten the toddler's developing autonomy and create shame and doubt."
+    },
+    {
+      "id": "toddlers-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse observes two 2-year-olds in the playroom. Each is playing with a toy truck next to the other, sometimes watching the other child but not playing together. How should the nurse interpret this behavior?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This is cooperative play, which shows advanced social skills.",
+          "correct": false,
+          "rationale": "Cooperative play, organized play with shared goals and roles, develops in the school-age years."
+        },
+        {
+          "id": "b",
+          "text": "This is solitary play, which suggests social withdrawal.",
+          "correct": false,
+          "rationale": "Solitary play is typical of infants. These toddlers are watching and imitating each other, which is parallel play."
+        },
+        {
+          "id": "c",
+          "text": "This is associative play, which is typical of toddlers.",
+          "correct": false,
+          "rationale": "Associative play, with loosely shared activity but no organized goal, is typical of preschoolers."
+        },
+        {
+          "id": "d",
+          "text": "This is parallel play, which is expected at this age.",
+          "correct": true,
+          "rationale": "Parallel play, playing alongside but not with peers, is the typical play pattern of toddlers."
+        }
+      ],
+      "explanation": "Play develops from solitary (infant) to parallel (toddler) to associative (preschool) to cooperative (school-age). Toddlers play side by side with similar toys and may imitate each other but do not truly interact. Having duplicates of popular toys reduces conflict."
+    },
+    {
+      "id": "toddlers-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of an 18-month-old asks for gift ideas. Which toy is most appropriate for this child's development?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A push-pull toy",
+          "correct": true,
+          "rationale": "Push-pull toys support the toddler's new walking skills and gross motor development, and they have no small parts."
+        },
+        {
+          "id": "b",
+          "text": "A building set with small interlocking pieces",
+          "correct": false,
+          "rationale": "Small pieces are a choking and aspiration hazard for toddlers, who still put objects in their mouths."
+        },
+        {
+          "id": "c",
+          "text": "A board game with rules and taking turns",
+          "correct": false,
+          "rationale": "Toddlers cannot yet follow rules or take turns. These games suit school-age children."
+        },
+        {
+          "id": "d",
+          "text": "A two-wheel bicycle with training wheels",
+          "correct": false,
+          "rationale": "Bicycles require motor skills that develop later. A tricycle is usually mastered at about 3 years."
+        }
+      ],
+      "explanation": "Good toddler toys match gross and fine motor development: push-pull toys, large blocks, shape sorters, large-piece puzzles, large crayons, and toys for imitation such as toy phones or dolls. All toys must be free of small parts, and latex balloons should be avoided."
+    },
+    {
+      "id": "toddlers-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old is on bed rest after surgery. Which activity should the nurse provide?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A latex balloon to bat back and forth",
+          "correct": false,
+          "rationale": "Latex balloons are a leading cause of toddler choking deaths. A popped balloon can be inhaled and block the airway."
+        },
+        {
+          "id": "b",
+          "text": "A large-piece wooden puzzle",
+          "correct": true,
+          "rationale": "Large puzzle pieces are safe, develop fine motor skills, and suit bed rest."
+        },
+        {
+          "id": "c",
+          "text": "A small bead-stringing kit",
+          "correct": false,
+          "rationale": "Small beads are a serious aspiration hazard for toddlers."
+        },
+        {
+          "id": "d",
+          "text": "A video game that requires following multistep instructions",
+          "correct": false,
+          "rationale": "Multistep rule-based games are beyond a toddler's cognitive level."
+        }
+      ],
+      "explanation": "Toddler play should match development and be safe. Toddlers still explore with their mouths, so avoid small parts, coins, button batteries, magnets, and latex balloons. Large, sturdy toys provide stimulation for a child on bed rest."
+    },
+    {
+      "id": "toddlers-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 2-year-old says, \"She says 'No!' to everything, even things she likes. What am I doing wrong?\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"She needs to be punished each time she says no so she learns respect.\"",
+          "correct": false,
+          "rationale": "Punishing normal negativism increases conflict and promotes shame and doubt."
+        },
+        {
+          "id": "b",
+          "text": "\"This may be a sign of a behavioral disorder, so I'll arrange a referral.\"",
+          "correct": false,
+          "rationale": "Negativism is an expected toddler behavior and is not a red flag by itself."
+        },
+        {
+          "id": "c",
+          "text": "\"This is normal at her age. Give her simple choices and avoid yes-or-no questions when she doesn't really have a choice.\"",
+          "correct": true,
+          "rationale": "Negativism is the toddler's way of asserting independence. Offering limited choices gives control and reduces power struggles."
+        },
+        {
+          "id": "d",
+          "text": "\"Ask her a yes-or-no question for everything so she gets practice deciding.\"",
+          "correct": false,
+          "rationale": "Yes/no questions invite \"No\" and set up conflict when the answer must be yes."
+        }
+      ],
+      "explanation": "Negativism (\"No!\") reflects the toddler's push for autonomy. Parents should stay calm, offer acceptable choices, and save firm limits for safety. It decreases as the child gains confidence in independence."
+    },
+    {
+      "id": "toddlers-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old is admitted to the hospital. The parent says the child has a bedtime routine of a bath, two books, and a favorite blanket. Which action by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Follow the unit's standard bedtime schedule so the child adjusts to the hospital.",
+          "correct": false,
+          "rationale": "Changing routines adds stress for a toddler who relies on ritual for security."
+        },
+        {
+          "id": "b",
+          "text": "Leave the blanket at home so it doesn't get lost or soiled.",
+          "correct": false,
+          "rationale": "Transitional objects such as a favorite blanket are important comfort sources and should be brought in."
+        },
+        {
+          "id": "c",
+          "text": "Skip the routine for the first night so the child can settle in.",
+          "correct": false,
+          "rationale": "Disrupting rituals, especially on the first night, increases distress and regression."
+        },
+        {
+          "id": "d",
+          "text": "Follow the same bedtime routine on the unit, including the favorite blanket.",
+          "correct": true,
+          "rationale": "Ritualism gives toddlers security and predictability. Keeping home routines and comfort objects reduces the stress of hospitalization."
+        }
+      ],
+      "explanation": "Toddlers rely on rituals (doing things the same way every time) for a sense of security. In the hospital, keep home routines for eating, sleeping, and bathing as much as possible, and allow transitional objects. This lessens regression and separation anxiety."
+    },
+    {
+      "id": "toddlers-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 2-year-old is upset that the child grabs toys from other children and screams \"Mine!\" Which explanation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Toddlers are egocentric; they can't yet see things from another person's point of view, so sharing is hard at this age.\"",
+          "correct": true,
+          "rationale": "Egocentrism is typical of the toddler's preoperational thinking. True sharing develops gradually in the preschool years."
+        },
+        {
+          "id": "b",
+          "text": "\"Your child is showing early signs of aggression that need treatment.\"",
+          "correct": false,
+          "rationale": "Possessiveness with toys is developmentally normal and is not a sign of a disorder."
+        },
+        {
+          "id": "c",
+          "text": "\"Your child has learned this from other children and should be kept away from them.\"",
+          "correct": false,
+          "rationale": "This behavior is developmental, not learned, and toddlers benefit from time near peers."
+        },
+        {
+          "id": "d",
+          "text": "\"Make her share every time so she learns quickly.\"",
+          "correct": false,
+          "rationale": "Forcing sharing before the child is ready causes frustration. Having duplicate toys and modeling sharing is more effective."
+        }
+      ],
+      "explanation": "Toddlers are egocentric: they see the world only from their own viewpoint. This explains possessiveness (\"Mine!\") and difficulty sharing. Parents can provide duplicate toys, model sharing, and praise turn-taking without expecting consistent sharing yet."
+    },
+    {
+      "id": "toddlers-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The parent of a 26-month-old asks whether the child is ready to begin toilet training. Which signs indicate readiness? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stays dry for about 2 hours at a time",
+          "correct": true,
+          "rationale": "Staying dry for about 2 hours shows the bladder can hold urine and that sphincter control is developing."
+        },
+        {
+          "id": "b",
+          "text": "Can walk to the bathroom and pull pants up and down",
+          "correct": true,
+          "rationale": "Physical readiness includes walking well and managing simple clothing."
+        },
+        {
+          "id": "c",
+          "text": "Tells the parent with words or gestures when the diaper is wet or soiled",
+          "correct": true,
+          "rationale": "Being able to communicate the urge or the need is a key readiness sign."
+        },
+        {
+          "id": "d",
+          "text": "Has reached 15 months of age",
+          "correct": false,
+          "rationale": "Voluntary sphincter control usually develops between 18 and 24 months. Age alone, especially 15 months, does not show readiness."
+        },
+        {
+          "id": "e",
+          "text": "Shows interest in sitting on the potty and imitating family members",
+          "correct": true,
+          "rationale": "Psychological readiness includes interest in toileting and a wish to please or imitate."
+        },
+        {
+          "id": "f",
+          "text": "Has a new baby sibling arriving next week",
+          "correct": false,
+          "rationale": "Major stressors such as a new baby are a reason to delay toilet training, not to start."
+        }
+      ],
+      "explanation": "Toilet-training readiness is physical, cognitive, and psychological. Signs include staying dry 2 hours, regular bowel movements, walking and managing clothes, communicating the need, and wanting to use the toilet. Most children are ready between 18 and 36 months; avoid starting during major changes."
+    },
+    {
+      "id": "toddlers-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent calls the clinic and states, \"I just found my 2-year-old with my open bottle of iron pills. He is playing normally.\" Which instruction should the nurse give first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Give him syrup of ipecac to make him vomit.\"",
+          "correct": false,
+          "rationale": "Ipecac is no longer recommended for home use. Inducing vomiting can cause aspiration and delays proper treatment."
+        },
+        {
+          "id": "b",
+          "text": "\"Call Poison Control right now at 1-800-222-1222 and keep the bottle with you.\"",
+          "correct": true,
+          "rationale": "For a responsive child, Poison Control gives immediate, specific instructions based on the substance and amount. Iron overdose can be fatal even if the child looks well at first."
+        },
+        {
+          "id": "c",
+          "text": "\"Give him a glass of milk to coat his stomach.\"",
+          "correct": false,
+          "rationale": "Milk does not neutralize iron or other poisons. Nothing should be given by mouth unless Poison Control directs it."
+        },
+        {
+          "id": "d",
+          "text": "\"Watch him for the next few hours and call back if he vomits.\"",
+          "correct": false,
+          "rationale": "Iron toxicity can look mild at first and then cause shock and liver failure. Waiting delays treatment."
+        }
+      ],
+      "explanation": "If a child ingests a poison and is conscious and breathing, call Poison Control (1-800-222-1222) immediately. If the child is unresponsive, having seizures, or having trouble breathing, call 911. Prevention includes storing medicines and chemicals locked and out of reach in their original child-resistant containers."
+    },
+    {
+      "id": "toddlers-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is teaching water safety to the parents of an active 2-year-old. Which statement by a parent indicates the need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll empty the mop bucket and wading pool right after using them.\"",
+          "correct": false,
+          "rationale": "Toddlers can drown in an inch or two of water, so emptying containers is appropriate."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll keep the toilet lid down with a safety latch.\"",
+          "correct": false,
+          "rationale": "Toddlers are top-heavy and can fall headfirst into toilets. Toilet locks prevent this."
+        },
+        {
+          "id": "c",
+          "text": "\"Our pool fence is on three sides, and the house is the fourth side, so we're covered.\"",
+          "correct": true,
+          "rationale": "A house wall with doors leading to the pool gives the toddler direct access. A 4-sided fence with a self-closing, self-latching gate that completely separates the pool from the house is recommended."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll stay within arm's reach whenever she is in or near water.\"",
+          "correct": false,
+          "rationale": "Constant touch supervision is the most important drowning prevention measure."
+        }
+      ],
+      "explanation": "Drowning is a leading cause of injury death in toddlers. They are curious, mobile, and top-heavy, and they can drown silently in very small amounts of water. Prevention includes 4-sided pool fencing, emptying containers, toilet locks, and constant arm's-length supervision; swimming lessons do not replace supervision."
+    },
+    {
+      "id": "toddlers-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 2-year-old who weighs 12 kg asks about car seat safety. Which response by the nurse is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Now that she is 2, she should move to a booster seat.\"",
+          "correct": false,
+          "rationale": "Booster seats are for older children who have outgrown a forward-facing harness seat, usually school-age."
+        },
+        {
+          "id": "b",
+          "text": "\"She can sit in the front seat if the seat is facing forward.\"",
+          "correct": false,
+          "rationale": "Children younger than 13 years should ride in the back seat because of airbag injury risk."
+        },
+        {
+          "id": "c",
+          "text": "\"Turn her seat forward-facing now, since she is too big to be rear-facing.\"",
+          "correct": false,
+          "rationale": "At 12 kg she is well within the rear-facing limits of most convertible seats, which protect the head and neck best."
+        },
+        {
+          "id": "d",
+          "text": "\"Keep her rear-facing in the back seat until she reaches the top weight or height limit for her seat.\"",
+          "correct": true,
+          "rationale": "Current AAP guidance is to keep children rear-facing as long as possible, until they exceed the seat's rear-facing limits, often well past age 2."
+        }
+      ],
+      "explanation": "Children ride rear-facing as long as possible, then in a forward-facing seat with a harness, then a booster, and finally a seat belt. All children younger than 13 years ride in the back seat. Rear-facing seats spread crash forces and protect the toddler's relatively large head and immature spine."
+    },
+    {
+      "id": "toddlers-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During a home visit, the nurse observes a 20-month-old walking around the kitchen while the parent cooks. Which action requires the nurse to intervene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The parent leaves a pot on the front burner with the handle pointing out over the edge.",
+          "correct": true,
+          "rationale": "Toddlers reach and pull on anything within reach. A pot handle over the edge can cause a severe scald, so handles should be turned inward and back burners used."
+        },
+        {
+          "id": "b",
+          "text": "The parent keeps the child in a high chair while frying food.",
+          "correct": false,
+          "rationale": "Keeping the toddler restrained and away from the stove reduces burn risk."
+        },
+        {
+          "id": "c",
+          "text": "The parent has placed covers on unused electrical outlets.",
+          "correct": false,
+          "rationale": "Outlet covers prevent electrical injury and are appropriate."
+        },
+        {
+          "id": "d",
+          "text": "The parent keeps cleaning products in a locked upper cabinet.",
+          "correct": false,
+          "rationale": "Locked storage of chemicals prevents poisoning and is appropriate."
+        }
+      ],
+      "explanation": "Scald burns are the most common burns in toddlers, usually from pulling hot liquids or pot handles down. Turn handles toward the back of the stove, use back burners, keep hot drinks away from table edges, and avoid tablecloths a toddler can pull."
+    },
+    {
+      "id": "toddlers-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing snack choices with the parent of a 2-year-old. Which snack choice indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hot dog cut lengthwise and then into small pieces",
+          "correct": false,
+          "rationale": "Cutting hot dogs lengthwise and then into small pieces reduces choking risk. This is appropriate."
+        },
+        {
+          "id": "b",
+          "text": "A handful of whole peanuts",
+          "correct": true,
+          "rationale": "Whole nuts are a major choking and aspiration hazard for children younger than 4 years because toddlers do not chew with a grinding motion."
+        },
+        {
+          "id": "c",
+          "text": "Grapes cut into quarters",
+          "correct": false,
+          "rationale": "Quartering grapes changes their size and shape so they cannot plug the airway."
+        },
+        {
+          "id": "d",
+          "text": "Soft banana slices",
+          "correct": false,
+          "rationale": "Soft foods that mash easily are safe toddler snacks."
+        }
+      ],
+      "explanation": "Toddlers are at high risk of food aspiration because their airways are small and their molars and chewing skills are immature. Avoid nuts, popcorn, hard candy, and whole grapes. Cut round foods into small pieces, have the toddler sit while eating, and supervise all meals."
+    },
+    {
+      "id": "toddlers-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 22-month-old reports that the child climbed out of the crib twice this week. Which response by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Raise the mattress to its highest setting so he can't reach the rail.\"",
+          "correct": false,
+          "rationale": "A higher mattress makes climbing out easier and the fall more dangerous. The mattress should be at its lowest setting."
+        },
+        {
+          "id": "b",
+          "text": "\"Put stuffed animals in the crib to keep him busy.\"",
+          "correct": false,
+          "rationale": "Large toys can be used as steps to climb out of the crib."
+        },
+        {
+          "id": "c",
+          "text": "\"It's time to move him to a toddler bed or a mattress close to the floor.\"",
+          "correct": true,
+          "rationale": "When a toddler can climb out of the crib (or reaches about 35 in or 89 cm tall), falls from the crib rail become a serious risk, so moving to a low bed is safest."
+        },
+        {
+          "id": "d",
+          "text": "\"Use pillows on the floor beside the crib to cushion falls.\"",
+          "correct": false,
+          "rationale": "Pillows do not reliably prevent injury, and the cause, climbing out, is not addressed."
+        }
+      ],
+      "explanation": "Falls are common toddler injuries as climbing skills outpace judgment. Teach families to keep the crib mattress at the lowest setting, move to a toddler bed when the child can climb out, use stair gates and window guards (screens do not stop falls), and anchor furniture and TVs to the wall."
+    },
+    {
+      "id": "toddlers-17",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is providing anticipatory guidance to the parents of an 18-month-old. Which safety measures should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store medicines and cleaning products in a locked cabinet in their original containers.",
+          "correct": true,
+          "rationale": "Locked storage in original, child-resistant containers prevents accidental poisoning, a leading toddler injury."
+        },
+        {
+          "id": "b",
+          "text": "Turn pot handles toward the back of the stove.",
+          "correct": true,
+          "rationale": "Inward-facing handles prevent toddlers from pulling hot liquids onto themselves."
+        },
+        {
+          "id": "c",
+          "text": "Anchor bookcases, dressers, and televisions to the wall.",
+          "correct": true,
+          "rationale": "Toddlers climb furniture, and unanchored furniture can tip over and cause crush injuries."
+        },
+        {
+          "id": "d",
+          "text": "Rely on window screens to prevent falls from open windows.",
+          "correct": false,
+          "rationale": "Screens keep insects out but do not support a child's weight. Window guards or stops are needed."
+        },
+        {
+          "id": "e",
+          "text": "Pour leftover cleaning solution into a labeled drink bottle for later use.",
+          "correct": false,
+          "rationale": "Storing chemicals in food or drink containers is a common cause of toddler poisoning."
+        },
+        {
+          "id": "f",
+          "text": "Install a 4-sided fence with a self-latching gate around the home pool.",
+          "correct": true,
+          "rationale": "A fence that completely separates the pool from the house prevents toddlers from reaching the water."
+        }
+      ],
+      "explanation": "Toddler injury prevention targets the top causes: poisoning, drowning, burns, falls, motor vehicle injuries, and aspiration. Effective measures are environmental, such as locks, fences, anchors, and guards, combined with close supervision, because toddlers are curious and mobile but lack judgment."
+    },
+    {
+      "id": "toddlers-18",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 2½-year-old reports that since the new baby came home, the toddler has started wetting the bed and asking for a bottle. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Punish her when she wets so she learns that she is too old for that.\"",
+          "correct": false,
+          "rationale": "Punishing regression increases anxiety and shame and usually prolongs the behavior."
+        },
+        {
+          "id": "b",
+          "text": "\"She may have a urinary tract infection, which is the most likely cause.\"",
+          "correct": false,
+          "rationale": "With a clear stressor such as a new sibling, regression is the most likely explanation; infection would be considered if other signs were present."
+        },
+        {
+          "id": "c",
+          "text": "\"Keep her away from the baby until she adjusts.\"",
+          "correct": false,
+          "rationale": "Separating the toddler from the baby can increase jealousy. Involving her in simple care tasks is more helpful."
+        },
+        {
+          "id": "d",
+          "text": "\"This regression is common with a new sibling. Avoid punishing it, and set aside time each day just for her.\"",
+          "correct": true,
+          "rationale": "Regression is a normal response to the stress of a new sibling. Individual attention and reassurance help the toddler feel secure, and the behavior usually resolves."
+        }
+      ],
+      "explanation": "A new sibling is a major stressor for toddlers. Expect jealousy and regression, such as loss of toilet training or a return to the bottle. Parents should accept regression without punishment, praise mature behaviors, involve the toddler in caring for the baby, and give one-on-one attention."
+    },
+    {
+      "id": "toddlers-19",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 2-year-old asks how to prepare the child for a new baby due in 3 months. Which advice by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"If you plan to move her to a big bed, do it well before the baby arrives.\"",
+          "correct": true,
+          "rationale": "Making major changes well ahead of the birth keeps the toddler from feeling displaced by the baby."
+        },
+        {
+          "id": "b",
+          "text": "\"Wait to tell her about the baby until you bring the baby home.\"",
+          "correct": false,
+          "rationale": "Toddlers benefit from simple, concrete preparation, such as books about new siblings, before the baby arrives."
+        },
+        {
+          "id": "c",
+          "text": "\"Start toilet training the week the baby comes home so she feels grown up.\"",
+          "correct": false,
+          "rationale": "Starting toilet training during a major stressor often fails and adds pressure."
+        },
+        {
+          "id": "d",
+          "text": "\"Tell her she will have to share all her toys with the baby.\"",
+          "correct": false,
+          "rationale": "Telling a possessive, egocentric toddler she must give up her things increases jealousy."
+        }
+      ],
+      "explanation": "Preparing a toddler for a sibling includes simple explanations close to the birth, books and dolls for play, making changes such as a new bed or room well ahead of time, and arranging special time with the toddler. Having the new baby \"bring\" a gift and visitors greeting the toddler first can also ease rivalry."
+    },
+    {
+      "id": "toddlers-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old has a temper tantrum in the clinic waiting room, screaming and kicking on the floor. Which action should the nurse suggest to the parent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the child the toy he wants so he stops crying.",
+          "correct": false,
+          "rationale": "Giving in rewards the tantrum and teaches the toddler that tantrums work."
+        },
+        {
+          "id": "b",
+          "text": "Make sure the child is safe, stay calm and nearby, and ignore the tantrum until it ends.",
+          "correct": true,
+          "rationale": "Ignoring the tantrum removes the attention that reinforces it, while keeping the child safe. Calm, consistent responses reduce future tantrums."
+        },
+        {
+          "id": "c",
+          "text": "Explain at length why his behavior is unacceptable.",
+          "correct": false,
+          "rationale": "Toddlers in a tantrum cannot process reasoning, and the attention reinforces the behavior."
+        },
+        {
+          "id": "d",
+          "text": "Spank the child to show that tantrums are not allowed.",
+          "correct": false,
+          "rationale": "Physical punishment models aggression, increases fear and shame, and is not recommended by the AAP."
+        }
+      ],
+      "explanation": "Temper tantrums are a normal expression of toddler frustration as autonomy develops. Parents should keep the child safe, stay calm, ignore the behavior, and stay consistent. They can praise calm behavior afterward and prevent tantrums by keeping routines, avoiding hunger and fatigue, and offering choices. Time-out of about 1 minute per year of age is also appropriate."
+    },
+    {
+      "id": "toddlers-21",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 2-year-old about managing temper tantrums. Which strategies should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Remove objects that could hurt the child during a tantrum.",
+          "correct": true,
+          "rationale": "Safety is the first priority during a tantrum."
+        },
+        {
+          "id": "b",
+          "text": "Respond to tantrums the same way every time.",
+          "correct": true,
+          "rationale": "Consistency helps the toddler learn that tantrums do not change the outcome."
+        },
+        {
+          "id": "c",
+          "text": "Use a time-out of about 2 minutes in a quiet, safe place.",
+          "correct": true,
+          "rationale": "A time-out of about 1 minute per year of age is appropriate for a 2-year-old."
+        },
+        {
+          "id": "d",
+          "text": "Give a treat when a tantrum starts so the child calms down faster.",
+          "correct": false,
+          "rationale": "Rewarding a tantrum reinforces it and makes future tantrums more likely."
+        },
+        {
+          "id": "e",
+          "text": "Use a time-out of 15 minutes so the lesson is clear.",
+          "correct": false,
+          "rationale": "Long time-outs exceed the toddler's attention span and lose their effect."
+        },
+        {
+          "id": "f",
+          "text": "Avoid long errands when the child is hungry or tired.",
+          "correct": true,
+          "rationale": "Hunger and fatigue lower frustration tolerance, so planning around them prevents tantrums."
+        }
+      ],
+      "explanation": "Effective tantrum management combines prevention (routines, rest, food, choices) with consistent responses during the tantrum: keep the child safe, ignore the behavior, and use brief time-outs of about 1 minute per year of age. Avoid rewarding or punishing the tantrum physically."
+    },
+    {
+      "id": "toddlers-22",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse must take the blood pressure of a 2-year-old who is clinging to the parent. Which approach is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Take the child from the parent and place the child on the exam table.",
+          "correct": false,
+          "rationale": "Separation from the parent increases the toddler's fear and resistance."
+        },
+        {
+          "id": "b",
+          "text": "Explain in detail how blood pressure readings help assess the heart.",
+          "correct": false,
+          "rationale": "Detailed explanations are beyond a toddler's understanding. Use short, simple words."
+        },
+        {
+          "id": "c",
+          "text": "Let the child stay on the parent's lap, show the cuff on a stuffed animal, and say, \"This will squeeze your arm like a hug.\"",
+          "correct": true,
+          "rationale": "Keeping the toddler with the parent, demonstrating on a toy, and using simple, honest, concrete words reduce fear and gain cooperation."
+        },
+        {
+          "id": "d",
+          "text": "Tell the child, \"This won't feel like anything at all.\"",
+          "correct": false,
+          "rationale": "The cuff squeezes, and saying it won't feel like anything is untrue. Honesty builds trust."
+        }
+      ],
+      "explanation": "When communicating with toddlers, approach slowly, get down to eye level, keep the parent close, use short, concrete, honest words, and show the procedure on a doll or toy. Offer real choices and do the procedure quickly once prepared, because toddlers have a short attention span."
+    },
+    {
+      "id": "toddlers-23",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is conducting developmental screening at a 24-month well-child visit. Which finding warrants further evaluation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child says \"Me do it!\" when the parent tries to help.",
+          "correct": false,
+          "rationale": "Short phrases and the drive for independence are expected at this age."
+        },
+        {
+          "id": "b",
+          "text": "The child refers to self by name.",
+          "correct": false,
+          "rationale": "Toddlers often use their own name before using pronouns correctly. This is expected."
+        },
+        {
+          "id": "c",
+          "text": "The child's speech is about half understandable to strangers.",
+          "correct": false,
+          "rationale": "About 50% intelligibility to strangers is typical at 2 years."
+        },
+        {
+          "id": "d",
+          "text": "The child says about 10 words and does not combine two words together.",
+          "correct": true,
+          "rationale": "By 24 months, toddlers typically use many words (often about 300) and two-word phrases. Not combining words by 2 years is a red flag for language delay or hearing loss."
+        }
+      ],
+      "explanation": "Language grows rapidly in toddlerhood: about 10 or more words at 18 months and about 300 words with two-word phrases by 24 months. A lack of two-word phrases by 2 years warrants a hearing screen and developmental referral. Speech is about half understandable to strangers at age 2."
+    },
+    {
+      "id": "toddlers-24",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old is admitted to the pediatric unit. During the admission interview, which question to the parent best supports communication with the toddler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"What words does she use for going to the bathroom and for things that comfort her?\"",
+          "correct": true,
+          "rationale": "Using the toddler's own words for toileting, foods, and comfort objects helps the child understand staff and express needs, which reduces frustration and regression."
+        },
+        {
+          "id": "b",
+          "text": "\"Does she know her alphabet yet?\"",
+          "correct": false,
+          "rationale": "This does not help staff understand or respond to the toddler's needs in the hospital."
+        },
+        {
+          "id": "c",
+          "text": "\"Can she read any words?\"",
+          "correct": false,
+          "rationale": "Reading is not expected at this age, and this does not support communication."
+        },
+        {
+          "id": "d",
+          "text": "\"Can she tell time so she'll know when you're coming back?\"",
+          "correct": false,
+          "rationale": "Toddlers have no concept of clock time. Tie your return to events, such as \"after your nap\"."
+        }
+      ],
+      "explanation": "Toddlers have limited vocabularies and may use family words for key needs. Learning these words, using short simple sentences, and linking time to familiar events (\"after lunch\") make communication effective and lessen distress during hospitalization."
+    },
+    {
+      "id": "toddlers-25",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 2-year-old says, \"She eats so little now compared to when she was a baby. I'm worried she's not getting enough.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Encourage her to finish everything on her plate before she leaves the table.\"",
+          "correct": false,
+          "rationale": "Forcing food creates mealtime power struggles and can lead to poor eating habits."
+        },
+        {
+          "id": "b",
+          "text": "\"Her growth has slowed, so her appetite has too. Offer small, healthy portions and let her decide how much to eat.\"",
+          "correct": true,
+          "rationale": "Physiologic anorexia is expected in toddlers because growth slows after infancy. Parents provide healthy food, and the child decides how much to eat."
+        },
+        {
+          "id": "c",
+          "text": "\"Give her extra milk between meals to make up for the calories.\"",
+          "correct": false,
+          "rationale": "Too much milk (more than about 24 oz/day) fills the toddler up, decreases intake of iron-rich foods, and causes iron-deficiency anemia."
+        },
+        {
+          "id": "d",
+          "text": "\"A decreased appetite at this age is a sign of illness and should be tested.\"",
+          "correct": false,
+          "rationale": "A decreased appetite is normal at this age when growth and activity are on track."
+        }
+      ],
+      "explanation": "Toddler growth slows: weight gain is about 1.8-2.7 kg per year, and birth weight quadruples by about 2½ years. Appetite drops (physiologic anorexia). Offer small, nutrient-dense portions and healthy snacks on a routine, limit milk to about 16-24 oz/day, and avoid using food as a reward."
+    },
+    {
+      "id": "toddlers-26",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 22-month-old reports that for the past week the child will eat only macaroni and cheese. Which explanation should the nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Prepare only macaroni and cheese until she gets tired of it.\"",
+          "correct": false,
+          "rationale": "Offering only the preferred food reinforces the jag and limits nutrition."
+        },
+        {
+          "id": "b",
+          "text": "\"Withhold the macaroni and cheese until she eats her vegetables.\"",
+          "correct": false,
+          "rationale": "Using food as a reward or punishment creates power struggles and negative feelings about food."
+        },
+        {
+          "id": "c",
+          "text": "\"This is called a food jag, and it's common. Keep offering other healthy foods alongside it without forcing them.\"",
+          "correct": true,
+          "rationale": "Food jags, wanting only one food for a time, are normal toddler behavior linked to ritualism and autonomy. They usually pass if other foods are offered without pressure."
+        },
+        {
+          "id": "d",
+          "text": "\"This is a sign of a feeding disorder, and she needs a referral.\"",
+          "correct": false,
+          "rationale": "A short-term food jag in a growing toddler is normal and does not need a referral."
+        }
+      ],
+      "explanation": "Food jags are common in toddlers and reflect ritualism and the wish for control. Parents should keep offering a variety of foods in small portions, include one food the child likes at each meal, and avoid battles. Nutrition is judged over several days or weeks, not one meal."
+    },
+    {
+      "id": "toddlers-27",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse provides dental health teaching to the parent of an 18-month-old. Which statement by the parent indicates understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll wait until all his baby teeth are in before taking him to the dentist.\"",
+          "correct": false,
+          "rationale": "The first dental visit is recommended by the first birthday or within 6 months of the first tooth."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll give him a bottle of milk at bedtime to help him fall asleep.\"",
+          "correct": false,
+          "rationale": "Bedtime bottles let milk pool around the teeth and cause early childhood caries."
+        },
+        {
+          "id": "c",
+          "text": "\"He can brush his own teeth now that he can hold a toothbrush.\"",
+          "correct": false,
+          "rationale": "Toddlers lack the dexterity to clean their teeth well. Parents should brush, or brush after the child tries."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll brush his teeth twice a day with a smear of fluoride toothpaste the size of a grain of rice.\"",
+          "correct": true,
+          "rationale": "For children younger than 3 years, the recommendation is a rice-grain-sized smear of fluoride toothpaste twice daily, with the parent doing the brushing."
+        }
+      ],
+      "explanation": "Dental care for toddlers includes parent brushing twice daily with a rice-grain smear of fluoride toothpaste (pea-sized from age 3), a first dental visit by age 1, weaning from the bottle by about 12-15 months, and no bedtime bottles or sipping sugary drinks throughout the day."
+    },
+    {
+      "id": "toddlers-28",
+      "type": "order",
+      "bloom": "remember",
+      "stem": "The nurse is reviewing expected gross motor development with the parents of a 12-month-old. Place the milestones in the order in which they typically appear.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Walks alone without support"
+        },
+        {
+          "id": "b",
+          "text": "Runs clumsily and falls often"
+        },
+        {
+          "id": "c",
+          "text": "Walks up and down stairs alone, placing both feet on each step"
+        },
+        {
+          "id": "d",
+          "text": "Pedals a tricycle"
+        }
+      ],
+      "explanation": "Most children walk alone between about 12 and 15 months and run clumsily by about 18 months. By 24 months they go up and down stairs alone with both feet on each step, and they ride a tricycle at about 3 years. Gross motor skills progress steadily, and new abilities increase the need for injury prevention."
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "slug": "croup",
+  "title": "Croup (Acute Laryngotracheobronchitis)",
+  "short": "Croup / LTB",
+  "icon": "wave",
+  "description": "Viral croup in young children: parainfluenza etiology, barking cough and stridor, severity assessment and signs of fatigue, dexamethasone and racemic epinephrine, calming and hydration, home care, spasmodic croup, and differentiating croup from epiglottitis.",
+  "keyPoints": [
+    "Croup (acute laryngotracheobronchitis) is usually caused by parainfluenza virus and peaks between 6 months and 3 years of age.",
+    "Onset is gradual after URI symptoms, with low-grade fever, hoarseness, a barking seal-like cough, and inspiratory stridor that are often worse at night.",
+    "The steeple sign on an AP neck x-ray shows subglottic narrowing; croup is usually a clinical diagnosis.",
+    "Worsening signs: stridor at rest, increasing retractions, restlessness, tachycardia, cyanosis. Sudden quiet with decreasing stridor and lethargy may signal fatigue and impending respiratory failure.",
+    "A single dose of dexamethasone reduces airway edema for all severities; nebulized racemic epinephrine gives rapid relief but requires 2 to 4 hours of observation for rebound.",
+    "Keep the child calm on the parent's lap, give humidified or blow-by oxygen for hypoxemia, and maintain hydration with small frequent fluids or IV fluids.",
+    "Spasmodic croup starts suddenly at night, often without fever, and the child appears well during the day.",
+    "Epiglottitis has abrupt onset, high fever, drooling, and no cough; never place a tongue blade in the throat if epiglottitis is suspected."
+  ],
+  "questions": [
+    {
+      "id": "croup-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which organism is the most common cause of acute laryngotracheobronchitis (croup) in children?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Haemophilus influenzae type b",
+          "correct": false,
+          "rationale": "Hib is the classic cause of epiglottitis, a bacterial emergency, not viral croup."
+        },
+        {
+          "id": "b",
+          "text": "Group A beta-hemolytic Streptococcus",
+          "correct": false,
+          "rationale": "Group A strep causes pharyngitis and can cause peritonsillar abscess, but not typical croup."
+        },
+        {
+          "id": "c",
+          "text": "Parainfluenza virus",
+          "correct": true,
+          "rationale": "Parainfluenza viruses (especially type 1) cause the majority of croup cases; RSV, influenza, adenovirus, and others cause the rest."
+        },
+        {
+          "id": "d",
+          "text": "Streptococcus pneumoniae",
+          "correct": false,
+          "rationale": "Pneumococcus causes otitis media, pneumonia, and bacteremia; it is not the usual cause of croup."
+        }
+      ],
+      "explanation": "Croup is a viral illness, most often caused by parainfluenza virus. Because it is viral, antibiotics have no role. The child's own airway anatomy (narrow subglottic area) explains why swelling causes such dramatic symptoms in young children."
+    },
+    {
+      "id": "croup-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse is reviewing risk factors for croup. Which age group is most commonly affected by acute laryngotracheobronchitis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Children 6 months to 3 years of age",
+          "correct": true,
+          "rationale": "Croup peaks between 6 months and 3 years, when the subglottic airway is narrowest and parainfluenza exposure is common."
+        },
+        {
+          "id": "b",
+          "text": "Neonates younger than 1 month",
+          "correct": false,
+          "rationale": "Croup is uncommon in neonates; stridor in a newborn suggests a congenital anomaly such as laryngomalacia."
+        },
+        {
+          "id": "c",
+          "text": "School-age children 7 to 12 years",
+          "correct": false,
+          "rationale": "Older children have a larger airway, so viral laryngitis rarely produces significant croup symptoms."
+        },
+        {
+          "id": "d",
+          "text": "Adolescents 13 to 18 years",
+          "correct": false,
+          "rationale": "Adolescents are rarely affected by croup because of their larger airway diameter."
+        }
+      ],
+      "explanation": "Croup most often affects children 6 months to 3 years old, with a peak in the second year of life. The small, funnel-shaped subglottic airway means even a little edema greatly increases airway resistance."
+    },
+    {
+      "id": "croup-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks the nurse how croup usually starts. Which description by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It begins abruptly with a high fever of 40°C, drooling, and difficulty swallowing.",
+          "correct": false,
+          "rationale": "Abrupt onset with high fever, drooling, and dysphagia describes epiglottitis, not croup."
+        },
+        {
+          "id": "b",
+          "text": "It starts suddenly while the child is eating or playing, with choking and gagging.",
+          "correct": false,
+          "rationale": "A sudden choking episode during eating or play suggests foreign body aspiration."
+        },
+        {
+          "id": "c",
+          "text": "It begins with a productive cough and chest pain that worsens over several weeks.",
+          "correct": false,
+          "rationale": "A weeks-long productive cough is not typical of croup, which is an acute illness lasting several days."
+        },
+        {
+          "id": "d",
+          "text": "It usually begins gradually with cold symptoms such as a runny nose and low-grade fever, followed by a barky cough over a day or two.",
+          "correct": true,
+          "rationale": "Croup has a gradual onset after a viral upper respiratory infection, with the barking cough and stridor appearing as subglottic swelling develops."
+        }
+      ],
+      "explanation": "Croup typically follows a few days of URI symptoms (coryza, mild fever). The barky cough, hoarseness, and inspiratory stridor then appear and are often worse at night. Abrupt onset with high fever and drooling points instead to epiglottitis."
+    },
+    {
+      "id": "croup-04",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which finding is the classic hallmark of croup that the nurse expects to hear when assessing a 2-year-old?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A high-pitched expiratory wheeze throughout all lung fields",
+          "correct": false,
+          "rationale": "Diffuse expiratory wheezing is typical of bronchiolitis or asthma, a lower airway problem."
+        },
+        {
+          "id": "b",
+          "text": "A barking, seal-like cough",
+          "correct": true,
+          "rationale": "The brassy, barking (seal-like) cough results from subglottic and laryngeal edema and is the hallmark of croup."
+        },
+        {
+          "id": "c",
+          "text": "A paroxysmal cough ending in an inspiratory whoop",
+          "correct": false,
+          "rationale": "A whoop after coughing paroxysms is characteristic of pertussis."
+        },
+        {
+          "id": "d",
+          "text": "A wet, productive cough with fine crackles",
+          "correct": false,
+          "rationale": "Crackles with a productive cough suggest pneumonia, not croup."
+        }
+      ],
+      "explanation": "Croup inflames the larynx, trachea, and bronchi. Edema below the vocal cords produces the barking cough, hoarseness, and inspiratory stridor. Recognizing the sound helps distinguish croup from lower airway conditions."
+    },
+    {
+      "id": "croup-05",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent of a 20-month-old with croup reports that the child's breathing noise and cough are much worse at night. How should the nurse respond?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Nighttime worsening means your child has developed a bacterial infection and needs antibiotics.\"",
+          "correct": false,
+          "rationale": "Nocturnal worsening is typical of viral croup and does not indicate a bacterial infection; antibiotics are not indicated."
+        },
+        {
+          "id": "b",
+          "text": "\"Croup symptoms commonly worsen at night, so it is important to watch your child closely in the evening and overnight.\"",
+          "correct": true,
+          "rationale": "Worsening at night is classic for croup. The parent should be taught to monitor closely and know when to seek care."
+        },
+        {
+          "id": "c",
+          "text": "\"This pattern means the croup is almost gone, because symptoms shift to night as it resolves.\"",
+          "correct": false,
+          "rationale": "Night worsening is a feature of active croup, not a sign of resolution."
+        },
+        {
+          "id": "d",
+          "text": "\"Give your child an over-the-counter cough suppressant at bedtime to stop the noise.\"",
+          "correct": false,
+          "rationale": "Cough suppressants are not recommended for young children and do not treat airway swelling."
+        }
+      ],
+      "explanation": "Croup symptoms often peak at night, frequently waking the child with a barky cough and stridor. Parents should know the signs of worsening and that most cases last 3 to 7 days."
+    },
+    {
+      "id": "croup-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old with suspected croup has a lateral neck and AP chest x-ray. Which radiographic finding supports the diagnosis of croup?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thumb sign: an enlarged, rounded epiglottis on the lateral view",
+          "correct": false,
+          "rationale": "The thumb sign indicates a swollen epiglottis and supports epiglottitis."
+        },
+        {
+          "id": "b",
+          "text": "Unilateral hyperinflation with mediastinal shift",
+          "correct": false,
+          "rationale": "Unilateral air trapping suggests an aspirated foreign body acting as a ball valve."
+        },
+        {
+          "id": "c",
+          "text": "Lobar consolidation in the right lower lobe",
+          "correct": false,
+          "rationale": "Lobar consolidation suggests bacterial pneumonia."
+        },
+        {
+          "id": "d",
+          "text": "Steeple sign: tapered narrowing of the subglottic trachea on the AP view",
+          "correct": true,
+          "rationale": "The steeple sign shows the subglottic narrowing caused by edema in croup."
+        }
+      ],
+      "explanation": "The steeple sign (pencil sign) on an AP neck x-ray reflects subglottic narrowing in croup. Croup is usually a clinical diagnosis, and imaging is reserved for atypical cases. The thumb sign, in contrast, suggests epiglottitis."
+    },
+    {
+      "id": "croup-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing four children in the emergency department with croup. Which child should the nurse see first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 2-year-old with stridor at rest, suprasternal retractions, restlessness, and SpO2 of 91%",
+          "correct": true,
+          "rationale": "Stridor at rest, retractions, agitation, and falling SpO2 indicate moderate to severe obstruction and possible hypoxia; this child needs immediate intervention."
+        },
+        {
+          "id": "b",
+          "text": "A 3-year-old with a barky cough who has stridor only when crying",
+          "correct": false,
+          "rationale": "Stridor only with agitation suggests mild croup; the child is stable for now."
+        },
+        {
+          "id": "c",
+          "text": "An 18-month-old with hoarseness, temperature 38.1°C, and RR 32 breaths/min",
+          "correct": false,
+          "rationale": "Hoarseness and low-grade fever with a normal toddler respiratory rate are expected in mild croup."
+        },
+        {
+          "id": "d",
+          "text": "A 2-year-old who received dexamethasone 2 hours ago and is sleeping quietly with SpO2 98%",
+          "correct": false,
+          "rationale": "This child is resting comfortably with normal oxygenation, suggesting improvement after steroids."
+        }
+      ],
+      "explanation": "Severity of croup is judged by stridor at rest, retractions, air entry, color, and level of consciousness. Restlessness and agitation are early signs of hypoxia. Stridor only with crying is mild disease."
+    },
+    {
+      "id": "croup-08",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 2-year-old with moderate croup had loud inspiratory stridor and marked retractions. One hour later the child is quiet, the stridor is much softer, and the child is difficult to arouse. HR is 64 beats/min and SpO2 is 86%. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child is improving because the stridor has decreased.",
+          "correct": false,
+          "rationale": "Softer stridor with a declining level of consciousness reflects less air movement, not resolution of swelling."
+        },
+        {
+          "id": "b",
+          "text": "The child is sleeping comfortably and should not be disturbed.",
+          "correct": false,
+          "rationale": "A child who is hard to arouse with SpO2 86% is not simply sleeping; this is a life-threatening change."
+        },
+        {
+          "id": "c",
+          "text": "The child is fatiguing and nearing respiratory failure; call for emergency help immediately.",
+          "correct": true,
+          "rationale": "Decreasing stridor with lethargy, bradycardia, and hypoxia signals exhaustion and impending respiratory arrest, not improvement."
+        },
+        {
+          "id": "d",
+          "text": "The racemic epinephrine has taken full effect and the child can be discharged.",
+          "correct": false,
+          "rationale": "Discharge would be dangerous; these findings indicate deterioration."
+        }
+      ],
+      "explanation": "In croup, a sudden quieting with less stridor can mean the child is too tired to move air. Combined with decreased responsiveness, bradycardia, and cyanosis or low SpO2, it indicates impending respiratory failure requiring immediate airway support."
+    },
+    {
+      "id": "croup-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 15-kg toddler with croup has a prescription for a single dose of dexamethasone 0.6 mg/kg orally. The parent asks why a steroid is needed for a virus. Which explanation is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The steroid kills the virus that is causing the croup.\"",
+          "correct": false,
+          "rationale": "Corticosteroids have no antiviral effect; they work by reducing inflammation."
+        },
+        {
+          "id": "b",
+          "text": "\"The steroid prevents a bacterial infection from developing.\"",
+          "correct": false,
+          "rationale": "Steroids do not prevent bacterial infection; they reduce airway edema."
+        },
+        {
+          "id": "c",
+          "text": "\"The steroid works within 5 minutes to open the airway completely.\"",
+          "correct": false,
+          "rationale": "Dexamethasone begins working in about 1 to 2 hours (often noted within 6 hours); racemic epinephrine is the fast-acting drug."
+        },
+        {
+          "id": "d",
+          "text": "\"The steroid reduces swelling in the airway below the vocal cords, which makes breathing easier and shortens the illness.\"",
+          "correct": true,
+          "rationale": "Corticosteroids decrease subglottic inflammation and edema, reduce severity and return visits, and are recommended for all severities of croup."
+        }
+      ],
+      "explanation": "A single dose of oral (or IM) dexamethasone is the cornerstone of croup treatment for mild, moderate, and severe disease. It reduces airway edema, decreases the need for hospitalization, and has a long duration, so one dose is usually enough."
+    },
+    {
+      "id": "croup-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with croup has stridor at rest and moderate retractions. The provider prescribes nebulized racemic epinephrine. Which nursing action is most important after the treatment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Discharge the child home as soon as the stridor resolves.",
+          "correct": false,
+          "rationale": "Stridor may return when the epinephrine wears off; early discharge risks rebound obstruction at home."
+        },
+        {
+          "id": "b",
+          "text": "Withhold the dexamethasone because the epinephrine is sufficient.",
+          "correct": false,
+          "rationale": "Racemic epinephrine is short-acting; corticosteroids are still given for sustained reduction in edema."
+        },
+        {
+          "id": "c",
+          "text": "Observe the child for at least 2 to 4 hours for return of symptoms before discharge.",
+          "correct": true,
+          "rationale": "The effect of racemic epinephrine lasts about 2 hours, so symptoms may rebound; observation for 2 to 4 hours is required before discharge."
+        },
+        {
+          "id": "d",
+          "text": "Place the child flat in bed to promote sleep after the treatment.",
+          "correct": false,
+          "rationale": "Positioning of comfort, usually upright on the parent's lap, is preferred; lying flat may worsen distress."
+        }
+      ],
+      "explanation": "Racemic epinephrine causes rapid vasoconstriction of the subglottic mucosa, but its effect wears off in about 2 hours. Children should be observed 2 to 4 hours after the dose to watch for rebound before discharge. Expect tachycardia as a side effect."
+    },
+    {
+      "id": "croup-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with croup is crying and pulling away from staff in the emergency department. SpO2 is 95% and stridor increases when the child cries. Which nursing action is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Separate the child from the parent so the child can be assessed more easily.",
+          "correct": false,
+          "rationale": "Separation increases fear and crying, which worsens airway obstruction."
+        },
+        {
+          "id": "b",
+          "text": "Allow the child to sit on the parent's lap and keep the environment calm while care is provided.",
+          "correct": true,
+          "rationale": "Crying and agitation increase oxygen demand and worsen stridor. Keeping the child calm on the parent's lap reduces distress and airway turbulence."
+        },
+        {
+          "id": "c",
+          "text": "Restrain the child supine to obtain a full set of vital signs.",
+          "correct": false,
+          "rationale": "Forcing the child supine and restraining cause agitation and may worsen respiratory distress."
+        },
+        {
+          "id": "d",
+          "text": "Perform a throat culture right away to identify the organism.",
+          "correct": false,
+          "rationale": "Throat procedures upset the child and are not needed for viral croup; they are dangerous if epiglottitis is possible."
+        }
+      ],
+      "explanation": "Keeping a child with croup calm is a key nursing intervention. Let the child stay with the parent in a position of comfort, cluster care, and minimize invasive procedures. Agitation worsens stridor and oxygen consumption."
+    },
+    {
+      "id": "croup-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A child with croup is admitted with RR 44 breaths/min, mild retractions, and decreased oral intake. Which intervention best prevents dehydration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer small, frequent amounts of cool, clear fluids if the child is not in severe distress, and give IV fluids if intake remains inadequate.",
+          "correct": true,
+          "rationale": "Tachypnea and fever increase insensible fluid loss. Small, frequent oral fluids are offered when the respiratory rate allows safe swallowing; IV fluids are used if oral intake is unsafe or insufficient."
+        },
+        {
+          "id": "b",
+          "text": "Offer a large meal of solid foods to increase calories.",
+          "correct": false,
+          "rationale": "Large meals and solids increase aspiration risk in a tachypneic child and do not address hydration."
+        },
+        {
+          "id": "c",
+          "text": "Withhold all fluids until the child is discharged.",
+          "correct": false,
+          "rationale": "Withholding fluids promotes dehydration and thickened secretions."
+        },
+        {
+          "id": "d",
+          "text": "Give warm milk at bedtime to soothe the throat.",
+          "correct": false,
+          "rationale": "Milk is not preferred for hydration in respiratory illness and does not prevent dehydration better than clear fluids."
+        }
+      ],
+      "explanation": "Children with croup may drink poorly because of tachypnea and fatigue. Encourage small amounts of preferred clear fluids frequently, monitor intake, output, and weight, and use IV fluids when RR is high enough to risk aspiration."
+    },
+    {
+      "id": "croup-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A child with croup has SpO2 of 90% on room air and moderate retractions. Which intervention should the nurse implement first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer humidified oxygen by a method the child tolerates, such as blow-by held by the parent.",
+          "correct": true,
+          "rationale": "Hypoxemia must be corrected promptly. Blow-by or other tolerated humidified oxygen delivery treats hypoxia without frightening the child."
+        },
+        {
+          "id": "b",
+          "text": "Obtain a chest x-ray to confirm the diagnosis.",
+          "correct": false,
+          "rationale": "Imaging does not treat hypoxia and is rarely needed to diagnose croup."
+        },
+        {
+          "id": "c",
+          "text": "Teach the parent about home humidifier use.",
+          "correct": false,
+          "rationale": "Teaching is appropriate later; the child's oxygenation is the priority now."
+        },
+        {
+          "id": "d",
+          "text": "Draw blood cultures before giving any treatment.",
+          "correct": false,
+          "rationale": "Croup is viral; blood cultures are not routinely needed and would delay treatment of hypoxia."
+        }
+      ],
+      "explanation": "Oxygen is given for hypoxemia (commonly SpO2 below about 92%). Delivery should not upset the child, so blow-by oxygen held by the parent is often best. Recognizing and correcting hypoxia comes before diagnostics and teaching."
+    },
+    {
+      "id": "croup-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of a 2-year-old discharged after treatment for mild croup. Which statement by the parent indicates the need to return to the emergency department?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll bring her back if her cough still sounds barky tomorrow.\"",
+          "correct": false,
+          "rationale": "A barky cough usually lasts several days and alone is not a reason to return."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll bring her back if she has noisy breathing while she is resting, is drooling, or her lips look blue.\"",
+          "correct": true,
+          "rationale": "Stridor at rest, drooling or inability to swallow, retractions, and cyanosis are signs of worsening obstruction that require immediate evaluation."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll bring her back if she has a runny nose.\"",
+          "correct": false,
+          "rationale": "Coryza is an expected viral symptom and is not a reason for emergency care."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll bring her back if she wakes up once tonight coughing.\"",
+          "correct": false,
+          "rationale": "Night coughing is common in croup; parents should return for stridor at rest or distress, not a single episode of coughing."
+        }
+      ],
+      "explanation": "Home teaching for croup includes keeping the child calm, cool mist or cool night air exposure, fluids, fever control, and when to return: stridor at rest, retractions, difficulty breathing, drooling or trouble swallowing, cyanosis, lethargy, or symptoms that are not improving."
+    },
+    {
+      "id": "croup-15",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches the parents of a toddler with croup about home care. Which statement by a parent indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"If he starts coughing at night, I can take him outside into the cool night air for a few minutes.\"",
+          "correct": false,
+          "rationale": "Cool night air is a traditional comfort measure that may ease symptoms; it is acceptable teaching."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll stay calm and hold him on my lap when he gets upset.\"",
+          "correct": false,
+          "rationale": "Calming and holding the child reduces crying and airway turbulence."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll lay him flat in his own room and close the door so he can get good rest.\"",
+          "correct": true,
+          "rationale": "Leaving the child alone where symptoms cannot be observed is unsafe; parents should keep the child close, upright or in a position of comfort, and monitor breathing, especially at night."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll give him small sips of juice or water often.\"",
+          "correct": false,
+          "rationale": "Small frequent fluids maintain hydration."
+        }
+      ],
+      "explanation": "Parents should keep the child calm and close by, offer fluids, use cool mist or cool air if helpful, and watch carefully for signs of worsening, especially at night. Hot steam vaporizers are avoided because of burn risk."
+    },
+    {
+      "id": "croup-16",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks how spasmodic croup differs from acute laryngotracheobronchitis. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Spasmodic croup is caused by bacteria and always requires antibiotics.\"",
+          "correct": false,
+          "rationale": "Spasmodic croup is not bacterial; it may be related to viral or allergic factors and is managed with calming, cool mist, and sometimes steroids."
+        },
+        {
+          "id": "b",
+          "text": "\"Spasmodic croup begins with a high fever and drooling.\"",
+          "correct": false,
+          "rationale": "High fever with drooling describes epiglottitis."
+        },
+        {
+          "id": "c",
+          "text": "\"Spasmodic croup only affects adolescents.\"",
+          "correct": false,
+          "rationale": "Spasmodic croup most often affects children 3 months to 3 years old."
+        },
+        {
+          "id": "d",
+          "text": "\"Spasmodic croup comes on suddenly at night, usually without fever, and the child often seems well during the day.\"",
+          "correct": true,
+          "rationale": "Spasmodic croup is marked by sudden nighttime episodes of barky cough and stridor without fever or significant URI prodrome, with improvement during the day; it may recur."
+        }
+      ],
+      "explanation": "Spasmodic croup presents suddenly at night with a barky cough and stridor, often without fever, and the child appears well by day. Episodes may recur several nights in a row. Management is similar to mild croup."
+    },
+    {
+      "id": "croup-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Which assessment finding would best help the nurse distinguish croup from epiglottitis in a 3-year-old with stridor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inspiratory stridor",
+          "correct": false,
+          "rationale": "Both croup and epiglottitis can cause inspiratory stridor, so it does not distinguish them."
+        },
+        {
+          "id": "b",
+          "text": "Tachycardia",
+          "correct": false,
+          "rationale": "Tachycardia occurs with fever and distress in both conditions."
+        },
+        {
+          "id": "c",
+          "text": "Anxiety and restlessness",
+          "correct": false,
+          "rationale": "Both conditions can cause anxiety and restlessness from hypoxia and air hunger."
+        },
+        {
+          "id": "d",
+          "text": "A barky cough after several days of cold symptoms with a low-grade fever",
+          "correct": true,
+          "rationale": "A barky cough with gradual URI onset and low-grade fever supports croup. Epiglottitis begins abruptly, with high fever and usually no cough."
+        }
+      ],
+      "explanation": "Key differences: croup has gradual onset, low-grade fever, barky cough, and no drooling. Epiglottitis has abrupt onset, high fever, drooling, dysphagia, toxic appearance, tripod positioning, and no spontaneous cough."
+    },
+    {
+      "id": "croup-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 3-year-old is admitted with a diagnosis of croup. During assessment, the child suddenly develops a temperature of 39.8°C, is drooling, refuses to swallow, and is sitting forward with the chin thrust out. Which action should the nurse avoid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inspecting the throat with a tongue blade",
+          "correct": true,
+          "rationale": "These findings suggest epiglottitis. A tongue blade can trigger laryngospasm and complete airway obstruction, so throat inspection is avoided until a controlled airway setting is ready."
+        },
+        {
+          "id": "b",
+          "text": "Allowing the child to stay upright in the parent's lap",
+          "correct": false,
+          "rationale": "Keeping the child upright and calm with the parent is appropriate and helps maintain the airway."
+        },
+        {
+          "id": "c",
+          "text": "Notifying the provider immediately",
+          "correct": false,
+          "rationale": "Immediate notification is required because epiglottitis is a medical emergency."
+        },
+        {
+          "id": "d",
+          "text": "Bringing emergency airway equipment to the bedside",
+          "correct": false,
+          "rationale": "Intubation and tracheostomy equipment should be readily available."
+        }
+      ],
+      "explanation": "When a child with presumed croup develops high fever, drooling, dysphagia, and tripod or sniffing positioning, the nurse must suspect epiglottitis. Never place a tongue blade in the throat or force the child supine; keep the child calm and prepare for emergency airway management."
+    },
+    {
+      "id": "croup-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse receives report on four pediatric clients on a respiratory unit. Which client should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 20-month-old with croup who has a barky cough and stridor when upset",
+          "correct": false,
+          "rationale": "Stridor only when upset indicates mild croup."
+        },
+        {
+          "id": "b",
+          "text": "A 3-year-old with croup who received racemic epinephrine 3 hours ago and has no stridor at rest",
+          "correct": false,
+          "rationale": "This child is stable and being observed after racemic epinephrine without rebound."
+        },
+        {
+          "id": "c",
+          "text": "A 2-year-old with croup who was restless and is now lethargic, with decreasing stridor and SpO2 of 88%",
+          "correct": true,
+          "rationale": "Lethargy with decreasing stridor and hypoxia suggests fatigue and impending respiratory failure, the most urgent situation."
+        },
+        {
+          "id": "d",
+          "text": "A 2-year-old with croup who has a temperature of 38.2°C and is drinking apple juice",
+          "correct": false,
+          "rationale": "Low-grade fever with adequate intake is expected and stable."
+        }
+      ],
+      "explanation": "Prioritize the child with signs of deterioration. A change from restlessness to lethargy, softening stridor, and falling SpO2 means the child is tiring and may soon stop breathing effectively."
+    },
+    {
+      "id": "croup-20",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a 2-year-old with moderate croup. Which interventions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer oral dexamethasone as prescribed",
+          "correct": true,
+          "rationale": "A single dose of dexamethasone reduces airway edema and is recommended for all severities of croup."
+        },
+        {
+          "id": "b",
+          "text": "Keep the child calm and allow the parent to hold the child",
+          "correct": true,
+          "rationale": "Calming and parental presence reduce crying, oxygen demand, and airway turbulence."
+        },
+        {
+          "id": "c",
+          "text": "Monitor SpO2, respiratory effort, and level of consciousness",
+          "correct": true,
+          "rationale": "Ongoing assessment detects deterioration such as hypoxia, fatigue, or worsening retractions."
+        },
+        {
+          "id": "d",
+          "text": "Administer prescribed antibiotics for the viral infection",
+          "correct": false,
+          "rationale": "Croup is viral; antibiotics are not indicated."
+        },
+        {
+          "id": "e",
+          "text": "Give an over-the-counter cough suppressant to stop the barky cough",
+          "correct": false,
+          "rationale": "Cough suppressants are not recommended for young children and do not reduce subglottic edema."
+        },
+        {
+          "id": "f",
+          "text": "Offer small amounts of fluids frequently if respiratory rate allows",
+          "correct": true,
+          "rationale": "Frequent small fluids maintain hydration lost through tachypnea and fever."
+        }
+      ],
+      "explanation": "Croup care focuses on reducing airway edema (corticosteroids, racemic epinephrine for moderate to severe), maintaining oxygenation, keeping the child calm, hydration, and close monitoring for deterioration. Antibiotics and cough suppressants have no role."
+    },
+    {
+      "id": "croup-21",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A child with croup is being monitored in the emergency department. Which findings indicate that the child's condition is deteriorating? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stridor present at rest",
+          "correct": true,
+          "rationale": "Stridor at rest indicates significant upper airway narrowing."
+        },
+        {
+          "id": "b",
+          "text": "Increasing suprasternal and intercostal retractions",
+          "correct": true,
+          "rationale": "Worsening retractions reflect increased work of breathing."
+        },
+        {
+          "id": "c",
+          "text": "Increasing restlessness and agitation",
+          "correct": true,
+          "rationale": "Restlessness is an early sign of hypoxia."
+        },
+        {
+          "id": "d",
+          "text": "Barky cough only when crying",
+          "correct": false,
+          "rationale": "Symptoms only with crying indicate mild croup."
+        },
+        {
+          "id": "e",
+          "text": "Circumoral cyanosis",
+          "correct": true,
+          "rationale": "Cyanosis is a late sign of hypoxemia and severe obstruction."
+        },
+        {
+          "id": "f",
+          "text": "Hoarse voice",
+          "correct": false,
+          "rationale": "Hoarseness is an expected finding in croup and does not by itself indicate deterioration."
+        }
+      ],
+      "explanation": "Signs of worsening croup include stridor at rest, increasing retractions, decreased air entry, restlessness or anxiety, tachycardia, pallor or cyanosis, and changes in level of consciousness. A sudden decrease in stridor with lethargy may mean exhaustion."
+    },
+    {
+      "id": "croup-22",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing discharge teaching for parents of a toddler treated for mild croup. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Return for care if the child has noisy breathing while resting or difficulty swallowing",
+          "correct": true,
+          "rationale": "Stridor at rest or dysphagia/drooling are danger signs requiring prompt evaluation."
+        },
+        {
+          "id": "b",
+          "text": "Keep the child calm and comfort the child when coughing spells occur",
+          "correct": true,
+          "rationale": "Comforting reduces crying, which worsens stridor."
+        },
+        {
+          "id": "c",
+          "text": "Use a hot steam vaporizer in the child's bedroom",
+          "correct": false,
+          "rationale": "Hot steam carries a scald and burn risk; cool mist, if used, is safer."
+        },
+        {
+          "id": "d",
+          "text": "Watch the child closely at night, when symptoms are often worse",
+          "correct": true,
+          "rationale": "Croup often worsens at night, so close observation is important."
+        },
+        {
+          "id": "e",
+          "text": "Give the child antibiotics left over from a sibling's illness",
+          "correct": false,
+          "rationale": "Croup is viral, and sharing leftover antibiotics is unsafe and inappropriate."
+        },
+        {
+          "id": "f",
+          "text": "Offer fluids frequently to keep the child hydrated",
+          "correct": true,
+          "rationale": "Adequate hydration helps keep secretions thin and prevents dehydration."
+        }
+      ],
+      "explanation": "Home care for croup includes calming the child, offering fluids, managing fever, and possibly cool mist or cool air. Parents must know the return precautions: stridor at rest, retractions, drooling or trouble swallowing, cyanosis, or lethargy."
+    },
+    {
+      "id": "croup-23",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 2-year-old with croup arrives in the emergency department with stridor at rest, moderate retractions, and SpO2 of 90%. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Keep the child upright on the parent's lap and assess airway, breathing, and SpO2"
+        },
+        {
+          "id": "b",
+          "text": "Administer humidified blow-by oxygen held by the parent"
+        },
+        {
+          "id": "c",
+          "text": "Administer prescribed nebulized racemic epinephrine and dexamethasone"
+        },
+        {
+          "id": "d",
+          "text": "Reassess respiratory status and observe for rebound for 2 to 4 hours"
+        },
+        {
+          "id": "e",
+          "text": "Provide discharge teaching on home care and return precautions"
+        }
+      ],
+      "explanation": "First keep the child calm and assess the airway and oxygenation. Correct hypoxia with a tolerated oxygen method. Then give racemic epinephrine for rapid relief and dexamethasone for sustained edema reduction. Observe 2 to 4 hours for rebound, and teach the family before discharge."
+    }
+  ]
+}

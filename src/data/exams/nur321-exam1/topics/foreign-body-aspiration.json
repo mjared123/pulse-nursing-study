@@ -1,0 +1,540 @@
+{
+  "slug": "foreign-body-aspiration",
+  "title": "Foreign Body Aspiration",
+  "short": "Foreign Body",
+  "icon": "target",
+  "description": "Foreign body aspiration in young children: high-risk foods and objects, sudden choking with unilateral findings, right mainstem bronchus, partial vs complete obstruction, age-specific choking relief, bronchoscopy, post-procedure monitoring, and prevention teaching.",
+  "keyPoints": [
+    "Toddlers are at highest risk because they explore with their mouths, lack molars, and have small airways.",
+    "High-risk items include nuts, hot dogs, whole grapes, popcorn, hard candy, coins, latex balloons, small toy parts, and button batteries.",
+    "Classic presentation is sudden choking, coughing, or gagging, followed by unilateral wheezing and diminished breath sounds.",
+    "Aspirated objects most often lodge in the right mainstem bronchus because it is shorter, wider, and more vertical.",
+    "Partial obstruction with an effective cough: encourage coughing. Complete obstruction (cannot cough, speak, or breathe): intervene immediately.",
+    "Infants younger than 1 year: 5 back blows and 5 chest thrusts. Children older than 1 year: abdominal thrusts. Never do blind finger sweeps.",
+    "Removal is by bronchoscopy; afterward monitor for airway edema (croupy cough, stridor), check the gag reflex, and provide humidified air.",
+    "Prevention teaching: supervise and seat children while eating, cut foods small, and keep small objects and balloons out of reach."
+  ],
+  "questions": [
+    {
+      "id": "foreign-body-aspiration-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which age group is at greatest risk for foreign body aspiration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adolescents 13 to 17 years old",
+          "correct": false,
+          "rationale": "Adolescents have mature chewing and larger airways."
+        },
+        {
+          "id": "b",
+          "text": "School-age children 6 to 10 years old",
+          "correct": false,
+          "rationale": "School-age children have better chewing ability and judgment."
+        },
+        {
+          "id": "c",
+          "text": "Toddlers 1 to 3 years old",
+          "correct": true,
+          "rationale": "Toddlers explore by putting objects in their mouths, lack molars to grind food, and have small airways, so they are at highest risk."
+        },
+        {
+          "id": "d",
+          "text": "Neonates younger than 1 month",
+          "correct": false,
+          "rationale": "Neonates cannot grasp or place objects in their mouths."
+        }
+      ],
+      "explanation": "Children younger than 4 years, especially toddlers, account for most foreign body aspirations. Developmental mouthing behavior, incomplete molars, running while eating, and small airway size all contribute."
+    },
+    {
+      "id": "foreign-body-aspiration-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of an 18-month-old about choking prevention. Which food is safest to give the toddler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soft-cooked carrots cut into small pieces",
+          "correct": true,
+          "rationale": "Soft-cooked vegetables cut into small pieces are appropriate for toddlers."
+        },
+        {
+          "id": "b",
+          "text": "Whole grapes",
+          "correct": false,
+          "rationale": "Whole grapes are round and can lodge in and completely block a toddler's airway; they should be quartered lengthwise."
+        },
+        {
+          "id": "c",
+          "text": "Popcorn",
+          "correct": false,
+          "rationale": "Popcorn kernels and hulls are easily aspirated and should be avoided in young children."
+        },
+        {
+          "id": "d",
+          "text": "Whole hot dog rounds",
+          "correct": false,
+          "rationale": "Hot dogs cut into rounds match the size of a toddler's airway; they should be cut lengthwise into small pieces."
+        }
+      ],
+      "explanation": "High-risk foods for young children include nuts, popcorn, whole grapes, hot dogs, hard candy, raw carrots, and seeds. Teach parents to cut foods into small pieces and supervise eating."
+    },
+    {
+      "id": "foreign-body-aspiration-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old is brought to the clinic after a sudden episode of choking and coughing while eating peanuts 2 hours ago. The child now has a persistent cough. Which assessment finding most strongly suggests a lower airway foreign body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bilateral clear breath sounds",
+          "correct": false,
+          "rationale": "Clear bilateral breath sounds do not suggest bronchial obstruction, although they do not fully rule it out."
+        },
+        {
+          "id": "b",
+          "text": "Rhinorrhea and sneezing",
+          "correct": false,
+          "rationale": "These are upper respiratory symptoms, not signs of aspiration."
+        },
+        {
+          "id": "c",
+          "text": "Generalized rash",
+          "correct": false,
+          "rationale": "A rash is unrelated to foreign body aspiration."
+        },
+        {
+          "id": "d",
+          "text": "Unilateral wheezing with diminished breath sounds on the right",
+          "correct": true,
+          "rationale": "Localized (unilateral) wheeze and decreased breath sounds suggest an object partially obstructing a bronchus, most often on the right."
+        }
+      ],
+      "explanation": "Classic findings of a bronchial foreign body include sudden choking, coughing, or gagging followed by unilateral wheeze and diminished breath sounds on the affected side. A history of a choking episode is very important even if the child seems well afterward."
+    },
+    {
+      "id": "foreign-body-aspiration-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Why are aspirated foreign bodies more likely to lodge in the right mainstem bronchus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The right lung has fewer lobes than the left lung.",
+          "correct": false,
+          "rationale": "The right lung has three lobes and the left has two."
+        },
+        {
+          "id": "b",
+          "text": "The right mainstem bronchus is shorter, wider, and more vertical than the left.",
+          "correct": true,
+          "rationale": "The anatomy of the right bronchus makes it a more direct pathway for aspirated objects."
+        },
+        {
+          "id": "c",
+          "text": "The left mainstem bronchus is more vertical than the right.",
+          "correct": false,
+          "rationale": "The left mainstem bronchus is longer and angled more sharply."
+        },
+        {
+          "id": "d",
+          "text": "The heart pushes the right bronchus open during inspiration.",
+          "correct": false,
+          "rationale": "The heart does not hold the right bronchus open."
+        }
+      ],
+      "explanation": "Because the right mainstem bronchus is wider and more vertical, aspirated objects (and endotracheal tubes inserted too far) tend to enter the right side. Assess for diminished right-sided breath sounds."
+    },
+    {
+      "id": "foreign-body-aspiration-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old suddenly starts coughing forcefully and crying after putting a small toy in the mouth. The child can speak and is breathing. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perform abdominal thrusts immediately.",
+          "correct": false,
+          "rationale": "Thrusts are for severe obstruction (cannot cough, speak, or breathe); they may interfere with effective coughing."
+        },
+        {
+          "id": "b",
+          "text": "Stay with the child and encourage the child to keep coughing.",
+          "correct": true,
+          "rationale": "Effective forceful coughing with the ability to speak indicates partial obstruction with good air exchange; coughing is the most effective way to clear the object."
+        },
+        {
+          "id": "c",
+          "text": "Perform a blind finger sweep to remove the object.",
+          "correct": false,
+          "rationale": "Blind finger sweeps can push the object farther into the airway."
+        },
+        {
+          "id": "d",
+          "text": "Give the child water to wash the object down.",
+          "correct": false,
+          "rationale": "Drinking may cause further aspiration."
+        }
+      ],
+      "explanation": "With partial obstruction and good air exchange (forceful cough, able to speak or cry), encourage coughing and monitor. Intervene with thrusts only if the cough becomes ineffective or the child cannot breathe, speak, or cry."
+    },
+    {
+      "id": "foreign-body-aspiration-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 8-month-old is choking, cannot cry or cough, and is becoming cyanotic but remains conscious. Which action is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perform abdominal thrusts",
+          "correct": false,
+          "rationale": "Abdominal thrusts are not used in infants because of the risk of injury to the liver and other abdominal organs."
+        },
+        {
+          "id": "b",
+          "text": "Perform a blind finger sweep",
+          "correct": false,
+          "rationale": "Blind finger sweeps can push the object deeper; remove an object only if it is visible."
+        },
+        {
+          "id": "c",
+          "text": "Hold the infant upside down by the ankles and shake",
+          "correct": false,
+          "rationale": "This is not a recommended technique and may cause injury."
+        },
+        {
+          "id": "d",
+          "text": "Give 5 back blows followed by 5 chest thrusts with the infant's head lower than the chest",
+          "correct": true,
+          "rationale": "For a conscious infant younger than 1 year with severe obstruction, alternate 5 back blows and 5 chest thrusts until the object is expelled or the infant becomes unresponsive."
+        }
+      ],
+      "explanation": "Infant choking relief: support the head and jaw, give 5 back blows between the shoulder blades, then turn the infant and give 5 chest thrusts on the lower half of the sternum. Repeat until the object is expelled or the infant becomes unresponsive, then begin CPR."
+    },
+    {
+      "id": "foreign-body-aspiration-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-year-old at a restaurant is clutching the throat, cannot speak, and makes no sound. Which intervention should the nurse perform?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stand behind the child and give abdominal thrusts until the object is expelled or the child becomes unresponsive.",
+          "correct": true,
+          "rationale": "For a conscious child older than 1 year with severe obstruction, abdominal thrusts (Heimlich maneuver) are recommended."
+        },
+        {
+          "id": "b",
+          "text": "Give 5 back blows and 5 chest thrusts with the child's head down over the nurse's forearm.",
+          "correct": false,
+          "rationale": "Back blows with chest thrusts in this position are for infants younger than 1 year."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the child to cough harder.",
+          "correct": false,
+          "rationale": "A child who cannot speak or make sound has severe obstruction and an ineffective cough; encouragement alone is not enough."
+        },
+        {
+          "id": "d",
+          "text": "Perform a blind finger sweep of the mouth.",
+          "correct": false,
+          "rationale": "Blind finger sweeps are not recommended because they may push the object farther in."
+        }
+      ],
+      "explanation": "The universal choking sign with inability to speak or cough indicates complete or severe obstruction. In children older than 1 year, give abdominal thrusts. If the child becomes unresponsive, start CPR and look in the mouth for a visible object before giving breaths."
+    },
+    {
+      "id": "foreign-body-aspiration-08",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 2-year-old who choked on an object is now unresponsive and not breathing. The nurse begins CPR. Before giving rescue breaths, which action is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perform a blind finger sweep of the back of the throat.",
+          "correct": false,
+          "rationale": "Blind finger sweeps may push the object deeper and cause further obstruction or injury."
+        },
+        {
+          "id": "b",
+          "text": "Give abdominal thrusts with the child lying supine.",
+          "correct": false,
+          "rationale": "Once unresponsive, chest compressions are performed instead of abdominal thrusts."
+        },
+        {
+          "id": "c",
+          "text": "Open the airway and look in the mouth; remove the object only if it is seen.",
+          "correct": true,
+          "rationale": "When CPR is started for a choking victim, the rescuer looks in the mouth when opening the airway and removes a visible object, but never performs a blind finger sweep."
+        },
+        {
+          "id": "d",
+          "text": "Wait for emergency services before beginning compressions.",
+          "correct": false,
+          "rationale": "Delaying CPR in an unresponsive, nonbreathing child is harmful; compressions may also dislodge the object."
+        }
+      ],
+      "explanation": "For an unresponsive choking victim, begin CPR. Each time the airway is opened for breaths, look for the object and remove it only if visible. Chest compressions can help dislodge the obstruction."
+    },
+    {
+      "id": "foreign-body-aspiration-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 2-year-old is scheduled for removal of an aspirated peanut. The parent asks how the object will be removed. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child will be given medicine to dissolve the peanut.\"",
+          "correct": false,
+          "rationale": "No medication dissolves aspirated objects."
+        },
+        {
+          "id": "b",
+          "text": "\"Your child will need open chest surgery to remove it.\"",
+          "correct": false,
+          "rationale": "Thoracotomy is rarely needed; bronchoscopy is the first-line approach."
+        },
+        {
+          "id": "c",
+          "text": "\"The object will pass out on its own if we wait a few weeks.\"",
+          "correct": false,
+          "rationale": "Waiting risks pneumonia, atelectasis, and airway damage, especially with organic material such as peanuts."
+        },
+        {
+          "id": "d",
+          "text": "\"The object is usually removed with a bronchoscope passed through the mouth into the airway under anesthesia.\"",
+          "correct": true,
+          "rationale": "Rigid bronchoscopy under general anesthesia is the standard procedure for removing aspirated foreign bodies."
+        }
+      ],
+      "explanation": "Bronchoscopy is the treatment for an aspirated foreign body and should be done promptly. Organic material like peanuts can swell and cause inflammation, increasing the risk of obstruction and infection."
+    },
+    {
+      "id": "foreign-body-aspiration-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Two hours after bronchoscopy to remove a coin from the airway, a 3-year-old develops a hoarse, croupy cough and mild inspiratory stridor. HR 128 beats/min, RR 34 breaths/min, SpO2 95%. Which interpretation is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "These findings are expected and need no further action.",
+          "correct": false,
+          "rationale": "Stridor indicates narrowing of the airway and must be monitored and reported."
+        },
+        {
+          "id": "b",
+          "text": "These findings indicate that the foreign body was not removed.",
+          "correct": false,
+          "rationale": "Croupy cough and stridor after bronchoscopy usually reflect edema from instrumentation, not a retained object."
+        },
+        {
+          "id": "c",
+          "text": "These findings suggest airway edema from the procedure and need close monitoring and provider notification.",
+          "correct": true,
+          "rationale": "Laryngeal and subglottic edema after bronchoscopy can cause a croupy cough and stridor; the child needs close observation, and treatment such as humidified air, corticosteroids, or racemic epinephrine may be prescribed."
+        },
+        {
+          "id": "d",
+          "text": "These findings suggest the child is ready for discharge.",
+          "correct": false,
+          "rationale": "A child with new stridor needs further observation before discharge."
+        }
+      ],
+      "explanation": "After bronchoscopy, monitor for airway edema (croupy cough, stridor, hoarseness, retractions), bleeding, and respiratory distress. Keep the child calm and provide humidified air, and report increasing stridor."
+    },
+    {
+      "id": "foreign-body-aspiration-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 3-year-old about preventing foreign body aspiration. Which statement by a parent indicates understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll let him play with uninflated latex balloons since they are soft.\"",
+          "correct": false,
+          "rationale": "Uninflated or broken latex balloons are a leading cause of fatal choking in children."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll make sure my son sits down to eat and doesn't run around with food in his mouth.\"",
+          "correct": true,
+          "rationale": "Sitting while eating with supervision reduces the risk of aspiration."
+        },
+        {
+          "id": "c",
+          "text": "\"Hard candy is fine as long as it is sugar-free.\"",
+          "correct": false,
+          "rationale": "Hard candy of any kind is a choking hazard for young children."
+        },
+        {
+          "id": "d",
+          "text": "\"Toys made for his older sister are fine if he is supervised.\"",
+          "correct": false,
+          "rationale": "Toys with small parts made for older children are choking hazards for young children."
+        }
+      ],
+      "explanation": "Prevention teaching includes supervising meals, having children sit while eating, cutting food into small pieces, avoiding high-risk foods, keeping small objects, coins, button batteries, and latex balloons out of reach, and following age labels on toys."
+    },
+    {
+      "id": "foreign-body-aspiration-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching parents of toddlers about choking prevention. Which items should the nurse identify as high risk for aspiration? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Whole nuts",
+          "correct": true,
+          "rationale": "Nuts are hard to chew, fit the toddler airway, and can swell and cause inflammation if aspirated."
+        },
+        {
+          "id": "b",
+          "text": "Hot dogs cut into round slices",
+          "correct": true,
+          "rationale": "Round slices are the size and shape of a child's airway."
+        },
+        {
+          "id": "c",
+          "text": "Latex balloons",
+          "correct": true,
+          "rationale": "Uninflated or broken latex balloons can conform to the airway and cause complete obstruction."
+        },
+        {
+          "id": "d",
+          "text": "Mashed bananas",
+          "correct": false,
+          "rationale": "Soft mashed foods are low risk for aspiration."
+        },
+        {
+          "id": "e",
+          "text": "Button batteries",
+          "correct": true,
+          "rationale": "Button batteries are choking hazards and can cause severe burns if swallowed or lodged."
+        },
+        {
+          "id": "f",
+          "text": "Thinned yogurt",
+          "correct": false,
+          "rationale": "Smooth, soft foods are low risk."
+        }
+      ],
+      "explanation": "High-risk items include nuts, popcorn, whole grapes, hot dogs, hard candy, raw vegetables, coins, latex balloons, small toy parts, and button batteries. Teach parents to keep these away from children younger than 4 years."
+    },
+    {
+      "id": "foreign-body-aspiration-13",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 20-month-old was playing with small toys and suddenly began coughing and gagging. Which findings suggest foreign body aspiration? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unilateral wheezing",
+          "correct": true,
+          "rationale": "A partially obstructed bronchus produces a localized wheeze."
+        },
+        {
+          "id": "b",
+          "text": "Diminished breath sounds on one side",
+          "correct": true,
+          "rationale": "Decreased air entry on one side suggests bronchial obstruction."
+        },
+        {
+          "id": "c",
+          "text": "Sudden onset of choking and coughing",
+          "correct": true,
+          "rationale": "A witnessed sudden choking or coughing episode is the most important clue."
+        },
+        {
+          "id": "d",
+          "text": "Barking cough after several days of cold symptoms",
+          "correct": false,
+          "rationale": "This pattern describes viral croup."
+        },
+        {
+          "id": "e",
+          "text": "Gradual onset of high fever over a week",
+          "correct": false,
+          "rationale": "A gradual febrile illness suggests infection rather than acute aspiration, although retained objects can later lead to pneumonia."
+        }
+      ],
+      "explanation": "Foreign body aspiration typically begins with sudden choking, coughing, or gagging. Later findings may include unilateral wheeze, diminished breath sounds, stridor, or recurrent pneumonia in the same lobe."
+    },
+    {
+      "id": "foreign-body-aspiration-14",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A child is recovering after bronchoscopic removal of a peanut from the right mainstem bronchus. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monitor for increasing stridor, retractions, and hoarseness",
+          "correct": true,
+          "rationale": "These signs indicate airway edema after instrumentation."
+        },
+        {
+          "id": "b",
+          "text": "Monitor SpO2 and respiratory rate",
+          "correct": true,
+          "rationale": "Respiratory monitoring detects post-procedure hypoxia or distress."
+        },
+        {
+          "id": "c",
+          "text": "Check gag reflex before offering fluids",
+          "correct": true,
+          "rationale": "Anesthesia and local anesthetic can impair swallowing; the gag reflex should return before oral intake."
+        },
+        {
+          "id": "d",
+          "text": "Offer popcorn to test the child's swallowing",
+          "correct": false,
+          "rationale": "Popcorn is a high-risk choking food and is never appropriate to test swallowing."
+        },
+        {
+          "id": "e",
+          "text": "Provide humidified air or prescribed treatments for croupy cough",
+          "correct": true,
+          "rationale": "Humidified air and prescribed corticosteroids or racemic epinephrine treat post-procedure airway edema."
+        },
+        {
+          "id": "f",
+          "text": "Place the child supine and leave the child alone to rest",
+          "correct": false,
+          "rationale": "The child should be positioned for comfort and closely observed."
+        }
+      ],
+      "explanation": "After bronchoscopy, monitor the airway for edema, observe respiratory status, confirm gag reflex before feeding, and provide humidification. Teach prevention before discharge."
+    },
+    {
+      "id": "foreign-body-aspiration-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 7-month-old is choking on a piece of food and cannot cry or cough. The infant then becomes unresponsive. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Deliver 5 back blows with the infant prone, head lower than the chest"
+        },
+        {
+          "id": "b",
+          "text": "Turn the infant and deliver 5 chest thrusts"
+        },
+        {
+          "id": "c",
+          "text": "Repeat back blows and chest thrusts until the object is expelled or the infant becomes unresponsive"
+        },
+        {
+          "id": "d",
+          "text": "Lower the unresponsive infant to a firm surface and begin CPR"
+        },
+        {
+          "id": "e",
+          "text": "Look in the mouth when opening the airway and remove the object only if visible"
+        }
+      ],
+      "explanation": "For a responsive infant with severe obstruction, alternate 5 back blows and 5 chest thrusts. If the infant becomes unresponsive, start CPR. Each time the airway is opened for breaths, look in the mouth and remove an object only if it is seen; never do blind finger sweeps."
+    }
+  ]
+}

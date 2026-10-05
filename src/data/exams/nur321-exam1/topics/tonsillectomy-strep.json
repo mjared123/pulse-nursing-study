@@ -1,0 +1,542 @@
+{
+  "slug": "tonsillectomy-strep",
+  "title": "Tonsillectomy & Strep Pharyngitis",
+  "short": "Tonsils & Strep",
+  "icon": "droplet",
+  "description": "Tonsillectomy indications, preoperative screening, postoperative positioning, hemorrhage recognition, diet and discharge teaching, plus diagnosis, treatment, infection control, and complications of group A streptococcal pharyngitis.",
+  "keyPoints": [
+    "Tonsillectomy is indicated mainly for obstructive sleep-disordered breathing from tonsillar hypertrophy and for frequent, documented recurrent throat infections; it is not done during an acute infection.",
+    "Preop: ask about personal or family bleeding problems, check for loose teeth (aspiration risk under anesthesia), and screen for current upper respiratory infection.",
+    "Until fully awake, position the child side-lying or prone (on the abdomen) so secretions drain from the mouth; keep suction available but avoid placing the catheter against the surgical site.",
+    "Frequent swallowing or clearing the throat is the earliest sign of hemorrhage; also watch for bright red emesis or oozing, rising heart rate, restlessness, and pallor. Dark brown 'coffee ground' emesis of old swallowed blood is expected.",
+    "Offer cool, non-red, non-brown, non-citrus clear liquids and soft foods; avoid straws, coughing, clearing the throat, nose blowing, and gargling. An ice collar and around-the-clock analgesia (acetaminophen; never aspirin) promote comfort and fluid intake.",
+    "Secondary hemorrhage can occur 5-10 days post-op when the scab (eschar) sloughs; any bright red bleeding at home needs immediate evaluation by the surgeon or emergency department.",
+    "Strep throat (GABHS): sudden sore throat, fever, tonsillar exudate, tender anterior cervical nodes, palatal petechiae, and absence of cough or rhinorrhea. Confirm with a rapid antigen test; back up a negative test in children with a throat culture.",
+    "Treat with penicillin or amoxicillin for the full 10 days to prevent acute rheumatic fever; the child is no longer contagious after 24 h of antibiotics, should replace the toothbrush, and should be watched for post-streptococcal glomerulonephritis (cola-colored urine, edema, hypertension)."
+  ],
+  "questions": [
+    {
+      "id": "tonsillectomy-strep-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing the records of four children referred to the ENT clinic. Which child is the most appropriate candidate for tonsillectomy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 7-year-old with a temperature of 39.2°C (102.6°F) and exudative tonsillitis diagnosed this morning",
+          "correct": false,
+          "rationale": "Tonsillectomy is not performed during an acute infection because inflamed, infected tissue increases bleeding and anesthesia risk. The infection is treated first."
+        },
+        {
+          "id": "b",
+          "text": "A 5-year-old who had one episode of strep pharyngitis 2 months ago that resolved with amoxicillin",
+          "correct": false,
+          "rationale": "A single treated episode does not meet criteria for surgery. Recurrent infection criteria require frequent, documented episodes (for example, 7 or more in 1 year)."
+        },
+        {
+          "id": "c",
+          "text": "A 6-year-old with enlarged tonsils whose parent reports loud nightly snoring, witnessed pauses in breathing, and daytime sleepiness",
+          "correct": true,
+          "rationale": "Obstructive sleep-disordered breathing caused by tonsillar hypertrophy is one of the most common indications for tonsillectomy, which often resolves the obstruction."
+        },
+        {
+          "id": "d",
+          "text": "A 4-year-old with seasonal allergic rhinitis and clear nasal drainage each spring",
+          "correct": false,
+          "rationale": "Allergic rhinitis is managed medically; it is not an indication for removing the tonsils."
+        }
+      ],
+      "explanation": "The main indications for tonsillectomy are obstructive sleep-disordered breathing from enlarged tonsils and frequent, well-documented recurrent throat infections. Surgery is scheduled when the child is free of acute infection."
+    },
+    {
+      "id": "tonsillectomy-strep-02",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is completing the preoperative assessment of a 6-year-old scheduled for tonsillectomy. Which assessments are priorities to complete and report as needed before surgery? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask whether the child or family members have a history of easy bruising or prolonged bleeding",
+          "correct": true,
+          "rationale": "The tonsillar bed is highly vascular. An undiagnosed bleeding disorder (for example, von Willebrand disease) greatly increases hemorrhage risk and must be identified before surgery."
+        },
+        {
+          "id": "b",
+          "text": "Check for loose teeth",
+          "correct": true,
+          "rationale": "A loose tooth can be dislodged during intubation or airway manipulation and aspirated. Loose teeth are documented and reported to the anesthesia provider."
+        },
+        {
+          "id": "c",
+          "text": "Assess for signs of a current upper respiratory infection, such as fever, cough, or nasal drainage",
+          "correct": true,
+          "rationale": "An active respiratory infection increases airway complications with anesthesia and bleeding risk, and surgery may be postponed."
+        },
+        {
+          "id": "d",
+          "text": "Confirm the time the child last had food and fluids",
+          "correct": true,
+          "rationale": "Verifying NPO status reduces the risk of aspiration during anesthesia."
+        },
+        {
+          "id": "e",
+          "text": "Have the child practice drinking from a straw so post-op fluid intake is easier",
+          "correct": false,
+          "rationale": "Straws create suction in the mouth that can dislodge clots from the surgical site and cause bleeding; they are avoided after tonsillectomy."
+        },
+        {
+          "id": "f",
+          "text": "Ask the parent to give a dose of children's aspirin the morning of surgery for comfort",
+          "correct": false,
+          "rationale": "Aspirin impairs platelet function and increases bleeding risk; it is avoided before and after tonsillectomy (and in children generally because of Reye syndrome)."
+        }
+      ],
+      "explanation": "Preoperative priorities focus on preventing bleeding and airway complications: bleeding history, loose teeth, signs of current infection, and NPO status. Medications that impair clotting, such as aspirin, are avoided."
+    },
+    {
+      "id": "tonsillectomy-strep-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 7-year-old is transferred to the pediatric unit after tonsillectomy. The child is drowsy but arousable, with blood-tinged saliva in the mouth. How should the nurse position the child?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Side-lying or prone with the head turned to the side",
+          "correct": true,
+          "rationale": "Until fully awake, the side-lying or prone position allows secretions and blood to drain from the mouth, protecting the airway and making bleeding easier to observe."
+        },
+        {
+          "id": "b",
+          "text": "Supine with the head of the bed flat",
+          "correct": false,
+          "rationale": "Lying flat on the back allows secretions and blood to pool in the posterior pharynx, increasing aspiration risk."
+        },
+        {
+          "id": "c",
+          "text": "High Fowler position with the neck flexed",
+          "correct": false,
+          "rationale": "High Fowler is appropriate once the child is fully awake, but a drowsy child may slump and pool secretions; side-lying or prone is safer until alert."
+        },
+        {
+          "id": "d",
+          "text": "Trendelenburg position to promote venous return",
+          "correct": false,
+          "rationale": "Head-down positioning does not help drainage of oral secretions safely and is not used after tonsillectomy."
+        }
+      ],
+      "explanation": "Post-tonsillectomy positioning promotes drainage of secretions until protective reflexes return. Once fully awake, the child may sit up or be held in a semi-Fowler position, which the child usually prefers."
+    },
+    {
+      "id": "tonsillectomy-strep-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Four hours after tonsillectomy, a 5-year-old is resting quietly. Which finding should the nurse recognize as the most significant early sign of postoperative hemorrhage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vomiting a small amount of dark brown emesis",
+          "correct": false,
+          "rationale": "Dark brown 'coffee ground' emesis is old blood swallowed during surgery and is an expected finding shortly after tonsillectomy."
+        },
+        {
+          "id": "b",
+          "text": "Frequent swallowing while asleep",
+          "correct": true,
+          "rationale": "Continuous or frequent swallowing, often noticed while the child sleeps, is the classic early sign that fresh blood is trickling down the back of the throat."
+        },
+        {
+          "id": "c",
+          "text": "Reports of throat and ear pain rated 6/10",
+          "correct": false,
+          "rationale": "Throat pain and referred ear pain are expected after tonsillectomy and should be treated with analgesia, but they do not indicate bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Heart rate of 96 beats/min and respiratory rate of 20 breaths/min",
+          "correct": false,
+          "rationale": "These values are within normal limits for a 5-year-old. Rising tachycardia, not a normal rate, would suggest bleeding."
+        }
+      ],
+      "explanation": "Because children swallow blood rather than spit it out, frequent swallowing or clearing the throat is often the first sign of hemorrhage. Later signs include bright red emesis, rising pulse, restlessness, pallor, and falling blood pressure, which is a late sign in children."
+    },
+    {
+      "id": "tonsillectomy-strep-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Six hours after tonsillectomy, a 6-year-old's heart rate has risen from 98 to 136 beats/min. The child is restless, pale, and clearing the throat repeatedly. BP is 98/60 mm Hg. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the prescribed acetaminophen and reassess in 1 hour",
+          "correct": false,
+          "rationale": "Restlessness and tachycardia here are signs of hemorrhage, not pain. Delaying evaluation allows ongoing blood loss."
+        },
+        {
+          "id": "b",
+          "text": "Suction the posterior pharynx deeply with a Yankauer catheter",
+          "correct": false,
+          "rationale": "Deep or vigorous suctioning can traumatize the tonsillar bed and dislodge clots, worsening bleeding."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the child to drink ice water to slow the bleeding",
+          "correct": false,
+          "rationale": "Oral fluids do not stop surgical bleeding, and the child may need to return to surgery and must remain NPO."
+        },
+        {
+          "id": "d",
+          "text": "Notify the surgeon immediately",
+          "correct": true,
+          "rationale": "Frequent throat clearing, rising heart rate, restlessness, and pallor indicate hemorrhage. The surgeon must be notified immediately because the child may need to return to the operating room. Blood pressure stays normal until late in pediatric hemorrhage."
+        }
+      ],
+      "explanation": "Children compensate for blood loss with tachycardia and vasoconstriction, so blood pressure falls late. Recognizing early cues and notifying the surgeon promptly is the priority; keep the child side-lying, keep suction ready, and prepare for possible return to surgery."
+    },
+    {
+      "id": "tonsillectomy-strep-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old who had a tonsillectomy this morning is fully awake and asks for something to drink. Which fluid is best for the nurse to offer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cherry-flavored gelatin",
+          "correct": false,
+          "rationale": "Red-colored foods and fluids are avoided because they can be mistaken for fresh blood in emesis or secretions."
+        },
+        {
+          "id": "b",
+          "text": "Orange juice",
+          "correct": false,
+          "rationale": "Citrus juices are acidic and irritate the raw surgical site, causing pain."
+        },
+        {
+          "id": "c",
+          "text": "Cool apple juice",
+          "correct": true,
+          "rationale": "Cool, clear, non-red, non-citrus liquids are soothing, help constrict vessels, and do not mimic blood if vomited."
+        },
+        {
+          "id": "d",
+          "text": "Chocolate milk",
+          "correct": false,
+          "rationale": "Brown fluids can be confused with old blood, and milk products coat the throat and cause the child to clear the throat, which can trigger bleeding."
+        }
+      ],
+      "explanation": "Cool, clear liquids and ice chips are started once the child is awake, then soft, bland foods. Avoid red or brown fluids, citrus, rough or spicy foods, and drinking through straws."
+    },
+    {
+      "id": "tonsillectomy-strep-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "On the evening after surgery, a 6-year-old who had a tonsillectomy refuses to drink and rates throat pain 7/10. Which plan is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer warm salt-water gargles every 2 hours",
+          "correct": false,
+          "rationale": "Gargling irritates the operative site and can dislodge clots, so it is avoided after tonsillectomy."
+        },
+        {
+          "id": "b",
+          "text": "Give prescribed analgesia on a regular around-the-clock schedule and apply an ice collar",
+          "correct": true,
+          "rationale": "Scheduled analgesia (such as acetaminophen) prevents pain peaks so the child will swallow fluids, and an ice collar reduces pain and swelling. Adequate pain control is directly tied to hydration after tonsillectomy."
+        },
+        {
+          "id": "c",
+          "text": "Give children's aspirin chewable tablets as needed for pain",
+          "correct": false,
+          "rationale": "Aspirin interferes with platelet function and increases bleeding risk; it is also associated with Reye syndrome in children."
+        },
+        {
+          "id": "d",
+          "text": "Withhold analgesia until the child requests it so pain can be monitored as a sign of bleeding",
+          "correct": false,
+          "rationale": "Pain is not a reliable sign of bleeding, and as-needed dosing leaves the child in pain and unwilling to drink, which leads to dehydration."
+        }
+      ],
+      "explanation": "Throat pain is significant for several days after tonsillectomy. Around-the-clock analgesia given as prescribed (often liquid acetaminophen), an ice collar, and cool fluids keep the child comfortable and drinking. Aspirin is always avoided; follow the surgeon's specific analgesic orders."
+    },
+    {
+      "id": "tonsillectomy-strep-08",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is monitoring a 6-year-old after tonsillectomy. Which findings should the nurse recognize as possible signs of hemorrhage? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frequent swallowing",
+          "correct": true,
+          "rationale": "Swallowing trickling blood is often the earliest sign of bleeding."
+        },
+        {
+          "id": "b",
+          "text": "Vomiting bright red blood",
+          "correct": true,
+          "rationale": "Bright red emesis indicates fresh, active bleeding rather than old swallowed blood."
+        },
+        {
+          "id": "c",
+          "text": "Heart rate increasing from 100 to 132 beats/min",
+          "correct": true,
+          "rationale": "Rising tachycardia is an early compensatory response to blood loss in children."
+        },
+        {
+          "id": "d",
+          "text": "Restlessness and pallor",
+          "correct": true,
+          "rationale": "Restlessness reflects decreased cerebral perfusion and pallor reflects vasoconstriction, both responses to hypovolemia."
+        },
+        {
+          "id": "e",
+          "text": "A small amount of dark brown emesis 2 hours after surgery",
+          "correct": false,
+          "rationale": "Dark brown emesis is old blood swallowed during surgery and is expected early after tonsillectomy."
+        },
+        {
+          "id": "f",
+          "text": "Ear pain when swallowing",
+          "correct": false,
+          "rationale": "Referred ear pain (otalgia) is common after tonsillectomy because of shared nerve pathways; it is not a sign of bleeding."
+        }
+      ],
+      "explanation": "Fresh bleeding shows as frequent swallowing, throat clearing, bright red emesis or oozing, rising heart rate, restlessness, and pallor. Hypotension is a late sign. Old dark blood and referred ear pain are expected."
+    },
+    {
+      "id": "tonsillectomy-strep-09",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 5-year-old, 8 hours after tonsillectomy, is swallowing frequently and vomits bright red blood. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Turn the child to a side-lying position"
+        },
+        {
+          "id": "b",
+          "text": "Assess heart rate and blood pressure and inspect the throat with a flashlight"
+        },
+        {
+          "id": "c",
+          "text": "Notify the surgeon of the findings"
+        },
+        {
+          "id": "d",
+          "text": "Keep the child NPO and prepare for a possible return to surgery"
+        }
+      ],
+      "explanation": "First protect the airway by turning the child to the side so blood drains from the mouth. Then gather focused data (vital signs and direct throat inspection with good light, without traumatizing the site) to report. Notify the surgeon promptly, then maintain NPO status and prepare the child for possible surgical control of bleeding."
+    },
+    {
+      "id": "tonsillectomy-strep-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is providing discharge teaching to the parent of a child who had a tonsillectomy. Which statement by the parent indicates that teaching has been effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'I'll let her use a straw so drinking hurts less.'",
+          "correct": false,
+          "rationale": "Straws create suction that can dislodge clots and cause bleeding; the parent needs more teaching."
+        },
+        {
+          "id": "b",
+          "text": "'She can gargle with mouthwash to get rid of the bad breath.'",
+          "correct": false,
+          "rationale": "Gargling can disrupt the healing site. Bad breath is expected for several days and resolves with healing."
+        },
+        {
+          "id": "c",
+          "text": "'Once the first 24 hours pass, there is no risk of bleeding.'",
+          "correct": false,
+          "rationale": "Bleeding can also occur later, about 5-10 days after surgery, when the scab sloughs off. The parent needs more teaching."
+        },
+        {
+          "id": "d",
+          "text": "'Bleeding can happen about a week after surgery when the scabs come off, so I'll call the surgeon right away if I see bright red blood.'",
+          "correct": true,
+          "rationale": "Secondary hemorrhage occurs 5-10 days post-op as the eschar separates. Any bright red bleeding needs immediate evaluation."
+        }
+      ],
+      "explanation": "Discharge teaching includes cool fluids and soft foods, no straws, avoiding coughing, throat clearing, nose blowing, and gargling, scheduled acetaminophen as prescribed (no aspirin), limited activity, and calling the surgeon immediately for bright red bleeding, fever, or poor fluid intake. Bad breath and ear pain are expected."
+    },
+    {
+      "id": "tonsillectomy-strep-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "An 8-year-old presents with a sore throat. Which group of findings is most consistent with group A beta-hemolytic streptococcal (GABHS) pharyngitis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden sore throat, fever of 39°C (102.2°F), tonsillar exudate, tender anterior cervical lymph nodes, petechiae on the soft palate, and no cough",
+          "correct": true,
+          "rationale": "These are the classic features of strep pharyngitis. Absence of cough and rhinorrhea also favors bacterial rather than viral infection."
+        },
+        {
+          "id": "b",
+          "text": "Gradual sore throat with cough, runny nose, hoarseness, and red, watery eyes",
+          "correct": false,
+          "rationale": "Cough, rhinorrhea, hoarseness, and conjunctivitis suggest a viral pharyngitis."
+        },
+        {
+          "id": "c",
+          "text": "Several days of fatigue, sore throat, posterior cervical lymphadenopathy, and an enlarged spleen",
+          "correct": false,
+          "rationale": "This picture suggests infectious mononucleosis (Epstein-Barr virus)."
+        },
+        {
+          "id": "d",
+          "text": "Severe one-sided throat pain, drooling, a muffled 'hot potato' voice, and deviation of the uvula",
+          "correct": false,
+          "rationale": "These findings suggest a peritonsillar abscess, a complication requiring urgent drainage."
+        }
+      ],
+      "explanation": "Strep pharyngitis is most common in school-age children (5-15 years) and begins abruptly with sore throat and fever. Headache, abdominal pain, and vomiting may occur. Cough, rhinorrhea, and conjunctivitis point toward a virus."
+    },
+    {
+      "id": "tonsillectomy-strep-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 9-year-old with fever, tonsillar exudate, and tender anterior cervical nodes has a negative rapid antigen detection test for group A strep. What does the nurse anticipate next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Starting amoxicillin because the symptoms are classic for strep",
+          "correct": false,
+          "rationale": "Antibiotics are started when strep is confirmed. Treating without confirmation contributes to unnecessary antibiotic use."
+        },
+        {
+          "id": "b",
+          "text": "No further testing, since a negative rapid test rules out strep",
+          "correct": false,
+          "rationale": "Rapid antigen tests are highly specific but less sensitive, so a negative result does not rule out strep in a child."
+        },
+        {
+          "id": "c",
+          "text": "Collecting a throat culture to confirm the result",
+          "correct": true,
+          "rationale": "In children and adolescents, a negative rapid antigen test is backed up by a throat culture because missed strep can lead to acute rheumatic fever."
+        },
+        {
+          "id": "d",
+          "text": "Repeating the rapid test in 1 week",
+          "correct": false,
+          "rationale": "Waiting a week delays diagnosis and treatment; a backup culture is the standard next step."
+        }
+      ],
+      "explanation": "A positive rapid antigen test confirms GABHS. Because of its lower sensitivity, a negative rapid test in a child is followed by a throat culture. The specimen is collected by swabbing both tonsils and the posterior pharynx."
+    },
+    {
+      "id": "tonsillectomy-strep-13",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent of a 7-year-old prescribed amoxicillin for strep pharyngitis asks, 'Why does he have to take all 10 days if he feels fine in 2 days?' Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Stopping early will make him allergic to penicillin.'",
+          "correct": false,
+          "rationale": "Incomplete treatment does not cause a drug allergy."
+        },
+        {
+          "id": "b",
+          "text": "'The full course is needed so he will not need a tonsillectomy.'",
+          "correct": false,
+          "rationale": "Completing antibiotics treats the current infection; it is not given to avoid surgery."
+        },
+        {
+          "id": "c",
+          "text": "'The last few days of medicine prevent future colds.'",
+          "correct": false,
+          "rationale": "Antibiotics do not prevent viral colds."
+        },
+        {
+          "id": "d",
+          "text": "'Taking all of it fully clears the strep bacteria and helps prevent complications such as rheumatic fever, which can damage the heart.'",
+          "correct": true,
+          "rationale": "A full 10-day course of penicillin or amoxicillin eradicates GABHS from the pharynx and prevents acute rheumatic fever, which can cause rheumatic heart disease."
+        }
+      ],
+      "explanation": "Penicillin V or amoxicillin for 10 days is the treatment of choice for strep pharyngitis (a single IM dose of benzathine penicillin G is an option when adherence is a concern; alternatives are used for penicillin allergy). Symptoms improve within 1-2 days, so parents must be taught to finish the course."
+    },
+    {
+      "id": "tonsillectomy-strep-14",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of a 6-year-old just diagnosed with strep pharyngitis and started on penicillin. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give every dose of the antibiotic for the full 10 days, even after he feels better",
+          "correct": true,
+          "rationale": "Completing the full course eradicates the bacteria and prevents rheumatic fever."
+        },
+        {
+          "id": "b",
+          "text": "He may return to school after he has taken the antibiotic for at least 24 hours and has no fever",
+          "correct": true,
+          "rationale": "Children are generally no longer contagious after 24 hours of appropriate antibiotic therapy."
+        },
+        {
+          "id": "c",
+          "text": "Replace his toothbrush after he has been on the antibiotic for 24 hours",
+          "correct": true,
+          "rationale": "A toothbrush can harbor the organism and contribute to reinfection or spread to others."
+        },
+        {
+          "id": "d",
+          "text": "Offer cool fluids and soft foods and give acetaminophen as needed for throat pain and fever",
+          "correct": true,
+          "rationale": "Cool fluids, soft foods, and acetaminophen or ibuprofen relieve discomfort and support hydration."
+        },
+        {
+          "id": "e",
+          "text": "He can share cups with his sister once his fever is gone",
+          "correct": false,
+          "rationale": "Strep spreads by droplets and shared items. The child should not share utensils or cups while contagious, and good hand hygiene is encouraged."
+        },
+        {
+          "id": "f",
+          "text": "Stop the antibiotic once the sore throat is gone to prevent resistance",
+          "correct": false,
+          "rationale": "Stopping early allows bacteria to persist and increases the risk of rheumatic fever and recurrence."
+        }
+      ],
+      "explanation": "Teaching for strep pharyngitis includes completing the full antibiotic course, staying home until 24 hours of antibiotics and afebrile, replacing the toothbrush, not sharing utensils, hand hygiene, and comfort measures."
+    },
+    {
+      "id": "tonsillectomy-strep-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Three weeks after an untreated sore throat, a 7-year-old is brought to the clinic with puffy eyes, cola-colored urine, decreased urine output, and a BP of 132/88 mm Hg. Which complication should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acute rheumatic fever",
+          "correct": false,
+          "rationale": "Rheumatic fever presents with carditis, migratory polyarthritis, chorea, erythema marginatum, or subcutaneous nodules, not dark urine and edema."
+        },
+        {
+          "id": "b",
+          "text": "Post-streptococcal glomerulonephritis",
+          "correct": true,
+          "rationale": "Periorbital edema, tea- or cola-colored urine (hematuria), oliguria, and hypertension 1-3 weeks after a strep infection are classic for acute post-streptococcal glomerulonephritis."
+        },
+        {
+          "id": "c",
+          "text": "Peritonsillar abscess",
+          "correct": false,
+          "rationale": "A peritonsillar abscess causes severe throat pain, drooling, and a muffled voice; it does not cause renal findings."
+        },
+        {
+          "id": "d",
+          "text": "Scarlet fever",
+          "correct": false,
+          "rationale": "Scarlet fever occurs during the acute strep infection with a sandpaper-like rash and strawberry tongue, not weeks later with renal signs."
+        }
+      ],
+      "explanation": "GABHS can be followed by two nonsuppurative complications: acute rheumatic fever (affecting heart, joints, CNS, skin) and post-streptococcal glomerulonephritis (edema, hematuria, hypertension). Antibiotic treatment prevents rheumatic fever but does not reliably prevent glomerulonephritis, so parents are taught to report these signs."
+    }
+  ]
+}

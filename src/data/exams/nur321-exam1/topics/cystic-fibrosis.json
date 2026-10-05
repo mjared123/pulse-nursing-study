@@ -1,0 +1,435 @@
+{
+  "slug": "cystic-fibrosis",
+  "title": "Cystic Fibrosis",
+  "short": "Cystic Fibrosis",
+  "icon": "layers",
+  "description": "Autosomal recessive multisystem disease of the exocrine glands: CFTR pathophysiology, diagnosis, effects on the lungs, pancreas, GI tract, growth, and reproduction, and the nurse's role in nutrition, airway clearance, infection prevention, and family support.",
+  "keyPoints": [
+    "CF is autosomal recessive: a defective CFTR gene impairs chloride and water transport, producing thick, sticky secretions in the lungs, pancreas, GI tract, liver, sweat glands, and reproductive tract. Two carrier parents have a 25% chance with each pregnancy of a child with CF.",
+    "Meconium ileus (no meconium in the first 24-48 hours, abdominal distention, bilious vomiting) is often the earliest sign. Parents may notice salty-tasting skin when kissing the baby.",
+    "Newborn screening detects many cases; the sweat chloride test confirms the diagnosis (60 mmol/L or higher is diagnostic).",
+    "Pancreatic insufficiency causes steatorrhea (bulky, greasy, foul-smelling stools) and failure to thrive despite a good appetite; track weight, length/height, and BMI percentiles at every visit.",
+    "Give pancreatic enzymes with every meal and snack; swallow capsules whole or open and sprinkle beads on a small amount of acidic food such as applesauce. Do not crush or chew. Effective dosing produces fewer, formed stools and weight gain.",
+    "Diet is high calorie, high protein, with unrestricted fat, fat-soluble vitamins A, D, E, and K, and extra salt during hot weather, fever, or heavy exercise.",
+    "Airway clearance (chest physiotherapy or an oscillating vest) is done at least twice daily, before meals, after a bronchodilator; dornase alfa thins mucus. Pseudomonas aeruginosa is a key pathogen.",
+    "Prevent cross-infection: strict hand hygiene, no sharing of equipment, and keep people with CF at least 6 feet apart. Support the family and the child with education, adherence, body image, and transition to self-care."
+  ],
+  "questions": [
+    {
+      "id": "cystic-fibrosis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Both parents of a newborn diagnosed with cystic fibrosis are carriers of the CFTR gene mutation and do not have the disease. They ask about the risk for future children. What should the nurse tell them?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Each pregnancy has a 50% chance that the child will have cystic fibrosis.",
+          "correct": false,
+          "rationale": "A 50% risk applies to autosomal dominant conditions or to a carrier child; it is not the risk of having the disease here."
+        },
+        {
+          "id": "b",
+          "text": "Because they already have one affected child, future children will not be affected.",
+          "correct": false,
+          "rationale": "Each pregnancy is an independent event. The risk does not change based on previous children."
+        },
+        {
+          "id": "c",
+          "text": "Each pregnancy has a 25% chance that the child will have cystic fibrosis.",
+          "correct": true,
+          "rationale": "CF is autosomal recessive. When both parents are carriers, each pregnancy has a 25% chance of an affected child, a 50% chance of a carrier, and a 25% chance of a child who neither has nor carries the gene."
+        },
+        {
+          "id": "d",
+          "text": "Only male children can be affected.",
+          "correct": false,
+          "rationale": "CF is autosomal, not X-linked, so males and females are affected equally."
+        }
+      ],
+      "explanation": "Cystic fibrosis is inherited in an autosomal recessive pattern. The affected child must receive a mutated CFTR gene from each parent. Families should be offered genetic counseling, and siblings may be tested."
+    },
+    {
+      "id": "cystic-fibrosis-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A full-term newborn is 36 hours old and has not passed meconium. The nurse notes abdominal distention and two episodes of green (bilious) emesis. These findings are most suggestive of which condition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pyloric stenosis",
+          "correct": false,
+          "rationale": "Pyloric stenosis presents at about 2-8 weeks of age with projectile, nonbilious vomiting and normal stools initially."
+        },
+        {
+          "id": "b",
+          "text": "Meconium ileus associated with cystic fibrosis",
+          "correct": true,
+          "rationale": "Meconium ileus occurs when thick, sticky meconium obstructs the ileum. It is often the earliest sign of CF, presenting with failure to pass meconium in 24-48 hours, distention, and bilious vomiting."
+        },
+        {
+          "id": "c",
+          "text": "Physiologic jaundice",
+          "correct": false,
+          "rationale": "Physiologic jaundice causes yellow skin after 24 hours and does not cause intestinal obstruction or vomiting."
+        },
+        {
+          "id": "d",
+          "text": "Gastroesophageal reflux",
+          "correct": false,
+          "rationale": "Reflux causes effortless spitting up and does not prevent passage of meconium or cause abdominal distention."
+        }
+      ],
+      "explanation": "About 10-20% of infants with CF are born with meconium ileus. Any newborn who does not pass meconium within 24-48 hours, especially with distention and bilious vomiting, should be evaluated for obstruction and screened for CF. The nurse reports these findings promptly and keeps the infant NPO as ordered."
+    },
+    {
+      "id": "cystic-fibrosis-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A mother tells the nurse that her 4-month-old \"tastes salty\" when she kisses him and that he has not gained weight in a month. A sweat chloride test is ordered. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The test measures the amount of chloride in the sweat; children with cystic fibrosis have high levels.",
+          "correct": true,
+          "rationale": "Defective CFTR prevents reabsorption of chloride in the sweat ducts, so sweat chloride is elevated. A level of 60 mmol/L or higher is consistent with CF."
+        },
+        {
+          "id": "b",
+          "text": "A blood sample will be drawn to measure the baby's sodium level.",
+          "correct": false,
+          "rationale": "The sweat test uses sweat, not blood. Sweat is stimulated with pilocarpine and collected from the skin."
+        },
+        {
+          "id": "c",
+          "text": "The test is painful and requires sedation.",
+          "correct": false,
+          "rationale": "The sweat test is painless. A small electrical current with pilocarpine stimulates sweating; the child may feel tingling."
+        },
+        {
+          "id": "d",
+          "text": "A low chloride level will confirm the diagnosis.",
+          "correct": false,
+          "rationale": "Cystic fibrosis causes an elevated sweat chloride level, not a low one."
+        }
+      ],
+      "explanation": "The sweat chloride test is the gold standard for confirming CF, usually after a positive newborn screen or clinical signs such as salty skin, meconium ileus, failure to thrive, or recurrent respiratory infections. Results of 60 mmol/L or higher indicate CF, 30-59 are intermediate, and below 30 are unlikely to be CF. Genetic testing may also be done."
+    },
+    {
+      "id": "cystic-fibrosis-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 2-year-old with cystic fibrosis about pancrelipase capsules. Which instruction is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Crush the capsule contents and mix them into a bottle of warm milk.",
+          "correct": false,
+          "rationale": "Crushing or mixing with alkaline food such as milk destroys the enteric coating, inactivates the enzymes, and can irritate the mouth."
+        },
+        {
+          "id": "b",
+          "text": "Give the enzymes once daily at bedtime.",
+          "correct": false,
+          "rationale": "Enzymes act only on food in the GI tract at the same time. They must be given with every meal and snack."
+        },
+        {
+          "id": "c",
+          "text": "Give the enzymes only when stools are greasy.",
+          "correct": false,
+          "rationale": "Enzymes are given routinely with food, not as needed. Greasy stools signal that the dose may need adjustment."
+        },
+        {
+          "id": "d",
+          "text": "Open the capsule and sprinkle the beads on a spoonful of applesauce at the start of each meal and snack; do not let the child chew them.",
+          "correct": true,
+          "rationale": "Beads are enteric-coated and must not be crushed or chewed. Sprinkling them on a small amount of acidic food such as applesauce lets a young child swallow them whole. Enzymes are given with all meals and snacks."
+        }
+      ],
+      "explanation": "Pancreatic enzyme replacement is given within 30 minutes before or at the start of every meal and snack. Capsules are swallowed whole or opened and sprinkled on a small amount of acidic, soft food. Do not crush or chew, do not mix with milk or other alkaline foods, and wipe the mouth to prevent irritation. Doses are adjusted based on stool pattern and growth."
+    },
+    {
+      "id": "cystic-fibrosis-05",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 6-year-old with cystic fibrosis has been taking pancrelipase with meals. Which finding best indicates that the enzyme dose is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child has four to five large, greasy, foul-smelling stools per day.",
+          "correct": false,
+          "rationale": "Frequent bulky, greasy, foul-smelling stools (steatorrhea) indicate continued fat malabsorption and an inadequate enzyme dose."
+        },
+        {
+          "id": "b",
+          "text": "The child's appetite has increased but weight has stayed the same for 3 months.",
+          "correct": false,
+          "rationale": "A big appetite without weight gain suggests ongoing malabsorption and failure to thrive."
+        },
+        {
+          "id": "c",
+          "text": "The child has one or two formed stools per day and has gained weight along a stable growth curve.",
+          "correct": true,
+          "rationale": "Fewer, formed stools and steady weight gain on the growth chart show that fat and protein are being absorbed."
+        },
+        {
+          "id": "d",
+          "text": "The child's abdomen is distended and the child reports cramping after meals.",
+          "correct": false,
+          "rationale": "Distention and cramping suggest malabsorption or obstruction (distal intestinal obstruction syndrome), not effective therapy."
+        }
+      ],
+      "explanation": "Without pancreatic enzymes, children with CF have steatorrhea and fail to thrive despite eating large amounts. Effectiveness is evaluated by stool frequency and consistency, absence of abdominal pain, and growth: weight, height, and BMI plotted at each visit. Nurses play a major role in growth tracking and nutritional teaching."
+    },
+    {
+      "id": "cystic-fibrosis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The family of a 10-year-old with cystic fibrosis is planning a week-long summer trip to a hot, humid area. Which instruction is most important for the nurse to give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Add extra salt to food and encourage plenty of fluids.",
+          "correct": true,
+          "rationale": "Children with CF lose large amounts of sodium and chloride in sweat. In hot weather, with fever, or with heavy exercise, they need extra salt and fluids to prevent hyponatremic dehydration."
+        },
+        {
+          "id": "b",
+          "text": "Limit fluids to reduce mucus production.",
+          "correct": false,
+          "rationale": "Fluid restriction thickens secretions and increases the risk of dehydration. Children with CF need generous fluids."
+        },
+        {
+          "id": "c",
+          "text": "Follow a low-fat diet to prevent greasy stools.",
+          "correct": false,
+          "rationale": "Children with CF need a high-calorie, high-protein diet with unrestricted fat; enzymes are adjusted rather than restricting fat."
+        },
+        {
+          "id": "d",
+          "text": "Stop the pancreatic enzymes while traveling.",
+          "correct": false,
+          "rationale": "Enzymes must be taken with every meal and snack to prevent malabsorption, including while traveling."
+        }
+      ],
+      "explanation": "Excessive salt loss through sweat puts children with CF at risk for hyponatremic dehydration and heat exhaustion. Families should add salt to foods (infants may need sodium chloride supplements), offer plenty of fluids, and watch for fatigue, weakness, and decreased urine output in hot weather."
+    },
+    {
+      "id": "cystic-fibrosis-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Two school-age children with cystic fibrosis are admitted to the pediatric unit on the same day for pulmonary exacerbations. One child's sputum culture grows Pseudomonas aeruginosa. Which action by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the children in the same room so they can support each other.",
+          "correct": false,
+          "rationale": "People with CF should never share a room because they can transmit organisms such as Pseudomonas and Burkholderia to each other."
+        },
+        {
+          "id": "b",
+          "text": "Allow them to share the playroom if they wash their hands first.",
+          "correct": false,
+          "rationale": "Hand hygiene is important but is not enough. People with CF should not be in shared spaces with each other; organisms spread by droplets and surfaces."
+        },
+        {
+          "id": "c",
+          "text": "Isolate only the child with Pseudomonas; the other child can room with any patient.",
+          "correct": false,
+          "rationale": "Both children are at risk. The child without Pseudomonas needs protection from the other child and from any patient with transmissible infection."
+        },
+        {
+          "id": "d",
+          "text": "Assign the children to separate private rooms and avoid having them meet in common areas.",
+          "correct": true,
+          "rationale": "CF Foundation infection-control guidance calls for separate rooms, contact precautions, and keeping people with CF at least 6 feet apart to prevent cross-infection with resistant organisms."
+        }
+      ],
+      "explanation": "Chronic lung infection with Pseudomonas aeruginosa, Staphylococcus aureus (including MRSA), and Burkholderia cepacia accelerates lung damage in CF. Infection prevention includes hand hygiene, contact precautions in the hospital, private rooms, not sharing equipment, keeping at least 6 feet between people with CF, annual influenza vaccination, and routine childhood immunizations."
+    },
+    {
+      "id": "cystic-fibrosis-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 15-year-old with cystic fibrosis has been skipping vest treatments and enzyme doses at school. The teen says, \"I hate being different. Nobody else has to do this stuff.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"If you keep skipping treatments, you will end up in the hospital.\"",
+          "correct": false,
+          "rationale": "Fear-based statements do not address the teen's feelings and often worsen adherence in adolescents."
+        },
+        {
+          "id": "b",
+          "text": "\"Your parents need to watch you take every treatment from now on.\"",
+          "correct": false,
+          "rationale": "Removing autonomy conflicts with the adolescent's developmental need for independence and does not build self-management skills."
+        },
+        {
+          "id": "c",
+          "text": "\"It sounds hard to feel different from your friends. Let's talk about ways to fit your treatments into your day and maybe connect you with other teens who manage CF.\"",
+          "correct": true,
+          "rationale": "This response acknowledges feelings, supports autonomy, and problem-solves with the teen. Peer support (virtual, since people with CF should not gather in person) and a schedule the teen helps design improve adherence."
+        },
+        {
+          "id": "d",
+          "text": "\"Most teenagers with CF do not need enzymes at school.\"",
+          "correct": false,
+          "rationale": "This is inaccurate. Enzymes are needed with every meal and snack, including at school."
+        }
+      ],
+      "explanation": "CF demands hours of daily treatment, which can strain the child and family emotionally, socially, and financially. The nurse's role includes education, coordination of care, psychosocial support, screening for anxiety and depression, and helping the adolescent transition to self-management. Peer connections are encouraged online or by phone rather than in person because of cross-infection risk."
+    },
+    {
+      "id": "cystic-fibrosis-09",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is explaining how cystic fibrosis affects the whole body. Which manifestations are caused by thick secretions in CF? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Recurrent respiratory infections and chronic productive cough",
+          "correct": true,
+          "rationale": "Thick mucus plugs the airways and traps bacteria, causing chronic infection, inflammation, and eventually bronchiectasis."
+        },
+        {
+          "id": "b",
+          "text": "Steatorrhea and failure to thrive",
+          "correct": true,
+          "rationale": "Mucus blocks pancreatic ducts, preventing digestive enzymes from reaching the intestine, so fat and protein are malabsorbed."
+        },
+        {
+          "id": "c",
+          "text": "Infertility in most males due to absence or blockage of the vas deferens",
+          "correct": true,
+          "rationale": "Nearly all males with CF are infertile because of congenital absence or obstruction of the vas deferens. Females may have reduced fertility from thick cervical mucus."
+        },
+        {
+          "id": "d",
+          "text": "Hypertension in early childhood",
+          "correct": false,
+          "rationale": "Hypertension is not a feature of CF."
+        },
+        {
+          "id": "e",
+          "text": "CF-related diabetes",
+          "correct": true,
+          "rationale": "Progressive scarring of the pancreas can damage insulin-producing cells, causing CF-related diabetes, most often in adolescents and adults."
+        },
+        {
+          "id": "f",
+          "text": "Excessive weight gain",
+          "correct": false,
+          "rationale": "Children with CF tend to have poor weight gain because of malabsorption and increased energy needs."
+        }
+      ],
+      "explanation": "CF is a multisystem disease of the exocrine glands. Respiratory effects include chronic infection, bronchiectasis, and hypoxemia. GI effects include meconium ileus, pancreatic insufficiency, steatorrhea, fat-soluble vitamin deficiency, rectal prolapse, and liver disease. Endocrine effects include CF-related diabetes, and reproductive effects include male infertility. Sweat glands lose excess salt."
+    },
+    {
+      "id": "cystic-fibrosis-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 4-year-old with cystic fibrosis about nutrition. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer a high-calorie, high-protein diet with frequent meals and snacks.",
+          "correct": true,
+          "rationale": "Children with CF need about 110-200% of usual calorie needs because of malabsorption and increased work of breathing."
+        },
+        {
+          "id": "b",
+          "text": "Give the prescribed fat-soluble vitamins A, D, E, and K daily.",
+          "correct": true,
+          "rationale": "Fat malabsorption causes deficiencies of fat-soluble vitamins, so a CF-specific water-miscible supplement is given."
+        },
+        {
+          "id": "c",
+          "text": "Restrict fat intake to reduce greasy stools.",
+          "correct": false,
+          "rationale": "Fat is not restricted; it is an important calorie source. Enzyme doses are adjusted to control steatorrhea."
+        },
+        {
+          "id": "d",
+          "text": "Give pancreatic enzymes with snacks as well as meals.",
+          "correct": true,
+          "rationale": "Any food containing fat, protein, or complex carbohydrate requires enzymes for digestion."
+        },
+        {
+          "id": "e",
+          "text": "Weigh the child at home every hour after meals.",
+          "correct": false,
+          "rationale": "Frequent hourly weighing is unnecessary. Growth is tracked at regular clinic visits with weight, height, and BMI percentiles."
+        }
+      ],
+      "explanation": "Good nutrition is linked to better lung function and survival in CF. The diet is high in calories, protein, and fat, supplemented with fat-soluble vitamins A, D, E, and K, enzymes with all meals and snacks, extra salt as needed, and supplemental feedings (oral or by gastrostomy) if growth falters."
+    },
+    {
+      "id": "cystic-fibrosis-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is reviewing home airway clearance with the family of an 8-year-old with cystic fibrosis. Which statements by the parent indicate correct understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We will do the vest treatments right after meals so his stomach is full.\"",
+          "correct": false,
+          "rationale": "Airway clearance right after eating can cause vomiting and aspiration. It should be done before meals or at least 1 hour after eating."
+        },
+        {
+          "id": "b",
+          "text": "\"He will use his albuterol inhaler before starting chest physiotherapy.\"",
+          "correct": true,
+          "rationale": "A bronchodilator opens the airways first so that mucus can be mobilized and coughed out more effectively."
+        },
+        {
+          "id": "c",
+          "text": "\"We will do airway clearance at least twice a day, even when he feels well.\"",
+          "correct": true,
+          "rationale": "Daily airway clearance is preventive. It is typically done at least twice daily and increased during illness."
+        },
+        {
+          "id": "d",
+          "text": "\"Running and playing soccer can help loosen his mucus.\"",
+          "correct": true,
+          "rationale": "Aerobic exercise promotes mucus clearance and is encouraged as part of the treatment plan, along with formal airway clearance."
+        },
+        {
+          "id": "e",
+          "text": "\"We should give a cough suppressant so he can rest during treatments.\"",
+          "correct": false,
+          "rationale": "Coughing clears mucus and is encouraged. Cough suppressants are avoided in CF."
+        }
+      ],
+      "explanation": "Airway clearance techniques include chest physiotherapy with percussion and postural drainage, high-frequency chest wall oscillation vests, positive expiratory pressure devices, and breathing techniques. They are performed before meals, after a bronchodilator, at least twice daily, and more often during exacerbations. Exercise is encouraged, and coughing should never be suppressed."
+    },
+    {
+      "id": "cystic-fibrosis-12",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 9-year-old with cystic fibrosis has the following morning therapies ordered. Place them in the order the nurse should perform them.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Inhaled bronchodilator (albuterol)"
+        },
+        {
+          "id": "b",
+          "text": "Nebulized dornase alfa to thin secretions"
+        },
+        {
+          "id": "c",
+          "text": "Airway clearance with the high-frequency chest wall oscillation vest"
+        },
+        {
+          "id": "d",
+          "text": "Inhaled antibiotic (tobramycin)"
+        },
+        {
+          "id": "e",
+          "text": "Breakfast with pancreatic enzymes"
+        }
+      ],
+      "explanation": "The bronchodilator opens the airways first. Dornase alfa breaks down DNA in sputum to thin mucus so it can be cleared. Airway clearance then mobilizes and removes secretions. The inhaled antibiotic comes after clearance so it reaches clean airway surfaces. Breakfast is eaten after treatments, with enzymes, to reduce the risk of vomiting during airway clearance."
+    }
+  ]
+}

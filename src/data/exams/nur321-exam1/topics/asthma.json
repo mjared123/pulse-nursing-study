@@ -1,0 +1,507 @@
+{
+  "slug": "asthma",
+  "title": "Pediatric Asthma",
+  "short": "Asthma",
+  "icon": "lungs",
+  "description": "Chronic airway inflammation in children: pathophysiology, triggers, recognizing exacerbations and status asthmaticus, rescue versus controller medications, inhaler and peak flow technique, action plans, and school and sports teaching.",
+  "keyPoints": [
+    "Asthma is chronic airway inflammation with three obstructive components: mucosal edema, bronchospasm (smooth muscle constriction), and thick mucus production; air becomes trapped behind narrowed airways.",
+    "Classic presentation: expiratory wheeze, prolonged expiration, cough that is worse at night or with activity, chest tightness, and retractions or nasal flaring with increased work of breathing.",
+    "A silent chest (diminished or absent breath sounds and no wheeze) in a distressed child means almost no air movement and is an emergency, not improvement.",
+    "Status asthmaticus is a severe exacerbation that does not respond to repeated bronchodilators; priorities are upright positioning, oxygen, continuous or repeated albuterol, systemic corticosteroids, and close monitoring for respiratory failure.",
+    "Albuterol (short-acting beta2 agonist) is the rescue drug; expected side effects are tachycardia, tremor, and jitteriness. Inhaled corticosteroids are daily controllers that do not relieve acute symptoms; rinse the mouth after use to prevent thrush.",
+    "Use an MDI with a spacer (with mask for young children): shake, exhale, seal, press once, slow deep breath, hold 10 seconds (or 5-6 tidal breaths with a mask), and wait about 1 minute between puffs.",
+    "Peak flow zones are based on the child's personal best: green 80-100% (take controllers), yellow 50-79% (use rescue med per action plan), red below 50% (rescue med and seek emergency care).",
+    "Every child needs a written asthma action plan at home and school, permission to carry a rescue inhaler, pretreatment with albuterol 15-20 minutes before exercise, and trigger avoidance (smoke, allergens, viral infections, cold air)."
+  ],
+  "questions": [
+    {
+      "id": "asthma-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A parent asks the nurse what is happening inside the lungs of a child during an asthma attack. Which explanation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The air sacs lose their elasticity and are permanently enlarged, so air cannot be pushed out.",
+          "correct": false,
+          "rationale": "Permanent loss of alveolar elasticity describes emphysema. Asthma airway obstruction is largely reversible."
+        },
+        {
+          "id": "b",
+          "text": "The airways become swollen and inflamed, the muscles around them tighten, and thick mucus is produced, which narrows the airways and traps air.",
+          "correct": true,
+          "rationale": "Asthma obstruction has three components: inflammation with mucosal edema, bronchospasm of airway smooth muscle, and increased thick mucus. Together they narrow the airways and trap air in the lungs."
+        },
+        {
+          "id": "c",
+          "text": "A bacterial infection fills the air sacs with fluid, preventing oxygen from reaching the blood.",
+          "correct": false,
+          "rationale": "Fluid- and exudate-filled alveoli describe pneumonia, not asthma. Asthma is not caused by bacterial infection."
+        },
+        {
+          "id": "d",
+          "text": "The thick secretions are caused by a defective salt-transport gene that is passed from both parents.",
+          "correct": false,
+          "rationale": "A defective chloride (CFTR) channel inherited from both parents describes cystic fibrosis, not asthma."
+        }
+      ],
+      "explanation": "Asthma is a chronic inflammatory disorder of the airways. During an exacerbation, inflammation causes mucosal edema, smooth muscle constricts (bronchospasm), and goblet cells produce thick mucus. The narrowed airways trap air, which produces wheezing and prolonged expiration. Because the obstruction is largely reversible, bronchodilators and anti-inflammatory drugs are effective."
+    },
+    {
+      "id": "asthma-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse is assessing a 6-year-old child brought to the clinic for a possible asthma diagnosis. Which finding reported by the parent is most consistent with asthma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A barking, seal-like cough that started suddenly at night after a mild cold",
+          "correct": false,
+          "rationale": "A barking cough with inspiratory stridor suggests croup (laryngotracheobronchitis), an upper airway problem."
+        },
+        {
+          "id": "b",
+          "text": "High fever, drooling, and refusing to swallow or lie down",
+          "correct": false,
+          "rationale": "Fever, drooling, dysphagia, and a preference for sitting upright suggest epiglottitis, an upper airway emergency."
+        },
+        {
+          "id": "c",
+          "text": "Frequent bulky, foul-smelling stools and poor weight gain",
+          "correct": false,
+          "rationale": "Steatorrhea and failure to thrive point to malabsorption, such as cystic fibrosis."
+        },
+        {
+          "id": "d",
+          "text": "A dry cough that is worse at night and after running, with wheezing when breathing out",
+          "correct": true,
+          "rationale": "A recurrent cough that worsens at night or with exercise and an expiratory wheeze are classic signs of asthma. Nighttime cough may be the only symptom in some children."
+        }
+      ],
+      "explanation": "Asthma typically presents with expiratory wheezing, prolonged expiration, chest tightness, shortness of breath, and a cough that is worse at night, early morning, or with activity. Symptoms are often episodic and triggered by viral infections, allergens, exercise, or cold air. Croup and epiglottitis are upper airway disorders with inspiratory stridor."
+    },
+    {
+      "id": "asthma-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 8-year-old child in the emergency department for an asthma exacerbation had loud expiratory wheezes an hour ago. Now the child is sitting upright, speaking only one or two words at a time, and the nurse hears very faint breath sounds with no wheezing. SpO2 is 87% and RR is 40/min. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The bronchodilator has opened the airways and the child is improving.",
+          "correct": false,
+          "rationale": "Wheezing that disappears while distress persists is not improvement. Improvement would include better air entry, lower RR, rising SpO2, and the ability to speak in sentences."
+        },
+        {
+          "id": "b",
+          "text": "The child is anxious and needs coaching to slow the breathing rate.",
+          "correct": false,
+          "rationale": "Anxiety is real, but attributing these findings to anxiety misses a life-threatening decrease in air movement."
+        },
+        {
+          "id": "c",
+          "text": "Airflow is so severely obstructed that too little air is moving to produce a wheeze, which signals impending respiratory failure.",
+          "correct": true,
+          "rationale": "A \"silent chest\" means almost no air is moving through the narrowed airways. Combined with hypoxemia and inability to speak, it is an emergency requiring immediate intervention and escalation."
+        },
+        {
+          "id": "d",
+          "text": "Mucus has cleared from the large airways, so the remaining sounds are normal vesicular breath sounds.",
+          "correct": false,
+          "rationale": "Faint or absent breath sounds in a distressed, hypoxemic child are not normal; they reflect poor air entry."
+        }
+      ],
+      "explanation": "Wheezing requires airflow. When obstruction becomes severe, breath sounds diminish and wheezing may disappear, the so-called silent chest. This is an ominous sign of impending respiratory failure, especially with hypoxemia, inability to speak, fatigue, or a change in level of consciousness. The nurse should call for help, give oxygen and bronchodilators as ordered, and prepare for possible ventilatory support."
+    },
+    {
+      "id": "asthma-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old child with status asthmaticus is admitted to the pediatric unit. SpO2 is 89% on room air, RR 38/min, HR 138/min, with intercostal and subcostal retractions. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obtain a sputum specimen for culture and sensitivity.",
+          "correct": false,
+          "rationale": "A sputum culture does not treat the immediate problem of hypoxemia and airway obstruction and is not routinely needed in asthma."
+        },
+        {
+          "id": "b",
+          "text": "Teach the child how to use a peak flow meter.",
+          "correct": false,
+          "rationale": "Teaching is not appropriate during acute respiratory distress. A child in status asthmaticus may not be able to perform a peak flow measurement."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the child to drink 1 L of fluid quickly to thin secretions.",
+          "correct": false,
+          "rationale": "Adequate hydration is supported, but forcing a large volume of fluid is not a priority and can cause vomiting and aspiration in a dyspneic child."
+        },
+        {
+          "id": "d",
+          "text": "Place the child upright in high Fowler position and apply oxygen to keep SpO2 at or above 92%.",
+          "correct": true,
+          "rationale": "Upright positioning improves lung expansion and oxygen addresses hypoxemia immediately. These are first steps while inhaled albuterol and systemic corticosteroids are prepared as ordered."
+        }
+      ],
+      "explanation": "Status asthmaticus is a severe exacerbation that persists despite usual bronchodilator therapy. Management includes upright positioning, humidified oxygen, frequent or continuous albuterol (often with ipratropium), systemic corticosteroids, IV fluids as needed, and possibly IV magnesium sulfate. The nurse monitors SpO2, work of breathing, mental status, and breath sounds for deterioration."
+    },
+    {
+      "id": "asthma-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 9-year-old child with persistent asthma uses fluticasone (inhaled corticosteroid) twice daily and albuterol as needed. During recess the child develops coughing, wheezing, and chest tightness. Which medication should the school nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Albuterol by metered-dose inhaler with a spacer",
+          "correct": true,
+          "rationale": "Albuterol is a short-acting beta2 agonist that relaxes bronchial smooth muscle within minutes. It is the rescue medication for acute symptoms."
+        },
+        {
+          "id": "b",
+          "text": "An extra dose of the fluticasone inhaler",
+          "correct": false,
+          "rationale": "Inhaled corticosteroids are controllers that reduce inflammation over days to weeks. They do not relieve acute bronchospasm."
+        },
+        {
+          "id": "c",
+          "text": "Montelukast by mouth",
+          "correct": false,
+          "rationale": "Montelukast is a leukotriene receptor antagonist used for long-term control and exercise prevention; it is not a rescue drug."
+        },
+        {
+          "id": "d",
+          "text": "Oral diphenhydramine",
+          "correct": false,
+          "rationale": "Antihistamines do not treat bronchospasm and can dry secretions; they are not used to treat an asthma attack."
+        }
+      ],
+      "explanation": "Asthma medications are divided into quick-relief (rescue) and long-term control drugs. Albuterol is the rescue drug for acute symptoms and before exercise. Inhaled corticosteroids, leukotriene modifiers, and long-acting beta agonists (always combined with an inhaled corticosteroid) are taken daily to prevent symptoms and do not stop an attack in progress."
+    },
+    {
+      "id": "asthma-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of a 7-year-old who was just prescribed budesonide by inhalation twice daily. Which instruction is most important to include?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use this inhaler only when your child is wheezing.",
+          "correct": false,
+          "rationale": "Budesonide is a controller medication that must be taken every day, even when the child feels well, to reduce airway inflammation."
+        },
+        {
+          "id": "b",
+          "text": "Have your child rinse the mouth with water and spit after each dose.",
+          "correct": true,
+          "rationale": "Inhaled corticosteroids deposit in the mouth and throat. Rinsing and spitting reduces the risk of oral candidiasis (thrush) and hoarseness and reduces systemic absorption."
+        },
+        {
+          "id": "c",
+          "text": "Stop the medication if your child has a fast heartbeat or feels shaky.",
+          "correct": false,
+          "rationale": "Tachycardia and tremor are side effects of albuterol, not inhaled corticosteroids. Controllers should not be stopped without talking to the provider."
+        },
+        {
+          "id": "d",
+          "text": "Expect the medication to stop an asthma attack within 5 minutes.",
+          "correct": false,
+          "rationale": "Inhaled corticosteroids have a slow onset and do not provide quick relief. Albuterol is used for acute symptoms."
+        }
+      ],
+      "explanation": "Inhaled corticosteroids are the most effective long-term controllers for persistent asthma. They are taken daily regardless of symptoms. Key teaching includes using a spacer, rinsing the mouth after each dose to prevent thrush, and monitoring growth, since high doses may slightly slow growth velocity; the benefit of asthma control outweighs this risk."
+    },
+    {
+      "id": "asthma-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 12-year-old child's personal best peak expiratory flow is 300 L/min. This morning the child has a slight cough and the reading is 210 L/min. According to the asthma action plan, what should the child do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continue usual daily medications; the reading is in the green zone.",
+          "correct": false,
+          "rationale": "210 is 70% of 300. The green zone is 80-100% of personal best, so this reading is not in the green zone."
+        },
+        {
+          "id": "b",
+          "text": "Go to the emergency department immediately; the reading is in the red zone.",
+          "correct": false,
+          "rationale": "The red zone is below 50% of personal best (below 150 L/min here). The child is not yet in the red zone."
+        },
+        {
+          "id": "c",
+          "text": "Use the rescue inhaler as directed in the yellow zone of the plan and recheck the peak flow.",
+          "correct": true,
+          "rationale": "210 ÷ 300 = 70%, which is in the yellow zone (50-79%). The yellow zone means caution: take the rescue medication per the plan, recheck, and contact the provider if the reading does not return to green."
+        },
+        {
+          "id": "d",
+          "text": "Skip the controller medication today and rest until the cough is gone.",
+          "correct": false,
+          "rationale": "Controller medications should continue daily. Skipping them would worsen airway inflammation."
+        }
+      ],
+      "explanation": "Peak flow zones are based on the child's personal best, the highest reading over 2-3 weeks when asthma is well controlled. Green (80-100%) means good control. Yellow (50-79%) means caution and calls for rescue medication per the action plan. Red (below 50%) is a medical alert: give the rescue medication and seek emergency care. Peak flow can drop before symptoms become obvious."
+    },
+    {
+      "id": "asthma-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Twenty minutes after receiving nebulized albuterol, a 5-year-old child has HR 136/min (baseline 110/min), fine hand tremors, and says, \"I feel jittery.\" Wheezing has decreased and SpO2 has risen from 91% to 96%. What is the nurse's best interpretation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child is having an allergic reaction and the next dose should be held.",
+          "correct": false,
+          "rationale": "Tachycardia and tremor are predictable beta-agonist effects, not signs of allergy. There is no rash, swelling, or stridor."
+        },
+        {
+          "id": "b",
+          "text": "These are expected side effects of albuterol, and the treatment is having the desired effect.",
+          "correct": true,
+          "rationale": "Albuterol stimulates beta receptors, causing tachycardia, tremor, nervousness, and sometimes hypokalemia. Decreased wheezing and improved SpO2 show the drug is working. The nurse continues to monitor."
+        },
+        {
+          "id": "c",
+          "text": "The child is developing status asthmaticus and needs intubation.",
+          "correct": false,
+          "rationale": "The child is improving: less wheezing and better oxygenation. Status asthmaticus is a lack of response to bronchodilators."
+        },
+        {
+          "id": "d",
+          "text": "The child is hypoglycemic and should be given juice right away.",
+          "correct": false,
+          "rationale": "Beta agonists tend to raise, not lower, blood glucose. Jitteriness here is explained by the albuterol."
+        }
+      ],
+      "explanation": "Common side effects of short-acting beta2 agonists include tachycardia, palpitations, tremor, nervousness, and hypokalemia with frequent dosing. These effects are expected and usually short-lived. The nurse evaluates effectiveness by improved air movement, decreased wheezing and work of breathing, and improved SpO2 and peak flow."
+    },
+    {
+      "id": "asthma-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse on a pediatric unit receives report on four children with asthma. Which child should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 4-year-old with expiratory wheezes and RR 30/min who is playing with blocks",
+          "correct": false,
+          "rationale": "Wheezing with a normal RR for age and normal activity indicates mild symptoms. This child is stable."
+        },
+        {
+          "id": "b",
+          "text": "A 9-year-old who is due for a scheduled dose of inhaled fluticasone",
+          "correct": false,
+          "rationale": "A routine controller dose is important but not time-critical compared with acute distress."
+        },
+        {
+          "id": "c",
+          "text": "A 6-year-old who is drowsy, sitting in a tripod position, with SpO2 90% and decreasing breath sounds",
+          "correct": true,
+          "rationale": "Decreased level of consciousness, tripod positioning, hypoxemia, and diminishing breath sounds signal severe obstruction and impending respiratory failure. This child needs immediate assessment and intervention."
+        },
+        {
+          "id": "d",
+          "text": "A 12-year-old who reports a peak flow of 85% of personal best and wants to go to the playroom",
+          "correct": false,
+          "rationale": "85% of personal best is in the green zone, indicating good control."
+        }
+      ],
+      "explanation": "When prioritizing children with asthma, look for signs of severe obstruction and respiratory failure: altered mental status or drowsiness, tripod position, inability to speak, diminished or absent breath sounds (silent chest), cyanosis, and falling SpO2. A drowsy child in respiratory distress may be retaining carbon dioxide and tiring out."
+    },
+    {
+      "id": "asthma-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 7-year-old child is being discharged after an asthma exacerbation with a 5-day course of oral prednisolone. Which statement by the parent indicates understanding of this medication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I will give it with food and make sure my child finishes all 5 days even if the breathing gets better.\"",
+          "correct": true,
+          "rationale": "A short burst of oral corticosteroid reduces airway inflammation and helps prevent relapse. Giving it with food reduces GI upset, and the full course should be completed as prescribed."
+        },
+        {
+          "id": "b",
+          "text": "\"This medicine replaces the albuterol, so we can stop using the rescue inhaler.\"",
+          "correct": false,
+          "rationale": "Systemic steroids do not cause immediate bronchodilation. Albuterol remains the rescue medication."
+        },
+        {
+          "id": "c",
+          "text": "\"I will give it only when my child is wheezing.\"",
+          "correct": false,
+          "rationale": "The steroid burst is given on a schedule for the prescribed number of days, not as needed."
+        },
+        {
+          "id": "d",
+          "text": "\"Weight gain and mood changes mean my child is allergic, so I should stop it.\"",
+          "correct": false,
+          "rationale": "Increased appetite, mood changes, and trouble sleeping are common short-term effects of corticosteroids, not allergic reactions. The parent should not stop it without consulting the provider."
+        }
+      ],
+      "explanation": "Systemic corticosteroids (oral prednisone, prednisolone, or dexamethasone, or IV methylprednisolone) are used for moderate to severe exacerbations to reduce airway inflammation. Short courses of 3-10 days typically do not require tapering. Teach the family to give the drug with food, complete the course, and expect side effects such as increased appetite, mood swings, and elevated blood glucose."
+    },
+    {
+      "id": "asthma-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the family of a 5-year-old newly diagnosed with asthma about reducing exposure to common triggers. Which recommendations are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do not allow anyone to smoke or vape in the home or car.",
+          "correct": true,
+          "rationale": "Tobacco smoke and vapor are major airway irritants and are strongly linked to asthma exacerbations in children."
+        },
+        {
+          "id": "b",
+          "text": "Use allergen-proof covers on the mattress and pillows and wash bedding weekly in hot water.",
+          "correct": true,
+          "rationale": "These measures reduce exposure to dust mites, a common indoor allergen trigger."
+        },
+        {
+          "id": "c",
+          "text": "Keep the child indoors at all times to avoid pollen.",
+          "correct": false,
+          "rationale": "Isolating the child is unnecessary and harmful to development. Families can limit outdoor time on high-pollen days and keep windows closed instead."
+        },
+        {
+          "id": "d",
+          "text": "Make sure the child gets the annual influenza vaccine and practices good handwashing.",
+          "correct": true,
+          "rationale": "Viral respiratory infections are the most common trigger of exacerbations in young children. Annual influenza vaccination is recommended for children with asthma."
+        },
+        {
+          "id": "e",
+          "text": "Burn scented candles to cover pet odors.",
+          "correct": false,
+          "rationale": "Strong odors, smoke, and fragrances are irritants that can trigger bronchospasm."
+        },
+        {
+          "id": "f",
+          "text": "Cover the nose and mouth with a scarf when outdoors in cold weather.",
+          "correct": true,
+          "rationale": "Breathing cold, dry air can trigger bronchospasm. A scarf warms and humidifies inhaled air."
+        }
+      ],
+      "explanation": "Common asthma triggers include viral respiratory infections, tobacco smoke, dust mites, pet dander, cockroaches, mold, pollen, cold air, exercise, strong odors, and air pollution. Teaching focuses on practical environmental control, vaccination, and recognizing early warning signs rather than restricting normal childhood activity."
+    },
+    {
+      "id": "asthma-12",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 3-year-old child is brought to the emergency department with an asthma exacerbation. Which findings indicate increased work of breathing? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subcostal and intercostal retractions",
+          "correct": true,
+          "rationale": "Retractions occur as the child uses accessory muscles to pull air past narrowed airways; they indicate increased work of breathing."
+        },
+        {
+          "id": "b",
+          "text": "Prolonged expiratory phase",
+          "correct": true,
+          "rationale": "Narrowed airways make it hard to push air out, so expiration lengthens. This reflects air trapping."
+        },
+        {
+          "id": "c",
+          "text": "Nasal flaring",
+          "correct": true,
+          "rationale": "Nasal flaring is a sign of respiratory distress in young children, who widen the nares to decrease airway resistance."
+        },
+        {
+          "id": "d",
+          "text": "RR 26/min while resting quietly",
+          "correct": false,
+          "rationale": "An RR of about 24-40/min is within the expected range for a toddler at rest; it does not indicate distress."
+        },
+        {
+          "id": "e",
+          "text": "Capillary refill of 2 seconds",
+          "correct": false,
+          "rationale": "Capillary refill of 2 seconds is normal and reflects perfusion, not work of breathing."
+        },
+        {
+          "id": "f",
+          "text": "Use of the sternocleidomastoid muscles with head bobbing",
+          "correct": true,
+          "rationale": "Accessory neck muscle use and head bobbing are signs of significant respiratory effort in young children."
+        }
+      ],
+      "explanation": "Signs of increased work of breathing in children include tachypnea for age, retractions (subcostal, intercostal, suprasternal), nasal flaring, accessory muscle use, head bobbing, grunting, prolonged expiration, and tripod positioning. Restlessness, inability to speak or feed, and diminished breath sounds suggest worsening obstruction."
+    },
+    {
+      "id": "asthma-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The school nurse is meeting with the parents and coach of a 13-year-old soccer player with exercise-induced asthma. Which recommendations should the nurse make? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use albuterol 15-20 minutes before practice and games as prescribed.",
+          "correct": true,
+          "rationale": "Pretreatment with a short-acting beta agonist prevents exercise-induced bronchospasm for 2-4 hours."
+        },
+        {
+          "id": "b",
+          "text": "The student should stop playing sports to prevent asthma attacks.",
+          "correct": false,
+          "rationale": "Children with well-controlled asthma can and should participate fully in sports. Physical activity is encouraged."
+        },
+        {
+          "id": "c",
+          "text": "Include a warm-up period before strenuous activity.",
+          "correct": true,
+          "rationale": "A gradual warm-up can reduce the severity of exercise-induced bronchospasm."
+        },
+        {
+          "id": "d",
+          "text": "Keep the rescue inhaler locked in the main office for safety.",
+          "correct": false,
+          "rationale": "Rescue inhalers must be immediately available. Students who are able should be allowed to carry and self-administer their inhaler, as permitted by state law and school policy."
+        },
+        {
+          "id": "e",
+          "text": "Keep a copy of the asthma action plan with the school nurse and the coach.",
+          "correct": true,
+          "rationale": "A written action plan tells school staff how to recognize worsening symptoms and what to do, including when to call 911."
+        }
+      ],
+      "explanation": "School and sports teaching includes pre-exercise albuterol, warm-up and cool-down, having the rescue inhaler readily available (self-carry for capable students), sharing the asthma action plan with school staff and coaches, and stopping activity and using the rescue inhaler if symptoms occur. The goal is full participation with good control."
+    },
+    {
+      "id": "asthma-14",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a 9-year-old child to use an albuterol metered-dose inhaler with a spacer (valved holding chamber) and mouthpiece. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Remove the caps, shake the inhaler, and insert it into the spacer."
+        },
+        {
+          "id": "b",
+          "text": "Breathe out fully, away from the spacer."
+        },
+        {
+          "id": "c",
+          "text": "Seal the lips around the spacer mouthpiece and press the inhaler once."
+        },
+        {
+          "id": "d",
+          "text": "Breathe in slowly and deeply through the mouth, then hold the breath for about 10 seconds."
+        },
+        {
+          "id": "e",
+          "text": "Wait about 1 minute before shaking the inhaler and repeating for the next puff."
+        }
+      ],
+      "explanation": "The inhaler is shaken and attached to the spacer, the child exhales completely, seals the lips on the mouthpiece, releases one puff into the spacer, then inhales slowly and deeply and holds the breath about 10 seconds so the medication deposits in the airways. Waiting about a minute between puffs improves delivery. Young children who cannot do this use a spacer with a face mask and take 5-6 normal breaths per puff. Spacers increase lung delivery and decrease oral deposition."
+    }
+  ]
+}
