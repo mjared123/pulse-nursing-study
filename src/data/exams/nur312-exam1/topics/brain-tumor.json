@@ -1,0 +1,181 @@
+{
+  "slug": "brain-tumor",
+  "title": "Brain Tumors",
+  "short": "Brain Tumor",
+  "icon": "target",
+  "description": "Brain tumors: location-specific signs, signs of increased ICP, diagnostics, craniotomy post-op care and positioning, dexamethasone, antiseizure therapy, SIADH and DI after surgery, and chemo and radiation teaching.",
+  "keyPoints": [
+    "Signs depend on location. Frontal: personality change, poor judgment, expressive aphasia. Temporal: seizures, receptive aphasia, memory changes. Parietal: sensory loss, spatial neglect. Occipital: visual field deficits. Cerebellar: ataxia, nystagmus, poor coordination.",
+    "Increased ICP from a tumor: headache worse on awakening and with straining, vomiting (often projectile, without nausea), papilledema, change in LOC, and seizures.",
+    "MRI with contrast is the preferred diagnostic test; biopsy confirms the type. Lumbar puncture is avoided when ICP is increased because of the risk of herniation.",
+    "Supratentorial craniotomy: HOB 30° with the head midline. Infratentorial: position flat or side-lying as the surgeon prescribes, and avoid neck flexion.",
+    "Drainage on the dressing with a yellow halo ring suggests a CSF leak: report it and monitor for meningitis.",
+    "Dexamethasone reduces vasogenic edema: monitor glucose, protect the GI tract (give with food, H2 blocker or PPI), watch for infection, and never stop it abruptly.",
+    "Watch for DI (large dilute urine output, high sodium) and SIADH (low output, low sodium, seizure risk) after surgery. Keep seizure precautions and give antiseizure medications as prescribed."
+  ],
+  "questions": [
+    {
+      "id": "brain-tumor-01",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is being evaluated for a possible brain tumor. Which description of the client's headache is most consistent with this diagnosis?",
+      "options": [
+        { "id": "a", "text": "Sudden, explosive headache described as the worst of the client's life", "correct": false, "rationale": "A thunderclap headache suggests subarachnoid hemorrhage from a ruptured aneurysm, not a tumor." },
+        { "id": "b", "text": "Headache that is worst on awakening and worsens with coughing or bending over", "correct": true, "rationale": "Lying flat overnight and mild CO2 retention during sleep raise ICP, so tumor headaches are classically worse in the morning and with straining." },
+        { "id": "c", "text": "Headache that occurs only in the late afternoon after work", "correct": false, "rationale": "End-of-day headaches are typical of tension-type headache." },
+        { "id": "d", "text": "One-sided throbbing headache preceded by flashing lights", "correct": false, "rationale": "An aura followed by a unilateral throbbing headache describes migraine." }
+      ],
+      "explanation": "Brain tumor headaches are usually caused by rising ICP and traction on pain-sensitive structures. They are often worse on awakening and with activities that raise ICP (coughing, straining, bending), and may come with vomiting. Any new, progressive headache pattern in an adult warrants evaluation."
+    },
+    {
+      "id": "brain-tumor-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The family of a 54-year-old reports that over several months the client has become uncharacteristically rude, makes poor financial decisions, and seems indifferent to family events. A tumor in which location is most likely?",
+      "options": [
+        { "id": "a", "text": "Occipital lobe", "correct": false, "rationale": "Occipital tumors cause visual field deficits and visual disturbances." },
+        { "id": "b", "text": "Cerebellum", "correct": false, "rationale": "Cerebellar tumors cause ataxia, nystagmus, and poor coordination." },
+        { "id": "c", "text": "Parietal lobe", "correct": false, "rationale": "Parietal tumors cause sensory changes, spatial disorientation, and neglect." },
+        { "id": "d", "text": "Frontal lobe", "correct": true, "rationale": "The frontal lobe governs personality, judgment, and impulse control. Changes in these are classic for frontal tumors." }
+      ],
+      "explanation": "Focal signs of a brain tumor reflect the function of the area involved. Frontal: personality, judgment, motor and expressive speech. Temporal: seizures, memory, receptive language. Parietal: sensation and spatial awareness. Occipital: vision. Cerebellar: balance and coordination."
+    },
+    {
+      "id": "brain-tumor-03",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with a large glioblastoma is being assessed. Which findings indicate increased intracranial pressure from the tumor? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Papilledema on fundoscopic exam", "correct": true, "rationale": "Swelling of the optic disc results from increased pressure transmitted along the optic nerve sheath." },
+        { "id": "b", "text": "Vomiting without preceding nausea", "correct": true, "rationale": "Pressure on the vomiting center in the brainstem can cause vomiting, often projectile and without nausea." },
+        { "id": "c", "text": "Increased appetite and weight gain", "correct": false, "rationale": "Increased ICP does not cause increased appetite. Weight gain may come from steroids, not the ICP itself." },
+        { "id": "d", "text": "New drowsiness and slowed responses", "correct": true, "rationale": "A change in LOC is the earliest and most sensitive sign of rising ICP." },
+        { "id": "e", "text": "Tachycardia with low blood pressure", "correct": false, "rationale": "Increased ICP causes hypertension and bradycardia late (Cushing triad), not tachycardia with hypotension." },
+        { "id": "f", "text": "Headache that is worse in the morning", "correct": true, "rationale": "Morning headache is a classic sign of increased ICP from a mass lesion." }
+      ],
+      "explanation": "A growing tumor and its surrounding edema raise ICP. Classic signs are morning headache, vomiting, papilledema, LOC changes, and seizures. Late signs include pupil changes and Cushing triad, which mean herniation may be occurring."
+    },
+    {
+      "id": "brain-tumor-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a suspected brain tumor has papilledema and a worsening headache. The nurse reviews the prescriptions. Which one should the nurse question?",
+      "options": [
+        { "id": "a", "text": "Lumbar puncture for CSF analysis", "correct": true, "rationale": "Removing CSF from below when ICP is high creates a pressure gradient that can cause brainstem herniation." },
+        { "id": "b", "text": "MRI of the brain with gadolinium contrast", "correct": false, "rationale": "MRI with contrast is the preferred study to locate and characterize a brain tumor." },
+        { "id": "c", "text": "Neurologic checks every 2 hours", "correct": false, "rationale": "Frequent neuro checks are appropriate to detect rising ICP." },
+        { "id": "d", "text": "Dexamethasone 4 mg IV every 6 hours", "correct": false, "rationale": "Dexamethasone is commonly used to reduce vasogenic edema around a tumor." }
+      ],
+      "explanation": "MRI with contrast is the main diagnostic tool, often followed by biopsy to determine the tumor type. Before MRI, screen for implanted metal devices. Lumbar puncture is contraindicated when ICP is elevated because of the risk of herniation."
+    },
+    {
+      "id": "brain-tumor-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client returns to the neuro ICU after a supratentorial craniotomy for removal of a frontal meningioma. How should the nurse position the client?",
+      "options": [
+        { "id": "a", "text": "Flat in bed with a pillow under the knees", "correct": false, "rationale": "Flat positioning is used for some infratentorial procedures, but after supratentorial surgery it impairs venous drainage and raises ICP." },
+        { "id": "b", "text": "Trendelenburg to support blood pressure", "correct": false, "rationale": "Head-down positioning increases ICP and is contraindicated." },
+        { "id": "c", "text": "HOB elevated 30° with the head and neck midline", "correct": true, "rationale": "HOB 30° with neutral alignment promotes venous drainage from the brain and helps control ICP after supratentorial surgery." },
+        { "id": "d", "text": "High-Fowler's with the neck flexed forward on two pillows", "correct": false, "rationale": "Neck flexion compresses the jugular veins and raises ICP." }
+      ],
+      "explanation": "After supratentorial craniotomy, elevate the HOB about 30° and keep the head midline. Avoid neck flexion and extreme hip flexion. Some surgeons restrict lying on the operative side after removal of a large tumor, so follow the specific post-op orders."
+    },
+    {
+      "id": "brain-tumor-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is 4 hours post infratentorial craniotomy for a cerebellar tumor. The surgeon prescribed flat or side-lying positioning. Which action by assistive personnel requires the nurse to intervene?",
+      "options": [
+        { "id": "a", "text": "Turning the client to the side using a turn sheet with the head and neck kept aligned", "correct": false, "rationale": "Side-lying with aligned head and neck is consistent with infratentorial positioning orders." },
+        { "id": "b", "text": "Placing two pillows under the client's head so the chin rests on the chest", "correct": true, "rationale": "Neck flexion strains the posterior surgical site and impairs venous drainage. It must be avoided after infratentorial surgery." },
+        { "id": "c", "text": "Keeping the bed flat as prescribed", "correct": false, "rationale": "This follows the surgeon's prescription for infratentorial surgery." },
+        { "id": "d", "text": "Reporting that the client is newly unsteady when trying to reach for a cup", "correct": false, "rationale": "Reporting new findings is appropriate. Ataxia should be assessed by the nurse." }
+      ],
+      "explanation": "After infratentorial (posterior fossa) surgery, clients are usually kept flat or side-lying per the surgeon and must avoid neck flexion to protect the incision and brainstem. Monitor closely for brainstem compression: respiratory changes, cranial nerve deficits, and decreasing LOC."
+    },
+    {
+      "id": "brain-tumor-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "On the first post-op day after a craniotomy, the nurse notes that the head dressing has a spot of blood-tinged drainage surrounded by a widening pale yellow ring. What is the nurse's priority action?",
+      "options": [
+        { "id": "a", "text": "Notify the surgeon of a possible CSF leak", "correct": true, "rationale": "A yellow halo around blood on the dressing suggests CSF. A CSF leak increases the risk of meningitis and must be reported promptly." },
+        { "id": "b", "text": "Reinforce the dressing and document normal serous drainage", "correct": false, "rationale": "The halo pattern is not normal serous drainage, and reinforcing without reporting delays treatment." },
+        { "id": "c", "text": "Remove the dressing and clean the incision with hydrogen peroxide", "correct": false, "rationale": "The surgeon usually does the first dressing change, and cleaning an open CSF leak risks infection." },
+        { "id": "d", "text": "Lower the HOB to flat to reduce the drainage", "correct": false, "rationale": "Repositioning is not the priority and may raise ICP. The surgeon needs to know about the leak." }
+      ],
+      "explanation": "CSF separates from blood on gauze and forms a lighter outer ring (halo sign). After craniotomy, a CSF leak through the incision is a portal for infection. Report it, avoid contaminating the site, and monitor for fever, headache, and nuchal rigidity."
+    },
+    {
+      "id": "brain-tumor-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a brain tumor is prescribed dexamethasone 4 mg orally every 6 hours. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Monitor blood glucose regularly", "correct": true, "rationale": "Corticosteroids cause hyperglycemia, so glucose monitoring and possible insulin coverage are needed." },
+        { "id": "b", "text": "Give with food and give the prescribed H2 blocker or PPI", "correct": true, "rationale": "Corticosteroids increase the risk of GI ulceration and bleeding, so GI protection is used." },
+        { "id": "c", "text": "Teach the client that the drug shrinks the tumor cells", "correct": false, "rationale": "Dexamethasone reduces the vasogenic edema around the tumor. It does not destroy tumor cells." },
+        { "id": "d", "text": "Teach the client not to stop the drug suddenly", "correct": true, "rationale": "Abrupt withdrawal can cause adrenal insufficiency and rebound cerebral edema. The dose is tapered." },
+        { "id": "e", "text": "Monitor for signs of infection, which may be masked", "correct": true, "rationale": "Steroids suppress the immune response and can blunt fever and inflammation." },
+        { "id": "f", "text": "Expect the client to lose weight while on therapy", "correct": false, "rationale": "Corticosteroids increase appetite and fluid retention, usually causing weight gain." }
+      ],
+      "explanation": "Dexamethasone reduces cerebral edema around tumors and after surgery. Key nursing points: monitor glucose, protect the GI tract, watch for infection and fluid retention, monitor mood changes, and taper rather than stopping abruptly."
+    },
+    {
+      "id": "brain-tumor-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Twelve hours after a craniotomy near the pituitary region, a client's urine output is 450 mL/hr for 2 consecutive hours. Urine specific gravity is 1.002 and serum sodium is 151 mEq/L. Which prescription should the nurse anticipate?",
+      "options": [
+        { "id": "a", "text": "Fluid restriction to 800 mL/day", "correct": false, "rationale": "Fluid restriction treats SIADH. In DI it would cause severe dehydration and worsening hypernatremia." },
+        { "id": "b", "text": "Furosemide 40 mg IV", "correct": false, "rationale": "A diuretic would worsen the fluid loss and hypernatremia." },
+        { "id": "c", "text": "3% sodium chloride infusion", "correct": false, "rationale": "Hypertonic saline would worsen hypernatremia. It is used for severe hyponatremia or cerebral edema." },
+        { "id": "d", "text": "Desmopressin", "correct": true, "rationale": "Large volumes of dilute urine with high sodium indicate diabetes insipidus from ADH deficiency. Desmopressin replaces ADH." }
+      ],
+      "explanation": "Surgery or swelling near the pituitary or hypothalamus can cause diabetes insipidus (too little ADH): high output of dilute urine, low specific gravity, and rising sodium. Treatment is desmopressin and fluid replacement, with strict I&O, daily weights, and sodium monitoring."
+    },
+    {
+      "id": "brain-tumor-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Two days after a craniotomy, a client has a serum sodium of 124 mEq/L, urine output of 15 mL/hr, concentrated urine, and new confusion. The nurse recognizes these findings as SIADH. Which intervention is a priority?",
+      "options": [
+        { "id": "a", "text": "Encourage the client to drink at least 3 L of water daily", "correct": false, "rationale": "Extra free water further dilutes serum sodium and worsens cerebral edema." },
+        { "id": "b", "text": "Administer desmopressin as needed", "correct": false, "rationale": "Desmopressin adds ADH effect and would worsen SIADH. It treats diabetes insipidus." },
+        { "id": "c", "text": "Restrict fluids as prescribed and initiate seizure precautions", "correct": true, "rationale": "SIADH causes water retention and dilutional hyponatremia. Fluid restriction is first-line, and a sodium this low increases seizure risk." },
+        { "id": "d", "text": "Infuse 0.45% sodium chloride rapidly", "correct": false, "rationale": "Hypotonic fluid would worsen hyponatremia and brain swelling." }
+      ],
+      "explanation": "SIADH (too much ADH) causes water retention, low urine output, concentrated urine, and dilutional hyponatremia. Low sodium worsens cerebral edema and causes confusion and seizures. Treatment includes fluid restriction, careful sodium correction (hypertonic saline for severe cases), and seizure precautions."
+    },
+    {
+      "id": "brain-tumor-11",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with a temporal lobe tumor begins having a generalized tonic-clonic seizure while in bed. Place the nurse's actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Protect the client's head and turn the client onto the side" },
+        { "id": "b", "text": "Administer prescribed IV lorazepam if the seizure continues" },
+        { "id": "c", "text": "Assess airway, oxygen saturation, and vital signs once the seizure ends" },
+        { "id": "d", "text": "Perform a neurologic assessment, including orientation and pupils" },
+        { "id": "e", "text": "Document the onset time, duration, and characteristics of the seizure" }
+      ],
+      "explanation": "During a seizure, the priority is safety and airway: protect the head, turn the client to the side, and do not restrain or insert anything into the mouth. A benzodiazepine is given for prolonged seizures. Afterward, assess ABCs, then neuro status, then document. Clients with brain tumors are often on antiseizure medications such as levetiracetam and need seizure precautions (padded rails, suction and oxygen at the bedside)."
+    },
+    {
+      "id": "brain-tumor-12",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches a client who will receive radiation to the brain and oral temozolomide chemotherapy. Which client statements indicate correct understanding? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "\"I will wash my scalp gently with a mild shampoo and pat it dry.\"", "correct": true, "rationale": "Gentle care protects irradiated skin from irritation and breakdown." },
+        { "id": "b", "text": "\"I will not wash off the markings the radiation team put on my skin.\"", "correct": true, "rationale": "The markings guide accurate treatment and must stay in place until the team says otherwise." },
+        { "id": "c", "text": "\"I will put a heating pad on my scalp when it feels sore.\"", "correct": false, "rationale": "Heat can damage irradiated skin. Avoid heat, cold packs, and harsh products on the treatment area." },
+        { "id": "d", "text": "\"I will avoid crowds and people who are sick while my blood counts are low.\"", "correct": true, "rationale": "Chemotherapy causes bone marrow suppression and neutropenia, so infection prevention is essential." },
+        { "id": "e", "text": "\"My hair will definitely grow back exactly as before.\"", "correct": false, "rationale": "Hair loss in the radiation field may be permanent, depending on the dose. The client should not be given false reassurance." },
+        { "id": "f", "text": "\"I will call my provider for a temperature of 100.4°F (38°C) or higher.\"", "correct": true, "rationale": "Fever during chemotherapy may signal a serious infection and needs prompt evaluation." }
+      ],
+      "explanation": "Brain radiation causes fatigue, scalp skin reactions, and hair loss in the treatment field (sometimes permanent). Temozolomide causes myelosuppression, nausea, and fatigue. Teaching focuses on skin care, keeping treatment markings, infection and bleeding precautions, fever reporting, safety, and seizure precautions."
+    }
+  ]
+}

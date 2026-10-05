@@ -1,0 +1,879 @@
+{
+  "slug": "seizures",
+  "title": "Seizures & Epilepsy",
+  "short": "Seizures",
+  "icon": "zap",
+  "description": "Seizure versus epilepsy, causes and triggers, seizure classifications, nursing care during and after a seizure, seizure precautions, status epilepticus, antiepileptic drugs, client teaching, vagal nerve stimulation, and surgery.",
+  "keyPoints": [
+    "A seizure is an abrupt, uncontrolled electrical discharge of brain neurons. Epilepsy is a chronic disorder of two or more unprovoked, recurring seizures.",
+    "Generalized seizures involve both hemispheres (tonic-clonic, tonic, clonic, myoclonic, atonic, absence). Focal seizures start in one hemisphere: focal aware (simple) keeps consciousness; focal impaired awareness (complex) causes automatisms such as lip smacking and picking at clothes, with amnesia.",
+    "DURING a seizure: ease to the floor if standing, protect the head, turn to the side, loosen clothing, move objects away, time it, have suction ready. Never restrain and never put anything in the mouth.",
+    "AFTER a seizure: keep side-lying to prevent aspiration, do neuro checks, reorient, provide privacy, and document onset, duration, body parts involved, incontinence, and postictal status.",
+    "Seizure precautions: bed in lowest position, 2-3 padded side rails up, suction and oxygen at the bedside, IV access for clients at high risk.",
+    "Status epilepticus: a seizure lasting > 5 minutes or repeated seizures without recovery between them. Airway, O2, IV access, then IV lorazepam or diazepam, followed by phenytoin or fosphenytoin.",
+    "Phenytoin: therapeutic level 10-20 mcg/mL, gingival hyperplasia, interacts with warfarin and oral contraceptives, mix only with normal saline (never dextrose), give IV no faster than 50 mg/min with cardiac monitoring.",
+    "Teach: never stop AEDs abruptly, wear a medical ID, follow state driving laws, avoid alcohol, sleep deprivation, and other personal triggers."
+  ],
+  "questions": [
+    {
+      "id": "seizures-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client who had one seizure during alcohol withdrawal asks the nurse, \"Does this mean I have epilepsy now?\" Which response by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Yes. Any seizure, whatever the cause, means you have epilepsy, and you will need to take seizure medication for the rest of your life.\"",
+          "correct": false,
+          "rationale": "A single seizure, especially one provoked by a reversible cause, does not establish epilepsy, and lifelong medication is not automatically required."
+        },
+        {
+          "id": "b",
+          "text": "\"Epilepsy is diagnosed only when a seizure lasts longer than 5 minutes.\"",
+          "correct": false,
+          "rationale": "A seizure lasting longer than 5 minutes defines status epilepticus, not epilepsy."
+        },
+        {
+          "id": "c",
+          "text": "\"Epilepsy means recurring, unprovoked seizures. One seizure caused by alcohol withdrawal does not by itself mean you have epilepsy.\"",
+          "correct": true,
+          "rationale": "Epilepsy is defined by two or more unprovoked, recurring seizures. A seizure provoked by alcohol withdrawal is a symptom of that acute cause."
+        },
+        {
+          "id": "d",
+          "text": "\"Epilepsy only refers to seizures that cause convulsions.\"",
+          "correct": false,
+          "rationale": "Epilepsy includes nonconvulsive seizure types such as absence and focal seizures. Convulsions are not required."
+        }
+      ],
+      "explanation": "A seizure is a single episode of abnormal, excessive neuronal discharge. Epilepsy is a chronic disorder of recurring, unprovoked seizures (two or more). It can be primary (idiopathic) or secondary to an underlying condition such as a tumor, stroke, or head injury."
+    },
+    {
+      "id": "seizures-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse reviews data for several newly admitted clients. Which findings place a client at increased risk for a seizure? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serum sodium 118 mEq/L",
+          "correct": true,
+          "rationale": "Severe hyponatremia causes cerebral edema and is a classic metabolic cause of seizures."
+        },
+        {
+          "id": "b",
+          "text": "Blood glucose 38 mg/dL",
+          "correct": true,
+          "rationale": "Hypoglycemia deprives neurons of fuel and can trigger seizures."
+        },
+        {
+          "id": "c",
+          "text": "Serum calcium 9.4 mg/dL",
+          "correct": false,
+          "rationale": "This calcium level is within normal limits (about 8.6-10.2 mg/dL). Hypocalcemia, not a normal value, raises seizure risk."
+        },
+        {
+          "id": "d",
+          "text": "Stopped taking prescribed levetiracetam 2 days ago",
+          "correct": true,
+          "rationale": "Abrupt cessation of an antiepileptic drug is a leading cause of breakthrough seizures and status epilepticus."
+        },
+        {
+          "id": "e",
+          "text": "Temperature 104.2°F (40.1°C) with meningitis",
+          "correct": true,
+          "rationale": "CNS infection and high fever both lower the seizure threshold."
+        },
+        {
+          "id": "f",
+          "text": "SpO2 97% on room air",
+          "correct": false,
+          "rationale": "This is normal oxygenation. Hypoxemia, not a normal SpO2, is a seizure risk factor."
+        }
+      ],
+      "explanation": "Common causes of seizures include hypoxemia, fever and CNS infection, head injury, cerebral edema, stroke, brain tumor, metabolic disturbances (hypoglycemia, hyponatremia), toxins, drug or alcohol withdrawal, and abrupt cessation of antiepileptic drugs."
+    },
+    {
+      "id": "seizures-03",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is teaching a college student newly diagnosed with epilepsy about seizure triggers. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I can pull all-nighters before exams as long as I drink plenty of coffee.\"",
+          "correct": true,
+          "rationale": "Sleep deprivation, overwhelming fatigue, and excessive caffeine are all seizure triggers. This statement shows the client needs more teaching."
+        },
+        {
+          "id": "b",
+          "text": "\"I should avoid binge drinking at parties.\"",
+          "correct": false,
+          "rationale": "Acute alcohol ingestion is a trigger, so this statement is correct."
+        },
+        {
+          "id": "c",
+          "text": "\"Flashing strobe lights at concerts or in video games could set off a seizure for me.\"",
+          "correct": false,
+          "rationale": "Flashing lights are a recognized trigger, so this statement is correct."
+        },
+        {
+          "id": "d",
+          "text": "\"I need to find healthy ways to manage stress.\"",
+          "correct": false,
+          "rationale": "Excessive stress is a trigger, so this statement is correct."
+        }
+      ],
+      "explanation": "Seizure triggers include excessive stress, overwhelming fatigue and sleep loss, hyperventilation, acute alcohol ingestion, excessive caffeine, flashing lights, and substances such as cocaine or inhaled aerosols and glue. Teaching focuses on identifying and avoiding personal triggers."
+    },
+    {
+      "id": "seizures-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A parent reports that their 8-year-old \"zones out\" many times a day. The nurse observes the child stop talking mid-sentence, stare blankly with fluttering eyelids for about 8 seconds, then resume the conversation with no confusion. Which seizure type is most consistent with these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atonic",
+          "correct": false,
+          "rationale": "Atonic seizures cause a sudden loss of muscle tone, often with a fall. This child did not lose tone."
+        },
+        {
+          "id": "b",
+          "text": "Focal impaired awareness",
+          "correct": false,
+          "rationale": "Focal impaired awareness seizures usually last longer (often minutes), involve automatisms, and are followed by confusion and amnesia."
+        },
+        {
+          "id": "c",
+          "text": "Myoclonic",
+          "correct": false,
+          "rationale": "Myoclonic seizures are brief jerks or stiffening of the extremities, not staring spells."
+        },
+        {
+          "id": "d",
+          "text": "Absence",
+          "correct": true,
+          "rationale": "Absence seizures are brief (often under 10-15 seconds) generalized staring spells with eyelid fluttering, occur many times a day, are most common in children, and have no postictal confusion."
+        }
+      ],
+      "explanation": "Absence seizures are generalized and most common in childhood. They look like daydreaming: a brief blank stare, sometimes with eyelid fluttering or lip smacking, followed by immediate return to normal activity with no postictal state. They can occur dozens of times a day and interfere with learning."
+    },
+    {
+      "id": "seizures-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse finds a client sitting in bed smacking their lips and repeatedly picking at their gown. The client does not respond to their name. Three minutes later the client is confused and cannot recall the event. How should the nurse document this seizure type?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Focal aware (simple partial) seizure",
+          "correct": false,
+          "rationale": "In a focal aware seizure the client stays conscious and can recall the event. This client was unresponsive and amnesic."
+        },
+        {
+          "id": "b",
+          "text": "Focal impaired awareness (complex partial) seizure",
+          "correct": true,
+          "rationale": "Automatisms such as lip smacking and picking at clothes, impaired awareness lasting minutes, and amnesia for the event are characteristic of a focal impaired awareness seizure."
+        },
+        {
+          "id": "c",
+          "text": "Tonic-clonic seizure",
+          "correct": false,
+          "rationale": "A tonic-clonic seizure involves stiffening followed by rhythmic jerking of the whole body, which did not occur."
+        },
+        {
+          "id": "d",
+          "text": "Atonic seizure",
+          "correct": false,
+          "rationale": "An atonic seizure is a sudden loss of muscle tone lasting seconds, often causing a fall."
+        }
+      ],
+      "explanation": "Focal (partial) seizures start in one hemisphere. Focal impaired awareness (complex) seizures cause automatisms the client is unaware of, such as lip smacking and picking at clothes, last several minutes, and leave amnesia for the event. Accurate documentation of the behaviors observed helps the provider classify and treat the seizure."
+    },
+    {
+      "id": "seizures-06",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A client reports a sudden sense of déjà vu, a strong smell of burning rubber, and jerking of the right hand lasting about a minute. The client was alert and talked to the nurse throughout. Which seizure type does this describe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Focal aware (simple partial) seizure",
+          "correct": true,
+          "rationale": "Focal aware seizures keep consciousness intact and can cause unusual sensations (déjà vu, offensive smells), autonomic changes, and unilateral abnormal movements."
+        },
+        {
+          "id": "b",
+          "text": "Absence seizure",
+          "correct": false,
+          "rationale": "Absence seizures cause a brief loss of awareness with staring, so the client could not talk to the nurse."
+        },
+        {
+          "id": "c",
+          "text": "Tonic seizure",
+          "correct": false,
+          "rationale": "Tonic seizures cause a sudden loss of consciousness with increased muscle tone."
+        },
+        {
+          "id": "d",
+          "text": "Focal impaired awareness (complex partial) seizure",
+          "correct": false,
+          "rationale": "This type impairs consciousness and produces amnesia. This client stayed alert throughout."
+        }
+      ],
+      "explanation": "The key difference between focal aware and focal impaired awareness seizures is consciousness. In a focal aware (simple) seizure the client remains conscious the entire time and may report sensory changes, déjà vu, flushing, heart rate changes, pain, or one-sided movements."
+    },
+    {
+      "id": "seizures-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with epilepsy has frequent atonic (drop) seizures. Which intervention is the priority to include in the plan of care?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep a padded tongue blade at the bedside",
+          "correct": false,
+          "rationale": "Nothing should ever be placed in the mouth during a seizure. Tongue blades can break teeth and cause airway obstruction."
+        },
+        {
+          "id": "b",
+          "text": "Dim the lights in the room at all times",
+          "correct": false,
+          "rationale": "Dimming lights does not address the main danger of atonic seizures, which is injury from falling."
+        },
+        {
+          "id": "c",
+          "text": "Provide a protective helmet and assist with ambulation",
+          "correct": true,
+          "rationale": "Atonic seizures cause a sudden loss of muscle tone, so the client falls without warning. A helmet and fall precautions prevent head injury."
+        },
+        {
+          "id": "d",
+          "text": "Apply soft wrist restraints while the client is in bed",
+          "correct": false,
+          "rationale": "Restraints are contraindicated for seizure clients because jerking against them can cause injury."
+        }
+      ],
+      "explanation": "Atonic (akinetic) seizures cause a few seconds of lost muscle tone followed by brief confusion. The client can collapse suddenly, so the priority is injury prevention: protective headgear, assisted ambulation, and fall precautions."
+    },
+    {
+      "id": "seizures-08",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is teaching a client's family what to expect during a generalized tonic-clonic seizure. Which findings should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A loud cry at the start of the seizure",
+          "correct": true,
+          "rationale": "The epileptic cry results from forceful contraction of the diaphragm and chest muscles pushing air past the vocal cords."
+        },
+        {
+          "id": "b",
+          "text": "Stiffening of the body followed by rhythmic jerking",
+          "correct": true,
+          "rationale": "The tonic phase (rigidity) is followed by the clonic phase (alternating contraction and relaxation)."
+        },
+        {
+          "id": "c",
+          "text": "The client remains aware and can describe the event afterward",
+          "correct": false,
+          "rationale": "Tonic-clonic seizures cause loss of consciousness, and the client does not remember the event."
+        },
+        {
+          "id": "d",
+          "text": "Possible tongue biting and urinary or fecal incontinence",
+          "correct": true,
+          "rationale": "Jaw clenching can injure the tongue, and loss of sphincter control can cause incontinence."
+        },
+        {
+          "id": "e",
+          "text": "Confusion and deep sleep after the jerking stops",
+          "correct": true,
+          "rationale": "The postictal state commonly includes confusion, fatigue, headache, sore muscles, and sleep that can last hours."
+        },
+        {
+          "id": "f",
+          "text": "Jerking that typically continues for 20-30 minutes",
+          "correct": false,
+          "rationale": "Typical tonic-clonic jerking lasts about 1-2 minutes. A seizure lasting longer than 5 minutes is status epilepticus, an emergency."
+        }
+      ],
+      "explanation": "A tonic-clonic seizure begins with loss of consciousness and a tonic (stiffening) phase, during which breathing may stop and cyanosis can occur. It is followed by 1-2 minutes of clonic jerking with irregular breathing. Tongue biting, incontinence, and a postictal period of confusion and sleepiness are common."
+    },
+    {
+      "id": "seizures-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client walking in the hallway with the nurse suddenly cries out, stiffens, and begins to fall. What should the nurse do first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Run to the nurses' station to get the suction equipment",
+          "correct": false,
+          "rationale": "Leaving the client allows an uncontrolled fall and head injury. The nurse should stay with the client and call for help."
+        },
+        {
+          "id": "b",
+          "text": "Place a rolled washcloth between the client's teeth",
+          "correct": false,
+          "rationale": "Nothing should be placed in the mouth during a seizure. It can break teeth, injure the nurse, or obstruct the airway."
+        },
+        {
+          "id": "c",
+          "text": "Hold the client's arms and legs firmly to stop the jerking",
+          "correct": false,
+          "rationale": "Restraining a seizing client can cause fractures, dislocations, and soft-tissue injury and will not stop the seizure."
+        },
+        {
+          "id": "d",
+          "text": "Ease the client to the floor while protecting the head",
+          "correct": true,
+          "rationale": "If the client is standing, the nurse guides them to the floor and protects the head to prevent injury from the fall."
+        }
+      ],
+      "explanation": "The immediate priority when a seizure begins is preventing injury. A standing client is eased to the floor with the head protected, the area is cleared, and the client is turned to the side as soon as possible. The nurse stays with the client and calls for help."
+    },
+    {
+      "id": "seizures-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client in bed is having a generalized tonic-clonic seizure. Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Turn the client to the side with the head flexed slightly forward",
+          "correct": true,
+          "rationale": "Side-lying lets saliva drain from the mouth and keeps the tongue from obstructing the airway, reducing aspiration risk."
+        },
+        {
+          "id": "b",
+          "text": "Insert an oral airway to keep the jaw open",
+          "correct": false,
+          "rationale": "Never force anything into the mouth during a seizure. Forcing the jaw open can break teeth and cause aspiration."
+        },
+        {
+          "id": "c",
+          "text": "Loosen tight clothing around the neck",
+          "correct": true,
+          "rationale": "Removing restrictive clothing helps keep the airway clear and breathing unobstructed."
+        },
+        {
+          "id": "d",
+          "text": "Note the time the seizure started",
+          "correct": true,
+          "rationale": "Timing the seizure is essential. A seizure longer than 5 minutes is status epilepticus and needs emergency medication."
+        },
+        {
+          "id": "e",
+          "text": "Hold the client's arms down to prevent injury",
+          "correct": false,
+          "rationale": "Restraining the client can cause musculoskeletal injury. The nurse should guide movements away from hazards instead."
+        },
+        {
+          "id": "f",
+          "text": "Remove the pillow and move nearby equipment away",
+          "correct": true,
+          "rationale": "Clearing the space and removing pillows prevents injury and keeps the head from being pushed into a flexed, airway-obstructing position."
+        }
+      ],
+      "explanation": "During a seizure the nurse protects the client from injury and maintains the airway: side-lying, protect the head, remove pillows and objects, loosen clothing, have suction ready, and time the event. The nurse never restrains the client and never puts anything in the mouth."
+    },
+    {
+      "id": "seizures-11",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client on seizure precautions begins having a generalized tonic-clonic seizure in bed. Place the nurse's actions in the order they should be performed.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Stay with the client, call for help, and note the time the seizure began"
+        },
+        {
+          "id": "b",
+          "text": "Remove the pillow, make sure the padded side rails are up, and cushion the client's head"
+        },
+        {
+          "id": "c",
+          "text": "Turn the client to the side with the head flexed slightly forward and loosen restrictive clothing"
+        },
+        {
+          "id": "d",
+          "text": "When the jerking stops, assess airway and breathing, suction the mouth as needed, and give oxygen"
+        },
+        {
+          "id": "e",
+          "text": "Perform neuro checks, reorient the client, and document the seizure details"
+        }
+      ],
+      "explanation": "The nurse first stays with the client, summons help, and starts timing, since duration determines whether this becomes status epilepticus. The nurse then protects the client from injury and positions the client on the side to keep the airway clear. Once the seizure ends, airway, breathing, and oxygenation come first. Neuro checks, reorientation, and documentation follow. In practice the first steps happen almost at the same time."
+    },
+    {
+      "id": "seizures-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client's tonic-clonic seizure has just ended. The client is unresponsive to voice, has noisy, gurgling respirations at 14/min, and has frothy saliva in the mouth. SpO2 is 91%. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perform a full neuro check, including pupil size and response to light",
+          "correct": false,
+          "rationale": "Neuro checks are important after a seizure, but they come after the airway is cleared."
+        },
+        {
+          "id": "b",
+          "text": "Keep the client side-lying and suction the oral secretions",
+          "correct": true,
+          "rationale": "Gurgling respirations and secretions threaten the airway. Side-lying and suctioning prevent aspiration and improve oxygenation (airway first)."
+        },
+        {
+          "id": "c",
+          "text": "Reorient the client to person, place, and time",
+          "correct": false,
+          "rationale": "The client is not yet responsive. Reorientation is done once the client begins to awaken and after the airway is secured."
+        },
+        {
+          "id": "d",
+          "text": "Change the client's linens and gown",
+          "correct": false,
+          "rationale": "Comfort and privacy matter, but they are never the priority over a compromised airway."
+        }
+      ],
+      "explanation": "In the postictal period the client may be very drowsy, with pooled secretions and a high aspiration risk. The priority is the airway: keep the client on the side, suction as needed, and give oxygen. Then do neuro checks, reorient, provide privacy, and document."
+    },
+    {
+      "id": "seizures-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a new brain tumor is admitted with a history of seizures. Which seizure precautions should the nurse implement? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the bed in the lowest position",
+          "correct": true,
+          "rationale": "A low bed reduces injury if the client falls or rolls during a seizure."
+        },
+        {
+          "id": "b",
+          "text": "Raise and pad 2-3 side rails",
+          "correct": true,
+          "rationale": "Two to three padded side rails protect the client from falls and from striking the rails. Raising all four can count as a restraint under many facility policies."
+        },
+        {
+          "id": "c",
+          "text": "Tape a padded tongue blade to the head of the bed",
+          "correct": false,
+          "rationale": "Tongue blades are no longer used. Nothing should be placed in the client's mouth during a seizure."
+        },
+        {
+          "id": "d",
+          "text": "Set up working suction equipment at the bedside",
+          "correct": true,
+          "rationale": "Suction must be ready to clear secretions and prevent aspiration during and after a seizure."
+        },
+        {
+          "id": "e",
+          "text": "Have oxygen equipment available at the bedside",
+          "correct": true,
+          "rationale": "Oxygen is often needed during and after a seizure because of hypoxia during the tonic phase."
+        },
+        {
+          "id": "f",
+          "text": "Apply mitt restraints at night",
+          "correct": false,
+          "rationale": "Restraints are not part of seizure precautions. Jerking against restraints can cause injury."
+        }
+      ],
+      "explanation": "Standard seizure precautions include a low bed, 2-3 padded side rails up, suction and oxygen ready at the bedside, and often IV access for clients at high risk. These measures prevent injury and protect the airway. Follow facility policy for specifics."
+    },
+    {
+      "id": "seizures-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client has had three tonic-clonic seizures in 15 minutes without regaining consciousness between them. The airway is maintained, oxygen is applied, and an IV is patent. Which medication should the nurse anticipate giving first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Phenytoin IV",
+          "correct": false,
+          "rationale": "Phenytoin or fosphenytoin is given after the benzodiazepine to prevent recurrence. It does not act as quickly to stop an ongoing seizure."
+        },
+        {
+          "id": "b",
+          "text": "Lorazepam IV push",
+          "correct": true,
+          "rationale": "A rapid-acting IV benzodiazepine (lorazepam or diazepam) is first-line to stop status epilepticus."
+        },
+        {
+          "id": "c",
+          "text": "Levetiracetam by mouth",
+          "correct": false,
+          "rationale": "Oral medication cannot be given to an unconscious, seizing client because of aspiration risk, and it acts too slowly."
+        },
+        {
+          "id": "d",
+          "text": "Carbamazepine by mouth",
+          "correct": false,
+          "rationale": "Carbamazepine is a maintenance oral AED. It has no role in stopping status epilepticus."
+        }
+      ],
+      "explanation": "Status epilepticus is a seizure lasting more than 5 minutes or repeated seizures without recovery between them. Prolonged muscle activity raises metabolic demand and causes hypoxia that can injure the brain. Treatment: protect the airway, give O2, start IV access, monitor ECG and ABGs, give IV lorazepam or diazepam, then follow with phenytoin or fosphenytoin."
+    },
+    {
+      "id": "seizures-15",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse on a neuro unit receives reports on four clients. Which client should the nurse see first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A client who had a seizure 1 hour ago and is now sleeping with RR 16/min and SpO2 96%",
+          "correct": false,
+          "rationale": "Sleeping after a seizure is an expected postictal finding, and this client's breathing and oxygenation are adequate."
+        },
+        {
+          "id": "b",
+          "text": "A client with epilepsy asking for a scheduled dose of levetiracetam that is due in 30 minutes",
+          "correct": false,
+          "rationale": "The dose is not yet late. This client is stable and can be seen after the emergency."
+        },
+        {
+          "id": "c",
+          "text": "A client with a phenytoin level of 14 mcg/mL who reports tender gums",
+          "correct": false,
+          "rationale": "A level of 14 mcg/mL is therapeutic. Gum tenderness suggests gingival hyperplasia, which calls for teaching but is not urgent."
+        },
+        {
+          "id": "d",
+          "text": "A client whose generalized seizure began 6 minutes ago and is still ongoing",
+          "correct": true,
+          "rationale": "A seizure lasting longer than 5 minutes is status epilepticus, a life-threatening emergency that requires immediate treatment."
+        }
+      ],
+      "explanation": "Status epilepticus is a medical emergency because prolonged seizure activity causes hypoxia, acidosis, and brain injury. Any seizure that continues past 5 minutes, or repeated seizures without recovery, takes priority over stable postictal clients and routine medication or teaching needs."
+    },
+    {
+      "id": "seizures-16",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client taking oral phenytoin reports unsteadiness when walking. The nurse notes horizontal nystagmus and slurred speech. The serum phenytoin level is 28 mcg/mL. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hold the next dose, initiate fall precautions, and notify the provider",
+          "correct": true,
+          "rationale": "The level is above the therapeutic range of 10-20 mcg/mL, and nystagmus, ataxia, and slurred speech are signs of phenytoin toxicity. The dose should be held and the provider notified."
+        },
+        {
+          "id": "b",
+          "text": "Give the dose as scheduled because these are expected, temporary side effects of phenytoin",
+          "correct": false,
+          "rationale": "These are signs of toxicity at a supratherapeutic level. Giving more drug would worsen them."
+        },
+        {
+          "id": "c",
+          "text": "Request an order for an additional loading dose",
+          "correct": false,
+          "rationale": "A loading dose is used when the level is subtherapeutic. This level is already too high."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the client to increase fluid intake to dilute the drug",
+          "correct": false,
+          "rationale": "Fluids do not lower a phenytoin level. The drug must be held and the dose adjusted."
+        }
+      ],
+      "explanation": "The therapeutic range for phenytoin is 10-20 mcg/mL. Early toxicity causes nystagmus, then ataxia, slurred speech, confusion, and lethargy. Because toxicity raises fall risk, the nurse holds the dose, keeps the client safe, and notifies the provider."
+    },
+    {
+      "id": "seizures-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is preparing to give IV phenytoin to a client after a seizure. Which action is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dilute the dose in D5W and infuse it over 5 minutes",
+          "correct": false,
+          "rationale": "Phenytoin precipitates in dextrose solutions. Also, 5 minutes would exceed the maximum rate for most doses, risking hypotension and dysrhythmias."
+        },
+        {
+          "id": "b",
+          "text": "Give it IV push through a line running D5W without flushing",
+          "correct": false,
+          "rationale": "Contact with dextrose causes precipitation. The line must be flushed with normal saline before and after the dose."
+        },
+        {
+          "id": "c",
+          "text": "Flush with normal saline, infuse no faster than 50 mg/min, and monitor ECG and BP",
+          "correct": true,
+          "rationale": "Phenytoin is compatible only with normal saline. Rapid infusion can cause hypotension, bradycardia, and dysrhythmias, so the rate is limited to 50 mg/min with cardiac monitoring."
+        },
+        {
+          "id": "d",
+          "text": "Give it intramuscularly into the deltoid to avoid the cardiac and IV-site complications of the IV route",
+          "correct": false,
+          "rationale": "IM phenytoin is erratically absorbed and causes tissue damage. Fosphenytoin is the form that can be given IM."
+        }
+      ],
+      "explanation": "IV phenytoin rules: mix only with normal saline (never dextrose), flush with NS before and after, give no faster than 50 mg/min, and monitor ECG and BP for hypotension and dysrhythmias. Check the IV site for irritation or extravasation. Fosphenytoin can be given faster and IM, with less tissue injury."
+    },
+    {
+      "id": "seizures-18",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 26-year-old client is being discharged on oral phenytoin. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brush and floss daily and see a dentist regularly",
+          "correct": true,
+          "rationale": "Phenytoin causes gingival hyperplasia. Good oral hygiene and regular dental care reduce its severity."
+        },
+        {
+          "id": "b",
+          "text": "Use a backup or alternative method of birth control",
+          "correct": true,
+          "rationale": "Phenytoin induces liver enzymes that reduce the effectiveness of oral contraceptives."
+        },
+        {
+          "id": "c",
+          "text": "Stop the medication if your gums begin to swell",
+          "correct": false,
+          "rationale": "AEDs should never be stopped abruptly because that can trigger status epilepticus. Gum changes should be reported, not managed by stopping the drug."
+        },
+        {
+          "id": "d",
+          "text": "Tell your provider if you also take warfarin",
+          "correct": true,
+          "rationale": "Phenytoin interacts with warfarin and alters its effect, so INR must be monitored closely."
+        },
+        {
+          "id": "e",
+          "text": "Keep appointments for blood level checks",
+          "correct": true,
+          "rationale": "Phenytoin has a narrow therapeutic range (10-20 mcg/mL), so periodic serum levels are needed to guide dosing."
+        },
+        {
+          "id": "f",
+          "text": "Take each dose together with an antacid to prevent stomach upset",
+          "correct": false,
+          "rationale": "Antacids reduce phenytoin absorption. Doses should be separated from antacids by about 2 hours."
+        }
+      ],
+      "explanation": "Phenytoin teaching: oral hygiene for gingival hyperplasia, interactions with oral contraceptives and warfarin, routine serum levels (10-20 mcg/mL), separating doses from antacids, and never stopping the drug abruptly."
+    },
+    {
+      "id": "seizures-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client taking valproic acid for generalized seizures reports fatigue, loss of appetite, and nausea. The nurse notes yellow sclera. Which laboratory result should the nurse review first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serum potassium",
+          "correct": false,
+          "rationale": "Potassium is not the main concern with these findings and valproate."
+        },
+        {
+          "id": "b",
+          "text": "Liver function tests (AST, ALT, bilirubin)",
+          "correct": true,
+          "rationale": "Jaundice, anorexia, nausea, and fatigue suggest valproate-induced hepatotoxicity, a black-box warning. Liver function must be evaluated right away."
+        },
+        {
+          "id": "c",
+          "text": "Hemoglobin A1C",
+          "correct": false,
+          "rationale": "A1C reflects long-term glucose control and is unrelated to these symptoms."
+        },
+        {
+          "id": "d",
+          "text": "Serum creatinine",
+          "correct": false,
+          "rationale": "Valproate is not primarily nephrotoxic, and jaundice points to the liver."
+        }
+      ],
+      "explanation": "Valproate (valproic acid) can cause severe hepatotoxicity and pancreatitis and is teratogenic. Monitor liver function and teach the client to report jaundice, abdominal pain, nausea and vomiting, or unusual fatigue."
+    },
+    {
+      "id": "seizures-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client who started carbamazepine 6 weeks ago calls the clinic reporting a sore throat, fever of 101.8°F (38.8°C), and easy bruising. What should the nurse instruct the client to do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Take acetaminophen and rest for a few days",
+          "correct": false,
+          "rationale": "Treating symptoms at home could delay diagnosis of a potentially fatal blood dyscrasia."
+        },
+        {
+          "id": "b",
+          "text": "Stop the carbamazepine immediately and wait for the symptoms to resolve",
+          "correct": false,
+          "rationale": "Stopping an AED abruptly risks status epilepticus. Any change must be directed by the provider."
+        },
+        {
+          "id": "c",
+          "text": "Double the next dose because the infection may lower the drug level",
+          "correct": false,
+          "rationale": "Self-adjusting the dose is unsafe, and infection does not call for doubling carbamazepine."
+        },
+        {
+          "id": "d",
+          "text": "Come in today for evaluation and a CBC",
+          "correct": true,
+          "rationale": "Fever, sore throat, and bruising can signal carbamazepine-induced agranulocytosis or aplastic anemia. A CBC is needed promptly."
+        }
+      ],
+      "explanation": "Carbamazepine can cause bone marrow suppression (agranulocytosis, aplastic anemia), serious skin reactions such as Stevens-Johnson syndrome, and hyponatremia. Teach clients to report fever, sore throat, bruising, bleeding, or rash right away. Never stop the drug without the provider's direction."
+    },
+    {
+      "id": "seizures-21",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is reinforcing teaching for a client newly prescribed levetiracetam. Which client statement indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"If I feel more irritable or down, I'll just stop taking it for a few days.\"",
+          "correct": true,
+          "rationale": "Levetiracetam can cause mood and behavior changes, including depression and suicidal thoughts. These must be reported to the provider. Stopping abruptly can trigger seizures."
+        },
+        {
+          "id": "b",
+          "text": "\"I should avoid driving until I know how drowsy this makes me.\"",
+          "correct": false,
+          "rationale": "Drowsiness and dizziness are common, so caution with driving is correct (and state driving laws for seizures also apply)."
+        },
+        {
+          "id": "c",
+          "text": "\"My family should tell my provider if they notice changes in my mood or behavior.\"",
+          "correct": false,
+          "rationale": "This is correct. Family members often notice behavior changes first, and these should be reported."
+        },
+        {
+          "id": "d",
+          "text": "\"I need to take it every day even if I haven't had a seizure in months.\"",
+          "correct": false,
+          "rationale": "This is correct. AEDs prevent seizures and must be taken consistently even when the client is seizure-free."
+        }
+      ],
+      "explanation": "Levetiracetam is a widely used AED with few drug interactions and no routine serum level monitoring. Common effects include drowsiness and dizziness. Behavioral and mood changes (irritability, depression, suicidal ideation) must be reported. As with all AEDs, it should never be stopped abruptly."
+    },
+    {
+      "id": "seizures-22",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing discharge teaching for a client with newly diagnosed epilepsy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wear a medical alert bracelet or carry ID stating you have epilepsy",
+          "correct": true,
+          "rationale": "Medical ID ensures that bystanders and emergency responders recognize the condition and give appropriate care."
+        },
+        {
+          "id": "b",
+          "text": "You may stop the medication on your own once you have been seizure-free for a year",
+          "correct": false,
+          "rationale": "AEDs are never stopped abruptly or without the provider. Any taper is done gradually under supervision."
+        },
+        {
+          "id": "c",
+          "text": "Follow your state's laws about driving after a seizure",
+          "correct": true,
+          "rationale": "States require a defined seizure-free period before driving. Clients must know and follow these laws for their safety and others'."
+        },
+        {
+          "id": "d",
+          "text": "Get regular, adequate sleep and avoid alcohol",
+          "correct": true,
+          "rationale": "Sleep deprivation and alcohol both lower the seizure threshold and are common triggers."
+        },
+        {
+          "id": "e",
+          "text": "Avoid all physical activity and exercise",
+          "correct": false,
+          "rationale": "Regular exercise is encouraged. Clients should avoid only high-risk activities, such as swimming alone or climbing heights, without precautions."
+        },
+        {
+          "id": "f",
+          "text": "Keep a seizure diary of events and possible triggers",
+          "correct": true,
+          "rationale": "A diary helps identify triggers and helps the provider evaluate how well the medication is working."
+        }
+      ],
+      "explanation": "Epilepsy teaching centers on medication adherence (never stop abruptly), medical ID, driving laws, trigger avoidance (sleep loss, alcohol, stress, flashing lights), safety with activities such as swimming or bathing, and a seizure diary. Family should learn first aid for seizures."
+    },
+    {
+      "id": "seizures-23",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with drug-resistant focal seizures has a vagal nerve stimulator (VNS) implanted. Which statement by the client shows correct understanding of the device?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The device will cure my epilepsy, so I can stop taking my seizure medications soon.\"",
+          "correct": false,
+          "rationale": "A VNS is an adjunct that reduces seizure frequency. It does not cure epilepsy, and AEDs are usually continued."
+        },
+        {
+          "id": "b",
+          "text": "\"The stimulator is implanted in my brain near where the seizures start.\"",
+          "correct": false,
+          "rationale": "The generator is implanted in the chest wall, with an electrode wrapped around the left vagus nerve in the neck, not in the brain."
+        },
+        {
+          "id": "c",
+          "text": "\"If I feel an aura, I can swipe the magnet over the device to try to stop it.\"",
+          "correct": true,
+          "rationale": "The VNS delivers programmed intermittent stimulation, and passing the magnet over the generator at the onset of an aura triggers an extra stimulation that may abort the seizure."
+        },
+        {
+          "id": "d",
+          "text": "\"A hoarse voice means the device is broken and must be removed.\"",
+          "correct": false,
+          "rationale": "Hoarseness or voice change during stimulation is a common, expected side effect because the vagus nerve supplies the larynx."
+        }
+      ],
+      "explanation": "A vagal nerve stimulator is implanted in the chest wall and connected to an electrode on the left vagus nerve. It gives intermittent stimulation to the brain to reduce seizure frequency. Clients can use a magnet to trigger extra stimulation during an aura. Hoarseness, cough, and throat tingling during stimulation are common."
+    },
+    {
+      "id": "seizures-24",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client whose seizures are not controlled by medications asks about surgery. Which information from the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Surgery is the first treatment tried for most people with epilepsy.\"",
+          "correct": false,
+          "rationale": "Medication is first-line. The initial goal is control with a single AED, and surgery is considered when seizures remain uncontrolled."
+        },
+        {
+          "id": "b",
+          "text": "\"If testing finds the one area where your seizures start, that area may be removed.\"",
+          "correct": true,
+          "rationale": "Resection of a localized epileptogenic focus, identified with EEG, MRI, PET, or SPECT, can reduce or eliminate seizures in drug-resistant epilepsy."
+        },
+        {
+          "id": "c",
+          "text": "\"A corpus callosotomy removes an entire hemisphere of the brain to stop the seizures from spreading.\"",
+          "correct": false,
+          "rationale": "A corpus callosotomy cuts the fibers connecting the two hemispheres to limit seizure spread. Removing a hemisphere is a hemispherectomy."
+        },
+        {
+          "id": "d",
+          "text": "\"After surgery you will never need seizure medication again.\"",
+          "correct": false,
+          "rationale": "Many clients still need AEDs after surgery, though often at reduced doses. Seizure freedom is not guaranteed."
+        }
+      ],
+      "explanation": "Surgery is an option for drug-resistant epilepsy. Resecting the seizure focus (often in the temporal lobe) works best when one area can be localized, for example with SPECT. A partial corpus callosotomy limits spread between hemispheres and is used for disabling generalized seizures such as drop attacks. Surgery supplements medication rather than reliably replacing it."
+    }
+  ]
+}

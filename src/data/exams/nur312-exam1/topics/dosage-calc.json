@@ -1,0 +1,324 @@
+{
+  "slug": "dosage-calc",
+  "title": "Dosage Calculation",
+  "short": "Dosage Calc",
+  "icon": "calculator",
+  "description": "Weight-based and titratable neuro, shock, and burn drug and fluid calculations: alteplase, antihypertensive drips, osmotic therapy, antiseizure loading doses, vasopressors, sepsis boluses, and the Parkland formula.",
+  "keyPoints": [
+    "Convert pounds to kilograms by dividing by 2.2 before any weight-based calculation.",
+    "Stroke alteplase: 0.9 mg/kg (max 90 mg); 10% as a 1-minute bolus, remaining 90% infused over 60 minutes.",
+    "A percent solution is grams per 100 mL: 20% mannitol = 0.2 g/mL.",
+    "Phenytoin: max 50 mg/min, mix only in normal saline; fosphenytoin is dosed in mg PE.",
+    "mcg/min to mL/hr: (mcg/min × 60) ÷ mcg/mL; for mcg/kg/min, multiply by weight first.",
+    "Sepsis bundle: 30 mL/kg crystalloid for hypotension or lactate ≥ 4 mmol/L.",
+    "Parkland: 4 mL × kg × %TBSA; half in the first 8 hours from the time of burn, half over the next 16 hours.",
+    "Always compare weight-based doses with any stated maximum and give the lower amount."
+  ],
+  "questions": [
+    {
+      "id": "dosage-calc-01",
+      "type": "numeric",
+      "bloom": "remember",
+      "stem": "A client arrives in the emergency department with right-sided weakness and slurred speech that began 90 minutes ago. The family states the client weighs 172 lb. The nurse needs the weight in kilograms for weight-based thrombolytic dosing. What is the client's weight in kg? (1 kg = 2.2 lb) Round to the nearest tenth.",
+      "answer": 78.2,
+      "tolerance": 0.05,
+      "unit": "kg",
+      "steps": [
+        "Set up: 172 lb × (1 kg / 2.2 lb)",
+        "172 ÷ 2.2 = 78.18... kg",
+        "Round to the nearest tenth: 78.2 kg"
+      ],
+      "explanation": "Divide pounds by 2.2 to get kilograms; the kg value is always the smaller number. Alteplase is dosed by weight with a hard maximum, so obtain an actual measured weight (bed or stretcher scale) whenever possible rather than relying on an estimate, because an overestimated weight increases bleeding risk."
+    },
+    {
+      "id": "dosage-calc-02",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with an acute ischemic stroke is within the 3-4.5 hour window and is a candidate for alteplase. The client weighs 165 lb. The order is alteplase 0.9 mg/kg IV (maximum 90 mg). What is the total alteplase dose in mg? Round to the nearest tenth.",
+      "answer": 67.5,
+      "tolerance": 0.05,
+      "unit": "mg",
+      "steps": [
+        "Convert weight: 165 lb ÷ 2.2 = 75 kg",
+        "Total dose: 75 kg × 0.9 mg/kg = 67.5 mg",
+        "Compare with the maximum: 67.5 mg is less than 90 mg, so give 67.5 mg"
+      ],
+      "explanation": "The stroke dose of alteplase is 0.9 mg/kg with a maximum of 90 mg, which is different from (and lower than) the dose used for MI or PE. Always compare the calculated dose with the maximum, and confirm that blood glucose is not below 50 mg/dL and BP is below 185/110 before starting the drug."
+    },
+    {
+      "id": "dosage-calc-03",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 82-kg client with an acute ischemic stroke is ordered alteplase 0.9 mg/kg IV (maximum 90 mg), with 10% of the total dose given as an IV bolus over 1 minute. The alteplase is reconstituted to 1 mg/mL. How many mL will the nurse give as the bolus? Round to the nearest tenth.",
+      "answer": 7.4,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Total dose: 82 kg × 0.9 mg/kg = 73.8 mg (below the 90 mg maximum)",
+        "Bolus (10%): 73.8 mg × 0.10 = 7.38 mg",
+        "Volume: 7.38 mg ÷ 1 mg/mL = 7.38 mL",
+        "Round to the nearest tenth: 7.4 mL"
+      ],
+      "explanation": "The bolus is 10% of the total calculated dose, given IV push over 1 minute. Reconstituted alteplase is 1 mg/mL, so mg equals mL. Have a second nurse verify, and any excess drug beyond the total calculated dose should be removed from the vial before the infusion is hung so the client cannot receive more than ordered."
+    },
+    {
+      "id": "dosage-calc-04",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "For the same 82-kg client receiving alteplase 0.9 mg/kg (total 73.8 mg), the 10% bolus has been given. The remaining 90% of the dose is to infuse over 60 minutes. The concentration is 1 mg/mL. At what rate in mL/hr will the nurse set the pump? Round to the nearest tenth.",
+      "answer": 66.4,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Remaining dose: 73.8 mg × 0.90 = 66.42 mg (or 73.8 − 7.38 = 66.42 mg)",
+        "Volume: 66.42 mg ÷ 1 mg/mL = 66.42 mL",
+        "Rate: 66.42 mL over 60 minutes (1 hour) = 66.42 mL/hr",
+        "Round to the nearest tenth: 66.4 mL/hr"
+      ],
+      "explanation": "The remaining 90% runs over exactly 60 minutes, so the mL to infuse equals the mL/hr rate. During and after the infusion, perform neuro checks and vital signs every 15 minutes for 2 hours, every 30 minutes for 6 hours, then hourly for 16 hours; stop the infusion and notify the provider for a sudden headache, new neuro decline, nausea/vomiting, or acute hypertension, which suggest intracranial hemorrhage."
+    },
+    {
+      "id": "dosage-calc-05",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A client with an acute ischemic stroke weighs 231 lb. The order is alteplase 0.9 mg/kg IV, maximum dose 90 mg. What total dose in mg should the client receive? Round to the nearest whole number.",
+      "answer": 90,
+      "tolerance": 0.5,
+      "unit": "mg",
+      "steps": [
+        "Convert weight: 231 lb ÷ 2.2 = 105 kg",
+        "Calculated dose: 105 kg × 0.9 mg/kg = 94.5 mg",
+        "Compare with maximum: 94.5 mg exceeds 90 mg",
+        "Give the maximum: 90 mg"
+      ],
+      "explanation": "When a weight-based calculation exceeds the stated maximum, the client receives the maximum dose. Giving 94.5 mg of a thrombolytic would increase the risk of intracranial hemorrhage. The bolus would be 9 mg and the remaining 81 mg would infuse over 60 minutes."
+    },
+    {
+      "id": "dosage-calc-06",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "After alteplase, a client's blood pressure is 196/112 mm Hg. The provider orders a nicardipine infusion to start at 5 mg/hr and titrate by 2.5 mg/hr every 5-15 minutes to keep BP below 180/105 (maximum 15 mg/hr). The bag is nicardipine 25 mg in 250 mL. After 15 minutes the BP is 188/108 and the nurse increases the dose to 7.5 mg/hr. What is the new pump rate in mL/hr? Round to the nearest whole number.",
+      "answer": 75,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Concentration: 25 mg ÷ 250 mL = 0.1 mg/mL",
+        "New dose: 5 mg/hr + 2.5 mg/hr = 7.5 mg/hr",
+        "Rate: 7.5 mg/hr ÷ 0.1 mg/mL = 75 mL/hr"
+      ],
+      "explanation": "Nicardipine is a titratable calcium channel blocker used to keep BP below 180/105 for 24 hours after alteplase. Recalculate mL/hr from the new mg/hr each time it is titrated. Check BP every 5-15 minutes during titration and avoid dropping BP too quickly, because the ischemic penumbra depends on perfusion pressure."
+    },
+    {
+      "id": "dosage-calc-07",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client 1 hour after alteplase has a BP of 192/110 mm Hg. The provider orders labetalol 10 mg IV push now. Labetalol is available as 5 mg/mL. How many mL will the nurse administer? Round to the nearest tenth.",
+      "answer": 2,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Set up: 10 mg × (1 mL / 5 mg)",
+        "10 ÷ 5 = 2 mL",
+        "Answer: 2.0 mL"
+      ],
+      "explanation": "Labetalol is a first-line IV antihypertensive after thrombolysis when BP exceeds 180/105. Push it slowly over 1-2 minutes, and check heart rate and BP before and after; hold it and notify the provider for bradycardia or heart block, since labetalol is a beta blocker."
+    },
+    {
+      "id": "dosage-calc-08",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with cerebral edema after a large hemispheric stroke has an ICP of 24 mm Hg. The provider orders mannitol 0.5 g/kg IV over 20 minutes. The client weighs 84 kg and mannitol is supplied as a 20% solution. How many mL of mannitol will the nurse infuse? Round to the nearest whole number.",
+      "answer": 210,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Dose: 84 kg × 0.5 g/kg = 42 g",
+        "Concentration: 20% = 20 g per 100 mL = 0.2 g/mL",
+        "Volume: 42 g ÷ 0.2 g/mL = 210 mL"
+      ],
+      "explanation": "A percent solution means grams per 100 mL, so 20% mannitol contains 0.2 g/mL. Mannitol is an osmotic diuretic: use an in-line filter because it can crystallize, and monitor urine output, serum osmolality, electrolytes, and kidney function, as well as BP, because the diuresis can cause hypovolemia and hypotension that lowers cerebral perfusion pressure."
+    },
+    {
+      "id": "dosage-calc-09",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 76-kg client with a traumatic brain injury and rising ICP is ordered 3% sodium chloride as a continuous infusion at 0.5 mL/kg/hr via central line. At what rate in mL/hr will the nurse set the pump? Round to the nearest whole number.",
+      "answer": 38,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Set up: 76 kg × 0.5 mL/kg/hr",
+        "76 × 0.5 = 38 mL/hr"
+      ],
+      "explanation": "Hypertonic saline draws water out of swollen brain tissue into the vascular space. Because it is a high-alert, irritating solution, give continuous infusions by pump (ideally via central line) and monitor serum sodium and chloride frequently (often every 4-6 hours), fluid balance, and kidney function; report a sodium rising faster or higher than the protocol target."
+    },
+    {
+      "id": "dosage-calc-10",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client weighing 154 lb is in status epilepticus. After lorazepam, the provider orders a phenytoin loading dose of 20 mg/kg IV. Phenytoin is available as 50 mg/mL. How many mL of phenytoin will the nurse prepare? Round to the nearest whole number.",
+      "answer": 28,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 154 lb ÷ 2.2 = 70 kg",
+        "Dose: 70 kg × 20 mg/kg = 1,400 mg",
+        "Volume: 1,400 mg ÷ 50 mg/mL = 28 mL"
+      ],
+      "explanation": "Phenytoin loading doses are weight based. It must be mixed only in normal saline (it precipitates in dextrose), given through a filter into a large vein, and infused no faster than 50 mg/min in adults (this 1,400 mg dose needs at least 28 minutes) because rapid infusion causes hypotension and dysrhythmias. Keep the client on a cardiac monitor and check the site for purple glove syndrome."
+    },
+    {
+      "id": "dosage-calc-11",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A client in status epilepticus is receiving a phenytoin loading dose of 1,250 mg IV. The maximum adult infusion rate is 50 mg/min. What is the minimum number of minutes over which the nurse can safely infuse this dose? Round to the nearest whole number.",
+      "answer": 25,
+      "tolerance": 0.5,
+      "unit": "minutes",
+      "steps": [
+        "Set up: 1,250 mg ÷ 50 mg/min",
+        "1,250 ÷ 50 = 25 minutes",
+        "This is the shortest safe time; infusing faster exceeds 50 mg/min"
+      ],
+      "explanation": "Divide the total dose by the maximum rate to find the shortest safe infusion time. Exceeding 50 mg/min can cause severe hypotension, bradycardia, and cardiac arrest, so monitor ECG and BP continuously during the infusion and slow or stop it if the BP drops or dysrhythmias appear."
+    },
+    {
+      "id": "dosage-calc-12",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 62-kg client in status epilepticus is ordered fosphenytoin 20 mg PE/kg IV (PE = phenytoin sodium equivalents). Fosphenytoin is available as 50 mg PE/mL. How many mL will the nurse draw up? Round to the nearest tenth.",
+      "answer": 24.8,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 62 kg × 20 mg PE/kg = 1,240 mg PE",
+        "Volume: 1,240 mg PE ÷ 50 mg PE/mL = 24.8 mL"
+      ],
+      "explanation": "Fosphenytoin is always ordered and labeled in mg PE, so the units cancel directly. It can be infused faster than phenytoin (up to 150 mg PE/min) and is less irritating to veins, but the client still needs continuous ECG and BP monitoring. Confusing mg with mg PE has caused serious overdoses, so verify the units with a second nurse."
+    },
+    {
+      "id": "dosage-calc-13",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A client weighing 88 kg has ongoing seizures after two doses of lorazepam. The provider orders levetiracetam 60 mg/kg IV, maximum 4,500 mg. Levetiracetam is available as 500 mg/5 mL. How many mL will the nurse draw up from the vials? Round to the nearest whole number.",
+      "answer": 45,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Calculated dose: 88 kg × 60 mg/kg = 5,280 mg",
+        "Compare with maximum: 5,280 mg exceeds 4,500 mg, so give 4,500 mg",
+        "Concentration: 500 mg ÷ 5 mL = 100 mg/mL",
+        "Volume: 4,500 mg ÷ 100 mg/mL = 45 mL"
+      ],
+      "explanation": "Always check a weight-based dose against the ordered maximum before converting to volume. Levetiracetam has few drug interactions and does not need serum level monitoring, but it must be diluted before IV infusion. Maintain seizure precautions and monitor for sedation and, later, mood or behavior changes."
+    },
+    {
+      "id": "dosage-calc-14",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client is actively seizing for 6 minutes. The provider orders lorazepam 4 mg IV push. Lorazepam is available as 2 mg/mL. How many mL will the nurse give? Round to the nearest tenth.",
+      "answer": 2,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Set up: 4 mg × (1 mL / 2 mg)",
+        "4 ÷ 2 = 2 mL",
+        "Answer: 2.0 mL"
+      ],
+      "explanation": "Lorazepam is the first-line benzodiazepine for status epilepticus. Dilute it with an equal volume of compatible diluent and push no faster than 2 mg/min. Have suction, oxygen, and a bag-valve mask ready, because respiratory depression and hypotension are the major risks, especially with repeated doses."
+    },
+    {
+      "id": "dosage-calc-15",
+      "type": "numeric",
+      "bloom": "evaluate",
+      "stem": "A client with a T4 spinal cord injury is in neurogenic shock. Norepinephrine 4 mg in 250 mL D5W is infusing at 45 mL/hr. The order is to titrate norepinephrine 2-20 mcg/min to keep MAP 85-90 mm Hg. To verify the pump, the nurse calculates the dose the client is receiving. How many mcg/min is the client receiving? Round to the nearest whole number.",
+      "answer": 12,
+      "tolerance": 0.5,
+      "unit": "mcg/min",
+      "steps": [
+        "Concentration: 4 mg = 4,000 mcg; 4,000 mcg ÷ 250 mL = 16 mcg/mL",
+        "Hourly dose: 45 mL/hr × 16 mcg/mL = 720 mcg/hr",
+        "Per minute: 720 mcg/hr ÷ 60 min/hr = 12 mcg/min",
+        "12 mcg/min is within the ordered 2-20 mcg/min range"
+      ],
+      "explanation": "Reverse-calculating a running drip (mL/hr × concentration ÷ 60) confirms the pump matches the ordered dose. In acute spinal cord injury, MAP is commonly kept at 85-90 mm Hg for about 7 days to perfuse the injured cord. Norepinephrine is a vesicant: infuse through a central line when possible and watch peripheral sites for extravasation."
+    },
+    {
+      "id": "dosage-calc-16",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 90-kg client with septic shock remains hypotensive (MAP 58 mm Hg) after a 30 mL/kg crystalloid bolus. The provider orders norepinephrine at 0.1 mcg/kg/min. The bag is norepinephrine 8 mg in 250 mL NS. At what rate in mL/hr will the nurse set the pump? Round to the nearest tenth.",
+      "answer": 16.9,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per minute: 90 kg × 0.1 mcg/kg/min = 9 mcg/min",
+        "Dose per hour: 9 mcg/min × 60 = 540 mcg/hr",
+        "Concentration: 8 mg = 8,000 mcg; 8,000 ÷ 250 mL = 32 mcg/mL",
+        "Rate: 540 mcg/hr ÷ 32 mcg/mL = 16.875 mL/hr",
+        "Round to the nearest tenth: 16.9 mL/hr"
+      ],
+      "explanation": "For mcg/kg/min drips, multiply dose × weight × 60 to get mcg/hr, then divide by the concentration in mcg/mL. In septic shock, norepinephrine is the first-line vasopressor to keep MAP at least 65 mm Hg. Monitor MAP every 5-15 minutes during titration (ideally by arterial line), urine output, lactate, and peripheral perfusion."
+    },
+    {
+      "id": "dosage-calc-17",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client in septic shock on norepinephrine still has a MAP of 61 mm Hg. The provider adds vasopressin 0.03 units/min. The bag is vasopressin 20 units in 100 mL NS. At what rate in mL/hr will the nurse set the pump? Round to the nearest whole number.",
+      "answer": 9,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Concentration: 20 units ÷ 100 mL = 0.2 units/mL",
+        "Dose per hour: 0.03 units/min × 60 = 1.8 units/hr",
+        "Rate: 1.8 units/hr ÷ 0.2 units/mL = 9 mL/hr"
+      ],
+      "explanation": "Vasopressin is added to norepinephrine in septic shock as a fixed, non-titrated dose (usually 0.03 units/min) to raise MAP and reduce the norepinephrine requirement. Monitor for signs of ischemia such as cool, mottled fingers and toes, chest pain, or abdominal pain, and monitor sodium because of its antidiuretic effect."
+    },
+    {
+      "id": "dosage-calc-18",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with suspected sepsis has a BP of 82/46 mm Hg and a lactate of 4.6 mmol/L. The client weighs 187 lb. Per the sepsis bundle, the provider orders 30 mL/kg of IV crystalloid. How many mL of crystalloid will the client receive? Round to the nearest whole number.",
+      "answer": 2550,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 187 lb ÷ 2.2 = 85 kg",
+        "Volume: 85 kg × 30 mL/kg = 2,550 mL"
+      ],
+      "explanation": "The sepsis bundle calls for 30 mL/kg of crystalloid within the first 3 hours for hypotension or a lactate of 4 mmol/L or higher. Draw blood cultures before antibiotics, but do not delay antibiotics. During the bolus, assess lung sounds, oxygen saturation, and work of breathing for fluid overload, especially in clients with heart failure or kidney disease."
+    },
+    {
+      "id": "dosage-calc-19",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client weighing 80 kg has partial- and full-thickness burns covering 40% of the total body surface area. Using the Parkland formula (4 mL × kg × %TBSA), how many mL of lactated Ringer's should the client receive in the first 24 hours after the burn? Round to the nearest whole number.",
+      "answer": 12800,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Set up: 4 mL × 80 kg × 40 (%TBSA)",
+        "4 × 80 = 320; 320 × 40 = 12,800 mL",
+        "Total for the first 24 hours: 12,800 mL"
+      ],
+      "explanation": "The Parkland formula gives the total crystalloid (lactated Ringer's) for the first 24 hours after a burn: half in the first 8 hours and half over the next 16 hours. Only partial- and full-thickness burns count toward %TBSA; superficial (first-degree) burns are not included. The formula is a starting point, and the rate is adjusted to urine output."
+    },
+    {
+      "id": "dosage-calc-20",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "The same 80-kg client with 40% TBSA burns (Parkland total 12,800 mL) arrives at the burn unit 2 hours after the injury. No fluids were given before arrival. At what rate in mL/hr must the nurse infuse lactated Ringer's to deliver the first half of the Parkland volume on time? Round to the nearest whole number.",
+      "answer": 1067,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "First half: 12,800 mL ÷ 2 = 6,400 mL, due within 8 hours of the burn",
+        "Time remaining: 8 hours − 2 hours already elapsed = 6 hours",
+        "Rate: 6,400 mL ÷ 6 hr = 1,066.67 mL/hr",
+        "Round to the nearest whole number: 1,067 mL/hr"
+      ],
+      "explanation": "The 8-hour clock starts at the time of the burn, not at the time of arrival, so a delay means the first half must be given faster. Titrate fluids to a urine output of at least 0.5 mL/kg/hr in adults (40 mL/hr for this client); output well below target means more fluid is needed, and very high output suggests over-resuscitation and risk of edema and compartment syndrome."
+    }
+  ]
+}

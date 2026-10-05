@@ -1,0 +1,235 @@
+{
+  "slug": "burns",
+  "title": "Burns",
+  "short": "Burns",
+  "icon": "flame",
+  "description": "Burn depth and extent, airway and carbon monoxide injury, Parkland fluid resuscitation, fluid and electrolyte shifts across the emergent, acute, and rehabilitation phases, and wound, pain, infection, nutrition, and contracture care.",
+  "keyPoints": [
+    "Depth: superficial (red, painful, no blisters), superficial partial-thickness (blisters, moist, very painful, blanches), deep partial-thickness (mottled, less painful, slow refill), full-thickness (leathery, white/brown/charred, painless, needs grafting).",
+    "Rule of nines (adult): head 9%, each arm 9%, anterior trunk 18%, posterior trunk 18%, each leg 18% (9% front, 9% back), perineum 1%.",
+    "Airway first. Inhalation injury cues: facial burns, singed nasal hair, soot in mouth or sputum, hoarseness, stridor, burns in an enclosed space. Swelling worsens over hours, so intubate early.",
+    "Carbon monoxide: SpO2 reads falsely normal because the probe cannot tell carboxyhemoglobin from oxyhemoglobin. Give 100% O2 by nonrebreather and check a carboxyhemoglobin level.",
+    "Parkland: 4 mL × kg × %TBSA of lactated Ringer's over 24 h. Give half in the first 8 h counted from the TIME OF BURN, and the rest over the next 16 h. Titrate to urine output of 0.5 mL/kg/h in adults.",
+    "Emergent phase (first 24-72 h): capillary leak, hypovolemia, edema, hyperkalemia, and hemoconcentration. Acute phase: fluid mobilizes (diuresis), infection risk, wound care. Rehab: grafts mature, scars and contractures are managed.",
+    "Circumferential burns can cause compartment syndrome or restrict breathing, so escharotomy may be needed. Electrical burns need cardiac monitoring and monitoring for myoglobinuria (dark urine), with a higher urine output goal.",
+    "Give opioids IV (not IM or oral early). Use strict asepsis. Mafenide can cause metabolic acidosis, and silver sulfadiazine can cause transient leukopenia. Provide a high-calorie, high-protein diet. Position in extension to prevent contractures."
+  ],
+  "questions": [
+    {
+      "id": "burns-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client burned in a house fire has areas on the thigh that are dry, leathery, and waxy white. The areas do not blanch, and the client denies pain when they are touched. How should the nurse classify these areas?",
+      "options": [
+        { "id": "a", "text": "Superficial burn", "correct": false, "rationale": "Superficial burns involve only the epidermis and are red, dry, painful, and blanching, like a sunburn." },
+        { "id": "b", "text": "Full-thickness burn", "correct": true, "rationale": "Full-thickness burns destroy the epidermis, dermis, and nerve endings, producing leathery, waxy white, brown, or charred skin that is painless and does not blanch." },
+        { "id": "c", "text": "Superficial partial-thickness burn", "correct": false, "rationale": "These burns are moist, pink or red, blistered, blanching, and very painful because nerve endings are exposed." },
+        { "id": "d", "text": "Deep partial-thickness burn", "correct": false, "rationale": "Deep partial-thickness burns are mottled red and white with slow capillary refill and reduced (not absent) sensation, and they are not leathery." }
+      ],
+      "explanation": "Full-thickness burns cannot heal on their own because the dermal structures that regenerate skin are destroyed, so they require grafting. Lack of pain does not mean the burn is minor; it means the nerve endings are destroyed. The edges of a full-thickness burn are often surrounded by painful partial-thickness areas."
+    },
+    {
+      "id": "burns-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An adult client has partial- and full-thickness burns covering the entire anterior trunk, the entire left arm, and the anterior surface of the right leg. Using the rule of nines, what is the estimated total body surface area (TBSA) burned?",
+      "options": [
+        { "id": "a", "text": "27%", "correct": false, "rationale": "This omits part of the injury. The anterior trunk alone is 18%, the whole arm is 9%, and the front of the leg adds another 9%." },
+        { "id": "b", "text": "45%", "correct": false, "rationale": "This counts the whole right leg (18%) instead of only its anterior surface (9%)." },
+        { "id": "c", "text": "36%", "correct": true, "rationale": "Anterior trunk 18% + entire left arm 9% + anterior right leg 9% = 36%." },
+        { "id": "d", "text": "31.5%", "correct": false, "rationale": "This splits the arm into front and back halves (4.5%) even though the entire arm is burned, which is 9%." }
+      ],
+      "explanation": "Adult rule of nines: head and neck 9%, each arm 9%, anterior trunk 18%, posterior trunk 18%, each leg 18% (9% anterior, 9% posterior), and perineum 1%. Superficial (first-degree) burns are not included in the TBSA used for fluid calculations."
+    },
+    {
+      "id": "burns-03",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client is brought to the emergency department after being rescued from a burning apartment. Which findings suggest inhalation injury? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Singed nasal hairs and eyebrows", "correct": true, "rationale": "Singed facial hair shows the client was exposed to hot gases near the airway." },
+        { "id": "b", "text": "Black, sooty sputum", "correct": true, "rationale": "Carbonaceous sputum shows smoke particles reached the airway." },
+        { "id": "c", "text": "SpO2 98% on room air", "correct": false, "rationale": "A normal SpO2 does not rule out inhalation injury or carbon monoxide poisoning, because pulse oximetry cannot tell carboxyhemoglobin from oxyhemoglobin." },
+        { "id": "d", "text": "Hoarse voice", "correct": true, "rationale": "Hoarseness indicates swelling of the vocal cords and upper airway, an early sign of impending obstruction." },
+        { "id": "e", "text": "Burns limited to both lower legs", "correct": false, "rationale": "Burn location below the waist is not a cue for airway injury. Facial and neck burns are." },
+        { "id": "f", "text": "Inspiratory stridor", "correct": true, "rationale": "Stridor is a sign of significant upper airway narrowing and is an emergency." }
+      ],
+      "explanation": "Suspect inhalation injury with a fire in an enclosed space, facial or neck burns, singed facial hair, soot in the mouth or sputum, hoarseness, stridor, wheezing, or drooling. Airway edema increases over the first 24-48 hours, especially during fluid resuscitation."
+    },
+    {
+      "id": "burns-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with facial burns from a kitchen fire was speaking normally on arrival. One hour later the client's voice is hoarse, and the nurse hears faint inspiratory stridor. SpO2 is 95% on a nonrebreather mask. Which action is the priority?",
+      "options": [
+        { "id": "a", "text": "Notify the provider immediately and prepare for early endotracheal intubation", "correct": true, "rationale": "Progressive hoarseness and stridor show worsening airway edema. Intubating early, before the swelling closes the airway, is far safer than an emergency intubation later." },
+        { "id": "b", "text": "Raise the head of the bed to reduce facial edema, continue the nonrebreather, and reassess the airway in 1 hour", "correct": false, "rationale": "Elevating the head helps reduce facial edema, but waiting an hour risks complete airway obstruction." },
+        { "id": "c", "text": "Give a nebulized bronchodilator and recheck the SpO2", "correct": false, "rationale": "Bronchodilators treat lower airway bronchospasm, not upper airway swelling. The SpO2 is a late indicator here." },
+        { "id": "d", "text": "Start the Parkland fluid resuscitation before addressing the airway", "correct": false, "rationale": "Fluids are essential, but airway comes first. Large-volume fluids can make airway swelling worse." }
+      ],
+      "explanation": "Airway is the first priority in burn care. Upper airway edema peaks 24-48 hours after injury, so signs such as hoarseness, stridor, and difficulty swallowing call for early intubation. A normal SpO2 can be falsely reassuring."
+    },
+    {
+      "id": "burns-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client rescued from a smoke-filled garage has a headache, nausea, and confusion. SpO2 is 99% on room air, and the client has minor burns on one hand. What should the nurse do first?",
+      "options": [
+        { "id": "a", "text": "Reassure the client that the oxygen saturation is normal", "correct": false, "rationale": "Pulse oximetry reads carboxyhemoglobin as oxyhemoglobin, so the SpO2 is falsely high in carbon monoxide poisoning." },
+        { "id": "b", "text": "Apply oxygen at 2 L/min by nasal cannula and recheck the SpO2 and level of consciousness in 30 minutes", "correct": false, "rationale": "Low-flow oxygen is not enough. CO binds hemoglobin over 200 times more strongly than oxygen, so the highest possible concentration is needed to displace it." },
+        { "id": "c", "text": "Give acetaminophen for the headache and reassess", "correct": false, "rationale": "Headache and confusion are symptoms of tissue hypoxia from CO, not a simple headache. Treating the symptom delays essential care." },
+        { "id": "d", "text": "Apply 100% oxygen by nonrebreather mask and anticipate a carboxyhemoglobin level", "correct": true, "rationale": "100% oxygen shortens the half-life of carboxyhemoglobin and is the immediate treatment. A COHb level from blood is needed to confirm the diagnosis." }
+      ],
+      "explanation": "Carbon monoxide poisoning causes headache, nausea, dizziness, confusion, and in severe cases seizures and coma. SpO2 is unreliable. Give 100% oxygen by nonrebreather (or by ventilator), measure carboxyhemoglobin, and consider hyperbaric oxygen for severe cases. 'Cherry-red' skin is a late, unreliable sign."
+    },
+    {
+      "id": "burns-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 70-kg client has 30% TBSA partial- and full-thickness burns. The burn occurred 2 hours before fluid resuscitation is started. Using the Parkland formula, at what rate should the nurse infuse lactated Ringer's for the remainder of the first 8 hours after the burn?",
+      "options": [
+        { "id": "a", "text": "525 mL/h", "correct": false, "rationale": "This divides 4,200 mL by 8 hours. It ignores the 2 hours already lost, so the client would be under-resuscitated." },
+        { "id": "b", "text": "700 mL/h", "correct": true, "rationale": "4 × 70 × 30 = 8,400 mL over 24 h. Half (4,200 mL) is due in the first 8 h from the time of burn. With 2 h already gone, 4,200 mL ÷ 6 h = 700 mL/h." },
+        { "id": "c", "text": "350 mL/h", "correct": false, "rationale": "This spreads 8,400 mL evenly over 24 hours. The Parkland formula front-loads half the volume in the first 8 hours, when capillary leak is greatest." },
+        { "id": "d", "text": "1,050 mL/h", "correct": false, "rationale": "This gives the entire 24-hour volume (8,400 mL) over 8 hours, which would cause dangerous fluid overload." }
+      ],
+      "explanation": "Parkland: 4 mL × kg × %TBSA of LR over 24 hours. The first half is given within 8 hours of the time of burn (not arrival), and the second half over the next 16 hours. The formula is a starting point, and the rate is then titrated to urine output."
+    },
+    {
+      "id": "burns-07",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating fluid resuscitation for an 80-kg client in the emergent phase of a major burn. Which finding indicates that resuscitation is adequate?",
+      "options": [
+        { "id": "a", "text": "Urine output 20 mL/h", "correct": false, "rationale": "This is 0.25 mL/kg/h, half the minimum target. The fluid rate needs to be increased per protocol." },
+        { "id": "b", "text": "Heart rate 128/min with warm extremities", "correct": false, "rationale": "Marked tachycardia suggests continued hypovolemia, although pain and anxiety can contribute." },
+        { "id": "c", "text": "Urine output 45 mL/h", "correct": true, "rationale": "The adult target is 0.5 mL/kg/h, or 40 mL/h for 80 kg. An output of 45 mL/h shows adequate renal perfusion." },
+        { "id": "d", "text": "Hematocrit 56%", "correct": false, "rationale": "A high hematocrit reflects hemoconcentration from plasma loss into tissues, a sign that volume is still depleted." }
+      ],
+      "explanation": "Hourly urine output is the main guide for burn resuscitation: about 0.5 mL/kg/h (roughly 30-50 mL/h) in adults. Too little output means under-resuscitation. Too much fluid (output well above target) risks pulmonary edema, abdominal and extremity compartment syndrome, and worsening airway edema."
+    },
+    {
+      "id": "burns-08",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is caring for a client 12 hours after a 40% TBSA burn. Which findings does the nurse expect during this emergent phase? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Serum potassium 5.8 mEq/L", "correct": true, "rationale": "Damaged cells release potassium, and low renal perfusion reduces excretion, so hyperkalemia is expected early." },
+        { "id": "b", "text": "Hematocrit 55%", "correct": true, "rationale": "Plasma leaks out of the vessels while RBCs stay behind, so the hematocrit rises (hemoconcentration)." },
+        { "id": "c", "text": "Generalized edema, including unburned areas", "correct": true, "rationale": "Increased capillary permeability lets fluid and protein shift into the interstitial space, causing widespread edema in large burns." },
+        { "id": "d", "text": "Large-volume diuresis", "correct": false, "rationale": "Diuresis occurs when fluid shifts back into the vessels at the start of the acute phase, usually after 48-72 hours. Early output is low." },
+        { "id": "e", "text": "Serum potassium 3.0 mEq/L from cell repair", "correct": false, "rationale": "Hypokalemia is more typical of the acute phase, when fluid mobilizes and potassium moves back into cells or is lost in urine." }
+      ],
+      "explanation": "The emergent phase lasts from injury until capillary integrity returns and fluid resuscitation is complete (about 24-72 hours). Expect hypovolemia, edema, low urine output, hyperkalemia, hyponatremia, metabolic acidosis, and an elevated hematocrit. The acute phase starts with fluid mobilization and diuresis."
+    },
+    {
+      "id": "burns-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client has a circumferential full-thickness burn of the right forearm. Four hours into fluid resuscitation, the client reports increasing pain and tingling in the hand. The radial pulse is weak by Doppler, and the fingers are pale and cool. Which action should the nurse take?",
+      "options": [
+        { "id": "a", "text": "Notify the provider immediately and anticipate an escharotomy", "correct": true, "rationale": "Rigid eschar cannot expand as edema builds, which compresses vessels and nerves (compartment syndrome). An escharotomy releases the pressure and restores circulation." },
+        { "id": "b", "text": "Give an additional dose of IV morphine and reassess in 2 hours", "correct": false, "rationale": "Pain control is needed, but these are signs of compromised circulation. Waiting 2 hours risks permanent nerve and muscle damage." },
+        { "id": "c", "text": "Wrap the arm snugly with an elastic bandage to reduce swelling", "correct": false, "rationale": "Compression would further restrict circulation in a limb that is already ischemic." },
+        { "id": "d", "text": "Apply ice packs to the forearm to decrease edema", "correct": false, "rationale": "Ice causes vasoconstriction, worsens ischemia and tissue damage, and promotes hypothermia in a burn client." }
+      ],
+      "explanation": "With circumferential burns, check pulses (by Doppler if needed), capillary refill, color, temperature, sensation, and pain hourly. Elevate the extremity. Signs of compartment syndrome require an urgent escharotomy. A circumferential chest burn can restrict ventilation and may need a chest escharotomy."
+    },
+    {
+      "id": "burns-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A lineman is admitted after contact with a high-voltage power line and a fall from a utility pole. He has small burns on the right hand and left foot. Which interventions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Continuous cardiac monitoring", "correct": true, "rationale": "Electrical current can cause dysrhythmias, including ventricular fibrillation, so ECG monitoring is required." },
+        { "id": "b", "text": "Assessment of both the entry and exit wounds", "correct": true, "rationale": "Current enters and exits the body. The wounds show the likely path, and the tissue between them may be badly damaged." },
+        { "id": "c", "text": "Monitoring urine for a dark red or tea-colored appearance", "correct": true, "rationale": "Muscle damage releases myoglobin, which can block the renal tubules and cause acute kidney injury." },
+        { "id": "d", "text": "Calculating fluid needs only from the visible skin burns", "correct": false, "rationale": "Electrical injuries cause extensive damage beneath intact skin, so visible TBSA underestimates fluid needs." },
+        { "id": "e", "text": "Cervical spine immobilization until injury is ruled out", "correct": true, "rationale": "The fall and the strong muscle contractions caused by the current can produce spinal fractures." },
+        { "id": "f", "text": "Targeting a urine output of 0.25 mL/kg/h", "correct": false, "rationale": "This is too low for any burn client. With myoglobinuria, the target is higher than usual (about 1 mL/kg/h or more) to flush myoglobin through the kidneys." }
+      ],
+      "explanation": "Electrical burns are 'the tip of the iceberg': small surface wounds can hide deep muscle and nerve damage. Priorities include cardiac monitoring, spinal precautions, compartment checks, and aggressive fluids with a higher urine output goal when myoglobin is present."
+    },
+    {
+      "id": "burns-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with 35% TBSA burns rates pain at 9/10 on the first day after injury. A dressing change is scheduled in 1 hour. Which pain management approach is most appropriate?",
+      "options": [
+        { "id": "a", "text": "Give IM morphine now so the effect lasts through the dressing change", "correct": false, "rationale": "Poor tissue perfusion and edema during the emergent phase make IM absorption unpredictable. The drug can pool in tissue and then be absorbed all at once when perfusion returns." },
+        { "id": "b", "text": "Give oral oxycodone with a sip of water", "correct": false, "rationale": "Decreased GI blood flow and paralytic ileus in major burns make oral absorption unreliable early on." },
+        { "id": "c", "text": "Give IV morphine now and premedicate again shortly before the dressing change", "correct": true, "rationale": "IV opioids give predictable, rapid relief. Premedicating before procedures is essential, because burn dressing changes are among the most painful procedures clients experience." },
+        { "id": "d", "text": "Hold opioids to avoid masking signs of deterioration", "correct": false, "rationale": "Undertreated pain raises metabolic demand, causes distress, and impairs participation in care. Burn pain must be treated." }
+      ],
+      "explanation": "In the emergent phase, give analgesics IV. Schedule them around the clock with extra doses before dressing changes and therapy. Add nonpharmacologic measures such as distraction and relaxation, and reassess pain and sedation after each dose."
+    },
+    {
+      "id": "burns-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client's burn wounds are being treated with mafenide acetate cream. Which assessment is most important for the nurse to monitor because of this medication?",
+      "options": [
+        { "id": "a", "text": "WBC count for leukopenia", "correct": false, "rationale": "Transient leukopenia is associated with silver sulfadiazine, not mafenide." },
+        { "id": "b", "text": "Serum sodium for hyponatremia and gray-black staining of the skin", "correct": false, "rationale": "These effects are associated with silver nitrate dressings." },
+        { "id": "c", "text": "A painless, cooling sensation after application", "correct": false, "rationale": "Mafenide often causes burning pain for about 20-30 minutes after application, so premedication may be needed." },
+        { "id": "d", "text": "Respiratory rate and ABGs for metabolic acidosis", "correct": true, "rationale": "Mafenide inhibits carbonic anhydrase, causing bicarbonate loss and metabolic acidosis. Rapid, deep (compensatory) respirations and a low HCO3- should be reported." }
+      ],
+      "explanation": "Topical antimicrobials: silver sulfadiazine (soothing, poor eschar penetration, transient leukopenia, caution with sulfa allergy), mafenide acetate (penetrates eschar, painful, metabolic acidosis), and silver nitrate or silver-impregnated dressings (staining; silver nitrate can cause electrolyte loss)."
+    },
+    {
+      "id": "burns-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a client in the acute phase of a 45% TBSA burn. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Provide a high-calorie, high-protein diet with enteral feedings if oral intake is inadequate", "correct": true, "rationale": "Major burns cause extreme hypermetabolism. Calories and protein are needed for wound healing and to prevent muscle wasting, and early enteral feeding also protects the gut." },
+        { "id": "b", "text": "Use strict hand hygiene, PPE, and aseptic technique for wound care", "correct": true, "rationale": "Loss of the skin barrier makes infection the leading cause of death after the emergent phase." },
+        { "id": "c", "text": "Allow visitors to bring fresh flowers and potted plants", "correct": false, "rationale": "Plants, flowers, and standing water can harbor Pseudomonas and other organisms and are avoided in burn units." },
+        { "id": "d", "text": "Monitor wounds for changes in color, odor, drainage, or new eschar breakdown", "correct": true, "rationale": "These are local signs of wound infection. Systemic signs can be masked by the hypermetabolic state." },
+        { "id": "e", "text": "Restrict protein to protect the kidneys", "correct": false, "rationale": "Protein needs are greatly increased in burns. Restriction would impair healing and immune function." },
+        { "id": "f", "text": "Give routine prophylactic systemic antibiotics to all burn clients", "correct": false, "rationale": "Routine systemic antibiotic prophylaxis is not recommended because it promotes resistant organisms. Topical agents and infection surveillance are used instead, and tetanus immunization is updated." }
+      ],
+      "explanation": "Acute-phase care focuses on wound care and closure, infection prevention, nutrition, pain control, and mobility. Watch for sepsis, hypokalemia and hyponatremia as fluid mobilizes, and stress (Curling) ulcers."
+    },
+    {
+      "id": "burns-14",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is teaching a client who had an autograft placed on the left lower leg. Which client statement indicates the need for further teaching?",
+      "options": [
+        { "id": "a", "text": "\"I can lie on my left side with my leg on the bed if that is more comfortable.\"", "correct": true, "rationale": "Pressure and shearing on a new graft can dislodge it and prevent it from attaching to the wound bed. The graft must be protected from pressure." },
+        { "id": "b", "text": "\"I need to keep the leg still for the next several days so the graft can attach.\"", "correct": false, "rationale": "This is correct. Grafts are immobilized, usually for 3-5 days, to allow new blood vessels to grow into the graft." },
+        { "id": "c", "text": "\"I should report a foul smell or pus coming from the graft or donor site.\"", "correct": false, "rationale": "This is correct. Infection is a common cause of graft failure and must be reported promptly." },
+        { "id": "d", "text": "\"I will wear my pressure garment as prescribed after the graft heals.\"", "correct": false, "rationale": "This is correct. Pressure garments, often worn about 23 hours a day, reduce hypertrophic scarring." }
+      ],
+      "explanation": "After grafting, keep the site immobilized and elevated, avoid pressure and shear, and watch for hematoma, fluid collection, and infection. The donor site is a new partial-thickness wound and is also painful. Long-term care includes moisturizing, sun protection, and pressure garments."
+    },
+    {
+      "id": "burns-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client arrives in the emergency department with extensive flame burns from a house fire. Place the nurse's initial actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Stop the burning process by removing smoldering clothing and jewelry" },
+        { "id": "b", "text": "Assess airway patency and look for signs of inhalation injury" },
+        { "id": "c", "text": "Apply 100% oxygen by nonrebreather mask and assess breathing" },
+        { "id": "d", "text": "Insert two large-bore IV catheters and begin lactated Ringer's" },
+        { "id": "e", "text": "Estimate the %TBSA burned using the rule of nines so the Parkland rate can be calculated" }
+      ],
+      "explanation": "First stop the burning so the injury does not deepen, and remove jewelry before swelling starts. Then follow ABCs: airway (inhalation injury, early intubation), breathing (100% oxygen for possible CO poisoning), and circulation (large-bore IVs with LR). Once immediate threats are managed, estimate TBSA to calculate the Parkland rate, and keep the client covered and warm."
+    },
+    {
+      "id": "burns-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is recovering from deep partial-thickness burns of the anterior neck. Which positioning action best prevents a contracture?",
+      "options": [
+        { "id": "a", "text": "Place two pillows under the head for comfort", "correct": false, "rationale": "Pillows flex the neck, which promotes a flexion contracture of the anterior neck." },
+        { "id": "b", "text": "Allow the client to stay in the position of greatest comfort", "correct": false, "rationale": "The position of comfort is usually flexion, which is the position that leads to contractures." },
+        { "id": "c", "text": "Keep the arms at the sides and the knees flexed", "correct": false, "rationale": "This does not address the neck burn and encourages flexion and adduction contractures elsewhere." },
+        { "id": "d", "text": "Remove the pillow and keep the neck in slight extension", "correct": true, "rationale": "Healing skin contracts. Positioning the neck in neutral or slight extension stretches the anterior scar and prevents a flexion contracture." }
+      ],
+      "explanation": "To prevent contractures, position burned areas in extension or opposite the direction the scar will pull, use splints as prescribed, and perform active and passive ROM several times daily. Rehabilitation also includes pressure garments, scar care, and psychosocial support for body image changes."
+    }
+  ]
+}

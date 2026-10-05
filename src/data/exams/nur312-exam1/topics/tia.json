@@ -1,0 +1,182 @@
+{
+  "slug": "tia",
+  "title": "Transient Ischemic Attack",
+  "short": "TIA",
+  "icon": "clock",
+  "description": "Transient ischemic attack: definition, presentation, BE-FAST recognition, emergency workup, stroke risk after a TIA, ABCD2 risk scoring, antithrombotic and statin therapy, carotid endarterectomy, and risk factor teaching.",
+  "keyPoints": [
+    "TIA: a brief episode of focal neurologic symptoms caused by disrupted cerebral blood flow, with no infarct on imaging. Symptoms usually resolve within 24 h and typically last 1-2 h.",
+    "Symptoms match the vascular territory: visual disturbances (including one-eye vision loss), dizziness, slurred speech, and one-sided weakness or numbness.",
+    "A TIA is a warning sign. Stroke risk is highest in the first 24-48 h after the TIA, so treat it as a stroke emergency even if symptoms are gone.",
+    "BE-FAST: Balance, Eyes, Face drooping, Arm weakness, Speech difficulty, Time to call 911. Note the time last known well.",
+    "Workup: CT/MRI of the brain, carotid duplex ultrasound, ECG and telemetry for atrial fibrillation, echocardiogram, lipids, glucose and A1c.",
+    "ABCD2 score estimates early stroke risk: Age ≥ 60, BP ≥ 140/90, Clinical features (one-sided weakness scores highest), Duration (≥ 60 min), Diabetes.",
+    "Treatment: antiplatelets (aspirin, clopidogrel) for noncardioembolic TIA, anticoagulants (warfarin, DOACs) for AF, a high-intensity statin, and carotid endarterectomy or stenting for significant carotid stenosis.",
+    "After carotid endarterectomy: monitor the airway, neck swelling, hoarseness, headache, and neuro status and BP."
+  ],
+  "questions": [
+    {
+      "id": "tia-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client asks the nurse, 'How is a mini-stroke different from a real stroke?' Which response by the nurse is most accurate?",
+      "options": [
+        { "id": "a", "text": "A TIA is caused by a small bleed in the brain that stops on its own, while a stroke is caused by a clot.", "correct": false, "rationale": "A TIA is ischemic, caused by a temporary interruption of blood flow. Strokes can be either ischemic or hemorrhagic." },
+        { "id": "b", "text": "Blood flow is blocked only briefly, symptoms usually resolve within 24 hours, and scans show no damage.", "correct": true, "rationale": "A TIA is a transient focal neurologic event without infarction on imaging. Symptoms typically last 1-2 hours and resolve within 24 hours." },
+        { "id": "c", "text": "A TIA does not need medical care because it causes no damage.", "correct": false, "rationale": "A TIA is a warning sign of an impending stroke and needs urgent evaluation and treatment." },
+        { "id": "d", "text": "A TIA affects both sides of the body, while a stroke affects only one side.", "correct": false, "rationale": "TIA symptoms are focal and match the vascular territory involved, often one-sided, just like an ischemic stroke." }
+      ],
+      "explanation": "A TIA is an acute, focal neurologic event caused by temporary disruption of cerebral blood flow. Symptoms usually resolve within 24 hours (typically 1-2 hours) and imaging shows no infarct. It is a warning sign of stroke, not a harmless event."
+    },
+    {
+      "id": "tia-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is brought to the ED after 30 minutes of right arm weakness and slurred speech that started at 0815. On arrival at 0900, the symptoms have completely resolved and the client says, 'I'm fine now, I just want to go home.' Which action should the nurse take?",
+      "options": [
+        { "id": "a", "text": "Prepare discharge teaching, because the symptoms resolved completely in under an hour and the client wants to leave.", "correct": false, "rationale": "Resolved symptoms do not rule out a high short-term stroke risk. Discharging the client without a workup is unsafe." },
+        { "id": "b", "text": "Schedule an outpatient neurology appointment for next month.", "correct": false, "rationale": "Stroke risk is highest within the first 24-48 hours, so evaluation cannot wait weeks." },
+        { "id": "c", "text": "Give aspirin 325 mg before any further assessment.", "correct": false, "rationale": "Antithrombotics are not given until brain imaging rules out hemorrhage." },
+        { "id": "d", "text": "Treat it as a stroke alert, assess neuro status, and prepare for urgent brain imaging.", "correct": true, "rationale": "A TIA is treated as a stroke emergency. The nurse documents the time last known well, assesses neuro status, and prepares for prompt CT/MRI and a vascular and cardiac workup." }
+      ],
+      "explanation": "A TIA must be treated as a stroke emergency even after the symptoms resolve. Symptoms may return and progress to a completed stroke. Prompt imaging and workup find the cause and guide treatment to prevent a stroke."
+    },
+    {
+      "id": "tia-03",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is teaching a community group about the warning signs of a transient ischemic attack. Which symptoms should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Sudden loss of vision in one eye, like a curtain coming down", "correct": true, "rationale": "Transient monocular blindness (amaurosis fugax) is a classic TIA symptom from reduced flow in the carotid or ophthalmic artery." },
+        { "id": "b", "text": "Sudden weakness or numbness of one arm or one side of the face", "correct": true, "rationale": "One-sided weakness or numbness reflects ischemia in the opposite cerebral hemisphere." },
+        { "id": "c", "text": "Crushing chest pain that radiates to the jaw", "correct": false, "rationale": "This describes myocardial ischemia, not a TIA." },
+        { "id": "d", "text": "Slurred speech or trouble finding words", "correct": true, "rationale": "Dysarthria or aphasia is a common TIA symptom, especially with involvement of the left hemisphere." },
+        { "id": "e", "text": "Sudden dizziness or loss of balance", "correct": true, "rationale": "Dizziness and imbalance can come from posterior circulation (vertebrobasilar) ischemia. This is the 'B' in BE-FAST." },
+        { "id": "f", "text": "Gradual, symmetric numbness in both feet over several months", "correct": false, "rationale": "Slow, symmetric numbness in both feet suggests peripheral neuropathy, not a sudden focal vascular event." }
+      ],
+      "explanation": "TIA symptoms are sudden and focal and match the vascular territory involved: visual disturbances, dizziness or imbalance, slurred speech, and one-sided weakness or numbness. BE-FAST helps the public recognize them: Balance, Eyes, Face, Arms, Speech, Time."
+    },
+    {
+      "id": "tia-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is being evaluated after a TIA that resolved this morning. The client's spouse asks when the client is at greatest risk for a full stroke. Which response by the nurse is correct?",
+      "options": [
+        { "id": "a", "text": "In the first 24 hours after the TIA, which is why the workup is being done now.", "correct": true, "rationale": "Stroke risk is highest within the first 24 hours after a TIA and stays elevated over the next several days, so urgent evaluation and treatment are essential." },
+        { "id": "b", "text": "The risk is highest about 1 year from now.", "correct": false, "rationale": "Risk stays elevated long term, but it is concentrated in the first days after the TIA." },
+        { "id": "c", "text": "There is no increased risk at all, because the symptoms went away completely on their own.", "correct": false, "rationale": "Resolution of symptoms does not remove the risk. A TIA is one of the strongest predictors of an impending stroke." },
+        { "id": "d", "text": "The risk only goes up if another TIA occurs.", "correct": false, "rationale": "A single TIA already raises stroke risk significantly, even without another episode." }
+      ],
+      "explanation": "The risk of a stroke after a TIA is highest within the first 24 hours and stays elevated over the following days. This is why a TIA is treated as an emergency and secondary prevention starts right away."
+    },
+    {
+      "id": "tia-05",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client arrives in the ED with sudden left facial droop and left arm weakness that began 40 minutes ago and is now improving. Place the nurse's actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Assess airway, breathing, circulation, and vital signs." },
+        { "id": "b", "text": "Determine the time the client was last known well and perform a focused neuro assessment." },
+        { "id": "c", "text": "Check a fingerstick blood glucose." },
+        { "id": "d", "text": "Transport the client for a noncontrast head CT." },
+        { "id": "e", "text": "Give the antiplatelet medication prescribed after the CT shows no hemorrhage." }
+      ],
+      "explanation": "ABCs and vital signs come first. The time last known well and a focused neuro exam establish the baseline and guide treatment decisions. Glucose is checked because hypoglycemia can mimic a stroke or TIA. A noncontrast CT then rules out hemorrhage, and only after that is an antithrombotic given."
+    },
+    {
+      "id": "tia-06",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is admitted for observation after a TIA. Which diagnostic tests should the nurse anticipate as part of the workup? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "CT or MRI of the brain", "correct": true, "rationale": "Brain imaging rules out hemorrhage and other causes, and MRI can detect small infarcts. A TIA shows no infarct on imaging." },
+        { "id": "b", "text": "Carotid duplex ultrasound", "correct": true, "rationale": "Carotid ultrasound looks for atherosclerotic stenosis that could be the source of emboli and may need endarterectomy or stenting." },
+        { "id": "c", "text": "12-lead ECG and continuous cardiac monitoring", "correct": true, "rationale": "These detect atrial fibrillation, a common source of cardioembolic TIA and stroke that needs anticoagulation." },
+        { "id": "d", "text": "Electromyography (EMG) of the affected arm", "correct": false, "rationale": "EMG evaluates nerve and muscle disorders. It plays no role in evaluating a cerebrovascular event." },
+        { "id": "e", "text": "Fasting lipid panel and hemoglobin A1c", "correct": true, "rationale": "These identify hyperlipidemia and diabetes, which are modifiable stroke risk factors that guide secondary prevention." },
+        { "id": "f", "text": "Pulmonary function tests", "correct": false, "rationale": "Pulmonary function tests evaluate lung disease and do not help find the cause of a TIA." }
+      ],
+      "explanation": "A TIA workup looks at the brain, blood vessels, heart, and blood: CT or MRI of the brain, carotid duplex or CT/MR angiography, ECG with telemetry and echocardiography for cardioembolic sources, and labs for lipids, glucose, and A1c."
+    },
+    {
+      "id": "tia-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client who had a TIA has an irregularly irregular pulse of 108/min, and the ECG confirms new atrial fibrillation. CT shows no hemorrhage. Which medication should the nurse anticipate for secondary stroke prevention?",
+      "options": [
+        { "id": "a", "text": "Aspirin alone, since antiplatelets are the first-line choice after any TIA", "correct": false, "rationale": "Antiplatelet therapy is used for noncardioembolic TIA. It is less effective than anticoagulation for preventing clots from AF." },
+        { "id": "b", "text": "Alteplase (tPA) to dissolve any clot that remains in the brain", "correct": false, "rationale": "tPA treats an acute ischemic stroke with ongoing deficits. It is not used for secondary prevention after symptoms resolve." },
+        { "id": "c", "text": "An oral anticoagulant such as apixaban or warfarin", "correct": true, "rationale": "AF causes clots to form in the left atrium that can travel to the brain. Anticoagulation is the standard for preventing cardioembolic stroke." },
+        { "id": "d", "text": "Phenytoin", "correct": false, "rationale": "Phenytoin is an antiseizure medication. It does not prevent embolic stroke." }
+      ],
+      "explanation": "After a TIA, antiplatelets (aspirin, clopidogrel) are used for noncardioembolic causes. When AF is the cause, an anticoagulant (a DOAC such as apixaban or dabigatran, or warfarin) is prescribed. Teach bleeding precautions with either therapy."
+    },
+    {
+      "id": "tia-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is started on atorvastatin 80 mg daily after a TIA. Which statement should the nurse include in the teaching?",
+      "options": [
+        { "id": "a", "text": "Report any unexplained muscle pain or weakness to your provider.", "correct": true, "rationale": "Myopathy and rhabdomyolysis are serious adverse effects of statins. Unexplained muscle pain should be reported promptly." },
+        { "id": "b", "text": "You can stop the statin once your cholesterol is normal.", "correct": false, "rationale": "Statins are long-term therapy. A normal level means the drug is working, and stopping it raises stroke risk." },
+        { "id": "c", "text": "This medication will dissolve the clot that caused your TIA.", "correct": false, "rationale": "Statins lower LDL and stabilize plaque. They do not dissolve clots." },
+        { "id": "d", "text": "Drink a glass of grapefruit juice with each dose to help your body absorb it.", "correct": false, "rationale": "Grapefruit juice inhibits the metabolism of atorvastatin, raising drug levels and the risk of muscle toxicity. Large amounts should be avoided." }
+      ],
+      "explanation": "High-intensity statin therapy is recommended after an atherosclerotic TIA to lower LDL and stabilize plaque. Teach the client to report muscle pain or weakness, avoid large amounts of grapefruit juice, keep up lab monitoring, and continue therapy long term."
+    },
+    {
+      "id": "tia-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is 4 hours post left carotid endarterectomy after repeated TIAs. Which finding requires the nurse's immediate action?",
+      "options": [
+        { "id": "a", "text": "Incisional pain rated 3/10", "correct": false, "rationale": "Mild incisional pain is expected after surgery and can be managed with prescribed analgesics." },
+        { "id": "b", "text": "BP 138/78 mm Hg", "correct": false, "rationale": "This BP is within an acceptable post-op range. Marked hypertension or hypotension would be concerning." },
+        { "id": "c", "text": "Small amount of serosanguineous drainage on the incision dressing", "correct": false, "rationale": "A small amount of serosanguineous drainage is expected. Bright red, increasing drainage would need attention." },
+        { "id": "d", "text": "Increasing left-sided neck swelling and new hoarseness", "correct": true, "rationale": "Expanding neck swelling suggests a hematoma that can compress the trachea and block the airway. Hoarseness can also mean injury to the recurrent laryngeal nerve." }
+      ],
+      "explanation": "After carotid endarterectomy, assess for neck swelling (hematoma and airway compromise), hoarseness or trouble swallowing (cranial nerve injury), a new or severe headache (hyperperfusion), and neuro changes (stroke). BP is kept within the prescribed range."
+    },
+    {
+      "id": "tia-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing discharge teaching to reduce stroke risk for a client who had a TIA. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Stop smoking and avoid secondhand smoke.", "correct": true, "rationale": "Smoking damages the vessel lining and promotes atherosclerosis and clotting. Quitting greatly reduces stroke risk." },
+        { "id": "b", "text": "Take your blood pressure medicine every day, even when you feel well.", "correct": true, "rationale": "Hypertension is the most important modifiable risk factor for stroke. Consistent adherence is essential." },
+        { "id": "c", "text": "Season your food with extra salt to keep up your energy.", "correct": false, "rationale": "High sodium intake raises BP. A low-sodium, heart-healthy diet such as DASH or Mediterranean is recommended." },
+        { "id": "d", "text": "Aim for about 150 minutes of moderate activity each week, as approved by your provider.", "correct": true, "rationale": "Regular aerobic activity lowers BP, weight, lipids, and glucose." },
+        { "id": "e", "text": "Stop your aspirin on your own if you notice bruising.", "correct": false, "rationale": "Stopping antiplatelet therapy without guidance raises stroke risk. The client should report bleeding or bruising to the provider instead." },
+        { "id": "f", "text": "Call 911 right away if symptoms return, even if they go away quickly.", "correct": true, "rationale": "Any new or recurring symptoms may be a stroke and need emergency evaluation. Treatment depends on time." }
+      ],
+      "explanation": "Secondary prevention after a TIA targets modifiable risks: BP control, smoking cessation, diabetes and lipid management, a heart-healthy low-sodium diet, physical activity, limited alcohol, weight control, and taking antithrombotics as prescribed. Clients must call 911 for any recurring symptoms."
+    },
+    {
+      "id": "tia-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing four clients seen for a TIA today. Based on the ABCD2 risk factors, which client has the highest short-term risk of stroke?",
+      "options": [
+        { "id": "a", "text": "Age 45, BP 122/76 mm Hg, slurred speech without weakness lasting 15 minutes, no diabetes", "correct": false, "rationale": "Speech disturbance without weakness and a short duration score low. Younger age and normal BP add no points." },
+        { "id": "b", "text": "Age 58, BP 134/82 mm Hg, numbness of one hand lasting 5 minutes, no diabetes", "correct": false, "rationale": "Sensory symptoms alone and a duration under 10 minutes add little to the score." },
+        { "id": "c", "text": "Age 72, BP 164/94 mm Hg, right-sided weakness lasting 70 minutes, type 2 diabetes", "correct": true, "rationale": "This client scores in every category: age ≥ 60, BP ≥ 140/90, one-sided weakness, duration ≥ 60 min, and diabetes. That is the maximum score of 7 and the highest risk." },
+        { "id": "d", "text": "Age 64, BP 128/80 mm Hg, dizziness lasting 20 minutes, no diabetes", "correct": false, "rationale": "Age and a 10-59 minute duration add points, but this client lacks the high-weight features of one-sided weakness, hypertension, and diabetes." }
+      ],
+      "explanation": "The ABCD2 score estimates short-term stroke risk after a TIA. Age ≥ 60 (1 point), BP ≥ 140/90 (1), Clinical features: one-sided weakness (2) or speech disturbance without weakness (1), Duration ≥ 60 min (2) or 10-59 min (1), and Diabetes (1). A higher score means a higher risk and supports hospital admission and urgent workup."
+    },
+    {
+      "id": "tia-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating a client's understanding of discharge teaching after a TIA. Which statement indicates the client needs further teaching?",
+      "options": [
+        { "id": "a", "text": "I'll take my clopidogrel every day and tell my dentist that I'm on it.", "correct": false, "rationale": "This is correct. Daily adherence and telling other providers about antiplatelet therapy are appropriate." },
+        { "id": "b", "text": "If my arm gets weak again but improves within an hour, I'll mention it at my next visit.", "correct": true, "rationale": "This needs correction. Any recurring symptoms, even ones that resolve, need an immediate 911 call because the client could be having a stroke." },
+        { "id": "c", "text": "I'm going to start the smoking cessation program my provider recommended.", "correct": false, "rationale": "This is correct. Quitting smoking is a key part of secondary prevention." },
+        { "id": "d", "text": "I'll check my blood pressure at home every day and keep a log to bring to all of my visits.", "correct": false, "rationale": "This is correct. Home BP monitoring supports control of the most important modifiable risk factor." }
+      ],
+      "explanation": "Clients must understand that a TIA is a warning of a possible stroke. Any return of BE-FAST symptoms, even if brief, requires calling 911 immediately. Waiting for symptoms to resolve or for a routine appointment wastes the time window for stroke treatment."
+    }
+  ]
+}

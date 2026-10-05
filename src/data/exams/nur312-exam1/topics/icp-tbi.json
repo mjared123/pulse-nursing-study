@@ -1,0 +1,873 @@
+{
+  "slug": "icp-tbi",
+  "title": "Increased ICP, TBI & Head Injury",
+  "short": "ICP & TBI",
+  "icon": "alert",
+  "description": "Traumatic brain injury and increased intracranial pressure: types of head injury, hematomas, basilar skull fracture, early vs late ICP signs, GCS, CPP, nursing measures, osmotic therapy, ICP monitoring, and herniation.",
+  "keyPoints": [
+    "Open head injury breaches the scalp, skull, or dura (high infection and seizure risk). Closed head injury leaves the skull intact but the brain can still be bruised, shaken, or bleed.",
+    "Primary injury happens at impact (contusion, laceration, diffuse axonal injury, fracture). Secondary injury evolves over hours to days (edema, bleeding, hypoxia, hypotension, rising ICP) and is what nursing care prevents.",
+    "Earliest sign of rising ICP is a change in LOC: restlessness, confusion, new disorientation. Late signs: pupil changes, Cushing triad (hypertension with widening pulse pressure, bradycardia, irregular respirations), posturing.",
+    "Normal ICP is 5-15 mm Hg (treat sustained > 20). CPP = MAP - ICP; keep CPP at least 60-70 mm Hg.",
+    "Epidural hematoma is arterial: brief LOC, lucid interval, then rapid decline (surgical emergency). Subdural is venous: acute, or chronic weeks later in older adults and clients on anticoagulants.",
+    "Basilar skull fracture: Battle sign, raccoon eyes, CSF otorrhea/rhinorrhea (halo sign, glucose positive). No NG tube or nasal suctioning; do not blow the nose or pack the nares.",
+    "ICP measures: HOB 30°, head and neck midline, avoid hip flexion and Valsalva, suction no more than 10 seconds after hyperoxygenating, keep normothermia and PaCO2 35-45, quiet room, plan rest between care.",
+    "Mannitol: monitor BP, I&O, kidney function, and serum osmolality (hold if > 320). Hypertonic saline: monitor sodium, chloride, fluid balance, and kidneys. EVD measures and drains CSF; an intraparenchymal monitor only measures."
+  ],
+  "questions": [
+    {
+      "id": "icp-tbi-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse is monitoring a client admitted after a fall with a closed head injury. Which finding is the earliest indication of increasing intracranial pressure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unilateral fixed and dilated pupil",
+          "correct": false,
+          "rationale": "Pupil changes from oculomotor nerve compression are a late sign that suggests impending herniation."
+        },
+        {
+          "id": "b",
+          "text": "New restlessness and confusion about the date",
+          "correct": true,
+          "rationale": "Change in level of consciousness (restlessness, confusion, disorientation) is the earliest and most sensitive sign of rising ICP."
+        },
+        {
+          "id": "c",
+          "text": "Heart rate of 48/min with BP 188/60 mm Hg",
+          "correct": false,
+          "rationale": "Bradycardia with hypertension and a widening pulse pressure is part of Cushing triad, a late and dangerous sign."
+        },
+        {
+          "id": "d",
+          "text": "Irregular respirations with periods of apnea",
+          "correct": false,
+          "rationale": "Irregular respiratory patterns reflect brainstem compression and are a late sign."
+        }
+      ],
+      "explanation": "LOC is the most sensitive indicator of neurologic change, so subtle restlessness, confusion, or change in orientation is the first clue that ICP is rising. Pupil changes, Cushing triad, and abnormal respirations appear late, often when herniation is imminent."
+    },
+    {
+      "id": "icp-tbi-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with a traumatic brain injury is being monitored for deterioration. Which findings are late signs of increased intracranial pressure? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "BP 192/64 mm Hg, up from 138/80 mm Hg",
+          "correct": true,
+          "rationale": "Systolic hypertension with a widening pulse pressure is the compensatory component of Cushing triad, a late sign."
+        },
+        {
+          "id": "b",
+          "text": "Heart rate 46/min, down from 88/min",
+          "correct": true,
+          "rationale": "Bradycardia results from pressure on the brainstem and is part of Cushing triad."
+        },
+        {
+          "id": "c",
+          "text": "Irregular respirations with pauses",
+          "correct": true,
+          "rationale": "Irregular respirations reflect brainstem compression and complete Cushing triad."
+        },
+        {
+          "id": "d",
+          "text": "Client is newly restless and pulling at the sheets",
+          "correct": false,
+          "rationale": "Restlessness is an early sign of rising ICP, not a late one, although it still needs to be reported."
+        },
+        {
+          "id": "e",
+          "text": "Right pupil 6 mm and sluggish, left pupil 3 mm and brisk",
+          "correct": true,
+          "rationale": "A new unequal, sluggish pupil reflects compression of cranial nerve III and is a late sign suggesting herniation."
+        },
+        {
+          "id": "f",
+          "text": "Heart rate 124/min with BP 86/50 mm Hg",
+          "correct": false,
+          "rationale": "Tachycardia with hypotension suggests hypovolemia or another cause of shock, not the hypertension and bradycardia of Cushing triad."
+        }
+      ],
+      "explanation": "Late signs of increased ICP include pupil changes, decreasing GCS, posturing, and Cushing triad: hypertension with a widening pulse pressure, bradycardia, and irregular respirations. Cushing triad means the brainstem is being compressed and herniation may be occurring, so it is an emergency."
+    },
+    {
+      "id": "icp-tbi-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a head injury opens the eyes only to a sternal rub, makes moaning sounds without recognizable words, and pulls the arm away when nail-bed pressure is applied. What Glasgow Coma Scale score should the nurse document?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6",
+          "correct": false,
+          "rationale": "This total undercounts the motor response. Pulling away from pain (withdrawal) scores 4, not 2."
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "correct": false,
+          "rationale": "This total overcounts. Moaning without words is incomprehensible sounds (2), not inappropriate words (3), and eye opening to pain is 2."
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "correct": true,
+          "rationale": "Eye opening to pain = 2, incomprehensible sounds = 2, withdrawal from pain = 4, for a total of 8."
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "correct": false,
+          "rationale": "A score of 12 would require responses such as eye opening to voice and confused speech, which this client does not show."
+        }
+      ],
+      "explanation": "GCS scores eye opening (1-4), verbal response (1-5), and motor response (1-6), for a total of 3-15. A score of 8 or less indicates severe brain injury and generally the need to protect the airway ('less than 8, intubate'). Trends matter: a drop of 2 or more points is significant and should be reported."
+    },
+    {
+      "id": "icp-tbi-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a severe TBI has an ICP of 25 mm Hg and a BP of 96/57 mm Hg (MAP 70 mm Hg). How should the nurse interpret these data?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CPP is 95 mm Hg, so cerebral blood flow is adequate.",
+          "correct": false,
+          "rationale": "CPP is calculated by subtracting ICP from MAP, not adding them."
+        },
+        {
+          "id": "b",
+          "text": "CPP cannot be accurately evaluated until the ICP returns to the normal range.",
+          "correct": false,
+          "rationale": "CPP is calculated continuously at the bedside precisely because ICP is abnormal. It guides treatment now."
+        },
+        {
+          "id": "c",
+          "text": "CPP is 70 mm Hg, which is within the goal range.",
+          "correct": false,
+          "rationale": "70 mm Hg is the MAP. ICP must be subtracted to get CPP."
+        },
+        {
+          "id": "d",
+          "text": "CPP is 45 mm Hg, which places the brain at risk for ischemia.",
+          "correct": true,
+          "rationale": "CPP = MAP 70 - ICP 25 = 45 mm Hg, well below the minimum goal of 60 mm Hg, so brain tissue is underperfused."
+        }
+      ],
+      "explanation": "Cerebral perfusion pressure = MAP - ICP. CPP should be at least 60-70 mm Hg; below that, the brain becomes ischemic and secondary injury worsens. CPP falls when ICP rises or when MAP falls, so the nurse treats both elevated ICP and hypotension."
+    },
+    {
+      "id": "icp-tbi-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A teenager was struck in the left temple by a baseball, lost consciousness for about a minute, then woke up and talked normally with family. Two hours later the client is difficult to arouse and the left pupil is dilated. Which condition does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Epidural hematoma",
+          "correct": true,
+          "rationale": "A temporal blow can tear the middle meningeal artery. Brief LOC, a lucid interval, then rapid decline with an ipsilateral dilated pupil is the classic epidural pattern."
+        },
+        {
+          "id": "b",
+          "text": "Chronic subdural hematoma",
+          "correct": false,
+          "rationale": "Chronic subdural hematomas are venous and develop over weeks, usually in older adults or clients on anticoagulants."
+        },
+        {
+          "id": "c",
+          "text": "Concussion",
+          "correct": false,
+          "rationale": "Concussion causes a brief disturbance in function without a structural lesion. It does not cause progressive decline with a dilated pupil."
+        },
+        {
+          "id": "d",
+          "text": "Basilar skull fracture",
+          "correct": false,
+          "rationale": "Basilar fractures present with Battle sign, raccoon eyes, or CSF leakage, not this lucid-interval pattern."
+        }
+      ],
+      "explanation": "Epidural hematomas are arterial bleeds between the skull and dura, often from the middle meningeal artery after a temporal blow. Because arterial bleeding is fast, the client deteriorates quickly after the lucid interval. This is a neurosurgical emergency requiring immediate CT and evacuation."
+    },
+    {
+      "id": "icp-tbi-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "An 81-year-old client who takes warfarin fell 3 weeks ago without apparent injury. The family now reports increasing confusion, headache, and unsteady gait. Which explanation best fits these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arterial bleeding between the skull and dura that expands within minutes",
+          "correct": false,
+          "rationale": "This describes an epidural hematoma, which declines quickly, not over 3 weeks."
+        },
+        {
+          "id": "b",
+          "text": "Slow venous bleeding beneath the dura, made more likely by brain atrophy and anticoagulation",
+          "correct": true,
+          "rationale": "Chronic subdural hematomas result from torn bridging veins. Brain atrophy stretches these veins in older adults and anticoagulants increase bleeding, so symptoms emerge gradually."
+        },
+        {
+          "id": "c",
+          "text": "Expected cognitive decline related to age",
+          "correct": false,
+          "rationale": "New confusion, headache, and gait change after a fall must be treated as a possible bleed, not attributed to aging."
+        },
+        {
+          "id": "d",
+          "text": "Diffuse axonal injury from the fall",
+          "correct": false,
+          "rationale": "Diffuse axonal injury follows high-velocity acceleration-deceleration and causes immediate coma, not delayed subtle changes."
+        }
+      ],
+      "explanation": "Subdural hematomas are venous. Acute ones appear within 48 hours, while chronic subdurals may take weeks to cause symptoms and are often mistaken for dementia or stroke. Older adults and clients on anticoagulants or antiplatelets are at highest risk, so any fall in these clients warrants careful follow-up."
+    },
+    {
+      "id": "icp-tbi-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a head injury has clear fluid dripping from the right nostril. When the nurse places a drop on white gauze, a yellow ring forms around a blood-tinged center. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gently pack the nostril with sterile gauze to stop the leak and prevent infection",
+          "correct": false,
+          "rationale": "Packing traps CSF and can create a path for bacteria into the brain. The fluid should drain freely."
+        },
+        {
+          "id": "b",
+          "text": "Have the client blow the nose to clear the drainage",
+          "correct": false,
+          "rationale": "Blowing the nose raises ICP and can push bacteria and air into the cranium through the dural tear."
+        },
+        {
+          "id": "c",
+          "text": "Place a loose sterile pad under the nose and notify the provider",
+          "correct": true,
+          "rationale": "A positive halo sign suggests CSF rhinorrhea from a basilar skull fracture. Let it drain freely onto a loose sterile dressing and report it because of the meningitis risk."
+        },
+        {
+          "id": "d",
+          "text": "Insert a nasogastric tube to prevent aspiration of the drainage",
+          "correct": false,
+          "rationale": "An NG tube is contraindicated with a possible basilar skull fracture because it can pass through the fracture into the brain."
+        }
+      ],
+      "explanation": "The halo (ring) sign and a positive glucose test suggest CSF in drainage. CSF rhinorrhea or otorrhea means the dura is torn, so infection (meningitis) is the major risk. Allow drainage to flow freely, avoid anything in the nose, monitor for fever and nuchal rigidity, and notify the provider."
+    },
+    {
+      "id": "icp-tbi-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is admitted with a suspected basilar skull fracture and CSF otorrhea. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Instruct the client not to blow the nose or strain",
+          "correct": true,
+          "rationale": "Nose blowing and straining increase ICP and can force bacteria through the fracture."
+        },
+        {
+          "id": "b",
+          "text": "Place a loose sterile dressing over the ear to collect drainage",
+          "correct": true,
+          "rationale": "A loose dressing lets CSF drain freely while allowing the nurse to monitor amount and appearance."
+        },
+        {
+          "id": "c",
+          "text": "Irrigate the ear canal with sterile saline every 4 hours",
+          "correct": false,
+          "rationale": "Nothing should be inserted into or flushed through the ear because it can introduce infection through the dural tear."
+        },
+        {
+          "id": "d",
+          "text": "Monitor temperature and assess for nuchal rigidity",
+          "correct": true,
+          "rationale": "Fever, headache, and nuchal rigidity can signal meningitis, the main complication of a CSF leak."
+        },
+        {
+          "id": "e",
+          "text": "Perform nasotracheal suctioning when secretions accumulate",
+          "correct": false,
+          "rationale": "Nasal suctioning or nasal tubes can enter the cranial vault through the fracture. Use oral routes instead."
+        },
+        {
+          "id": "f",
+          "text": "Request an orogastric tube if gastric decompression is prescribed",
+          "correct": true,
+          "rationale": "If gastric decompression is needed, the tube is placed orally, not nasally, to avoid entering the cranium."
+        }
+      ],
+      "explanation": "A basilar skull fracture involves the base of the skull and may tear the dura, producing CSF otorrhea or rhinorrhea. Keep everything out of the nose and ear, let drainage flow onto a loose dressing, avoid nasal tubes and suctioning, avoid activities that raise ICP, and monitor closely for meningitis."
+    },
+    {
+      "id": "icp-tbi-09",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse assessing a client after a motorcycle crash notes bruising over the mastoid process behind both ears and dark bruising around both eyes. These findings are most consistent with which injury?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Facial fractures of the maxilla",
+          "correct": false,
+          "rationale": "Facial fractures cause local swelling and deformity but not the specific pairing of mastoid bruising and periorbital bruising."
+        },
+        {
+          "id": "b",
+          "text": "Epidural hematoma",
+          "correct": false,
+          "rationale": "Epidural hematoma is identified by its LOC pattern and CT, not by external bruising patterns."
+        },
+        {
+          "id": "c",
+          "text": "Cerebral concussion",
+          "correct": false,
+          "rationale": "Concussion has no characteristic external bruising."
+        },
+        {
+          "id": "d",
+          "text": "Basilar skull fracture",
+          "correct": true,
+          "rationale": "Battle sign (mastoid bruising) and raccoon eyes (periorbital ecchymosis) are classic signs of a fracture at the base of the skull."
+        }
+      ],
+      "explanation": "Battle sign is bruising over the mastoid process, and raccoon eyes are bilateral periorbital ecchymosis. Both suggest a basilar skull fracture, which may be accompanied by CSF leakage from the nose or ears. These clients need precautions against anything entering the nose."
+    },
+    {
+      "id": "icp-tbi-10",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is providing discharge teaching to a client with a mild concussion and the client's spouse. Which statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We will return right away if vomiting keeps happening.\"",
+          "correct": true,
+          "rationale": "Repeated vomiting is a warning sign of rising ICP or bleeding."
+        },
+        {
+          "id": "b",
+          "text": "\"I can take aspirin for the headache.\"",
+          "correct": false,
+          "rationale": "Aspirin and NSAIDs increase bleeding risk after head injury. Acetaminophen is usually recommended."
+        },
+        {
+          "id": "c",
+          "text": "\"My spouse will stay with me and check on me for the next 24 hours.\"",
+          "correct": true,
+          "rationale": "A responsible adult should observe the client and be able to arouse them during the first 24 hours to catch deterioration."
+        },
+        {
+          "id": "d",
+          "text": "\"If my headache gets worse or one pupil looks bigger, we will call 911.\"",
+          "correct": true,
+          "rationale": "Worsening headache and unequal pupils are warning signs that need emergency evaluation."
+        },
+        {
+          "id": "e",
+          "text": "\"I can go back to my soccer game tomorrow if I feel fine.\"",
+          "correct": false,
+          "rationale": "Return to sports is gradual and requires provider clearance. A second injury before recovery can cause severe brain swelling."
+        },
+        {
+          "id": "f",
+          "text": "\"Trouble waking up or slurred speech means we need emergency care.\"",
+          "correct": true,
+          "rationale": "Extreme drowsiness, inability to wake, and slurred speech are warning signs of a worsening brain injury."
+        }
+      ],
+      "explanation": "After a head injury, clients and families must return immediately for worsening headache, increasing confusion or unusual behavior, unequal pupils, repeated vomiting, weakness or numbness, loss of consciousness, seizures, poor coordination or slurred speech, or extreme drowsiness. Mild post-concussion symptoms such as headache, dizziness, and trouble concentrating may last days to weeks."
+    },
+    {
+      "id": "icp-tbi-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse observes assistive personnel caring for a client with increased ICP. Which action requires the nurse to intervene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raising the knee gatch so the hips are sharply flexed",
+          "correct": true,
+          "rationale": "Sharp hip flexion increases intra-abdominal and intrathoracic pressure and impairs venous return from the brain, raising ICP."
+        },
+        {
+          "id": "b",
+          "text": "Keeping the head of the bed at 30°",
+          "correct": false,
+          "rationale": "HOB 30° promotes venous drainage from the head without compromising cerebral perfusion. This is correct."
+        },
+        {
+          "id": "c",
+          "text": "Placing small towel rolls to keep the head midline",
+          "correct": false,
+          "rationale": "Midline head and neck position prevents jugular vein compression. This is correct."
+        },
+        {
+          "id": "d",
+          "text": "Dimming the lights and limiting visitors' conversation at the bedside",
+          "correct": false,
+          "rationale": "A quiet, low-stimulation environment helps prevent ICP spikes. This is correct."
+        }
+      ],
+      "explanation": "Positioning to lower ICP: HOB 30°, head and neck midline, avoid neck flexion or rotation, and avoid extreme hip flexion. Anything that increases intrathoracic or intra-abdominal pressure (Valsalva, coughing, straining, sharp hip flexion) impedes venous outflow from the brain."
+    },
+    {
+      "id": "icp-tbi-12",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with increased ICP needs endotracheal suctioning. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Hyperoxygenate with 100% oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Insert the catheter without applying suction"
+        },
+        {
+          "id": "c",
+          "text": "Apply suction while withdrawing the catheter, for no more than 10 seconds"
+        },
+        {
+          "id": "d",
+          "text": "Reoxygenate with 100% oxygen"
+        },
+        {
+          "id": "e",
+          "text": "Assess ICP, oxygen saturation, and heart rate for return to baseline"
+        }
+      ],
+      "explanation": "Suctioning causes hypoxia and coughing, both of which raise ICP. Hyperoxygenate first, insert without suction, suction for 10 seconds or less while withdrawing, reoxygenate, and confirm ICP and SpO2 return to baseline. Limit the number of passes and suction only when needed."
+    },
+    {
+      "id": "icp-tbi-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "Which interventions should the nurse include in the plan of care to prevent increases in ICP in a client with a severe TBI? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer a stool softener as prescribed",
+          "correct": true,
+          "rationale": "Preventing constipation avoids straining (Valsalva), which raises ICP."
+        },
+        {
+          "id": "b",
+          "text": "Treat a temperature of 38.6°C (101.5°F) with antipyretics and cooling measures as prescribed",
+          "correct": true,
+          "rationale": "Fever increases cerebral metabolic demand and blood flow, raising ICP. The goal is normothermia."
+        },
+        {
+          "id": "c",
+          "text": "Hyperventilate continuously to keep PaCO2 near 25 mm Hg",
+          "correct": false,
+          "rationale": "Prolonged hyperventilation causes cerebral vasoconstriction and ischemia. It is reserved for brief use with impending herniation."
+        },
+        {
+          "id": "d",
+          "text": "Maintain PaCO2 at 35-45 mm Hg",
+          "correct": true,
+          "rationale": "Normocapnia prevents CO2-induced vasodilation (which raises ICP) without causing ischemic vasoconstriction."
+        },
+        {
+          "id": "e",
+          "text": "Schedule bathing, turning, and suctioning back-to-back without rest",
+          "correct": false,
+          "rationale": "Stimulating activities done in rapid succession produce cumulative ICP spikes. Plan rest periods so ICP can return to baseline between activities."
+        },
+        {
+          "id": "f",
+          "text": "Encourage the client to cough forcefully every hour",
+          "correct": false,
+          "rationale": "Forceful coughing increases intrathoracic pressure and raises ICP."
+        }
+      ],
+      "explanation": "Measures to control ICP include HOB 30° with the neck midline, avoiding hypoxia and hypotension, keeping PaCO2 normal, maintaining normothermia, preventing Valsalva (stool softeners, no forceful coughing), a quiet environment, and organizing care so the client has rest between stimulating activities."
+    },
+    {
+      "id": "icp-tbi-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with cerebral edema is receiving IV mannitol every 6 hours. Which finding should the nurse report to the provider before giving the next dose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urine output of 150 mL/hr over the last 2 hours",
+          "correct": false,
+          "rationale": "Increased urine output is the expected effect of an osmotic diuretic."
+        },
+        {
+          "id": "b",
+          "text": "Serum osmolality of 328 mOsm/kg",
+          "correct": true,
+          "rationale": "Mannitol is usually held when serum osmolality exceeds about 320 mOsm/kg because of the risk of kidney injury and loss of effect."
+        },
+        {
+          "id": "c",
+          "text": "Serum sodium of 141 mEq/L",
+          "correct": false,
+          "rationale": "This sodium is within normal limits."
+        },
+        {
+          "id": "d",
+          "text": "BP of 128/76 mm Hg",
+          "correct": false,
+          "rationale": "This BP supports adequate cerebral perfusion. Hypotension from diuresis would be the concern."
+        }
+      ],
+      "explanation": "Mannitol is an osmotic diuretic that pulls fluid from brain tissue into the bloodstream, which is then excreted by the kidneys. Monitor BP (hypotension from volume loss lowers CPP), I&O, electrolytes, kidney function, and serum osmolality. Give it through a filter because it can crystallize."
+    },
+    {
+      "id": "icp-tbi-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with increased ICP is started on a continuous infusion of 3% sodium chloride. Which laboratory value is most important for the nurse to monitor closely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serum potassium",
+          "correct": false,
+          "rationale": "Potassium is monitored routinely, but it is not the value most directly affected by hypertonic saline."
+        },
+        {
+          "id": "b",
+          "text": "Hemoglobin",
+          "correct": false,
+          "rationale": "Hemoglobin is not the primary safety parameter for hypertonic saline."
+        },
+        {
+          "id": "c",
+          "text": "Serum sodium",
+          "correct": true,
+          "rationale": "Hypertonic saline raises serum sodium, which must be monitored frequently to keep it in the prescribed range and avoid dangerous hypernatremia."
+        },
+        {
+          "id": "d",
+          "text": "Serum amylase",
+          "correct": false,
+          "rationale": "Amylase reflects pancreatic function and is unrelated to hypertonic saline therapy."
+        }
+      ],
+      "explanation": "Hypertonic saline draws water out of swollen brain tissue by increasing serum osmolality. It requires close monitoring of sodium and chloride, fluid balance, and kidney function. It is often given through a central line, and the nurse watches for fluid overload and pulmonary edema."
+    },
+    {
+      "id": "icp-tbi-16",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client has an external ventricular drain (EVD) set to drain at a prescribed level. After a bed position change, the nurse finds the drainage chamber lying on the mattress well below the level of the client's ear, and CSF is draining rapidly. What is the nurse's priority action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clamp the drain per protocol and re-level it to the prescribed height",
+          "correct": true,
+          "rationale": "A chamber below the prescribed level causes excessive CSF drainage, which can collapse the ventricles or tear bridging veins. Stop the overdrainage, re-level, then assess the client and report."
+        },
+        {
+          "id": "b",
+          "text": "Leave the chamber where it is, because the additional CSF drainage will lower the ICP",
+          "correct": false,
+          "rationale": "Uncontrolled drainage is dangerous. The drain level is prescribed to control exactly how much CSF leaves."
+        },
+        {
+          "id": "c",
+          "text": "Flush the catheter with sterile saline",
+          "correct": false,
+          "rationale": "Nurses do not flush an EVD; it risks infection and a sudden rise in ICP."
+        },
+        {
+          "id": "d",
+          "text": "Lower the head of the bed flat to slow the drainage",
+          "correct": false,
+          "rationale": "Lowering the head does not correct the chamber position and could raise ICP."
+        }
+      ],
+      "explanation": "An EVD is leveled at the tragus (external auditory meatus, which approximates the foramen of Monro), and the drip chamber is set at the height the provider prescribes. Whenever the client or bed moves, the system must be re-leveled. Too low causes overdrainage; too high causes underdrainage and rising ICP."
+    },
+    {
+      "id": "icp-tbi-17",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The family of a client with a severe TBI asks why the neurosurgeon chose an external ventricular drain instead of an intraparenchymal monitor. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The EVD is placed without entering the skull, so it is safer.\"",
+          "correct": false,
+          "rationale": "Both devices are placed through a burr hole in the skull."
+        },
+        {
+          "id": "b",
+          "text": "\"The EVD has no risk of infection.\"",
+          "correct": false,
+          "rationale": "Infection (ventriculitis) is a major risk of EVDs, which is why sterile technique is required."
+        },
+        {
+          "id": "c",
+          "text": "\"The intraparenchymal monitor can drain more fluid than the EVD.\"",
+          "correct": false,
+          "rationale": "An intraparenchymal sensor measures pressure only. It cannot drain CSF."
+        },
+        {
+          "id": "d",
+          "text": "\"The EVD can measure pressure and also drain fluid to lower it.\"",
+          "correct": true,
+          "rationale": "An EVD is a catheter in the ventricle that both monitors ICP and allows CSF drainage to treat elevated pressure."
+        }
+      ],
+      "explanation": "Both ICP monitors are placed by a neurosurgeon through a small incision and burr hole. An EVD sits in a lateral ventricle, measures ICP, and drains CSF. An intraparenchymal sensor sits in brain tissue and measures pressure but cannot drain. Both require sterile technique and infection monitoring."
+    },
+    {
+      "id": "icp-tbi-18",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a client with an external ventricular drain. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Level the transducer at the tragus of the ear",
+          "correct": true,
+          "rationale": "The tragus approximates the foramen of Monro and is the standard zero reference point for an EVD."
+        },
+        {
+          "id": "b",
+          "text": "Assess the amount, color, and clarity of CSF drainage at least hourly",
+          "correct": true,
+          "rationale": "Hourly drainage tracks treatment. Bloody or cloudy CSF can indicate bleeding or infection."
+        },
+        {
+          "id": "c",
+          "text": "Clamp the drain per protocol before repositioning or transporting the client",
+          "correct": true,
+          "rationale": "Clamping during movement prevents accidental overdrainage when the client's position changes relative to the chamber."
+        },
+        {
+          "id": "d",
+          "text": "Change the dressing with clean gloves when it becomes damp",
+          "correct": false,
+          "rationale": "EVD site care requires sterile technique. A damp dressing may indicate a CSF leak and should be reported."
+        },
+        {
+          "id": "e",
+          "text": "Monitor for fever, headache, and nuchal rigidity",
+          "correct": true,
+          "rationale": "These are signs of ventriculitis or meningitis, a serious complication of EVDs."
+        },
+        {
+          "id": "f",
+          "text": "Leave the drain open while the client sits up for a meal",
+          "correct": false,
+          "rationale": "Changing position without re-leveling or clamping per protocol changes the pressure gradient and can cause overdrainage."
+        }
+      ],
+      "explanation": "EVD care: level at the tragus, re-level with every position change, keep the drain at the prescribed height, clamp per protocol for movement, use sterile technique, and monitor CSF output, appearance, and signs of infection. Report sudden changes in drainage or ICP readings."
+    },
+    {
+      "id": "icp-tbi-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a TBI from a fall arrives in the ED. BP is 84/50 mm Hg and SpO2 is 87% on room air. Why does the nurse treat these findings as urgent for the brain injury itself?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They show that the primary injury is still occurring and has not yet been completed.",
+          "correct": false,
+          "rationale": "Primary injury happens at the moment of impact and cannot be reversed by later care."
+        },
+        {
+          "id": "b",
+          "text": "They will cause a basilar skull fracture to leak CSF.",
+          "correct": false,
+          "rationale": "Hypotension and hypoxia do not cause CSF leaks."
+        },
+        {
+          "id": "c",
+          "text": "They reduce oxygen delivery to injured brain tissue and cause secondary injury.",
+          "correct": true,
+          "rationale": "Secondary injury evolves after impact. Hypoxia and low MAP reduce cerebral perfusion and oxygenation, worsening edema and ischemia."
+        },
+        {
+          "id": "d",
+          "text": "They indicate that a diffuse axonal injury occurred at the moment of impact.",
+          "correct": false,
+          "rationale": "Diffuse axonal injury is a primary shearing injury diagnosed by clinical picture and imaging, not by vital signs."
+        }
+      ],
+      "explanation": "Primary injury occurs at impact. Secondary injury develops over hours to days from edema, bleeding, hypoxia, hypotension, and rising ICP. Even one episode of hypoxia or hypotension worsens outcomes, so early care focuses on airway, oxygenation, and maintaining BP to protect cerebral perfusion."
+    },
+    {
+      "id": "icp-tbi-20",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client was ejected from a car at high speed and has been unresponsive since the crash. The initial CT shows no hematoma or mass lesion, yet the GCS is 5. Which injury is most likely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mild concussion",
+          "correct": false,
+          "rationale": "Concussion causes brief alteration in consciousness, not sustained coma with a GCS of 5."
+        },
+        {
+          "id": "b",
+          "text": "Diffuse axonal injury",
+          "correct": true,
+          "rationale": "Rapid acceleration-deceleration shears axons throughout the brain. Clients are often comatose from the moment of injury, while early CT may look nearly normal."
+        },
+        {
+          "id": "c",
+          "text": "Chronic subdural hematoma",
+          "correct": false,
+          "rationale": "Chronic subdurals develop over weeks and would be visible on CT."
+        },
+        {
+          "id": "d",
+          "text": "Epidural hematoma",
+          "correct": false,
+          "rationale": "Epidural hematomas are visible on CT and typically show a lucid interval rather than immediate continuous coma."
+        }
+      ],
+      "explanation": "Diffuse axonal injury is a primary injury caused by shearing forces during rapid acceleration-deceleration. It produces immediate, prolonged coma, and CT may underestimate the damage (MRI is more sensitive). Prognosis is often poor, and care focuses on preventing secondary injury."
+    },
+    {
+      "id": "icp-tbi-21",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse receives report on four neuro clients. Which client should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Client with a subdural hematoma whose right pupil is newly 7 mm and nonreactive",
+          "correct": true,
+          "rationale": "A new fixed, dilated pupil indicates cranial nerve III compression from impending uncal herniation, an emergency."
+        },
+        {
+          "id": "b",
+          "text": "Client with a concussion reporting a headache rated 4/10",
+          "correct": false,
+          "rationale": "Mild headache is expected after a concussion and is stable."
+        },
+        {
+          "id": "c",
+          "text": "Client with an ICP monitor whose ICP is 13 mm Hg",
+          "correct": false,
+          "rationale": "An ICP of 13 mm Hg is within the normal range of 5-15 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Client 2 days after a decompressive craniectomy who is asking for a drink of water",
+          "correct": false,
+          "rationale": "This client needs a swallow assessment but is not unstable."
+        }
+      ],
+      "explanation": "Herniation occurs when rising pressure pushes brain tissue across structures such as the tentorium. A new unilateral fixed, dilated pupil, declining LOC, posturing, and Cushing triad are signs of herniation that need immediate intervention (airway, HOB 30°, osmotic therapy, rapid notification, preparation for CT or surgery)."
+    },
+    {
+      "id": "icp-tbi-22",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with a severe TBI who has not had a seizure is prescribed levetiracetam. The spouse asks why. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It reduces brain swelling by removing fluid.\"",
+          "correct": false,
+          "rationale": "Antiseizure drugs do not act as osmotic agents. Mannitol and hypertonic saline reduce cerebral edema."
+        },
+        {
+          "id": "b",
+          "text": "\"It sedates your spouse so breathing on the ventilator is more comfortable and coordinated.\"",
+          "correct": false,
+          "rationale": "Levetiracetam is not used for sedation. Agents such as propofol are used for that purpose."
+        },
+        {
+          "id": "c",
+          "text": "\"It treats the headache caused by the injury.\"",
+          "correct": false,
+          "rationale": "Levetiracetam is not an analgesic."
+        },
+        {
+          "id": "d",
+          "text": "\"It helps prevent seizures, which raise the brain's oxygen needs and pressure.\"",
+          "correct": true,
+          "rationale": "Seizures increase cerebral metabolic demand and ICP. Antiseizure drugs are given to prevent early post-traumatic seizures."
+        }
+      ],
+      "explanation": "Antiseizure medications treat or prevent seizures after TBI because seizures increase cerebral metabolic demand and ICP. Sedation and pain control also reduce agitation, coughing, and metabolic demand; clients receiving them need airway, BP, and neurologic monitoring."
+    },
+    {
+      "id": "icp-tbi-23",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is 3 days post decompressive craniectomy for refractory intracranial hypertension. The bone flap was not replaced. Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Position the client on the side of the skull defect to support the brain",
+          "correct": false,
+          "rationale": "Lying on the defect places direct pressure on unprotected brain tissue."
+        },
+        {
+          "id": "b",
+          "text": "Apply a firm compression wrap over the defect",
+          "correct": false,
+          "rationale": "Compression over the defect pushes on the brain. The goal is to give the swollen brain room, not compress it."
+        },
+        {
+          "id": "c",
+          "text": "Keep pressure off the defect and use a helmet when out of bed",
+          "correct": true,
+          "rationale": "Without bone covering it, the brain is vulnerable to injury. Avoid pressure on the site and use a helmet for mobility."
+        },
+        {
+          "id": "d",
+          "text": "Expect clear drainage from the incision as part of normal healing",
+          "correct": false,
+          "rationale": "Clear drainage may be a CSF leak, a recognized risk of craniectomy, and must be reported."
+        }
+      ],
+      "explanation": "Decompressive craniectomy removes part of the skull so a swollen brain can expand outward, protecting cerebral perfusion when ICP stays high despite medical therapy. Risks include infection, bleeding, CSF leak, seizures, and complications at later bone flap replacement. The nurse protects the defect and monitors neuro status and the incision."
+    },
+    {
+      "id": "icp-tbi-24",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client arrives with an open head injury after a nail-gun accident; the nail is still embedded in the skull. Which actions should the nurse anticipate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stabilize the nail in place with bulky dressings",
+          "correct": true,
+          "rationale": "Impaled objects are stabilized and removed only in surgery, because removal can cause uncontrolled bleeding and more brain damage."
+        },
+        {
+          "id": "b",
+          "text": "Pull the nail out to allow a CT scan",
+          "correct": false,
+          "rationale": "The object is never removed outside the operating room."
+        },
+        {
+          "id": "c",
+          "text": "Administer prescribed IV antibiotics",
+          "correct": true,
+          "rationale": "Breach of the skull and dura greatly increases infection risk, so prophylactic antibiotics are commonly prescribed."
+        },
+        {
+          "id": "d",
+          "text": "Implement seizure precautions",
+          "correct": true,
+          "rationale": "Direct cortical injury makes seizures a major concern after open head injury."
+        },
+        {
+          "id": "e",
+          "text": "Apply firm direct pressure to the wound around the nail",
+          "correct": false,
+          "rationale": "Firm pressure over a penetrating skull injury can push bone fragments or the object into the brain."
+        }
+      ],
+      "explanation": "In an open head injury the scalp, skull, or dura is breached. Major concerns are direct brain damage, bleeding and swelling, infection, seizures, and increased ICP. Stabilize impaled objects, protect the wound with sterile dressings, give prescribed antibiotics, and monitor neuro status closely."
+    }
+  ]
+}

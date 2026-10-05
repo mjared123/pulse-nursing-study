@@ -1,0 +1,315 @@
+{
+  "slug": "shock-sepsis-dic",
+  "title": "Shock, Sepsis & DIC",
+  "short": "Shock / Sepsis / DIC",
+  "icon": "heart-pulse",
+  "description": "Maintaining homeostasis when perfusion fails: types and stages of shock, early compensation cues, sepsis screening and the hour-1 bundle, vasopressor safety, electrolyte and acid-base changes, and disseminated intravascular coagulation.",
+  "keyPoints": [
+    "Shock is inadequate tissue perfusion. Types: hypovolemic (blood or fluid loss), cardiogenic (pump failure), distributive (septic, anaphylactic, neurogenic), and obstructive (tamponade, tension pneumothorax, massive PE).",
+    "Stages: initial (cellular, anaerobic metabolism, rising lactate) → compensatory (SNS and RAAS keep BP up) → progressive (compensation fails, organs fail) → refractory (irreversible, MODS).",
+    "Early compensation cues: tachycardia, restlessness or anxiety, narrowing pulse pressure, cool clammy skin, thirst, and urine output < 0.5 mL/kg/h. Hypotension is a LATE sign.",
+    "Target MAP ≥ 65 mm Hg. MAP = (SBP + 2 × DBP) ÷ 3. Rising lactate (> 2, and especially ≥ 4 mmol/L) means worsening tissue hypoperfusion.",
+    "SIRS: temp > 38 °C or < 36 °C, HR > 90, RR > 20 (or PaCO2 < 32), WBC > 12,000 or < 4,000. qSOFA: RR ≥ 22, altered mentation, SBP ≤ 100. Septic shock = vasopressors needed for MAP ≥ 65 and lactate > 2 despite adequate fluids.",
+    "Hour-1 sepsis bundle: measure lactate, blood cultures BEFORE antibiotics, broad-spectrum antibiotics within 1 h, 30 mL/kg crystalloid for hypotension or lactate ≥ 4, then norepinephrine (first-line) if MAP stays < 65.",
+    "Vasopressors: central line preferred, monitor the site; if extravasation occurs, stop the infusion, notify the provider, and anticipate phentolamine. Position hypotensive clients supine with legs elevated, not head-down.",
+    "DIC: widespread clotting consumes platelets and clotting factors, then the client bleeds. Labs: low platelets and fibrinogen, prolonged PT/aPTT, elevated D-dimer/FDP. Treat the cause, replace blood products, and use bleeding precautions."
+  ],
+  "questions": [
+    {
+      "id": "shock-sepsis-dic-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Two hours after a bowel resection, a client's BP is 118/96 mm Hg (preoperative 124/78 mm Hg), HR 112/min, and the client is restless and picking at the sheets. How should the nurse interpret these findings?",
+      "options": [
+        { "id": "a", "text": "The client is in the refractory stage of shock, and the damage is irreversible.", "correct": false, "rationale": "Refractory shock involves profound hypotension unresponsive to treatment and multiple organ failure. This client's systolic BP is still maintained." },
+        { "id": "b", "text": "This is an expected response to incisional pain that only needs analgesia.", "correct": false, "rationale": "Pain can raise HR, but a narrowing pulse pressure with restlessness after abdominal surgery is a perfusion cue that must be investigated for bleeding before it is attributed to pain." },
+        { "id": "c", "text": "The client is in compensatory shock: sympathetic vasoconstriction is holding BP up while stroke volume falls.", "correct": true, "rationale": "Pulse pressure has narrowed from 46 to 22 mm Hg because vasoconstriction raises the diastolic pressure as stroke volume drops. Tachycardia and restlessness are classic early compensation cues, and BP stays near normal until compensation fails." },
+        { "id": "d", "text": "The findings suggest fluid volume overload from intraoperative IV fluids.", "correct": false, "rationale": "Fluid overload would cause crackles, edema, JVD, and usually a widened or normal pulse pressure, not a narrowing pulse pressure with restlessness." }
+      ],
+      "explanation": "In compensatory shock, the sympathetic nervous system and RAAS increase heart rate, constrict vessels, and retain fluid to maintain BP and homeostasis. Early cues are tachycardia, restlessness or anxiety, a narrowing pulse pressure, cool skin, and falling urine output. Hypotension is a late sign that compensation has failed."
+    },
+    {
+      "id": "shock-sepsis-dic-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client weighing 80 kg is admitted after a motor vehicle crash with a suspected splenic injury. Which findings are early cues of hypovolemic shock? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "New anxiety and restlessness", "correct": true, "rationale": "Reduced cerebral perfusion and sympathetic stimulation cause restlessness and anxiety, often the earliest change." },
+        { "id": "b", "text": "Heart rate 118/min, up from 88/min", "correct": true, "rationale": "Tachycardia is the body's first compensation to maintain cardiac output as stroke volume falls." },
+        { "id": "c", "text": "Warm, flushed skin", "correct": false, "rationale": "Warm, flushed skin is typical of early distributive (septic) shock. Hypovolemic shock causes vasoconstriction, so the skin is cool, pale, and clammy." },
+        { "id": "d", "text": "Urine output 20 mL/h for the past 2 hours", "correct": true, "rationale": "For an 80-kg client, the minimum is 0.5 mL/kg/h (40 mL/h). Low output reflects reduced renal perfusion and RAAS/ADH water retention." },
+        { "id": "e", "text": "BP 122/98 mm Hg, down from 126/80 mm Hg", "correct": true, "rationale": "Pulse pressure has narrowed from 46 to 24 mm Hg while systolic BP is maintained, a classic early sign of falling stroke volume with vasoconstriction." },
+        { "id": "f", "text": "Heart rate 52/min", "correct": false, "rationale": "Bradycardia is not an early sign of hypovolemia. It suggests neurogenic shock or a pre-arrest state." }
+      ],
+      "explanation": "Hypovolemic shock signs include tachycardia, restlessness or confusion, cool pale clammy skin, thirst, weak pulses, delayed capillary refill, narrowing pulse pressure, and urine output below 0.5 mL/kg/h. Low BP appears late, after compensation fails."
+    },
+    {
+      "id": "shock-sepsis-dic-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is reviewing data for an 80-kg client on postoperative day 1 after open repair of an abdominal aortic aneurysm. Which finding should the nurse report to the provider immediately?",
+      "options": [
+        { "id": "a", "text": "Total urine output of 50 mL over the past 2 hours", "correct": true, "rationale": "25 mL/h is about 0.3 mL/kg/h, below the 0.5 mL/kg/h minimum. After aneurysm repair this can signal hypovolemia from bleeding, graft problems, or acute kidney injury." },
+        { "id": "b", "text": "Incisional pain rated 3/10 while using the PCA pump", "correct": false, "rationale": "Pain of 3/10 with PCA is controlled and expected after open abdominal surgery." },
+        { "id": "c", "text": "Temperature 37.6 °C (99.7 °F)", "correct": false, "rationale": "A low-grade temperature on postoperative day 1 is common from the inflammatory response and is not the most urgent finding." },
+        { "id": "d", "text": "SpO2 95% on room air with diminished bases", "correct": false, "rationale": "Mild atelectasis after abdominal surgery is common and is managed with incentive spirometry. It is less urgent than a sign of poor renal perfusion." }
+      ],
+      "explanation": "Hourly urine output is one of the most sensitive indicators of perfusion. Output below 0.5 mL/kg/h (or below 30 mL/h in most adults) for 2 hours should be reported, because it can be an early sign of hypovolemic shock or kidney injury before BP falls."
+    },
+    {
+      "id": "shock-sepsis-dic-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with GI bleeding has a BP of 82/50 mm Hg and HR 124/min. The nurse has called the rapid response team. How should the nurse position the client while awaiting further prescriptions?",
+      "options": [
+        { "id": "a", "text": "High-Fowler's position to ease the work of breathing and reduce the risk of aspiration", "correct": false, "rationale": "Raising the head lowers venous return and cerebral perfusion in a hypotensive client. It is used for respiratory distress or fluid overload, not hypovolemia." },
+        { "id": "b", "text": "Supine with the legs elevated about 20 degrees, keeping the head flat", "correct": true, "rationale": "Modified Trendelenburg (passive leg raise) shifts blood from the legs toward the central circulation without the drawbacks of a head-down tilt." },
+        { "id": "c", "text": "Full Trendelenburg with the head lower than the feet", "correct": false, "rationale": "Head-down tilt pushes abdominal organs against the diaphragm, impairs ventilation, raises ICP, and increases aspiration risk, with little lasting benefit to BP." },
+        { "id": "d", "text": "Left side-lying with the knees flexed", "correct": false, "rationale": "Left lateral positioning relieves aortocaval compression in pregnancy. It does not improve venous return in a nonpregnant client in shock." }
+      ],
+      "explanation": "For a hypotensive client, keep the client supine with the legs elevated, give oxygen, and prepare for large-bore IV access and fluid or blood replacement. Avoid full Trendelenburg."
+    },
+    {
+      "id": "shock-sepsis-dic-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client being treated for sepsis has a BP of 84/48 mm Hg. Which interpretation by the nurse is correct?",
+      "options": [
+        { "id": "a", "text": "The MAP is 66 mm Hg, which meets the target, so no action is needed.", "correct": false, "rationale": "This is a calculation error. MAP = (84 + 2 × 48) ÷ 3 = 180 ÷ 3 = 60 mm Hg, not 66." },
+        { "id": "b", "text": "The MAP is 72 mm Hg, which is adequate for organ perfusion.", "correct": false, "rationale": "72 mm Hg is the average of systolic and diastolic, which overweights systole. Diastole lasts about two-thirds of the cardiac cycle, so it is counted twice." },
+        { "id": "c", "text": "The MAP cannot be determined accurately until an arterial line is placed by the provider, so the nurse should wait for those readings.", "correct": false, "rationale": "An arterial line gives continuous readings, but MAP can be calculated from any cuff pressure and most monitors display it automatically." },
+        { "id": "d", "text": "The MAP is 60 mm Hg, which is below the goal of at least 65 mm Hg, so the provider should be notified.", "correct": true, "rationale": "(84 + 96) ÷ 3 = 60 mm Hg. A MAP below 65 mm Hg means the kidneys, brain, and other organs are not adequately perfused." }
+      ],
+      "explanation": "MAP = (SBP + 2 × DBP) ÷ 3. The target in shock and sepsis is a MAP of at least 65 mm Hg. A MAP that stays below 65 despite fluids indicates septic shock and the need for vasopressors."
+    },
+    {
+      "id": "shock-sepsis-dic-06",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client on postoperative day 3 after a hip replacement has the following data. Which findings meet systemic inflammatory response syndrome (SIRS) criteria? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Temperature 38.4 °C (101.1 °F)", "correct": true, "rationale": "A temperature above 38 °C (or below 36 °C) is a SIRS criterion." },
+        { "id": "b", "text": "Heart rate 104/min", "correct": true, "rationale": "A heart rate above 90/min is a SIRS criterion." },
+        { "id": "c", "text": "BP 132/80 mm Hg", "correct": false, "rationale": "BP is not one of the SIRS criteria, and this reading is normal. Hypotension is used in qSOFA and in defining septic shock." },
+        { "id": "d", "text": "Respiratory rate 24/min", "correct": true, "rationale": "A respiratory rate above 20/min (or PaCO2 below 32 mm Hg) is a SIRS criterion." },
+        { "id": "e", "text": "WBC 13,200/mm³", "correct": true, "rationale": "A WBC above 12,000 or below 4,000/mm³ (or more than 10% bands) is a SIRS criterion." },
+        { "id": "f", "text": "SpO2 96% on room air", "correct": false, "rationale": "Oxygen saturation is not a SIRS criterion, and 96% is normal." }
+      ],
+      "explanation": "SIRS is two or more of: temperature above 38 °C or below 36 °C, HR above 90, RR above 20 or PaCO2 below 32, and WBC above 12,000 or below 4,000 (or more than 10% bands). SIRS plus a suspected infection should trigger sepsis evaluation: lactate, cultures, and source identification."
+    },
+    {
+      "id": "shock-sepsis-dic-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is screening clients on a medical unit with the quick SOFA (qSOFA) tool. Which client screens positive for a high risk of poor outcomes from sepsis?",
+      "options": [
+        { "id": "a", "text": "RR 20/min, BP 118/72 mm Hg, alert and oriented, temperature 38.9 °C", "correct": false, "rationale": "This client scores 0 on qSOFA. Fever is not a qSOFA element, although it still warrants evaluation for infection." },
+        { "id": "b", "text": "RR 24/min, BP 96/58 mm Hg, newly confused about place and time", "correct": true, "rationale": "This client meets all three qSOFA criteria: RR ≥ 22, SBP ≤ 100, and altered mentation. A score of 2 or more is positive." },
+        { "id": "c", "text": "HR 120/min, temperature 39 °C, WBC 14,000/mm³, alert", "correct": false, "rationale": "This client meets SIRS criteria but scores 0 on qSOFA, because HR, temperature, and WBC are not part of qSOFA." },
+        { "id": "d", "text": "RR 22/min, BP 110/70 mm Hg, alert and oriented", "correct": false, "rationale": "This client meets only one criterion (RR ≥ 22). A positive qSOFA requires at least two." }
+      ],
+      "explanation": "qSOFA uses three bedside findings: RR ≥ 22/min, altered mentation, and SBP ≤ 100 mm Hg. Two or more suggest a high risk of death or prolonged ICU stay in a client with suspected infection. It is a prompt to act quickly, not a stand-alone diagnosis."
+    },
+    {
+      "id": "shock-sepsis-dic-08",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "Place the stages of shock in the order in which they occur as the condition progresses.",
+      "items": [
+        { "id": "a", "text": "Cells shift to anaerobic metabolism and lactate begins to rise, with few outward signs" },
+        { "id": "b", "text": "Sympathetic and RAAS responses cause tachycardia, vasoconstriction, and decreased urine output while BP is maintained" },
+        { "id": "c", "text": "Compensation fails: MAP falls, capillaries leak, metabolic acidosis worsens, and organs begin to fail" },
+        { "id": "d", "text": "Hypotension and hypoxia no longer respond to fluids or vasopressors, and multiple organ dysfunction develops" }
+      ],
+      "explanation": "Shock moves through the initial stage (cellular hypoperfusion and anaerobic metabolism), the compensatory stage (neural, hormonal, and chemical responses hold BP steady), the progressive stage (compensation fails and organs are damaged), and the refractory stage (irreversible, unresponsive to treatment, MODS). Nursing goals are to recognize the compensatory stage early and intervene before progression."
+    },
+    {
+      "id": "shock-sepsis-dic-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 70-kg client with pneumonia has BP 80/46 mm Hg, HR 122/min, temperature 39.2 °C, and a lactate level of 4.6 mmol/L. Which actions are part of the hour-1 sepsis bundle? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Measure a serum lactate level and repeat it if it is elevated", "correct": true, "rationale": "Lactate shows the degree of tissue hypoperfusion. It is repeated when the first value is above 2 mmol/L to track response to treatment." },
+        { "id": "b", "text": "Obtain blood cultures before giving the first antibiotic dose", "correct": true, "rationale": "Cultures drawn first are not sterilized by antibiotics, so the organism can be identified and therapy narrowed later." },
+        { "id": "c", "text": "Hold antibiotics until the culture results identify the organism", "correct": false, "rationale": "Cultures take 24-72 hours. Each hour of delay in antibiotics increases mortality, so broad-spectrum therapy starts within 1 hour." },
+        { "id": "d", "text": "Give broad-spectrum IV antibiotics within 1 hour", "correct": true, "rationale": "Early broad-spectrum antibiotics are a core element of the bundle because the organism is not yet known." },
+        { "id": "e", "text": "Infuse about 2,100 mL of crystalloid (30 mL/kg)", "correct": true, "rationale": "30 mL/kg of crystalloid is indicated for hypotension or lactate ≥ 4 mmol/L. For 70 kg, that is 2,100 mL." },
+        { "id": "f", "text": "Give a 1-L bolus of 5% dextrose in water", "correct": false, "rationale": "D5W is hypotonic once the dextrose is metabolized and shifts into cells, so it does not expand intravascular volume. Isotonic crystalloids such as LR or 0.9% NaCl are used." }
+      ],
+      "explanation": "The hour-1 bundle: measure lactate (remeasure if above 2), obtain blood cultures before antibiotics, give broad-spectrum antibiotics, give 30 mL/kg crystalloid for hypotension or lactate ≥ 4, and start vasopressors if MAP stays below 65 mm Hg during or after fluids. These steps often happen at the same time; the fixed rules are cultures before antibiotics and fluids with or before vasopressors."
+    },
+    {
+      "id": "shock-sepsis-dic-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with urosepsis has received a 30 mL/kg crystalloid bolus. The MAP is now 58 mm Hg, and the repeat lactate is 3.8 mmol/L. Lungs are clear. What should the nurse anticipate?",
+      "options": [
+        { "id": "a", "text": "Continuing maintenance IV fluids only, because the client has sepsis without shock", "correct": false, "rationale": "Persistent hypotension after adequate fluids with an elevated lactate meets the definition of septic shock, not sepsis without shock." },
+        { "id": "b", "text": "Stopping the sepsis protocol because the client meets only SIRS criteria", "correct": false, "rationale": "This client has a known infection with organ hypoperfusion. Stopping the protocol would allow progression to refractory shock." },
+        { "id": "c", "text": "Starting a norepinephrine infusion titrated to a MAP of at least 65 mm Hg", "correct": true, "rationale": "This is septic shock: vasopressors are needed to keep MAP ≥ 65 and lactate is above 2 despite fluids. Norepinephrine is the first-line vasopressor." },
+        { "id": "d", "text": "A second 30 mL/kg bolus as the only intervention, because this is hypovolemic shock", "correct": false, "rationale": "The problem is vasodilation and capillary leak from sepsis (distributive shock). More fluid alone will not restore vascular tone, and vasopressors should not be delayed." }
+      ],
+      "explanation": "Septic shock is sepsis with hypotension requiring vasopressors to keep MAP ≥ 65 mm Hg and a lactate above 2 mmol/L despite adequate fluid resuscitation. Norepinephrine is first-line, and vasopressin may be added. Continue to monitor MAP, urine output, mentation, and lactate clearance."
+    },
+    {
+      "id": "shock-sepsis-dic-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client in septic shock is receiving norepinephrine through a peripheral IV in the forearm while a central line is being placed. The nurse notes the skin around the site is cool, pale, and hard. What is the nurse's priority action?",
+      "options": [
+        { "id": "a", "text": "Stop the infusion at that site, notify the provider, and anticipate phentolamine infiltrated into the area", "correct": true, "rationale": "Norepinephrine extravasation causes intense local vasoconstriction that can lead to tissue necrosis. Stopping the infusion and giving the antidote phentolamine (an alpha blocker) limits damage. Vasopressor access must be re-established right away at another site." },
+        { "id": "b", "text": "Slow the infusion rate and elevate the arm on a pillow", "correct": false, "rationale": "Continuing the infusion into the tissue increases necrosis, and slowing the rate also lowers the client's MAP." },
+        { "id": "c", "text": "Flush the IV catheter with 0.9% sodium chloride to dilute the drug", "correct": false, "rationale": "Flushing pushes more drug into the already infiltrated tissue." },
+        { "id": "d", "text": "Continue the infusion, because the client's MAP depends on it, and reassess the site and circulation in 1 hour", "correct": false, "rationale": "Blanching and induration are signs of extravasation that need immediate action. Waiting risks permanent tissue loss." }
+      ],
+      "explanation": "Vasopressors are best given through a central line. When a peripheral line is used briefly, choose a large proximal vein and check the site frequently. If extravasation occurs, stop the infusion, notify the provider, and give phentolamine as prescribed, while keeping the vasopressor running through another site."
+    },
+    {
+      "id": "shock-sepsis-dic-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a C6 spinal cord injury from a diving accident has BP 82/50 mm Hg, HR 48/min, and warm, dry, pink skin below the level of injury. Which type of shock do these findings indicate?",
+      "options": [
+        { "id": "a", "text": "Hypovolemic shock", "correct": false, "rationale": "Hypovolemic shock causes tachycardia and cool, clammy skin from sympathetic vasoconstriction, not bradycardia with warm skin." },
+        { "id": "b", "text": "Septic shock", "correct": false, "rationale": "Early septic shock can cause warm skin, but it produces tachycardia and fever with a source of infection, not bradycardia right after a spinal injury." },
+        { "id": "c", "text": "Cardiogenic shock", "correct": false, "rationale": "Cardiogenic shock follows pump failure (often MI) and presents with cool skin, crackles, and usually tachycardia." },
+        { "id": "d", "text": "Neurogenic shock", "correct": true, "rationale": "Injury at T6 or above disrupts sympathetic outflow. Unopposed parasympathetic tone causes vasodilation (hypotension, warm dry skin) and bradycardia." }
+      ],
+      "explanation": "Neurogenic shock is a distributive shock caused by loss of sympathetic tone, usually after cervical or high thoracic cord injury. Its signature is hypotension with bradycardia and warm, dry skin. Treatment includes fluids, vasopressors, atropine for symptomatic bradycardia, and careful positioning to avoid further cord injury."
+    },
+    {
+      "id": "shock-sepsis-dic-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Ten minutes after an IV piperacillin-tazobactam infusion is started, a client develops hives, wheezing, throat tightness, and a BP of 78/44 mm Hg. The nurse has stopped the infusion. Which medication should the nurse administer first?",
+      "options": [
+        { "id": "a", "text": "Diphenhydramine 50 mg IV", "correct": false, "rationale": "Antihistamines relieve itching and hives but do not reverse airway edema or hypotension. They are adjuncts given after epinephrine." },
+        { "id": "b", "text": "Epinephrine 0.3-0.5 mg (1 mg/mL) IM in the anterolateral thigh", "correct": true, "rationale": "Epinephrine is first-line for anaphylaxis. Alpha effects reverse vasodilation and edema, and beta effects open the airways and support the heart." },
+        { "id": "c", "text": "Methylprednisolone 125 mg IV", "correct": false, "rationale": "Corticosteroids take hours to act. They may help prevent a late reaction but do not treat the acute emergency." },
+        { "id": "d", "text": "Albuterol 2.5 mg by nebulizer to relieve the wheezing and chest tightness", "correct": false, "rationale": "Albuterol helps bronchospasm only. It does not treat upper airway swelling or distributive hypotension." }
+      ],
+      "explanation": "Anaphylactic shock is a distributive shock from massive mediator release. Remove the trigger, give IM epinephrine immediately (repeat every 5-15 minutes as needed), maintain the airway, give high-flow oxygen and isotonic fluids, then use antihistamines, bronchodilators, and steroids as adjuncts."
+    },
+    {
+      "id": "shock-sepsis-dic-14",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with an acute anterior MI has BP 82/54 mm Hg, HR 118/min, crackles throughout both lung fields, SpO2 89%, and urine output 15 mL/h. Which prescription should the nurse clarify with the provider?",
+      "options": [
+        { "id": "a", "text": "Norepinephrine infusion titrated to a MAP of at least 65 mm Hg", "correct": false, "rationale": "A vasopressor is appropriate to support perfusion pressure in cardiogenic shock." },
+        { "id": "b", "text": "Prepare the client for emergent cardiac catheterization", "correct": false, "rationale": "Restoring coronary blood flow with PCI is the definitive treatment for cardiogenic shock caused by MI." },
+        { "id": "c", "text": "0.9% sodium chloride 2 L IV bolus over 30 minutes", "correct": true, "rationale": "The client has pump failure with pulmonary congestion. A large rapid bolus would worsen pulmonary edema and hypoxia. Fluids, if used at all, are given in small, carefully monitored amounts." },
+        { "id": "d", "text": "Indwelling urinary catheter with hourly output measurement", "correct": false, "rationale": "Hourly urine output is an essential perfusion measure in shock and is appropriate." }
+      ],
+      "explanation": "Cardiogenic shock is failure of the heart to pump, not a lack of volume. Treatment focuses on restoring coronary flow, improving contractility (inotropes such as dobutamine), supporting BP (norepinephrine), reducing workload, and sometimes mechanical support. Crackles and hypoxia are cues that large fluid boluses are unsafe."
+    },
+    {
+      "id": "shock-sepsis-dic-15",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which condition causes obstructive shock?",
+      "options": [
+        { "id": "a", "text": "Cardiac tamponade", "correct": true, "rationale": "Fluid in the pericardial sac physically blocks the heart from filling, which is the mechanism of obstructive shock. Tension pneumothorax and massive pulmonary embolism are other examples." },
+        { "id": "b", "text": "Massive upper GI hemorrhage", "correct": false, "rationale": "Loss of circulating blood volume causes hypovolemic shock." },
+        { "id": "c", "text": "High cervical spinal cord injury", "correct": false, "rationale": "Loss of sympathetic tone after spinal injury causes neurogenic (distributive) shock." },
+        { "id": "d", "text": "Large anterior wall myocardial infarction", "correct": false, "rationale": "Loss of contractile muscle causes cardiogenic shock." }
+      ],
+      "explanation": "Obstructive shock results from a physical blockage of blood flow into or out of the heart: cardiac tamponade, tension pneumothorax, or massive PE. The treatment is to relieve the obstruction (pericardiocentesis, needle decompression, thrombolysis or embolectomy)."
+    },
+    {
+      "id": "shock-sepsis-dic-16",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client being treated for septic shock had a lactate of 2.4 mmol/L on admission. Six hours later the lactate is 4.8 mmol/L. How should the nurse interpret this change?",
+      "options": [
+        { "id": "a", "text": "The client is responding well to antibiotics.", "correct": false, "rationale": "Successful treatment would lower (clear) lactate. A doubling lactate shows the opposite." },
+        { "id": "b", "text": "The client has developed respiratory acidosis because fatigue is causing hypoventilation and CO2 retention.", "correct": false, "rationale": "Lactate is a marker of metabolic acidosis from anaerobic metabolism, not respiratory acidosis from CO2 retention." },
+        { "id": "c", "text": "The value is expected after a fluid bolus and can be rechecked tomorrow.", "correct": false, "rationale": "Adequate fluid resuscitation should improve perfusion and lower lactate. Rising lactate needs urgent reassessment, not a delayed recheck." },
+        { "id": "d", "text": "Tissue hypoperfusion is worsening, and cells are relying more on anaerobic metabolism.", "correct": true, "rationale": "When cells lack oxygen, they produce lactic acid. A rising level signals worsening shock and the need to escalate care." }
+      ],
+      "explanation": "Lactate reflects anaerobic metabolism from inadequate tissue oxygen delivery. Above 2 mmol/L is abnormal, and 4 mmol/L or higher indicates severe hypoperfusion. Falling lactate (lactate clearance) is a sign that treatment is working, so it is rechecked to guide resuscitation."
+    },
+    {
+      "id": "shock-sepsis-dic-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client in progressive shock has ABGs of pH 7.24, PaCO2 30 mm Hg, and HCO3- 15 mEq/L. Serum potassium is 6.1 mEq/L and urine output is 10 mL/h. Which action should the nurse take first?",
+      "options": [
+        { "id": "a", "text": "Encourage the client to take slow, deep breaths to correct the pH", "correct": false, "rationale": "The client has metabolic acidosis and is already compensating by hyperventilating (low PaCO2). Slowing breathing would worsen the acidosis." },
+        { "id": "b", "text": "Give the scheduled oral potassium chloride supplement, because diuretics and shock deplete total body potassium", "correct": false, "rationale": "The client is already hyperkalemic. Extra potassium could cause a fatal dysrhythmia." },
+        { "id": "c", "text": "Place the client on continuous cardiac monitoring and notify the provider", "correct": true, "rationale": "Acidosis shifts potassium out of cells, and cell death and kidney injury add to it. Hyperkalemia can cause peaked T waves and lethal dysrhythmias, so monitoring and rapid treatment are the priority." },
+        { "id": "d", "text": "Reduce the IV fluid rate to protect the kidneys", "correct": false, "rationale": "Oliguria in shock is caused by poor renal perfusion. Restricting fluids would worsen kidney injury." }
+      ],
+      "explanation": "As shock progresses, anaerobic metabolism causes metabolic acidosis, cells release potassium, and failing kidneys cannot excrete it, causing hyperkalemia. Stress hormones also raise blood glucose. Monitor ABGs, electrolytes, glucose, and the ECG closely, and correct the underlying perfusion problem."
+    },
+    {
+      "id": "shock-sepsis-dic-18",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The family of a client with sepsis asks why the client is now bleeding from the gums and IV sites when the provider said the client has 'too much clotting.' Which explanation by the nurse is most accurate?",
+      "options": [
+        { "id": "a", "text": "Clots are forming throughout the small blood vessels, which uses up the platelets and clotting factors, so there are not enough left to stop bleeding.", "correct": true, "rationale": "This describes DIC: widespread microvascular clotting consumes platelets and clotting factors, and the breakdown of those clots (fibrinolysis) adds to bleeding." },
+        { "id": "b", "text": "The blood thinner the client is receiving is causing the bleeding.", "correct": false, "rationale": "This does not explain the paradox the family is asking about, and DIC can occur without any anticoagulant." },
+        { "id": "c", "text": "The bone marrow has stopped producing blood cells because of the infection.", "correct": false, "rationale": "Marrow suppression is not the mechanism of DIC. Platelets are low because they are consumed in clots." },
+        { "id": "d", "text": "The liver is making too many clotting factors in response to the infection, and the extra factors weaken the walls of the blood vessels so they leak.", "correct": false, "rationale": "Clotting factors are depleted in DIC, not overproduced, and they do not weaken vessel walls." }
+      ],
+      "explanation": "DIC is always secondary to another condition, most often sepsis, trauma, obstetric complications (placental abruption, amniotic fluid embolism), or cancer. Uncontrolled clotting causes microvascular thrombi and organ ischemia, then the consumption of platelets and factors causes bleeding."
+    },
+    {
+      "id": "shock-sepsis-dic-19",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with a placental abruption is suspected of developing disseminated intravascular coagulation (DIC). Which laboratory results support this diagnosis? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Platelet count 42,000/mm³", "correct": true, "rationale": "Platelets are consumed by widespread clotting, so the count falls." },
+        { "id": "b", "text": "Fibrinogen 90 mg/dL", "correct": true, "rationale": "Fibrinogen is used up forming fibrin clots, so levels are low (normal is about 200-400 mg/dL)." },
+        { "id": "c", "text": "PT 9 seconds (shortened)", "correct": false, "rationale": "In DIC, PT and aPTT are prolonged because clotting factors are depleted. A shortened PT is not consistent with DIC." },
+        { "id": "d", "text": "D-dimer markedly elevated", "correct": true, "rationale": "D-dimer and fibrin degradation products rise as the body breaks down the many clots that have formed." },
+        { "id": "e", "text": "Platelet count 480,000/mm³", "correct": false, "rationale": "This is thrombocytosis. DIC causes thrombocytopenia." }
+      ],
+      "explanation": "Classic DIC labs: low platelets, low fibrinogen, prolonged PT/INR and aPTT, and elevated D-dimer and fibrin degradation products. These reflect both the consumption of clotting components and the breakdown of clots."
+    },
+    {
+      "id": "shock-sepsis-dic-20",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a client with DIC who has a platelet count of 38,000/mm³. Which interventions should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Provide a soft-bristled toothbrush or oral swabs for mouth care", "correct": true, "rationale": "Soft oral care reduces trauma to fragile gums that bleed easily." },
+        { "id": "b", "text": "Use an electric razor for shaving", "correct": true, "rationale": "An electric razor avoids the cuts that a blade razor can cause." },
+        { "id": "c", "text": "Take temperatures rectally for accuracy", "correct": false, "rationale": "Rectal thermometers can injure the rectal mucosa and cause bleeding. Use the oral, temporal, or tympanic route." },
+        { "id": "d", "text": "Avoid IM injections and hold pressure on puncture sites for at least 5-10 minutes", "correct": true, "rationale": "IM injections can cause hematomas, and longer pressure is needed for hemostasis when platelets and factors are low." },
+        { "id": "e", "text": "Give aspirin for complaints of headache", "correct": false, "rationale": "Aspirin inhibits platelet function and raises bleeding risk. A new headache could also signal intracranial bleeding and must be reported." }
+      ],
+      "explanation": "Bleeding precautions for DIC and thrombocytopenia: soft toothbrush, electric razor, no IM injections or rectal procedures, prolonged pressure after punctures, fall prevention, no NSAIDs or aspirin, and close monitoring for bleeding (gums, IV sites, urine, stool, neuro changes)."
+    },
+    {
+      "id": "shock-sepsis-dic-21",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with sepsis and DIC is oozing blood from IV sites. The fibrinogen level is 80 mg/dL, and broad-spectrum antibiotics are infusing. Which therapy should the nurse anticipate to replace fibrinogen?",
+      "options": [
+        { "id": "a", "text": "Vitamin K (phytonadione)", "correct": false, "rationale": "Vitamin K reverses warfarin or treats vitamin K deficiency. It does not replace fibrinogen that has been consumed." },
+        { "id": "b", "text": "Aminocaproic acid", "correct": false, "rationale": "Antifibrinolytics are generally avoided in DIC because blocking clot breakdown can worsen microvascular thrombosis and organ ischemia." },
+        { "id": "c", "text": "Protamine sulfate", "correct": false, "rationale": "Protamine reverses heparin and does not replace clotting factors." },
+        { "id": "d", "text": "Cryoprecipitate", "correct": true, "rationale": "Cryoprecipitate is rich in fibrinogen and is given when fibrinogen is very low in a bleeding client. Platelets and FFP may also be given." }
+      ],
+      "explanation": "The most important treatment for DIC is treating the underlying cause (here, sepsis). Blood products are replaced for active bleeding: platelets for thrombocytopenia, FFP for prolonged PT/aPTT, and cryoprecipitate for low fibrinogen."
+    },
+    {
+      "id": "shock-sepsis-dic-22",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A 70-kg client in hypovolemic shock from trauma has received two units of packed RBCs and crystalloids. Which findings indicate that resuscitation is effective? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Urine output 45 mL/h", "correct": true, "rationale": "For a 70-kg client the minimum is 35 mL/h (0.5 mL/kg/h). Output above this shows improved renal perfusion." },
+        { "id": "b", "text": "MAP 70 mm Hg", "correct": true, "rationale": "A MAP of at least 65 mm Hg indicates adequate organ perfusion pressure." },
+        { "id": "c", "text": "Lactate increased from 4.2 to 4.9 mmol/L", "correct": false, "rationale": "Rising lactate shows that tissue hypoperfusion is worsening, not improving." },
+        { "id": "d", "text": "Heart rate decreased from 132/min to 98/min", "correct": true, "rationale": "As volume is restored, the compensatory tachycardia slows." },
+        { "id": "e", "text": "Capillary refill of 4 seconds", "correct": false, "rationale": "Capillary refill over 3 seconds indicates poor peripheral perfusion persists." },
+        { "id": "f", "text": "New crackles in both lung bases", "correct": false, "rationale": "Crackles suggest fluid overload or developing ARDS, a complication of resuscitation rather than a sign of success." }
+      ],
+      "explanation": "Effective resuscitation restores homeostasis: urine output of at least 0.5 mL/kg/h, MAP of at least 65 mm Hg, falling heart rate, improving mentation, warm skin with brisk capillary refill, and falling lactate. Monitor for fluid overload and for hypocalcemia and hyperkalemia with large-volume transfusion."
+    }
+  ]
+}
