@@ -15,6 +15,8 @@ const GROUP_TONE = {
   amber: 'from-amber-400 to-orange-600',
   sky: 'from-sky-400 to-indigo-600',
   emerald: 'from-emerald-400 to-teal-600',
+  violet: 'from-violet-400 to-purple-700',
+  indigo: 'from-indigo-400 to-blue-700',
 }
 
 const groups = computed(() =>
@@ -52,7 +54,7 @@ const practice = computed(() =>
 )
 
 const maxBlueprint = computed(() => Math.max(...exam.value.topics.map((t) => t.blueprint)))
-const bloomTotal = computed(() => Object.values(exam.value.bloom).reduce((a, b) => a + b, 0))
+const bloomTotal = computed(() => Object.values(exam.value.bloom ?? {}).reduce((a, b) => a + b, 0))
 const BLOOM_COLORS = { remember: 'bg-sky-400', understand: 'bg-indigo-400', apply: 'bg-maroon-500', analyze: 'bg-amber-500', evaluate: 'bg-emerald-500', create: 'bg-stone-400' }
 </script>
 
@@ -148,8 +150,8 @@ const BLOOM_COLORS = { remember: 'bg-sky-400', understand: 'bg-indigo-400', appl
     </section>
 
     <!-- blueprint -->
-    <section id="blueprint" class="grid items-start gap-5 lg:grid-cols-2">
-      <div class="card p-7">
+    <section id="blueprint" class="grid items-start gap-5" :class="{ 'lg:grid-cols-2': exam.bloom }">
+      <div v-if="exam.bloom" class="card p-7">
         <p class="eyebrow">From the blueprint</p>
         <h2 class="mt-1 font-display text-2xl font-bold">Thinking levels tested</h2>
         <p class="mt-1 text-sm text-stone-500">Bloom's cognitive level, {{ bloomTotal }} points total. Most of this exam is application and analysis.</p>

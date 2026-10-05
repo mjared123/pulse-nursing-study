@@ -1,0 +1,512 @@
+{
+  "slug": "sickle-cell",
+  "title": "Sickle Cell Disease",
+  "short": "Sickle Cell",
+  "icon": "shield",
+  "description": "Sickle cell disease in children: inheritance, pathophysiology, types of crises, pain crisis priorities, fever as an emergency, stroke and priapism, hydroxyurea, prophylaxis, and prevention teaching.",
+  "keyPoints": [
+    "Autosomal recessive: two carrier parents give each child a 25% chance of disease and 50% chance of trait. Detected by newborn screening.",
+    "HbS sickles with hypoxia, dehydration, infection, fever, cold, high altitude, stress, or overexertion, blocking small vessels.",
+    "Crises: vaso-occlusive (pain), acute chest syndrome (chest pain, fever, hypoxia, new infiltrate), splenic sequestration (big spleen, shock), aplastic (parvovirus B19, low retics).",
+    "Pain crisis priorities: IV opioids on a schedule or PCA, hydration (about 1.5 x maintenance), oxygen if hypoxic, warm compresses, incentive spirometry. No ice.",
+    "Fever of 38.5°C (101.3°F) or higher is an emergency because of functional asplenia: blood cultures and IV antibiotics.",
+    "Daily penicillin from 2 months to at least 5 years, plus all vaccines (pneumococcal, meningococcal, yearly flu). Hydroxyurea raises fetal hemoglobin.",
+    "Stroke signs (weakness, slurred speech, seizure, severe headache) and priapism longer than 2-4 hours need emergency care."
+  ],
+  "questions": [
+    {
+      "id": "sickle-cell-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Two parents each have sickle cell trait. What is the chance that each of their children will have sickle cell disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0%",
+          "correct": false,
+          "rationale": "Because both parents carry the gene, each pregnancy has a chance of producing an affected child."
+        },
+        {
+          "id": "b",
+          "text": "25%",
+          "correct": true,
+          "rationale": "Correct. Sickle cell disease is autosomal recessive. With two carrier parents, each child has a 25% chance of the disease, 50% chance of the trait, and 25% chance of neither."
+        },
+        {
+          "id": "c",
+          "text": "50%",
+          "correct": false,
+          "rationale": "50% is the chance that each child will have sickle cell trait (carrier), not the disease."
+        },
+        {
+          "id": "d",
+          "text": "100%",
+          "correct": false,
+          "rationale": "Only children who inherit the sickle gene from both parents have the disease."
+        }
+      ],
+      "explanation": "Sickle cell disease is an autosomal recessive disorder in which hemoglobin S replaces hemoglobin A. It is most common in people of African descent and is detected through universal newborn screening."
+    },
+    {
+      "id": "sickle-cell-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 4-year-old with sickle cell disease asks why the child has painful episodes. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The red blood cells break apart and release toxins that inflame the joints and bones.\"",
+          "correct": false,
+          "rationale": "Hemolysis causes anemia and jaundice, but pain comes from blocked blood flow."
+        },
+        {
+          "id": "b",
+          "text": "\"The child's immune system attacks the bones and joints, causing inflammation and swelling.\"",
+          "correct": false,
+          "rationale": "Sickle cell disease is not an autoimmune disease; pain results from vaso-occlusion."
+        },
+        {
+          "id": "c",
+          "text": "\"When oxygen is low, the red cells become stiff and sickle-shaped and block small blood vessels.\"",
+          "correct": true,
+          "rationale": "Correct. Sickled cells clump and obstruct microcirculation, causing ischemia, tissue injury, and pain (vaso-occlusive crisis)."
+        },
+        {
+          "id": "d",
+          "text": "\"The child does not have enough iron in the blood, so the tissues are starved of oxygen.\"",
+          "correct": false,
+          "rationale": "Sickle cell anemia is a hemolytic anemia, not iron deficiency; iron supplements are not routinely given."
+        }
+      ],
+      "explanation": "Triggers of sickling include dehydration, hypoxia, infection, fever, cold exposure, high altitude, stress, and strenuous exercise. Sickled cells live only 10-20 days, causing chronic hemolytic anemia."
+    },
+    {
+      "id": "sickle-cell-03",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 9-year-old with sickle cell disease is admitted in vaso-occlusive crisis with pain rated 9/10 in the legs and back. SpO2 is 93% on room air. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess pain using an age-appropriate scale and obtain vital signs"
+        },
+        {
+          "id": "b",
+          "text": "Administer the prescribed IV opioid analgesic"
+        },
+        {
+          "id": "c",
+          "text": "Start IV fluids at the prescribed rate (about 1.5 times maintenance)"
+        },
+        {
+          "id": "d",
+          "text": "Apply oxygen as prescribed to keep SpO2 at least 95%"
+        },
+        {
+          "id": "e",
+          "text": "Reassess pain and sedation level 15-30 minutes after the analgesic"
+        }
+      ],
+      "explanation": "Pain in vaso-occlusive crisis is severe and treated promptly with IV opioids, often on a scheduled or PCA basis. Hydration reduces sickling, and oxygen is given for hypoxemia. Reassessment ensures pain relief and safe sedation levels."
+    },
+    {
+      "id": "sickle-cell-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 12-year-old in vaso-occlusive crisis. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer IV opioids on a scheduled basis or by PCA",
+          "correct": true,
+          "rationale": "Around-the-clock analgesia controls severe pain better than as-needed dosing."
+        },
+        {
+          "id": "b",
+          "text": "Apply warm compresses to painful areas",
+          "correct": true,
+          "rationale": "Heat promotes vasodilation and comfort."
+        },
+        {
+          "id": "c",
+          "text": "Apply ice packs to painful joints",
+          "correct": false,
+          "rationale": "Cold causes vasoconstriction and increases sickling."
+        },
+        {
+          "id": "d",
+          "text": "Encourage incentive spirometry every 2 hours while awake",
+          "correct": true,
+          "rationale": "Incentive spirometry reduces the risk of acute chest syndrome, especially with chest or back pain and opioid use."
+        },
+        {
+          "id": "e",
+          "text": "Restrict fluids to prevent fluid overload",
+          "correct": false,
+          "rationale": "Hydration (IV and oral) is a cornerstone of treatment to reduce sickling."
+        },
+        {
+          "id": "f",
+          "text": "Monitor for respiratory depression and sedation",
+          "correct": true,
+          "rationale": "Opioid therapy requires monitoring of respiratory rate, SpO2, and sedation level."
+        }
+      ],
+      "explanation": "Vaso-occlusive crisis care: hydration, scheduled analgesia (opioids, plus NSAIDs if prescribed), heat, rest, incentive spirometry, oxygen if hypoxic, and monitoring for complications such as acute chest syndrome."
+    },
+    {
+      "id": "sickle-cell-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 7-year-old with sickle cell disease admitted for a pain crisis develops a temperature of 38.9°C (102°F), chest pain, cough, and SpO2 of 89%. A new infiltrate is seen on chest x-ray. What does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acute chest syndrome",
+          "correct": true,
+          "rationale": "Correct. A new pulmonary infiltrate with chest pain, fever, cough, and hypoxemia is acute chest syndrome, a leading cause of death in sickle cell disease. It requires oxygen, antibiotics, analgesia, and possibly transfusion."
+        },
+        {
+          "id": "b",
+          "text": "Splenic sequestration",
+          "correct": false,
+          "rationale": "Splenic sequestration causes a rapidly enlarging spleen and shock, not respiratory findings."
+        },
+        {
+          "id": "c",
+          "text": "Aplastic crisis",
+          "correct": false,
+          "rationale": "Aplastic crisis causes profound anemia with low reticulocytes, often after parvovirus B19, not pulmonary infiltrates."
+        },
+        {
+          "id": "d",
+          "text": "Stroke",
+          "correct": false,
+          "rationale": "Stroke presents with neurologic deficits, not chest pain and infiltrates."
+        }
+      ],
+      "explanation": "Acute chest syndrome may be triggered by infection, fat embolism, or hypoventilation from chest pain and opioids. Prevention includes incentive spirometry and early mobilization."
+    },
+    {
+      "id": "sickle-cell-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old with sickle cell disease is brought to the ED pale and lethargic. HR is 168/min, BP 70/40 mm Hg, and the spleen is palpable 6 cm below the left costal margin. Hemoglobin dropped from 8.1 to 4.2 g/dL. Which complication is occurring?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vaso-occlusive crisis",
+          "correct": false,
+          "rationale": "Vaso-occlusive crisis causes pain, not a rapidly enlarging spleen with shock."
+        },
+        {
+          "id": "b",
+          "text": "Acute chest syndrome",
+          "correct": false,
+          "rationale": "Acute chest syndrome causes respiratory findings and infiltrates."
+        },
+        {
+          "id": "c",
+          "text": "Splenic sequestration",
+          "correct": true,
+          "rationale": "Correct. Blood pools in the spleen, causing a rapid drop in hemoglobin, splenomegaly, and hypovolemic shock. It is most common in young children and can be fatal within hours."
+        },
+        {
+          "id": "d",
+          "text": "Iron overload",
+          "correct": false,
+          "rationale": "Iron overload develops slowly from chronic transfusion and does not cause acute shock."
+        }
+      ],
+      "explanation": "Splenic sequestration is an emergency treated with fluids and transfusion. Parents should learn to palpate the spleen and seek care for pallor, lethargy, or abdominal enlargement. Recurrent episodes may lead to splenectomy."
+    },
+    {
+      "id": "sickle-cell-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 3-year-old with sickle cell disease calls the clinic and reports the child has a temperature of 38.7°C (101.7°F) but is playing normally. Which instruction should the nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Give acetaminophen and call back if the fever lasts more than 3 days.\"",
+          "correct": false,
+          "rationale": "Waiting is dangerous; fever can signal life-threatening bacterial infection."
+        },
+        {
+          "id": "b",
+          "text": "\"Give ibuprofen, encourage fluids, and bring your child to the clinic tomorrow.\"",
+          "correct": false,
+          "rationale": "Fever of 38.5°C or higher requires same-day evaluation, not next-day care."
+        },
+        {
+          "id": "c",
+          "text": "\"Your child seems fine, so observation at home is appropriate.\"",
+          "correct": false,
+          "rationale": "Children with sickle cell disease can deteriorate rapidly from sepsis even if they look well."
+        },
+        {
+          "id": "d",
+          "text": "\"Bring your child to the emergency department now for evaluation and IV antibiotics.\"",
+          "correct": true,
+          "rationale": "Correct. Functional asplenia makes children with sickle cell disease vulnerable to overwhelming sepsis from encapsulated bacteria. A temperature of 38.5°C (101.3°F) or higher is an emergency requiring blood cultures and IV antibiotics."
+        }
+      ],
+      "explanation": "Fever of 38.5°C or higher is a medical emergency in sickle cell disease. Evaluation includes CBC, reticulocyte count, blood culture, and prompt IV antibiotics such as ceftriaxone."
+    },
+    {
+      "id": "sickle-cell-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Why do children with sickle cell disease take daily oral penicillin starting at 2 months of age?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To treat the chronic hemolytic anemia and reduce jaundice",
+          "correct": false,
+          "rationale": "Penicillin does not treat hemolytic anemia or jaundice."
+        },
+        {
+          "id": "b",
+          "text": "To prevent pain crises by improving blood flow",
+          "correct": false,
+          "rationale": "Penicillin does not improve blood flow or prevent vaso-occlusion."
+        },
+        {
+          "id": "c",
+          "text": "To prevent pneumococcal sepsis due to splenic dysfunction",
+          "correct": true,
+          "rationale": "Correct. Repeated infarction of the spleen causes functional asplenia early in life, increasing the risk of infection with encapsulated organisms such as Streptococcus pneumoniae."
+        },
+        {
+          "id": "d",
+          "text": "To prevent rheumatic fever after strep throat infections",
+          "correct": false,
+          "rationale": "Penicillin prophylaxis in sickle cell disease targets pneumococcal infection, not strep pharyngitis."
+        }
+      ],
+      "explanation": "Prophylactic penicillin is given from about 2 months to at least 5 years of age, along with all routine vaccines, pneumococcal, meningococcal, and annual influenza vaccines."
+    },
+    {
+      "id": "sickle-cell-09",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 6-year-old with sickle cell disease. Which findings require immediate notification of the provider because they may indicate a stroke? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "New weakness of the right arm and leg",
+          "correct": true,
+          "rationale": "Hemiparesis is a classic sign of stroke."
+        },
+        {
+          "id": "b",
+          "text": "Slurred speech",
+          "correct": true,
+          "rationale": "Speech changes suggest cerebrovascular occlusion."
+        },
+        {
+          "id": "c",
+          "text": "Sudden severe headache",
+          "correct": true,
+          "rationale": "Severe headache can signal stroke."
+        },
+        {
+          "id": "d",
+          "text": "Mild scleral jaundice",
+          "correct": false,
+          "rationale": "Jaundice is an expected result of chronic hemolysis."
+        },
+        {
+          "id": "e",
+          "text": "Seizure activity",
+          "correct": true,
+          "rationale": "Seizures can be a sign of stroke in sickle cell disease."
+        },
+        {
+          "id": "f",
+          "text": "Hemoglobin of 8.2 g/dL at baseline",
+          "correct": false,
+          "rationale": "Baseline hemoglobin of 6-9 g/dL is common in sickle cell anemia."
+        }
+      ],
+      "explanation": "Stroke can occur in children with sickle cell disease. Transcranial Doppler screening yearly from ages 2-16 identifies high-risk children, who receive chronic transfusion therapy to reduce stroke risk."
+    },
+    {
+      "id": "sickle-cell-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 14-year-old male with sickle cell disease reports a painful erection that has lasted 3 hours. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tell him to apply ice packs to the area to reduce swelling and shrink the erection.",
+          "correct": false,
+          "rationale": "Cold causes vasoconstriction and increases sickling; ice is avoided."
+        },
+        {
+          "id": "b",
+          "text": "Treat it as an emergency needing immediate evaluation, IV fluids, and pain relief",
+          "correct": true,
+          "rationale": "Correct. Priapism lasting more than 2-4 hours is an emergency because it can cause permanent erectile dysfunction. Initial measures include hydration, analgesia, and urination; urology may aspirate the corpora."
+        },
+        {
+          "id": "c",
+          "text": "Reassure him that prolonged erections are a normal part of puberty.",
+          "correct": false,
+          "rationale": "Prolonged, painful erection is not normal; it reflects vaso-occlusion in the penis."
+        },
+        {
+          "id": "d",
+          "text": "Advise him to drink fluids at home and call the clinic if it lasts past 12 hours.",
+          "correct": false,
+          "rationale": "Waiting risks permanent damage; priapism lasting more than 2-4 hours needs emergency care."
+        }
+      ],
+      "explanation": "Priapism is caused by sickled cells blocking venous outflow. Teach males with sickle cell disease to seek care for any erection lasting more than 2 hours. Discuss sensitively and privately with adolescents."
+    },
+    {
+      "id": "sickle-cell-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old with sickle cell disease is starting hydroxyurea. Which statement by the nurse about the medication is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It raises fetal hemoglobin, which reduces sickling and pain crises.\"",
+          "correct": true,
+          "rationale": "Correct. Hydroxyurea increases hemoglobin F, which does not sickle, reducing pain crises, acute chest syndrome, and transfusion needs."
+        },
+        {
+          "id": "b",
+          "text": "\"It cures sickle cell disease after about 6 months of daily doses.\"",
+          "correct": false,
+          "rationale": "Hydroxyurea controls but does not cure the disease. The only cure is stem cell transplant (and newer gene therapies)."
+        },
+        {
+          "id": "c",
+          "text": "\"Blood counts do not need to be checked because it does not affect the bone marrow.\"",
+          "correct": false,
+          "rationale": "Hydroxyurea suppresses the bone marrow; CBCs are monitored regularly for neutropenia."
+        },
+        {
+          "id": "d",
+          "text": "\"It is an antibiotic that prevents infections caused by the damaged spleen.\"",
+          "correct": false,
+          "rationale": "Hydroxyurea is not an antibiotic; daily penicillin is used to prevent infection related to splenic dysfunction."
+        }
+      ],
+      "explanation": "Hydroxyurea is recommended for children with sickle cell anemia starting at 9 months of age. Monitor CBC for myelosuppression and teach caregivers to handle the capsules safely (wear gloves)."
+    },
+    {
+      "id": "sickle-cell-12",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A nurse is teaching a 13-year-old with sickle cell disease and the parents about preventing crises. Which statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll carry a water bottle and drink a lot during the day.\"",
+          "correct": true,
+          "rationale": "Hydration reduces blood viscosity and sickling."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll wear warm layers in winter and avoid swimming in cold water.\"",
+          "correct": true,
+          "rationale": "Cold causes vasoconstriction and promotes sickling."
+        },
+        {
+          "id": "c",
+          "text": "\"I can go on the ski trip to the mountains if I push through when I feel tired.\"",
+          "correct": false,
+          "rationale": "High altitude lowers oxygen tension and overexertion raises oxygen demand, both of which trigger sickling; travel to high altitude should be discussed with the hematologist."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll get my flu shot every year.\"",
+          "correct": true,
+          "rationale": "Preventing infection reduces crisis triggers and the risk of sepsis."
+        },
+        {
+          "id": "e",
+          "text": "\"I'll put ice on my joints when they start to hurt.\"",
+          "correct": false,
+          "rationale": "Ice causes vasoconstriction and worsens sickling; warm compresses are used instead."
+        },
+        {
+          "id": "f",
+          "text": "\"I'll go to the emergency department if my temperature is 38.5°C (101.3°F) or higher.\"",
+          "correct": true,
+          "rationale": "Fever at or above 38.5°C is an emergency because of functional asplenia and sepsis risk."
+        }
+      ],
+      "explanation": "Crisis prevention: hydration, avoid cold, high altitude, and unpressurized aircraft, avoid overexertion and emotional stress, prevent infection with vaccines and penicillin, and seek care early for fever or pain."
+    },
+    {
+      "id": "sickle-cell-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 5-year-old with sickle cell disease has a hemoglobin of 3.8 g/dL (baseline 8.0 g/dL) and a reticulocyte count of 0.2% after a week of fever and a lacy rash on the cheeks. Which complication does this indicate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyperhemolytic crisis",
+          "correct": false,
+          "rationale": "Hyperhemolysis would cause a high reticulocyte count and increased jaundice."
+        },
+        {
+          "id": "b",
+          "text": "Splenic sequestration",
+          "correct": false,
+          "rationale": "Sequestration causes a rapidly enlarging spleen; reticulocytes are usually elevated."
+        },
+        {
+          "id": "c",
+          "text": "Vaso-occlusive crisis",
+          "correct": false,
+          "rationale": "Vaso-occlusive crisis causes pain and does not produce this degree of anemia with low reticulocytes."
+        },
+        {
+          "id": "d",
+          "text": "Aplastic crisis",
+          "correct": true,
+          "rationale": "Correct. Parvovirus B19 (fifth disease, slapped-cheek rash) temporarily stops red cell production. With such short-lived RBCs, hemoglobin falls rapidly and reticulocytes are very low."
+        }
+      ],
+      "explanation": "Aplastic crisis is usually triggered by parvovirus B19. Treatment is supportive with transfusion until marrow function recovers. Children with sickle cell disease should be kept away from known parvovirus contacts when possible."
+    },
+    {
+      "id": "sickle-cell-14",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A newborn's state screening result shows hemoglobin FS. The parents ask what this means. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your baby has sickle cell trait, which means a carrier with no health problems; no treatment is needed.\"",
+          "correct": false,
+          "rationale": "An FS pattern (no hemoglobin A) indicates sickle cell disease, not trait (FAS)."
+        },
+        {
+          "id": "b",
+          "text": "\"It suggests sickle cell disease; it will be confirmed, and early care like penicillin prevents serious infection.\"",
+          "correct": true,
+          "rationale": "Correct. Confirmatory testing is needed, and early enrollment in comprehensive care with penicillin prophylaxis and vaccines has greatly reduced deaths in early childhood."
+        },
+        {
+          "id": "c",
+          "text": "\"Symptoms such as pain and swelling start right away, so your baby will need to stay in the hospital for treatment.\"",
+          "correct": false,
+          "rationale": "Fetal hemoglobin protects the infant for the first 4-6 months; symptoms usually begin later."
+        },
+        {
+          "id": "d",
+          "text": "\"This test is often wrong, so no follow-up is needed.\"",
+          "correct": false,
+          "rationale": "Newborn screening results require timely confirmatory testing and follow-up."
+        }
+      ],
+      "explanation": "Universal newborn screening identifies sickle cell disease early. High fetal hemoglobin delays symptoms until about 4-6 months. Early diagnosis allows penicillin prophylaxis, vaccination, parent education (fever, spleen palpation), and hematology follow-up."
+    }
+  ]
+}

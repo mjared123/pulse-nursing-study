@@ -1,0 +1,434 @@
+{
+  "slug": "hirschsprung",
+  "title": "Hirschsprung Disease",
+  "short": "Hirschsprung",
+  "icon": "tube",
+  "description": "Hirschsprung disease (congenital aganglionic megacolon): delayed meconium, chronic constipation and ribbon-like stools, rectal biopsy, enterocolitis as an emergency, saline enemas, pull-through surgery, and ostomy care.",
+  "keyPoints": [
+    "Ganglion cells are absent in the distal colon. The affected segment cannot relax or move stool forward, causing a functional obstruction, and the bowel above it dilates (megacolon).",
+    "Newborn cardinal sign: failure to pass meconium within 24-48 hours, along with abdominal distension, bilious vomiting, and poor feeding.",
+    "Older infants and children: chronic constipation since birth, ribbon-like foul-smelling stools, abdominal distension, an empty rectum on digital exam, and failure to thrive.",
+    "Diagnosis is confirmed by rectal (suction) biopsy showing absent ganglion cells. A contrast enema and anorectal manometry may support it.",
+    "Hirschsprung-associated enterocolitis is an EMERGENCY: fever, explosive foul-smelling watery diarrhea, abdominal distension, and lethargy can progress to sepsis and perforation. Report it immediately.",
+    "Bowel cleansing uses isotonic normal saline enemas, never tap water (water intoxication). Measure abdominal girth at the umbilicus.",
+    "Surgery: a pull-through procedure removes the aganglionic segment; a temporary colostomy may be needed. After surgery: nothing rectal (no rectal temps), NPO until bowel sounds return, perianal skin care, and stoma care (stoma should be pink-red and moist)."
+  ],
+  "questions": [
+    {
+      "id": "hirschsprung-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which statement best describes the pathophysiology of Hirschsprung disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypertrophy of the pyloric muscle blocks gastric emptying and causes vomiting",
+          "correct": false,
+          "rationale": "This describes hypertrophic pyloric stenosis."
+        },
+        {
+          "id": "b",
+          "text": "One segment of bowel telescopes into an adjacent segment",
+          "correct": false,
+          "rationale": "This describes intussusception."
+        },
+        {
+          "id": "c",
+          "text": "Missing ganglion cells in the distal colon prevent peristalsis, causing obstruction",
+          "correct": true,
+          "rationale": "Correct. Without parasympathetic ganglion cells, the affected bowel cannot relax or propel stool. Stool backs up and the proximal colon dilates (megacolon)."
+        },
+        {
+          "id": "d",
+          "text": "Thick, sticky meconium blocks the ileum because of a pancreatic enzyme deficiency",
+          "correct": false,
+          "rationale": "This describes meconium ileus, which is associated with cystic fibrosis."
+        }
+      ],
+      "explanation": "Hirschsprung disease is a congenital absence of ganglion cells, usually in the rectosigmoid area. The internal anal sphincter also fails to relax, so stool cannot pass normally."
+    },
+    {
+      "id": "hirschsprung-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A full-term newborn is 48 hours old. Which finding should the nurse recognize as a cue for possible Hirschsprung disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No meconium passed since birth, with abdominal distension",
+          "correct": true,
+          "rationale": "Correct. Most term newborns pass meconium within 24-48 hours. Failure to do so, especially with distension, is a hallmark of Hirschsprung disease."
+        },
+        {
+          "id": "b",
+          "text": "Transitional stools passed on day 2 of life",
+          "correct": false,
+          "rationale": "Transitional stools show the bowel is working normally."
+        },
+        {
+          "id": "c",
+          "text": "Mild physiologic jaundice beginning at 48 hours",
+          "correct": false,
+          "rationale": "Physiologic jaundice is common at 48-72 hours and is not linked to Hirschsprung disease."
+        },
+        {
+          "id": "d",
+          "text": "Six wet diapers in the last 24 hours with good feeding",
+          "correct": false,
+          "rationale": "This reflects adequate hydration and is a normal finding."
+        }
+      ],
+      "explanation": "Delayed passage of meconium beyond 24-48 hours is the key early sign. Other newborn signs include bilious vomiting, refusal to feed, and abdominal distension."
+    },
+    {
+      "id": "hirschsprung-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 3-month-old is scheduled for a test to confirm suspected Hirschsprung disease. Which test should the nurse explain to the parents?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominal ultrasound to look for a thickened muscle",
+          "correct": false,
+          "rationale": "Ultrasound diagnoses pyloric stenosis and intussusception, not aganglionosis."
+        },
+        {
+          "id": "b",
+          "text": "Sweat chloride test",
+          "correct": false,
+          "rationale": "This diagnoses cystic fibrosis, which can cause meconium ileus."
+        },
+        {
+          "id": "c",
+          "text": "Stool culture for rotavirus",
+          "correct": false,
+          "rationale": "Stool cultures identify infectious causes of diarrhea, not a structural nerve abnormality."
+        },
+        {
+          "id": "d",
+          "text": "Rectal suction biopsy to look for ganglion cells",
+          "correct": true,
+          "rationale": "Correct. Biopsy showing absent ganglion cells is the definitive diagnosis. Suction biopsy can usually be done at the bedside without general anesthesia in infants."
+        }
+      ],
+      "explanation": "A rectal biopsy showing no ganglion cells confirms Hirschsprung disease. A barium enema may show a narrow distal segment with a dilated proximal colon, and anorectal manometry shows the internal sphincter fails to relax."
+    },
+    {
+      "id": "hirschsprung-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 3-year-old has had constipation since infancy that does not respond to stool softeners. The abdomen is distended and the child is below the 5th percentile for weight. Which additional finding most strongly suggests Hirschsprung disease rather than functional constipation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Large, hard stools that clog the toilet",
+          "correct": false,
+          "rationale": "Large-caliber stools point to functional constipation with stool withholding."
+        },
+        {
+          "id": "b",
+          "text": "Ribbon-like, foul-smelling stools and an empty rectum on digital exam",
+          "correct": true,
+          "rationale": "Correct. A narrow aganglionic segment produces thin, ribbon-like stools. The rectum is empty because stool cannot reach it, unlike functional constipation, where the rectum is full of hard stool."
+        },
+        {
+          "id": "c",
+          "text": "Withholding behaviors, such as crossing the legs and hiding to avoid stooling",
+          "correct": false,
+          "rationale": "Withholding is typical of functional constipation, often during toilet training."
+        },
+        {
+          "id": "d",
+          "text": "Constipation that started after toilet training began",
+          "correct": false,
+          "rationale": "Hirschsprung disease causes symptoms from the newborn period. Onset with toilet training suggests functional constipation."
+        }
+      ],
+      "explanation": "Clues that point to Hirschsprung disease: symptoms since birth (delayed meconium), ribbon-like foul stools, an empty rectum, failure to thrive, and distension. Functional constipation usually starts later, with large stools, withholding, and a stool-filled rectum."
+    },
+    {
+      "id": "hirschsprung-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-month-old awaiting pull-through surgery for Hirschsprung disease has a temperature of 39.1°C (102.4°F), explosive foul-smelling watery stools, increasing abdominal distension, and lethargy. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give an antidiarrheal medication and continue to monitor",
+          "correct": false,
+          "rationale": "Antidiarrheals can worsen toxic dilation and delay treatment of an emergency."
+        },
+        {
+          "id": "b",
+          "text": "Recognize these as expected findings before surgery",
+          "correct": false,
+          "rationale": "These findings are NOT expected. They signal a dangerous complication."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider immediately for suspected enterocolitis",
+          "correct": true,
+          "rationale": "Correct. Hirschsprung-associated enterocolitis is life threatening and can lead to sepsis, shock, and bowel perforation. Fever, explosive diarrhea, distension, and lethargy need immediate treatment (IV fluids, antibiotics, decompression)."
+        },
+        {
+          "id": "d",
+          "text": "Give a tap-water enema to relieve the distension and flush out stool",
+          "correct": false,
+          "rationale": "Tap-water enemas risk water intoxication in children, and enterocolitis requires urgent medical treatment."
+        }
+      ],
+      "explanation": "Enterocolitis is the most serious complication of Hirschsprung disease and can occur before or after surgery. Teach parents and nurses to report fever, explosive or bloody diarrhea, distension, vomiting, and lethargy right away."
+    },
+    {
+      "id": "hirschsprung-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with Hirschsprung disease is prescribed repeated enemas to empty the bowel before surgery. Which solution should the nurse use?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Isotonic normal saline",
+          "correct": true,
+          "rationale": "Correct. Isotonic saline will not shift fluid or electrolytes, so it is safe for repeated enemas in children."
+        },
+        {
+          "id": "b",
+          "text": "Tap water",
+          "correct": false,
+          "rationale": "Tap water is hypotonic. The dilated colon absorbs it, which can cause water intoxication (hyponatremia, seizures)."
+        },
+        {
+          "id": "c",
+          "text": "Sodium phosphate (Fleet) enema",
+          "correct": false,
+          "rationale": "Phosphate enemas can cause severe hyperphosphatemia and hypocalcemia in young children and are avoided."
+        },
+        {
+          "id": "d",
+          "text": "Soapsuds enema",
+          "correct": false,
+          "rationale": "Soapsuds irritate the bowel mucosa and are not recommended for children."
+        }
+      ],
+      "explanation": "Use only isotonic saline enemas for children with Hirschsprung disease. The large surface area of the dilated colon readily absorbs hypotonic fluid."
+    },
+    {
+      "id": "hirschsprung-07",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is teaching parents of an infant with Hirschsprung disease which signs of enterocolitis to report immediately. Which signs should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fever",
+          "correct": true,
+          "rationale": "Correct. Fever reflects bacterial overgrowth and inflammation of the bowel wall and may signal sepsis."
+        },
+        {
+          "id": "b",
+          "text": "Explosive, foul-smelling watery diarrhea",
+          "correct": true,
+          "rationale": "Correct. Sudden explosive diarrhea in a child who is usually constipated is a classic sign of enterocolitis."
+        },
+        {
+          "id": "c",
+          "text": "Ribbon-like stools that are unchanged from usual",
+          "correct": false,
+          "rationale": "Ribbon-like stools are a chronic finding of the disease itself, not a sign of acute enterocolitis."
+        },
+        {
+          "id": "d",
+          "text": "Increasing abdominal distension",
+          "correct": true,
+          "rationale": "Correct. Worsening distension can mean toxic dilation and risk of perforation."
+        },
+        {
+          "id": "e",
+          "text": "Lethargy or decreased responsiveness",
+          "correct": true,
+          "rationale": "Correct. Lethargy can mean dehydration, sepsis, or shock."
+        },
+        {
+          "id": "f",
+          "text": "Steady weight gain",
+          "correct": false,
+          "rationale": "Steady weight gain shows adequate nutrition and is reassuring."
+        }
+      ],
+      "explanation": "Enterocolitis presents with fever, explosive diarrhea (sometimes bloody), distension, vomiting, and lethargy. It can rapidly progress to shock, so parents must seek care immediately."
+    },
+    {
+      "id": "hirschsprung-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is monitoring a 4-month-old with Hirschsprung disease for increasing abdominal distension before surgery. Which method is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palpate the abdomen each shift and describe how firm it feels",
+          "correct": false,
+          "rationale": "Palpation is subjective and does not reliably show changes over time."
+        },
+        {
+          "id": "b",
+          "text": "Weigh the infant every 4 hours on the same scale",
+          "correct": false,
+          "rationale": "Weight reflects fluid and nutritional status, not abdominal distension."
+        },
+        {
+          "id": "c",
+          "text": "Ask the parents each shift whether the abdomen looks bigger",
+          "correct": false,
+          "rationale": "Parent observations are helpful but are not an objective, reliable measurement."
+        },
+        {
+          "id": "d",
+          "text": "Measure abdominal girth at the umbilicus, marking the site for consistency",
+          "correct": true,
+          "rationale": "Correct. Serial girth measurements at a marked, consistent location (with the infant in the same position) detect changes objectively."
+        }
+      ],
+      "explanation": "Measure girth with a paper tape at the same marked location, in the same position, at consistent times. Increasing girth may mean worsening obstruction or enterocolitis."
+    },
+    {
+      "id": "hirschsprung-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 10-month-old after a pull-through procedure for Hirschsprung disease. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Take temperatures by the axillary or temporal route",
+          "correct": true,
+          "rationale": "Correct. Nothing should be placed in the rectum after a pull-through, to protect the new anastomosis."
+        },
+        {
+          "id": "b",
+          "text": "Keep the infant NPO until bowel sounds return, then advance the diet as prescribed",
+          "correct": true,
+          "rationale": "Correct. Feeding begins once peristalsis returns, to prevent distension and vomiting."
+        },
+        {
+          "id": "c",
+          "text": "Insert a rectal tube to relieve gas",
+          "correct": false,
+          "rationale": "Rectal tubes and other rectal instrumentation can disrupt the anastomosis."
+        },
+        {
+          "id": "d",
+          "text": "Clean the perianal area after each stool and apply a barrier cream",
+          "correct": true,
+          "rationale": "Correct. Frequent loose stools after a pull-through can cause severe perianal excoriation."
+        },
+        {
+          "id": "e",
+          "text": "Obtain rectal temperatures for accuracy",
+          "correct": false,
+          "rationale": "Rectal temperatures are contraindicated after a pull-through procedure."
+        },
+        {
+          "id": "f",
+          "text": "Measure abdominal girth and monitor for distension",
+          "correct": true,
+          "rationale": "Correct. Distension can mean ileus, obstruction, or enterocolitis."
+        }
+      ],
+      "explanation": "After a pull-through: nothing rectal, NPO with NG decompression until bowel sounds return, monitoring of girth and stools, meticulous perianal skin care, pain management, and watching for signs of enterocolitis and infection."
+    },
+    {
+      "id": "hirschsprung-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a parent to change the pouch on an infant's temporary colostomy. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Perform hand hygiene and gather the new pouch, measuring guide, and supplies"
+        },
+        {
+          "id": "b",
+          "text": "Gently remove the old pouch while pushing the skin away from the adhesive"
+        },
+        {
+          "id": "c",
+          "text": "Cleanse the peristomal skin with warm water and pat dry"
+        },
+        {
+          "id": "d",
+          "text": "Inspect the stoma for a pink-red, moist appearance and check the surrounding skin"
+        },
+        {
+          "id": "e",
+          "text": "Measure the stoma, cut the pouch opening to fit, and apply the new pouch"
+        }
+      ],
+      "explanation": "Prepare supplies first, remove the pouch gently to protect the skin, clean with plain warm water (no alcohol or harsh soaps), assess the stoma and skin, then size and apply the new appliance so it fits snugly around the stoma."
+    },
+    {
+      "id": "hirschsprung-11",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse evaluates teaching for the parent of an infant with a new temporary colostomy. Which parent statement shows correct understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"A pale, dry stoma means it is healing well.\"",
+          "correct": false,
+          "rationale": "Pallor and dryness suggest poor perfusion or dehydration, not healing."
+        },
+        {
+          "id": "b",
+          "text": "\"The stoma should look red and moist. I'll call if it turns dark purple, black, or very pale.\"",
+          "correct": true,
+          "rationale": "Correct. A healthy stoma is beefy red or pink and moist. Dark, dusky, black, or pale color suggests poor blood supply and must be reported right away."
+        },
+        {
+          "id": "c",
+          "text": "\"I should cut the pouch opening about an inch larger than the stoma so it doesn't rub.\"",
+          "correct": false,
+          "rationale": "An opening that is too large exposes the skin to stool and causes breakdown. It should fit closely, about 1/8 inch (3 mm) larger than the stoma."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll clean the skin around the stoma with alcohol wipes to prevent infection.\"",
+          "correct": false,
+          "rationale": "Alcohol irritates and dries the skin. Warm water is used."
+        }
+      ],
+      "explanation": "Stoma teaching includes normal appearance (red, moist, may bleed slightly with cleaning), close-fitting pouch openings, gentle cleansing with warm water, skin protection, and when to call (color change, retraction, prolapse, no output, or signs of enterocolitis)."
+    },
+    {
+      "id": "hirschsprung-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Parents of a child who had a pull-through procedure ask what to watch for at home. Which statement by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"After surgery, your child will never have bowel problems again.\"",
+          "correct": false,
+          "rationale": "Many children have ongoing issues after surgery, such as constipation, diarrhea, soiling, or delayed toilet training."
+        },
+        {
+          "id": "b",
+          "text": "\"Give tap-water enemas at home if your child gets constipated or the belly swells.\"",
+          "correct": false,
+          "rationale": "Tap-water enemas risk water intoxication. Any enemas should be isotonic saline as prescribed."
+        },
+        {
+          "id": "c",
+          "text": "\"Your child should be fully toilet trained on the usual schedule, like other children.\"",
+          "correct": false,
+          "rationale": "Toilet training is often delayed after a pull-through, and families need realistic expectations and support."
+        },
+        {
+          "id": "d",
+          "text": "\"Enterocolitis can still happen, so call for fever, belly swelling, or explosive diarrhea.\"",
+          "correct": true,
+          "rationale": "Correct. Enterocolitis can occur even months to years after a pull-through. Families must know the warning signs and seek care promptly."
+        }
+      ],
+      "explanation": "Long-term follow-up after a pull-through addresses enterocolitis risk, stooling patterns, perianal skin care, nutrition and growth, and gradual, sometimes delayed, achievement of bowel continence."
+    }
+  ]
+}

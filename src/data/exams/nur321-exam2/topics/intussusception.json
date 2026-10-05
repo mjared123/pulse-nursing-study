@@ -1,0 +1,467 @@
+{
+  "slug": "intussusception",
+  "title": "Intussusception",
+  "short": "Intussusception",
+  "icon": "layers",
+  "description": "Telescoping of the bowel in infants and toddlers: classic presentation, enema reduction, signs of perforation, and post-reduction nursing care.",
+  "keyPoints": [
+    "Intussusception is the telescoping of one segment of bowel into another, most often the ileum into the cecum (ileocecal), causing obstruction and impaired blood flow.",
+    "Most common between 3 months and 3 years of age; a leading cause of bowel obstruction in this age group.",
+    "Classic signs: sudden severe, intermittent (colicky) abdominal pain with knees drawn to the chest, vomiting, and lethargy or normal behavior between episodes.",
+    "Red currant jelly stools (blood and mucus) and a palpable sausage-shaped mass in the right upper quadrant with an empty RLQ (Dance sign).",
+    "Ultrasound confirms the diagnosis; nonsurgical reduction by air (pneumatic) or contrast enema is first-line. Surgery is needed if reduction fails or perforation is present.",
+    "Passage of a normal brown stool before or after the procedure suggests the intussusception has reduced and must be reported to the provider.",
+    "Watch for perforation and peritonitis (rigid distended abdomen, fever, tachycardia, shock) and for recurrence, which is most likely in the first 24-72 hours."
+  ],
+  "questions": [
+    {
+      "id": "intussusception-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which statement best describes intussusception?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypertrophy of the pyloric muscle causing gastric outlet obstruction",
+          "correct": false,
+          "rationale": "This describes hypertrophic pyloric stenosis."
+        },
+        {
+          "id": "b",
+          "text": "Absence of ganglion cells in a segment of the colon",
+          "correct": false,
+          "rationale": "This describes Hirschsprung disease."
+        },
+        {
+          "id": "c",
+          "text": "Telescoping of one portion of the intestine into an adjacent portion",
+          "correct": true,
+          "rationale": "Correct. Most commonly the ileum telescopes into the cecum at the ileocecal valve, obstructing the bowel and compromising its blood supply."
+        },
+        {
+          "id": "d",
+          "text": "Twisting of the bowel around the mesentery",
+          "correct": false,
+          "rationale": "This describes volvulus, often associated with malrotation."
+        }
+      ],
+      "explanation": "Intussusception occurs when a proximal bowel segment invaginates into a distal segment. Lymphatic and venous obstruction cause edema, bleeding, and mucus, and ischemia can progress to necrosis and perforation if not treated."
+    },
+    {
+      "id": "intussusception-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A parent brings a 9-month-old to the ED and reports that the infant has had episodes of screaming and drawing the knees up to the chest every 15-20 minutes, and is quiet and pale in between. Which additional finding would most strongly support intussusception?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Projectile, nonbilious vomiting after feedings",
+          "correct": false,
+          "rationale": "Projectile nonbilious vomiting in a young infant suggests pyloric stenosis."
+        },
+        {
+          "id": "b",
+          "text": "A stool containing blood and mucus that looks like red currant jelly",
+          "correct": true,
+          "rationale": "Correct. Currant jelly stools result from sloughed mucosa, blood, and mucus and are a classic (though later) sign of intussusception."
+        },
+        {
+          "id": "c",
+          "text": "Ribbon-like, foul-smelling stools since birth",
+          "correct": false,
+          "rationale": "Ribbon-like foul stools and chronic constipation suggest Hirschsprung disease."
+        },
+        {
+          "id": "d",
+          "text": "Watery diarrhea with a low-grade fever and sick siblings",
+          "correct": false,
+          "rationale": "This picture suggests viral gastroenteritis."
+        }
+      ],
+      "explanation": "The classic triad of intussusception is colicky abdominal pain, vomiting, and red currant jelly stools, though all three are present in only a minority of children. A palpable sausage-shaped mass and lethargy are also important cues."
+    },
+    {
+      "id": "intussusception-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse palpates the abdomen of an 18-month-old with suspected intussusception. Where is the nurse most likely to feel a sausage-shaped mass?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Left lower quadrant",
+          "correct": false,
+          "rationale": "The mass is not typically found in the LLQ in ileocolic intussusception."
+        },
+        {
+          "id": "b",
+          "text": "Epigastric area at the midline",
+          "correct": false,
+          "rationale": "An olive-shaped mass in the epigastrium is characteristic of pyloric stenosis."
+        },
+        {
+          "id": "c",
+          "text": "Right lower quadrant",
+          "correct": false,
+          "rationale": "The RLQ often feels empty (Dance sign) because the cecum has been pulled forward."
+        },
+        {
+          "id": "d",
+          "text": "Right upper quadrant",
+          "correct": true,
+          "rationale": "Correct. The telescoped bowel usually forms a sausage-shaped mass in the RUQ, with an empty RLQ."
+        }
+      ],
+      "explanation": "In ileocolic intussusception, the involved bowel moves along the ascending colon, producing a sausage-shaped mass in the right upper quadrant and an empty feeling in the right lower quadrant."
+    },
+    {
+      "id": "intussusception-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 7-month-old is suspected of having intussusception. Which findings should the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden, intermittent crying with legs drawn up to the abdomen",
+          "correct": true,
+          "rationale": "Correct. Episodes of colicky pain are a hallmark sign."
+        },
+        {
+          "id": "b",
+          "text": "Vomiting",
+          "correct": true,
+          "rationale": "Correct. Vomiting is common, initially of gastric contents and later bile-stained as obstruction progresses."
+        },
+        {
+          "id": "c",
+          "text": "Lethargy between pain episodes",
+          "correct": true,
+          "rationale": "Correct. Infants may become lethargic or listless between episodes."
+        },
+        {
+          "id": "d",
+          "text": "Chronic constipation since birth",
+          "correct": false,
+          "rationale": "Lifelong constipation suggests Hirschsprung disease, not the acute onset of intussusception."
+        },
+        {
+          "id": "e",
+          "text": "Jaundice and clay-colored stools",
+          "correct": false,
+          "rationale": "These findings suggest biliary atresia."
+        },
+        {
+          "id": "f",
+          "text": "Bloody, mucus-filled stools",
+          "correct": true,
+          "rationale": "Correct. Red currant jelly stools are a classic finding."
+        }
+      ],
+      "explanation": "Intussusception typically presents suddenly in a previously healthy infant or toddler with intermittent severe pain, vomiting, lethargy, and blood and mucus in the stool."
+    },
+    {
+      "id": "intussusception-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with suspected intussusception is scheduled for an air enema reduction in 1 hour. While waiting, the child passes a normal brown stool. What is the nurse's priority action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notify the provider immediately",
+          "correct": true,
+          "rationale": "Correct. A normal brown stool suggests the intussusception may have reduced on its own. The provider may change the plan, so this must be reported."
+        },
+        {
+          "id": "b",
+          "text": "Collect the stool for occult blood testing",
+          "correct": false,
+          "rationale": "Testing the stool is not the priority; the finding itself changes the plan of care."
+        },
+        {
+          "id": "c",
+          "text": "Continue preparing the child for the air enema as scheduled",
+          "correct": false,
+          "rationale": "Proceeding without informing the provider could lead to an unnecessary procedure."
+        },
+        {
+          "id": "d",
+          "text": "Offer the child clear liquids because the bowel is working",
+          "correct": false,
+          "rationale": "Feeding should not resume until the provider evaluates the child and confirms reduction."
+        }
+      ],
+      "explanation": "Passage of a normal brown stool is a sign of spontaneous reduction. The nurse should report it promptly; the provider may confirm with ultrasound and modify or cancel the planned procedure."
+    },
+    {
+      "id": "intussusception-06",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 10-month-old arrives in the ED with suspected intussusception. The infant is lethargic, has had vomiting for 12 hours, and has a capillary refill of 4 seconds. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess airway, breathing, and circulation, including vital signs"
+        },
+        {
+          "id": "b",
+          "text": "Establish IV access and begin the prescribed fluid bolus"
+        },
+        {
+          "id": "c",
+          "text": "Keep the infant NPO and insert an NG tube to suction as prescribed"
+        },
+        {
+          "id": "d",
+          "text": "Prepare the infant and parents for ultrasound and possible enema reduction"
+        },
+        {
+          "id": "e",
+          "text": "Provide emotional support and explanations to the parents"
+        }
+      ],
+      "explanation": "Assessment of ABCs comes first in a lethargic infant with poor perfusion. Restoring circulating volume with IV fluids is next, followed by bowel decompression and NPO status. Then the infant is prepared for diagnostic imaging and reduction, with ongoing family support."
+    },
+    {
+      "id": "intussusception-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 15-month-old is being prepared for an air enema reduction of an intussusception. Which finding should the nurse report immediately because it may mean the procedure is contraindicated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart rate 120 beats/min between episodes of crying",
+          "correct": false,
+          "rationale": "A heart rate of about 80-140 is within normal range for this age."
+        },
+        {
+          "id": "b",
+          "text": "A palpable sausage-shaped mass in the right upper quadrant",
+          "correct": false,
+          "rationale": "A sausage-shaped mass is an expected finding of intussusception."
+        },
+        {
+          "id": "c",
+          "text": "A rigid, distended abdomen and temperature of 39.2°C (102.6°F)",
+          "correct": true,
+          "rationale": "Correct. These suggest perforation and peritonitis. Enema reduction is contraindicated with perforation, and the child needs surgery."
+        },
+        {
+          "id": "d",
+          "text": "A single episode of nonbilious vomiting in the last hour",
+          "correct": false,
+          "rationale": "Vomiting is common with intussusception and does not by itself contraindicate enema reduction."
+        }
+      ],
+      "explanation": "Hydrostatic or pneumatic enema reduction is contraindicated when there are signs of perforation, peritonitis, or shock. These children need fluid resuscitation, antibiotics, and surgical reduction or bowel resection."
+    },
+    {
+      "id": "intussusception-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "After a successful air enema reduction of intussusception, which nursing actions are appropriate for a 2-year-old? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monitor vital signs and abdominal assessment for signs of perforation",
+          "correct": true,
+          "rationale": "Correct. Perforation is a rare but serious complication of enema reduction."
+        },
+        {
+          "id": "b",
+          "text": "Observe and document the passage of stools and their character",
+          "correct": true,
+          "rationale": "Correct. Passage of contrast or air and normal stools indicates the bowel is open; recurrent bloody stools may signal recurrence."
+        },
+        {
+          "id": "c",
+          "text": "Give a laxative to clear remaining air from the bowel",
+          "correct": false,
+          "rationale": "Laxatives are not indicated and could increase bowel irritation."
+        },
+        {
+          "id": "d",
+          "text": "Advance the diet as tolerated, starting with clear liquids, as prescribed",
+          "correct": true,
+          "rationale": "Correct. The diet is advanced gradually once the child is stable and tolerating fluids."
+        },
+        {
+          "id": "e",
+          "text": "Teach parents to report a return of colicky pain or currant jelly stools",
+          "correct": true,
+          "rationale": "Correct. Recurrence happens in about 10% of children, most often in the first 72 hours."
+        },
+        {
+          "id": "f",
+          "text": "Keep the child NPO for 72 hours after the procedure",
+          "correct": false,
+          "rationale": "Prolonged NPO is unnecessary after an uncomplicated reduction."
+        }
+      ],
+      "explanation": "After enema reduction, the child is observed for perforation and recurrence, stool passage is monitored, and the diet is advanced as tolerated. Many children are observed for a period in hospital or the ED before discharge with recurrence teaching."
+    },
+    {
+      "id": "intussusception-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating a 13-month-old 4 hours after air enema reduction of an ileocolic intussusception. Which finding indicates the reduction was successful?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The infant passed a soft brown stool and is playing calmly",
+          "correct": true,
+          "rationale": "Correct. Normal brown stool and the end of painful episodes indicate the bowel is reduced and open."
+        },
+        {
+          "id": "b",
+          "text": "The infant has bilious vomiting and is drawing the knees up",
+          "correct": false,
+          "rationale": "These findings suggest persistent or recurrent obstruction."
+        },
+        {
+          "id": "c",
+          "text": "The infant is sleeping more than usual and difficult to arouse",
+          "correct": false,
+          "rationale": "Increasing lethargy may indicate worsening ischemia, sepsis, or shock."
+        },
+        {
+          "id": "d",
+          "text": "The infant has a firm, distended abdomen with absent bowel sounds",
+          "correct": false,
+          "rationale": "This suggests perforation or ileus and needs immediate reporting."
+        }
+      ],
+      "explanation": "Successful reduction is shown by resolution of colicky pain, return of normal behavior, tolerance of feeding, and passage of normal stool. Persistent pain, vomiting, or bloody stools suggest failed reduction or recurrence."
+    },
+    {
+      "id": "intussusception-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 6-month-old with intussusception asks why the infant must have an enema instead of surgery. Which response by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Surgery is never done for this condition because the bowel heals by itself.\"",
+          "correct": false,
+          "rationale": "Surgery is needed when enema reduction fails or when there is perforation, peritonitis, or shock."
+        },
+        {
+          "id": "b",
+          "text": "\"The enema is only to confirm the diagnosis; surgery will follow.\"",
+          "correct": false,
+          "rationale": "Air or contrast enema is both diagnostic and therapeutic; it often fixes the problem."
+        },
+        {
+          "id": "c",
+          "text": "\"The enema will clean out the stool so the bowel can untwist.\"",
+          "correct": false,
+          "rationale": "The enema does not clean stool; air or liquid pressure pushes the telescoped bowel back into place. Intussusception is not twisting."
+        },
+        {
+          "id": "d",
+          "text": "\"Air or fluid pushes the bowel back into place, which works for most children.\"",
+          "correct": true,
+          "rationale": "Correct. Pneumatic or hydrostatic enema reduction is successful in most children (about 80-90%) and is first-line treatment."
+        }
+      ],
+      "explanation": "Nonsurgical reduction using air or contrast under fluoroscopic or ultrasound guidance is the first-line treatment for stable children. Surgery is reserved for failed reduction, perforation, or peritonitis."
+    },
+    {
+      "id": "intussusception-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parents of a 2-year-old whose intussusception was reduced by air enema ask whether it could happen again. Which response is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It can come back, most often within a day or two.\"",
+          "correct": true,
+          "rationale": "Correct. Recurrence occurs in about 10% of children after enema reduction, most commonly within 24-72 hours."
+        },
+        {
+          "id": "b",
+          "text": "\"Once it is fixed with an enema, it never recurs.\"",
+          "correct": false,
+          "rationale": "This is false reassurance; recurrence is possible."
+        },
+        {
+          "id": "c",
+          "text": "\"It only recurs if your child eats solid food too soon.\"",
+          "correct": false,
+          "rationale": "Recurrence is not caused by diet."
+        },
+        {
+          "id": "d",
+          "text": "\"It will recur unless your child has surgery to secure the bowel.\"",
+          "correct": false,
+          "rationale": "Most children do not have a recurrence; surgery is not routinely needed after a successful reduction."
+        }
+      ],
+      "explanation": "Parents should be taught to watch for recurrence: sudden colicky pain, vomiting, and bloody or mucus stools. Recurrence is usually treated with another enema reduction."
+    },
+    {
+      "id": "intussusception-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is caring for a 14-month-old with intussusception awaiting reduction. The heart rate rises from 128 to 178 beats/min, the BP drops to 68/40 mm Hg, and the abdomen becomes rigid. Which interpretation is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child is having another episode of colicky pain from the intussusception",
+          "correct": false,
+          "rationale": "Colicky pain may raise the heart rate, but it does not cause hypotension or a rigid abdomen."
+        },
+        {
+          "id": "b",
+          "text": "The child is likely developing perforation with peritonitis and shock",
+          "correct": true,
+          "rationale": "Correct. Tachycardia, hypotension, and a rigid abdomen indicate bowel perforation with peritonitis and possible septic or hypovolemic shock."
+        },
+        {
+          "id": "c",
+          "text": "The child is anxious about separation from the parents",
+          "correct": false,
+          "rationale": "Anxiety would not explain hypotension and abdominal rigidity."
+        },
+        {
+          "id": "d",
+          "text": "The intussusception has reduced spontaneously, relieving the obstruction",
+          "correct": false,
+          "rationale": "Spontaneous reduction is suggested by normal brown stool and improved comfort, not instability."
+        }
+      ],
+      "explanation": "Untreated intussusception can lead to bowel ischemia, necrosis, and perforation. Signs include a rigid distended abdomen, fever, tachycardia, hypotension, and decreasing level of consciousness. This is a surgical emergency."
+    },
+    {
+      "id": "intussusception-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-month-old with intussusception has had several hours of vomiting. Which nursing diagnosis-based intervention is the priority before the reduction procedure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teach the parents about recurrence after discharge",
+          "correct": false,
+          "rationale": "Discharge teaching is important but not a priority before the procedure."
+        },
+        {
+          "id": "b",
+          "text": "Encourage breastfeeding to comfort the infant",
+          "correct": false,
+          "rationale": "The infant must remain NPO because of bowel obstruction and the upcoming procedure."
+        },
+        {
+          "id": "c",
+          "text": "Monitor intake and output and maintain IV fluids",
+          "correct": true,
+          "rationale": "Correct. Vomiting and third spacing put the infant at risk for dehydration and hypovolemia, so fluid balance is the priority."
+        },
+        {
+          "id": "d",
+          "text": "Apply a warm compress to the abdomen for comfort",
+          "correct": false,
+          "rationale": "Heat is not recommended with possible bowel ischemia or obstruction."
+        }
+      ],
+      "explanation": "Children with intussusception are often dehydrated from vomiting and fluid shifts. Before reduction, priorities include IV access and fluids, NPO status, NG decompression if ordered, and close monitoring of vital signs and output."
+    }
+  ]
+}

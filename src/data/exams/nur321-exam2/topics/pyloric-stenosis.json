@@ -1,0 +1,508 @@
+{
+  "slug": "pyloric-stenosis",
+  "title": "Hypertrophic Pyloric Stenosis",
+  "short": "Pyloric Stenosis",
+  "icon": "target",
+  "description": "Hypertrophic pyloric stenosis in young infants: projectile nonbilious vomiting, olive-shaped mass, hypochloremic metabolic alkalosis, ultrasound diagnosis, preoperative fluid and electrolyte correction, pyloromyotomy, and postoperative feeding.",
+  "keyPoints": [
+    "The circular muscle of the pylorus hypertrophies and obstructs the gastric outlet. Onset is typically at 2-8 weeks of age. It is more common in males, first-born infants, infants with a family history, and after early macrolide (erythromycin) exposure.",
+    "Classic signs: projectile, NONBILIOUS vomiting after feeds; an infant who is hungry right after vomiting; an olive-shaped mass in the right upper quadrant/epigastrium; visible left-to-right peristaltic waves; weight loss and dehydration.",
+    "Vomiting is nonbilious because the obstruction is proximal to the ampulla of Vater, where bile enters the duodenum.",
+    "Loss of gastric HCl causes hypochloremic, hypokalemic metabolic alkalosis (low Cl, low K, high HCO3 and pH).",
+    "Diagnosis: abdominal ultrasound showing a thickened, elongated pylorus.",
+    "Pyloromyotomy is NOT an emergency. First correct dehydration and electrolytes (IV fluids, add KCl after voiding), keep NPO, and decompress with an NG tube if ordered.",
+    "Post-op: start small feedings within hours as prescribed and advance gradually. Hold the infant upright and burp often. Some vomiting in the first 24-48 hours is common. Monitor I&O, weight, the incision, and pain."
+  ],
+  "questions": [
+    {
+      "id": "pyloric-stenosis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "At what age does hypertrophic pyloric stenosis typically become apparent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Within the first 24 hours of life",
+          "correct": false,
+          "rationale": "Vomiting in the first day, especially bilious, suggests intestinal atresia or malrotation, not pyloric stenosis."
+        },
+        {
+          "id": "b",
+          "text": "2-8 weeks of age",
+          "correct": true,
+          "rationale": "Correct. Symptoms usually start between 2 and 8 weeks (most often 3-6 weeks), as the pyloric muscle progressively thickens."
+        },
+        {
+          "id": "c",
+          "text": "6-12 months of age",
+          "correct": false,
+          "rationale": "This age range is more typical of intussusception, not pyloric stenosis."
+        },
+        {
+          "id": "d",
+          "text": "2-3 years of age",
+          "correct": false,
+          "rationale": "Pyloric stenosis is a disorder of early infancy."
+        }
+      ],
+      "explanation": "Pyloric stenosis presents after the newborn period, typically at 2-8 weeks of age, with vomiting that becomes more forceful and projectile over days."
+    },
+    {
+      "id": "pyloric-stenosis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A student nurse asks why the vomitus of an infant with pyloric stenosis does not contain bile. Which explanation is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The infant's liver does not produce bile until 3 months of age.",
+          "correct": false,
+          "rationale": "Infants produce bile from birth."
+        },
+        {
+          "id": "b",
+          "text": "Bile is absorbed by the stomach lining before the vomiting occurs.",
+          "correct": false,
+          "rationale": "Bile is not absorbed by the stomach. It never reaches the stomach because of the location of the obstruction."
+        },
+        {
+          "id": "c",
+          "text": "Projectile vomiting empties the stomach too quickly for bile to mix in.",
+          "correct": false,
+          "rationale": "The force of vomiting has nothing to do with bile content. Location of the obstruction does."
+        },
+        {
+          "id": "d",
+          "text": "The obstruction is at the pylorus, before bile enters the duodenum.",
+          "correct": true,
+          "rationale": "Correct. Bile enters the duodenum at the ampulla of Vater, distal to the pylorus. Because the obstruction is at the pylorus, only gastric contents are vomited."
+        }
+      ],
+      "explanation": "Nonbilious vomiting points to an obstruction above the ampulla of Vater (pyloric stenosis). Bilious (green) vomiting in an infant suggests a more distal obstruction, such as malrotation with volvulus, and is a surgical emergency."
+    },
+    {
+      "id": "pyloric-stenosis-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 5-week-old with persistent projectile vomiting has these labs: pH 7.52, HCO3 34 mEq/L, Cl 86 mEq/L, K 3.0 mEq/L, Na 134 mEq/L. Which interpretation is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypochloremic, hypokalemic metabolic alkalosis",
+          "correct": true,
+          "rationale": "Correct. Vomiting gastric hydrochloric acid depletes chloride and hydrogen ions, raising pH and bicarbonate. Potassium is lost in vomitus and through the kidneys as they try to conserve hydrogen."
+        },
+        {
+          "id": "b",
+          "text": "Metabolic acidosis from loss of bicarbonate",
+          "correct": false,
+          "rationale": "A pH of 7.52 and HCO3 of 34 indicate alkalosis, not acidosis. Bicarbonate loss occurs with diarrhea."
+        },
+        {
+          "id": "c",
+          "text": "Respiratory alkalosis from hyperventilation",
+          "correct": false,
+          "rationale": "The elevated HCO3 and low chloride show a metabolic cause. In respiratory alkalosis, PaCO2 would be low and HCO3 normal or low."
+        },
+        {
+          "id": "d",
+          "text": "Normal values for a 5-week-old infant",
+          "correct": false,
+          "rationale": "These values are abnormal: normal pH is 7.35-7.45, HCO3 about 22-26, Cl about 98-106, and K about 3.5-5.5."
+        }
+      ],
+      "explanation": "The classic lab picture in pyloric stenosis is hypochloremic hypokalemic metabolic alkalosis. These imbalances must be corrected before surgery to reduce anesthesia risks such as postoperative apnea."
+    },
+    {
+      "id": "pyloric-stenosis-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 4-week-old suspected of having pyloric stenosis. Which findings support this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Projectile, nonbilious vomiting after feedings",
+          "correct": true,
+          "rationale": "Correct. Vomiting becomes increasingly forceful and can travel several feet. It contains gastric contents only."
+        },
+        {
+          "id": "b",
+          "text": "Bile-stained (green) vomitus",
+          "correct": false,
+          "rationale": "Bilious vomiting indicates obstruction distal to the ampulla of Vater, such as malrotation with volvulus, not pyloric stenosis."
+        },
+        {
+          "id": "c",
+          "text": "An olive-shaped mass in the right upper quadrant",
+          "correct": true,
+          "rationale": "Correct. The hypertrophied pylorus may be palpable as a firm, mobile \"olive\" in the epigastrium or RUQ, best felt after vomiting."
+        },
+        {
+          "id": "d",
+          "text": "Visible peristaltic waves moving left to right across the upper abdomen",
+          "correct": true,
+          "rationale": "Correct. The stomach contracts forcefully against the obstruction, creating visible waves."
+        },
+        {
+          "id": "e",
+          "text": "Eager to feed again right after vomiting",
+          "correct": true,
+          "rationale": "Correct. The infant stays hungry because little food passes into the intestine."
+        },
+        {
+          "id": "f",
+          "text": "Red currant-jelly stools",
+          "correct": false,
+          "rationale": "Currant-jelly stools are a classic sign of intussusception."
+        }
+      ],
+      "explanation": "Pyloric stenosis: projectile nonbilious vomiting, hunger after vomiting, an olive-shaped mass, visible peristalsis, weight loss, fewer stools, and signs of dehydration."
+    },
+    {
+      "id": "pyloric-stenosis-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The provider suspects pyloric stenosis in a 6-week-old. Which diagnostic test should the nurse prepare the family for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominal ultrasound",
+          "correct": true,
+          "rationale": "Correct. Ultrasound is the diagnostic test of choice: it is noninvasive, uses no radiation, and shows the thickened, elongated pyloric muscle."
+        },
+        {
+          "id": "b",
+          "text": "Barium enema",
+          "correct": false,
+          "rationale": "A barium or air enema is used to diagnose and reduce intussusception, not pyloric stenosis."
+        },
+        {
+          "id": "c",
+          "text": "Rectal suction biopsy",
+          "correct": false,
+          "rationale": "Rectal biopsy diagnoses Hirschsprung disease by showing absent ganglion cells."
+        },
+        {
+          "id": "d",
+          "text": "Sweat chloride test",
+          "correct": false,
+          "rationale": "A sweat chloride test diagnoses cystic fibrosis."
+        }
+      ],
+      "explanation": "Ultrasound confirms pyloric stenosis by measuring pyloric muscle thickness and length. An upper GI series may be used if ultrasound is inconclusive."
+    },
+    {
+      "id": "pyloric-stenosis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-week-old was diagnosed with pyloric stenosis. Serum K is 2.9 mEq/L and Cl is 85 mEq/L. The parents ask why surgery is scheduled for tomorrow instead of right away. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The surgeon needs to see if the problem resolves on its own.\"",
+          "correct": false,
+          "rationale": "Pyloric stenosis does not resolve on its own; it needs surgical repair."
+        },
+        {
+          "id": "b",
+          "text": "\"Your baby needs to gain some weight before surgery so the incision heals well.\"",
+          "correct": false,
+          "rationale": "Weight gain is not the goal before surgery. Correcting fluids and electrolytes is, and that usually takes 24-48 hours."
+        },
+        {
+          "id": "c",
+          "text": "\"Fluids and electrolytes must be corrected first so anesthesia is safer.\"",
+          "correct": true,
+          "rationale": "Correct. Pyloromyotomy is not an emergency. Dehydration, hypokalemia, and metabolic alkalosis increase anesthesia risks (dysrhythmias, postoperative apnea), so they are corrected first."
+        },
+        {
+          "id": "d",
+          "text": "\"This surgery is always scheduled 2 weeks after diagnosis.\"",
+          "correct": false,
+          "rationale": "There is no fixed waiting period. Surgery proceeds once labs and hydration are normalized."
+        }
+      ],
+      "explanation": "Pre-op priorities in pyloric stenosis are NPO, IV rehydration, correction of potassium and chloride (KCl added once the infant voids), and monitoring labs and urine output."
+    },
+    {
+      "id": "pyloric-stenosis-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-week-old with pyloric stenosis is prescribed D5 0.45% NaCl with 20 mEq/L KCl. The infant has not had a wet diaper in 7 hours. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Start the fluid at the prescribed rate because the infant is hypokalemic",
+          "correct": false,
+          "rationale": "Even with hypokalemia, giving potassium without urine output risks dangerous hyperkalemia if the kidneys cannot excrete it."
+        },
+        {
+          "id": "b",
+          "text": "Double the rate to rehydrate the infant faster",
+          "correct": false,
+          "rationale": "Changing the rate without an order is outside the nurse's scope, and it gives potassium faster to an infant without urine output."
+        },
+        {
+          "id": "c",
+          "text": "Offer a bottle of oral rehydration solution",
+          "correct": false,
+          "rationale": "The infant is NPO before surgery and will vomit because the gastric outlet is obstructed."
+        },
+        {
+          "id": "d",
+          "text": "Hold the potassium-containing fluid and notify the provider about the lack of urine output",
+          "correct": true,
+          "rationale": "Correct. Potassium should not be given until renal function is confirmed by voiding. The provider may order a potassium-free bolus first."
+        }
+      ],
+      "explanation": "Rule: confirm urine output before giving IV potassium. In pyloric stenosis, the initial isotonic bolus restores perfusion, and KCl is added once the infant voids."
+    },
+    {
+      "id": "pyloric-stenosis-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-week-old is evaluated for vomiting. Which finding most strongly suggests pyloric stenosis rather than gastroesophageal reflux?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Effortless spitting up after feeds in an infant who is gaining weight",
+          "correct": false,
+          "rationale": "This describes physiologic GER, which is common and self-limiting."
+        },
+        {
+          "id": "b",
+          "text": "Projectile vomiting that is worsening, with weight loss and hunger after vomiting",
+          "correct": true,
+          "rationale": "Correct. Progressive projectile vomiting with weight loss and continued hunger signals a mechanical obstruction. GER is usually effortless spitting up in a thriving infant."
+        },
+        {
+          "id": "c",
+          "text": "Arching, fussiness, and coughing during feedings in a thriving infant",
+          "correct": false,
+          "rationale": "Back arching and irritability are more typical of GER/GERD."
+        },
+        {
+          "id": "d",
+          "text": "Spitting up that improves with smaller, more frequent feedings",
+          "correct": false,
+          "rationale": "Improvement with feeding changes suggests GER. Pyloric stenosis vomiting gets progressively worse."
+        }
+      ],
+      "explanation": "Pyloric stenosis vomiting worsens over days, is projectile, and causes dehydration and weight loss. Reflux is usually effortless regurgitation in a thriving infant."
+    },
+    {
+      "id": "pyloric-stenosis-09",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "An infant had a laparoscopic pyloromyotomy 4 hours ago. Place the steps of the postoperative feeding progression in order, as prescribed.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Confirm the infant is awake and alert with stable vital signs"
+        },
+        {
+          "id": "b",
+          "text": "Offer a small volume of oral electrolyte solution or breast milk"
+        },
+        {
+          "id": "c",
+          "text": "Gradually increase the volume and frequency of feedings as tolerated"
+        },
+        {
+          "id": "d",
+          "text": "Advance to full-strength formula or ad lib breastfeeding"
+        }
+      ],
+      "explanation": "Feeding after pyloromyotomy usually starts within hours of surgery with small volumes, then advances as tolerated to normal feeds. Some vomiting is common early on. If vomiting occurs, the nurse holds back and restarts more slowly according to the protocol."
+    },
+    {
+      "id": "pyloric-stenosis-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An infant is 12 hours post-pyloromyotomy and taking small formula feedings. Which nursing action best reduces the chance of vomiting?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give large feedings every 6 hours to let the stomach rest",
+          "correct": false,
+          "rationale": "Large infrequent volumes overdistend the stomach and increase vomiting."
+        },
+        {
+          "id": "b",
+          "text": "Lay the infant prone after feeding to prevent aspiration of vomitus",
+          "correct": false,
+          "rationale": "Prone positioning is unsafe for sleep and does not reduce postoperative vomiting."
+        },
+        {
+          "id": "c",
+          "text": "Feed small amounts, burp often, and keep the infant upright after feeds",
+          "correct": true,
+          "rationale": "Correct. Small volumes, frequent burping, and upright positioning reduce gastric distension and help the stomach empty after surgery."
+        },
+        {
+          "id": "d",
+          "text": "Bounce the infant gently to promote digestion",
+          "correct": false,
+          "rationale": "Excess handling or bouncing after feeding increases vomiting."
+        }
+      ],
+      "explanation": "Post-op care includes small frequent feedings, burping, upright positioning after feeds, minimal handling after feeds, I&O, daily weight, incision care, and pain management."
+    },
+    {
+      "id": "pyloric-stenosis-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Six hours after pyloromyotomy, an infant vomits a small amount of formula. The parent is upset and asks whether the surgery failed. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Some vomiting is common in the first day or two; we'll report it if it continues.\"",
+          "correct": true,
+          "rationale": "Correct. Mild vomiting is expected in the first 24-48 hours because of gastric edema and irritation. Persistent or forceful vomiting should be reported."
+        },
+        {
+          "id": "b",
+          "text": "\"Yes, vomiting this soon means the muscle has tightened again and needs another operation.\"",
+          "correct": false,
+          "rationale": "One small emesis soon after surgery does not mean the repair failed."
+        },
+        {
+          "id": "c",
+          "text": "\"We will stop all feedings for 3 days to let the incision heal.\"",
+          "correct": false,
+          "rationale": "Prolonged NPO is not needed. Feedings are slowed and resumed per protocol."
+        },
+        {
+          "id": "d",
+          "text": "\"Vomiting after surgery is never normal.\"",
+          "correct": false,
+          "rationale": "This is inaccurate and increases parental anxiety. Some early vomiting is expected."
+        }
+      ],
+      "explanation": "Parents need reassurance that some early vomiting is common after pyloromyotomy, along with guidance on when to report it (persistent vomiting, signs of dehydration, fever, or incision redness or drainage)."
+    },
+    {
+      "id": "pyloric-stenosis-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 5-week-old admitted with pyloric stenosis before surgery. Which interventions should the nurse implement? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maintain NPO status and administer IV fluids as prescribed",
+          "correct": true,
+          "rationale": "Correct. The infant is NPO to prevent further vomiting and aspiration, and IV fluids correct dehydration."
+        },
+        {
+          "id": "b",
+          "text": "Weigh diapers and monitor intake and output",
+          "correct": true,
+          "rationale": "Correct. Urine output guides fluid therapy and must be confirmed before potassium is given."
+        },
+        {
+          "id": "c",
+          "text": "Offer thickened formula feedings to reduce vomiting",
+          "correct": false,
+          "rationale": "Thickened feeds are used for reflux. A mechanical obstruction cannot be fixed by thickening feeds, and the infant is NPO."
+        },
+        {
+          "id": "d",
+          "text": "Monitor serum electrolytes and acid-base values",
+          "correct": true,
+          "rationale": "Correct. Potassium, chloride, and bicarbonate are tracked until they normalize before surgery."
+        },
+        {
+          "id": "e",
+          "text": "Weigh the infant daily",
+          "correct": true,
+          "rationale": "Correct. Daily weight reflects hydration and nutritional status."
+        },
+        {
+          "id": "f",
+          "text": "Give sodium bicarbonate IV to correct the acid-base imbalance",
+          "correct": false,
+          "rationale": "The infant has metabolic ALKALOSIS. Bicarbonate would worsen it. Correction comes from chloride and fluid replacement."
+        }
+      ],
+      "explanation": "Pre-op nursing care: NPO, IV rehydration with electrolyte replacement, strict I&O, daily weights, lab monitoring, possible NG decompression, and parent support."
+    },
+    {
+      "id": "pyloric-stenosis-13",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 6-week-old with pyloric stenosis has received IV fluids for 24 hours. Which set of findings indicates the infant is ready for surgery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "K 3.0 mEq/L, Cl 90 mEq/L, HCO3 31 mEq/L, urine output 0.6 mL/kg/hr",
+          "correct": false,
+          "rationale": "Potassium and chloride remain low, bicarbonate is still high, and urine output is below the infant goal of 1-2 mL/kg/hr. The infant is not ready."
+        },
+        {
+          "id": "b",
+          "text": "K 4.1 mEq/L, Cl 101 mEq/L, HCO3 24 mEq/L, urine output 1.5 mL/kg/hr",
+          "correct": true,
+          "rationale": "Correct. Electrolytes and acid-base values have normalized and urine output is adequate, showing the infant is rehydrated and safe for anesthesia."
+        },
+        {
+          "id": "c",
+          "text": "K 3.4 mEq/L, Cl 95 mEq/L, HCO3 29 mEq/L, sunken fontanel",
+          "correct": false,
+          "rationale": "Values are improving but still abnormal, and a sunken fontanel shows ongoing dehydration."
+        },
+        {
+          "id": "d",
+          "text": "K 5.9 mEq/L, Cl 104 mEq/L, HCO3 22 mEq/L, no wet diaper in 6 hours",
+          "correct": false,
+          "rationale": "Hyperkalemia with no urine output is dangerous and suggests potassium was given without adequate renal function."
+        }
+      ],
+      "explanation": "Surgery proceeds once hydration and electrolytes are normal: potassium, chloride, and bicarbonate in normal range, and urine output of at least 1 mL/kg/hr."
+    },
+    {
+      "id": "pyloric-stenosis-14",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse reviewing the history of an infant with projectile vomiting knows that which factors increase the risk for hypertrophic pyloric stenosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Male sex",
+          "correct": true,
+          "rationale": "Correct. Pyloric stenosis is about 4-5 times more common in males."
+        },
+        {
+          "id": "b",
+          "text": "First-born infant",
+          "correct": true,
+          "rationale": "Correct. First-born infants are affected more often."
+        },
+        {
+          "id": "c",
+          "text": "Parent who had pyloric stenosis as an infant",
+          "correct": true,
+          "rationale": "Correct. A family history, especially an affected parent, raises risk."
+        },
+        {
+          "id": "d",
+          "text": "Erythromycin given in the first 2 weeks of life",
+          "correct": true,
+          "rationale": "Correct. Early macrolide exposure, especially erythromycin, is associated with higher risk."
+        },
+        {
+          "id": "e",
+          "text": "Female sex",
+          "correct": false,
+          "rationale": "Females are affected much less often than males."
+        },
+        {
+          "id": "f",
+          "text": "Maternal folic acid use during pregnancy",
+          "correct": false,
+          "rationale": "Folic acid is not a risk factor for pyloric stenosis; it lowers the risk of neural tube defects and clefts."
+        }
+      ],
+      "explanation": "Risk factors for pyloric stenosis include male sex, first-born status, family history, and early erythromycin or azithromycin exposure. Knowing them helps the nurse recognize the condition in a vomiting young infant."
+    }
+  ]
+}

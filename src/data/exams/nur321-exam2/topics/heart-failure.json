@@ -1,0 +1,545 @@
+{
+  "slug": "heart-failure",
+  "title": "Pediatric Heart Failure",
+  "short": "Heart Failure",
+  "icon": "heart-pulse",
+  "description": "Heart failure in infants and children: causes, early signs during feeding, digoxin safety and toxicity, diuretics and potassium, ACE inhibitors, nutrition strategies, and reducing cardiac workload.",
+  "keyPoints": [
+    "Most pediatric heart failure is caused by congenital heart defects with volume or pressure overload.",
+    "Infant signs: tachypnea, tachycardia, sweating and tiring with feeds, poor weight gain, hepatomegaly, periorbital edema, sudden weight gain.",
+    "Digoxin: count the apical pulse for a full minute; hold for HR less than 90-110 (infant), less than 70 (child), less than 60 (adolescent) or per order.",
+    "Digoxin toxicity: nausea, vomiting, anorexia, bradycardia, dysrhythmias. Hypokalemia increases toxicity risk.",
+    "Furosemide wastes potassium; monitor K+ (normal 3.5-5.0 mEq/L). ACE inhibitors reduce afterload; watch for hypotension and hyperkalemia.",
+    "Feeding: small, frequent feeds, soft nipple, high-calorie formula (24-30 kcal/oz), limit oral feeds to about 30 minutes, gavage the rest.",
+    "Daily weights on the same scale, same time, unclothed; cluster care, semi-upright positioning, prevent crying and infection."
+  ],
+  "questions": [
+    {
+      "id": "heart-failure-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the most common cause of heart failure in infants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Congenital heart defects such as a large VSD",
+          "correct": true,
+          "rationale": "Correct. Structural defects such as a large VSD, PDA, or AV canal cause volume overload and are the leading cause of heart failure in the first year of life."
+        },
+        {
+          "id": "b",
+          "text": "Coronary artery disease from early atherosclerosis",
+          "correct": false,
+          "rationale": "Coronary artery disease is a common cause of adult heart failure; atherosclerosis is not a cause in infants."
+        },
+        {
+          "id": "c",
+          "text": "Systemic hypertension from renal disease",
+          "correct": false,
+          "rationale": "Hypertension is an uncommon cause of heart failure in infants."
+        },
+        {
+          "id": "d",
+          "text": "Rheumatic heart disease after strep infection",
+          "correct": false,
+          "rationale": "Rheumatic heart disease occurs in school-age children and older, not infants."
+        }
+      ],
+      "explanation": "In children, heart failure is most often caused by congenital heart defects that produce volume or pressure overload. Acquired causes include cardiomyopathy, myocarditis, Kawasaki disease, and rheumatic heart disease."
+    },
+    {
+      "id": "heart-failure-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 3-month-old with a large VSD. Which findings suggest heart failure? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiratory rate of 68/min with mild retractions",
+          "correct": true,
+          "rationale": "Tachypnea and increased work of breathing reflect pulmonary congestion."
+        },
+        {
+          "id": "b",
+          "text": "Sweating on the scalp during feedings",
+          "correct": true,
+          "rationale": "Diaphoresis with feeding results from sympathetic stimulation as the infant works harder to feed."
+        },
+        {
+          "id": "c",
+          "text": "Liver edge palpable 4 cm below the right costal margin",
+          "correct": true,
+          "rationale": "Hepatomegaly is a key sign of systemic venous congestion in infants."
+        },
+        {
+          "id": "d",
+          "text": "Pitting edema of both ankles",
+          "correct": false,
+          "rationale": "Infants rarely show dependent pedal edema; edema is more often periorbital or presents as weight gain."
+        },
+        {
+          "id": "e",
+          "text": "Sudden weight gain of 300 g in 24 hours",
+          "correct": true,
+          "rationale": "Rapid weight gain reflects fluid retention, not tissue growth."
+        },
+        {
+          "id": "f",
+          "text": "Bradycardia of 88/min at rest",
+          "correct": false,
+          "rationale": "Heart failure causes tachycardia as a compensatory mechanism; bradycardia would be unexpected."
+        }
+      ],
+      "explanation": "Infant heart failure cues: tachypnea, tachycardia, diaphoresis and fatigue with feeding, poor weight gain overall but sudden weight gain from fluid, hepatomegaly, periorbital edema, and decreased urine output."
+    },
+    {
+      "id": "heart-failure-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is preparing to give digoxin to a 6-month-old with heart failure. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Check the most recent serum potassium level only.",
+          "correct": false,
+          "rationale": "Potassium is important to check, but the apical pulse must be counted before each dose."
+        },
+        {
+          "id": "b",
+          "text": "Count the apical pulse for 1 full minute.",
+          "correct": true,
+          "rationale": "Correct. Bradycardia is an early sign of toxicity, and an infant's rate can vary; a full 1-minute apical count is required before every dose."
+        },
+        {
+          "id": "c",
+          "text": "Mix the dose in the infant's full bottle of formula.",
+          "correct": false,
+          "rationale": "Mixing in a bottle risks an incomplete dose if the infant does not finish the feeding."
+        },
+        {
+          "id": "d",
+          "text": "Take a radial pulse for 30 seconds and multiply by 2.",
+          "correct": false,
+          "rationale": "Radial pulses are unreliable in infants, and a 30-second count may miss irregularities."
+        }
+      ],
+      "explanation": "Before each digoxin dose, count the apical pulse for a full minute. Hold and notify the provider per parameters: commonly less than 90-110/min in infants, less than 70/min in children, and less than 60/min in adolescents."
+    },
+    {
+      "id": "heart-failure-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old with heart failure is prescribed digoxin. The apical pulse is 64/min. The serum potassium is 4.1 mEq/L. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the dose because potassium is normal.",
+          "correct": false,
+          "rationale": "A normal potassium does not cancel out a heart rate below the hold parameter."
+        },
+        {
+          "id": "b",
+          "text": "Give half the dose and recheck the pulse in 1 hour.",
+          "correct": false,
+          "rationale": "Nurses do not adjust digoxin doses independently."
+        },
+        {
+          "id": "c",
+          "text": "Hold the dose and notify the provider.",
+          "correct": true,
+          "rationale": "Correct. A heart rate below 70/min in a young child is a common hold parameter; bradycardia may signal toxicity."
+        },
+        {
+          "id": "d",
+          "text": "Recheck the pulse after the child plays to see if it rises.",
+          "correct": false,
+          "rationale": "Activity-induced rate changes do not make it safe to give the dose; the nurse should follow the hold parameter."
+        }
+      ],
+      "explanation": "Common digoxin hold parameters: infants less than 90-110/min, children less than 70/min, adolescents less than 60/min, or per provider order. Always follow the specific prescribed parameters."
+    },
+    {
+      "id": "heart-failure-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The parents of an 8-month-old taking digoxin at home are learning about signs of toxicity. Which findings should they report to the provider? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vomiting and refusing feedings",
+          "correct": true,
+          "rationale": "Nausea, vomiting, and anorexia are early signs of digoxin toxicity in children."
+        },
+        {
+          "id": "b",
+          "text": "A heart rate much slower than the baby's usual rate",
+          "correct": true,
+          "rationale": "Bradycardia is a classic sign of toxicity."
+        },
+        {
+          "id": "c",
+          "text": "Increased urine output",
+          "correct": false,
+          "rationale": "Increased urine output reflects improved cardiac output or diuretic effect, not toxicity."
+        },
+        {
+          "id": "d",
+          "text": "Unusual sleepiness or weakness",
+          "correct": true,
+          "rationale": "Lethargy can indicate toxicity."
+        },
+        {
+          "id": "e",
+          "text": "Pink, warm hands and feet",
+          "correct": false,
+          "rationale": "Warm, pink extremities reflect good perfusion."
+        },
+        {
+          "id": "f",
+          "text": "An irregular heartbeat",
+          "correct": true,
+          "rationale": "Dysrhythmias can occur with toxicity."
+        }
+      ],
+      "explanation": "Digoxin toxicity in children often starts with GI signs (nausea, vomiting, anorexia) and bradycardia or dysrhythmias. Visual changes are hard to detect in young children. Hypokalemia increases the risk of toxicity."
+    },
+    {
+      "id": "heart-failure-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent of a 10-month-old on digoxin asks what to do if the baby vomits 10 minutes after a dose. Which response is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Give the dose again right away, since most of it was probably lost in the vomit.\"",
+          "correct": false,
+          "rationale": "Repeating the dose risks toxicity because the amount absorbed is unknown."
+        },
+        {
+          "id": "b",
+          "text": "\"Give a double dose at the next scheduled time.\"",
+          "correct": false,
+          "rationale": "Doubling the dose is dangerous and can cause toxicity."
+        },
+        {
+          "id": "c",
+          "text": "\"Do not repeat the dose; give the next dose at the usual time.\"",
+          "correct": true,
+          "rationale": "Correct. A missed or vomited dose is not repeated; persistent vomiting may signal toxicity or illness and needs evaluation."
+        },
+        {
+          "id": "d",
+          "text": "\"Stop the medication until you see the cardiologist, because vomiting is a sign of toxicity.\"",
+          "correct": false,
+          "rationale": "Stopping digoxin without guidance may worsen heart failure, and one episode of vomiting does not confirm toxicity."
+        }
+      ],
+      "explanation": "Home digoxin teaching: give at the same times every 12 hours, about 1 hour before or 2 hours after feedings, measure with a calibrated syringe, do not mix in food or formula, do not repeat a vomited or missed dose, keep locked up, and call poison control for accidental ingestion."
+    },
+    {
+      "id": "heart-failure-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with heart failure is receiving furosemide and digoxin. The morning potassium level is 2.9 mEq/L. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give both medications as scheduled and encourage bananas.",
+          "correct": false,
+          "rationale": "Dietary potassium alone is not sufficient for a level of 2.9 mEq/L, and giving digoxin with severe hypokalemia is risky."
+        },
+        {
+          "id": "b",
+          "text": "Hold furosemide only, since it causes potassium loss, and give the digoxin as scheduled.",
+          "correct": false,
+          "rationale": "Hypokalemia increases digoxin toxicity; the provider must be notified before giving digoxin."
+        },
+        {
+          "id": "c",
+          "text": "Encourage extra oral fluids to dilute the potassium and protect the kidneys.",
+          "correct": false,
+          "rationale": "Extra fluids do not correct hypokalemia and may worsen heart failure."
+        },
+        {
+          "id": "d",
+          "text": "Notify the provider before giving either medication.",
+          "correct": true,
+          "rationale": "Correct. Hypokalemia increases the risk of digoxin toxicity. Normal potassium in children is about 3.5-5.0 mEq/L. Low potassium enhances digoxin's effect on the heart and increases dysrhythmia risk; potassium replacement is likely."
+        }
+      ],
+      "explanation": "Loop diuretics such as furosemide cause potassium loss. Monitor potassium, encourage potassium-rich foods, and give supplements as prescribed. Spironolactone is potassium sparing and may be added. Hypokalemia potentiates digoxin toxicity."
+    },
+    {
+      "id": "heart-failure-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 3-month-old with heart failure is started on enalapril. The parent asks how the medication works. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It makes the heart beat stronger and slower so it pumps more blood with each beat.\"",
+          "correct": false,
+          "rationale": "This describes digoxin."
+        },
+        {
+          "id": "b",
+          "text": "\"It relaxes the blood vessels so the heart does not work as hard.\"",
+          "correct": true,
+          "rationale": "Correct. ACE inhibitors reduce afterload through vasodilation and reduce fluid retention by blocking aldosterone."
+        },
+        {
+          "id": "c",
+          "text": "\"It removes extra fluid through the urine so the lungs stay clear.\"",
+          "correct": false,
+          "rationale": "This describes diuretics such as furosemide."
+        },
+        {
+          "id": "d",
+          "text": "\"It keeps a blood vessel near the heart open.\"",
+          "correct": false,
+          "rationale": "This describes prostaglandin E1."
+        }
+      ],
+      "explanation": "ACE inhibitors (captopril, enalapril) reduce afterload and block aldosterone. Monitor BP for hypotension before and after doses, renal function, and potassium (risk of hyperkalemia, especially with spironolactone). Report persistent cough."
+    },
+    {
+      "id": "heart-failure-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-month-old with heart failure takes 40 minutes to drink 2 ounces and falls asleep during feedings. Which intervention is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feed the infant in a supine position to conserve energy.",
+          "correct": false,
+          "rationale": "Supine positioning increases respiratory effort and aspiration risk; a semi-upright position is better."
+        },
+        {
+          "id": "b",
+          "text": "Use a firm nipple with a small hole to slow the flow.",
+          "correct": false,
+          "rationale": "A firm, small-hole nipple increases the effort of sucking; a soft nipple with a larger opening is preferred."
+        },
+        {
+          "id": "c",
+          "text": "Limit oral feeding to about 30 minutes and gavage the rest as prescribed",
+          "correct": true,
+          "rationale": "Correct. Limiting feeding time conserves energy, and gavage ensures the infant gets enough calories for growth."
+        },
+        {
+          "id": "d",
+          "text": "Wake the infant every hour for feeding so smaller volumes are needed each time",
+          "correct": false,
+          "rationale": "Frequent waking interrupts rest and increases energy use; feeds every 2-3 hours with rest periods are preferred."
+        }
+      ],
+      "explanation": "Feeding strategies for HF: small frequent feedings every 2-3 hours, semi-upright position, soft nipple, high-calorie formula (24-30 kcal/oz), limit oral feeds to about 30 minutes, and gavage the remainder. Feed when the infant first shows hunger cues to prevent crying."
+    },
+    {
+      "id": "heart-failure-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 4-month-old with heart failure who is in respiratory distress. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Elevate the head of the bed to a semi-Fowler or upright position (such as in an infant seat)"
+        },
+        {
+          "id": "b",
+          "text": "Apply oxygen as prescribed and monitor SpO2"
+        },
+        {
+          "id": "c",
+          "text": "Assess heart rate, respiratory rate, and lung sounds"
+        },
+        {
+          "id": "d",
+          "text": "Administer the prescribed IV furosemide"
+        },
+        {
+          "id": "e",
+          "text": "Weigh the infant and monitor intake and output"
+        }
+      ],
+      "explanation": "Positioning and oxygen are rapid, noninvasive measures to improve breathing. Assessment guides further care, diuretics reduce fluid overload, and weights and I&O evaluate the response."
+    },
+    {
+      "id": "heart-failure-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is reviewing the 0700 data for a 5-month-old with heart failure. Which finding indicates worsening fluid retention?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight increased from 5.6 kg yesterday to 5.9 kg today",
+          "correct": true,
+          "rationale": "Correct. A 300 g gain in 24 hours reflects fluid, not normal growth, which averages about 20-30 g/day at this age."
+        },
+        {
+          "id": "b",
+          "text": "Eight wet diapers in 24 hours",
+          "correct": false,
+          "rationale": "Six to eight or more wet diapers indicates adequate urine output."
+        },
+        {
+          "id": "c",
+          "text": "Respiratory rate of 38/min while asleep",
+          "correct": false,
+          "rationale": "A sleeping respiratory rate of 30-40 is within the normal range for an infant."
+        },
+        {
+          "id": "d",
+          "text": "Liver edge palpable 1 cm below the costal margin",
+          "correct": false,
+          "rationale": "A liver edge 1-2 cm below the costal margin can be normal in infants."
+        }
+      ],
+      "explanation": "Daily weights on the same scale, at the same time, with the same clothing (or none) are the most sensitive indicator of fluid status. Weigh diapers to measure output (1 g = 1 mL)."
+    },
+    {
+      "id": "heart-failure-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is weighing an infant with heart failure. Which technique ensures the most accurate trend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weigh the infant at different times each day to capture variation.",
+          "correct": false,
+          "rationale": "Inconsistent timing introduces variation from feedings and voiding."
+        },
+        {
+          "id": "b",
+          "text": "Weigh the infant on the same scale, at the same time, unclothed, before a feeding.",
+          "correct": true,
+          "rationale": "Correct. Consistent technique allows true changes in fluid status to be detected."
+        },
+        {
+          "id": "c",
+          "text": "Weigh the infant in a diaper and estimate the diaper's weight.",
+          "correct": false,
+          "rationale": "Estimating adds error; weigh the infant unclothed."
+        },
+        {
+          "id": "d",
+          "text": "Use the parent's report of the home scale weight.",
+          "correct": false,
+          "rationale": "Different scales produce different values; use the same calibrated scale."
+        }
+      ],
+      "explanation": "Accurate daily weights detect fluid gain early. Combine with I&O, diaper weights, and assessment of edema and hepatomegaly."
+    },
+    {
+      "id": "heart-failure-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is planning care to reduce cardiac demands for a 6-month-old with heart failure. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cluster care to allow uninterrupted rest periods",
+          "correct": true,
+          "rationale": "Clustering care reduces oxygen consumption and allows rest."
+        },
+        {
+          "id": "b",
+          "text": "Respond promptly to crying and keep the infant comfortable",
+          "correct": true,
+          "rationale": "Prolonged crying increases oxygen demand and cardiac workload."
+        },
+        {
+          "id": "c",
+          "text": "Keep the infant in a neutral thermal environment",
+          "correct": true,
+          "rationale": "Both cold stress and hyperthermia increase metabolic demand."
+        },
+        {
+          "id": "d",
+          "text": "Place the infant flat and prone for sleep",
+          "correct": false,
+          "rationale": "Prone sleep is unsafe (SIDS risk) and lying flat worsens breathing; the infant is kept supine with the head of the crib elevated per prescribed care."
+        },
+        {
+          "id": "e",
+          "text": "Prevent infection with hand hygiene and limiting sick visitors",
+          "correct": true,
+          "rationale": "Respiratory infections can rapidly worsen heart failure."
+        },
+        {
+          "id": "f",
+          "text": "Encourage visitors to play with the infant for long periods",
+          "correct": false,
+          "rationale": "Prolonged stimulation increases energy expenditure."
+        }
+      ],
+      "explanation": "Reducing cardiac demands: rest, clustering care, limiting crying, a neutral thermal environment, infection prevention, and upright positioning. These steps help the infant direct calories to growth."
+    },
+    {
+      "id": "heart-failure-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 7-month-old with heart failure has the following findings after 3 days of treatment with digoxin and furosemide. Which finding best indicates that treatment is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart rate down from 170/min to 132/min and feeds finished in 25 minutes",
+          "correct": true,
+          "rationale": "Correct. A lower resting heart rate and improved feeding endurance show improved cardiac output and reduced workload."
+        },
+        {
+          "id": "b",
+          "text": "Weight increased 250 g in the past 24 hours with improved appetite",
+          "correct": false,
+          "rationale": "Rapid weight gain suggests fluid retention, not improvement."
+        },
+        {
+          "id": "c",
+          "text": "Potassium 3.0 mEq/L after the first furosemide doses",
+          "correct": false,
+          "rationale": "Hypokalemia is an adverse effect of furosemide, not a sign of effective therapy."
+        },
+        {
+          "id": "d",
+          "text": "Diaphoresis now present at rest instead of only with feeds",
+          "correct": false,
+          "rationale": "Sweating at rest suggests worsening heart failure."
+        }
+      ],
+      "explanation": "Signs of improvement include a normal resting heart and respiratory rate, better feeding tolerance, adequate weight gain from tissue growth (not fluid), decreased liver size, and adequate urine output."
+    },
+    {
+      "id": "heart-failure-15",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse provides discharge teaching to the parent of an infant with heart failure who is taking digoxin. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll give the medicine 1 hour before or 2 hours after a feeding.\"",
+          "correct": false,
+          "rationale": "This is correct. Giving digoxin apart from feedings promotes consistent absorption."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll measure the dose with the syringe from the pharmacy.\"",
+          "correct": false,
+          "rationale": "This is correct. A calibrated oral syringe is the safest way to measure small doses."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll keep the medicine locked away from my toddler.\"",
+          "correct": false,
+          "rationale": "This is correct. Accidental ingestion by siblings can be fatal."
+        },
+        {
+          "id": "d",
+          "text": "\"If I forget a dose for more than 4 hours, I'll give two doses at the next time.\"",
+          "correct": true,
+          "rationale": "Correct choice, because this statement is incorrect. Missed doses are never doubled; if more than 4 hours have passed, skip it and give the next dose on time. Call the provider if two or more doses are missed."
+        }
+      ],
+      "explanation": "Digoxin safety at home: consistent timing, accurate measurement, no doubling of missed doses, secure storage, recognizing toxicity, and knowing when to call. Many programs teach parents to check the infant's pulse before each dose."
+    }
+  ]
+}

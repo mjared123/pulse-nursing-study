@@ -1,0 +1,428 @@
+{
+  "slug": "increased-icp",
+  "title": "Increased Intracranial Pressure",
+  "short": "Increased ICP",
+  "icon": "alert",
+  "description": "Recognizing and managing increased intracranial pressure in infants and children: early and late signs, Cushing triad, positioning and nursing measures that lower ICP, osmotic therapy, and the pediatric Glasgow Coma Scale.",
+  "keyPoints": [
+    "Infants (open fontanels and sutures): bulging tense fontanel, separated sutures, rapidly increasing head circumference, high-pitched cry, irritability, poor feeding, vomiting, distended scalp veins, sunset eyes.",
+    "Children: headache (often worse in the morning), vomiting (often without nausea), diplopia or blurred vision, and irritability or behavior change. Change in level of consciousness is the EARLIEST and most sensitive sign.",
+    "Late signs: Cushing triad (bradycardia, irregular respirations, widening pulse pressure with rising systolic BP), decorticate or decerebrate posturing, fixed and dilated pupils, decreased response to pain.",
+    "Position with HOB elevated 30 degrees and the head midline (neutral) to promote venous drainage. Avoid neck flexion, extreme hip flexion, and the prone position.",
+    "Avoid activities that raise ICP: coughing, straining (give stool softeners), Valsalva, crying, suctioning more than needed, and clustered painful procedures. Keep the room quiet and dim.",
+    "Medical management: osmotic diuretics (mannitol) or hypertonic saline (3%) to pull fluid from brain tissue; maintain normal oxygenation and ventilation; sedation and analgesia; seizure prevention; fever control.",
+    "Pediatric Glasgow Coma Scale adapts verbal and motor responses for infants (coos/babbles, cries to pain). Score 3-15; 8 or less = severe impairment requiring airway protection."
+  ],
+  "questions": [
+    {
+      "id": "increased-icp-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which finding is the earliest and most sensitive indicator of increased intracranial pressure in a child?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fixed and dilated pupils bilaterally",
+          "correct": false,
+          "rationale": "Fixed, dilated pupils are a late sign indicating brainstem compression."
+        },
+        {
+          "id": "b",
+          "text": "Bradycardia with a bounding pulse",
+          "correct": false,
+          "rationale": "Bradycardia is part of the Cushing triad, a late sign."
+        },
+        {
+          "id": "c",
+          "text": "A change in level of consciousness",
+          "correct": true,
+          "rationale": "Correct. Subtle changes in LOC such as irritability, lethargy, or restlessness are the earliest signs of increased ICP."
+        },
+        {
+          "id": "d",
+          "text": "Decerebrate posturing to pain",
+          "correct": false,
+          "rationale": "Posturing reflects severe brain injury and is a late sign."
+        }
+      ],
+      "explanation": "Change in level of consciousness is the earliest and most sensitive indicator of rising ICP. Late signs include Cushing triad, posturing, and fixed dilated pupils."
+    },
+    {
+      "id": "increased-icp-02",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse is assessing a 4-month-old for increased intracranial pressure. Which findings are consistent with increased ICP in an infant? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tense, bulging anterior fontanel when the infant is calm and upright",
+          "correct": true,
+          "rationale": "Correct. A bulging fontanel in a calm, upright infant is a classic sign of increased ICP."
+        },
+        {
+          "id": "b",
+          "text": "High-pitched, shrill cry",
+          "correct": true,
+          "rationale": "Correct. A high-pitched cry is a sign of neurologic irritation and increased ICP."
+        },
+        {
+          "id": "c",
+          "text": "Sunken anterior fontanel",
+          "correct": false,
+          "rationale": "A sunken fontanel indicates dehydration, not increased ICP."
+        },
+        {
+          "id": "d",
+          "text": "Eyes deviated downward with sclera visible above the iris (sunset eyes)",
+          "correct": true,
+          "rationale": "Correct. Sunset eyes result from pressure on the upper brainstem and are seen with increased ICP and hydrocephalus."
+        },
+        {
+          "id": "e",
+          "text": "Separated cranial sutures and distended scalp veins",
+          "correct": true,
+          "rationale": "Correct. Increased pressure in an infant with open sutures causes suture separation and scalp vein distension."
+        },
+        {
+          "id": "f",
+          "text": "Increased appetite and frequent feeding",
+          "correct": false,
+          "rationale": "Infants with increased ICP typically feed poorly and vomit."
+        }
+      ],
+      "explanation": "Infants compensate for increased ICP because their sutures and fontanels are open, so signs include a bulging fontanel, separated sutures, increasing head circumference, distended scalp veins, sunset eyes, high-pitched cry, irritability, poor feeding, and vomiting."
+    },
+    {
+      "id": "increased-icp-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 9-year-old is admitted after a head injury. Which position should the nurse maintain to promote reduction of ICP?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flat in bed with the head turned to the side to protect the airway",
+          "correct": false,
+          "rationale": "Turning the head obstructs jugular venous outflow and raises ICP; flat positioning does not promote venous drainage."
+        },
+        {
+          "id": "b",
+          "text": "HOB elevated 30 degrees with the head midline and neutral",
+          "correct": true,
+          "rationale": "Correct. HOB at 30 degrees with the head midline promotes venous drainage from the brain and lowers ICP."
+        },
+        {
+          "id": "c",
+          "text": "Trendelenburg position to improve cerebral blood flow",
+          "correct": false,
+          "rationale": "Head-down positioning increases ICP."
+        },
+        {
+          "id": "d",
+          "text": "High Fowler position with knees sharply flexed for comfort",
+          "correct": false,
+          "rationale": "Extreme hip flexion increases intra-abdominal and intrathoracic pressure, which raises ICP."
+        }
+      ],
+      "explanation": "Positioning to lower ICP: HOB 30 degrees, head and neck midline, avoid neck flexion and extreme hip flexion, and avoid the prone position."
+    },
+    {
+      "id": "increased-icp-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 7-year-old with a brain tumor has these vital signs: earlier HR 96/min, BP 104/66 mm Hg, RR 20/min; now HR 58/min, BP 142/60 mm Hg, RR 10/min and irregular. What do these findings indicate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypovolemic shock from internal bleeding",
+          "correct": false,
+          "rationale": "Hypovolemic shock causes tachycardia and hypotension, not bradycardia and hypertension."
+        },
+        {
+          "id": "b",
+          "text": "Expected response to pain medication",
+          "correct": false,
+          "rationale": "Analgesics can slow breathing but do not cause widened pulse pressure and rising systolic pressure."
+        },
+        {
+          "id": "c",
+          "text": "Improvement as the child's condition stabilizes",
+          "correct": false,
+          "rationale": "These are dangerous changes, not improvement."
+        },
+        {
+          "id": "d",
+          "text": "Cushing triad from severely increased ICP",
+          "correct": true,
+          "rationale": "Correct. Bradycardia, widened pulse pressure with rising systolic BP, and irregular respirations form the Cushing triad, a late sign of brainstem compression."
+        }
+      ],
+      "explanation": "Cushing triad (bradycardia, hypertension with widened pulse pressure, irregular respirations) is a late, ominous sign of increased ICP that may precede herniation. The nurse notifies the provider immediately."
+    },
+    {
+      "id": "increased-icp-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-year-old is being monitored for increased ICP after a fall. Which nursing action should be avoided?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keeping the room quiet and the lights dim",
+          "correct": false,
+          "rationale": "This is appropriate; reducing stimulation helps prevent ICP spikes."
+        },
+        {
+          "id": "b",
+          "text": "Administering a prescribed stool softener",
+          "correct": false,
+          "rationale": "This is appropriate; straining (Valsalva) increases ICP, so stool softeners prevent it."
+        },
+        {
+          "id": "c",
+          "text": "Suctioning the airway routinely every hour",
+          "correct": true,
+          "rationale": "Correct (should be avoided). Suctioning increases ICP; it is done only when needed, briefly, and with preoxygenation as ordered."
+        },
+        {
+          "id": "d",
+          "text": "Spacing out nursing procedures to allow rest periods",
+          "correct": false,
+          "rationale": "This is appropriate; clustering too many procedures or performing them back to back can raise ICP."
+        }
+      ],
+      "explanation": "Activities that raise ICP include suctioning, coughing, straining, crying, neck flexion, extreme hip flexion, and painful procedures. The nurse minimizes these and provides rest periods."
+    },
+    {
+      "id": "increased-icp-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old with cerebral edema is receiving IV mannitol. Which assessment best indicates the medication is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increased urine output and improved level of consciousness",
+          "correct": true,
+          "rationale": "Correct. Mannitol is an osmotic diuretic that pulls fluid from brain tissue and increases urine output; improved LOC shows ICP is decreasing."
+        },
+        {
+          "id": "b",
+          "text": "Increased heart rate as cerebral perfusion improves",
+          "correct": false,
+          "rationale": "Tachycardia is not a measure of effectiveness and may indicate hypovolemia."
+        },
+        {
+          "id": "c",
+          "text": "Decreased urine output as fluid shifts out of the brain",
+          "correct": false,
+          "rationale": "Mannitol increases urine output; decreased output suggests the drug is not working or the child is hypovolemic."
+        },
+        {
+          "id": "d",
+          "text": "Increased serum potassium on the next lab draw",
+          "correct": false,
+          "rationale": "Mannitol can cause electrolyte imbalances, but this does not indicate effectiveness."
+        }
+      ],
+      "explanation": "Mannitol and hypertonic saline lower ICP by drawing water out of brain tissue. The nurse monitors urine output, serum osmolality, electrolytes, fluid balance, and neurologic status, and uses a filter for mannitol to prevent crystal infusion."
+    },
+    {
+      "id": "increased-icp-07",
+      "type": "order",
+      "bloom": "analyze",
+      "stem": "A 5-year-old with a head injury shows progressive changes. Place these findings in the order they typically appear as ICP increases, from earliest to latest.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Irritability and restlessness"
+        },
+        {
+          "id": "b",
+          "text": "Headache and vomiting"
+        },
+        {
+          "id": "c",
+          "text": "Decreased level of consciousness and sluggish pupils"
+        },
+        {
+          "id": "d",
+          "text": "Bradycardia, irregular respirations, and widened pulse pressure"
+        },
+        {
+          "id": "e",
+          "text": "Fixed, dilated pupils and decerebrate posturing"
+        }
+      ],
+      "explanation": "ICP signs progress from subtle changes in LOC and behavior to headache and vomiting, then decreasing responsiveness and pupil changes, then Cushing triad, and finally fixed dilated pupils and posturing, which indicate brainstem compression and impending herniation."
+    },
+    {
+      "id": "increased-icp-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nurse uses the pediatric Glasgow Coma Scale for a 10-month-old. Why is a modified scale used for infants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Infants cannot open their eyes in response to voice or painful stimuli",
+          "correct": false,
+          "rationale": "Infants can open their eyes spontaneously and in response to stimuli."
+        },
+        {
+          "id": "b",
+          "text": "Infants have higher baseline ICP than older children because of open fontanels",
+          "correct": false,
+          "rationale": "Normal ICP is not higher in infants; this is not why the scale is modified."
+        },
+        {
+          "id": "c",
+          "text": "Infant motor responses cannot be assessed until they can follow commands",
+          "correct": false,
+          "rationale": "Motor responses can be assessed in infants with age-appropriate criteria."
+        },
+        {
+          "id": "d",
+          "text": "Infants cannot answer orientation questions, so verbal scoring uses coos and cries",
+          "correct": true,
+          "rationale": "Correct. The pediatric GCS adapts the verbal (and motor) components for developmental level, using coos, babbles, irritable cries, and cries to pain."
+        }
+      ],
+      "explanation": "The pediatric GCS scores eye opening, verbal response, and motor response (total 3-15), with age-appropriate criteria. A score of 8 or less indicates severe impairment and need for airway protection."
+    },
+    {
+      "id": "increased-icp-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 12-year-old with increased ICP after a head injury. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maintain the head and neck in a midline position",
+          "correct": true,
+          "rationale": "Correct. A midline position promotes venous drainage."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the child to cough and deep breathe every hour",
+          "correct": false,
+          "rationale": "Coughing increases ICP; vigorous coughing is avoided in increased ICP."
+        },
+        {
+          "id": "c",
+          "text": "Administer prescribed antipyretics for fever",
+          "correct": true,
+          "rationale": "Correct. Fever increases cerebral metabolic demand and ICP."
+        },
+        {
+          "id": "d",
+          "text": "Monitor neurologic status, including pupils and LOC, frequently",
+          "correct": true,
+          "rationale": "Correct. Frequent neuro checks detect early changes."
+        },
+        {
+          "id": "e",
+          "text": "Place the child prone for comfort",
+          "correct": false,
+          "rationale": "Prone positioning increases intra-abdominal and intrathoracic pressure and raises ICP."
+        }
+      ],
+      "explanation": "Nursing care for increased ICP includes positioning, preventing fever, avoiding activities that raise ICP, frequent neurologic assessment, and maintaining oxygenation."
+    },
+    {
+      "id": "increased-icp-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 8-year-old being observed after a concussion is alert, but at 0600 complains of a headache and vomits without nausea. Later the child sees double. Which conclusion is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "These are expected findings after any concussion and need no action",
+          "correct": false,
+          "rationale": "Increasing headache, vomiting, and visual changes require escalation, not routine observation."
+        },
+        {
+          "id": "b",
+          "text": "The child likely has a gastrointestinal virus",
+          "correct": false,
+          "rationale": "Vomiting without nausea, morning headache, and diplopia point to a neurologic cause."
+        },
+        {
+          "id": "c",
+          "text": "These findings suggest increasing ICP and should be reported to the provider",
+          "correct": true,
+          "rationale": "Correct. Morning headache, vomiting without nausea, and diplopia are classic signs of increasing ICP in children."
+        },
+        {
+          "id": "d",
+          "text": "The child is seeking attention",
+          "correct": false,
+          "rationale": "Dismissing these symptoms is dangerous and delays care."
+        }
+      ],
+      "explanation": "In children, increased ICP often presents with headache (worse in the morning), vomiting (often projectile and without nausea), diplopia, and behavior changes. These require prompt reporting."
+    },
+    {
+      "id": "increased-icp-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 3-year-old with increased ICP becomes very irritable and cries loudly whenever the parent leaves the room. Which nursing action best helps control ICP?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask the parent to leave so the child can settle and rest quietly",
+          "correct": false,
+          "rationale": "Separation increases crying and distress, which raises ICP."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the parent to stay and offer a favorite blanket",
+          "correct": true,
+          "rationale": "Correct. Parental presence and familiar comfort objects reduce crying and agitation, helping control ICP."
+        },
+        {
+          "id": "c",
+          "text": "Apply soft restraints to keep the child still and prevent falls",
+          "correct": false,
+          "rationale": "Restraints increase agitation and ICP."
+        },
+        {
+          "id": "d",
+          "text": "Give the child a loud musical toy to distract them from crying",
+          "correct": false,
+          "rationale": "Loud stimulation can increase ICP."
+        }
+      ],
+      "explanation": "Preventing crying and agitation helps prevent ICP spikes. Parental presence, comfort objects, and a calm environment are important nursing measures."
+    },
+    {
+      "id": "increased-icp-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse reassesses a 6-year-old with increased ICP 1 hour after interventions. Which finding indicates the plan of care is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child opens eyes to voice, answers appropriately, and has equal, reactive pupils",
+          "correct": true,
+          "rationale": "Correct. Improved LOC and normal pupil responses indicate decreasing ICP."
+        },
+        {
+          "id": "b",
+          "text": "The child's heart rate has decreased from 98 to 60/min and is now regular",
+          "correct": false,
+          "rationale": "A falling heart rate may signal Cushing triad, a sign of worsening ICP."
+        },
+        {
+          "id": "c",
+          "text": "The child responds only to painful stimuli but no longer cries",
+          "correct": false,
+          "rationale": "This shows decreasing LOC, not improvement."
+        },
+        {
+          "id": "d",
+          "text": "The child's pulse pressure has widened and BP is now 138/62 mm Hg",
+          "correct": false,
+          "rationale": "Widening pulse pressure is a late sign of increased ICP."
+        }
+      ],
+      "explanation": "Evaluation focuses on improving LOC, stable vital signs, and normal pupillary responses. Bradycardia, widened pulse pressure, and decreased responsiveness indicate deterioration."
+    }
+  ]
+}

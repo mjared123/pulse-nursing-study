@@ -1,0 +1,316 @@
+{
+  "slug": "dosage-calc",
+  "title": "Pediatric Dosage Calculation",
+  "short": "Dosage Calc",
+  "icon": "calculator",
+  "description": "Weight-based pediatric calculations: lb-to-kg conversion, mg/kg dosing, divided daily doses, safe-dose-range checks, fluid boluses, Holliday-Segar maintenance fluids, ORS, urine output, and infusion rates.",
+  "keyPoints": [
+    "Convert pounds to kilograms (lb ÷ 2.2) before every pediatric calculation; children are always dosed by kg.",
+    "For mg/kg/day orders, find the total daily dose first, then divide by the number of doses per day.",
+    "Safe-dose check: calculate the low and high ends of the range and compare with the order; never exceed a stated maximum (e.g., prednisone 60 mg/day).",
+    "Holliday-Segar maintenance: 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20; divide by 24 for mL/hr.",
+    "Isotonic fluid bolus for hypovolemia = 20 mL/kg NS or LR; ORS = 50 mL/kg (mild) or 100 mL/kg (moderate) over 4 hours.",
+    "Minimum urine output is about 1 mL/kg/hr in young children; diaper weight 1 g = 1 mL after subtracting the dry diaper.",
+    "Digoxin is ordered in mcg: double-check every dose and count the apical pulse for a full minute first.",
+    "Use an oral syringe for liquid medications and round per instructions only at the final step."
+  ],
+  "questions": [
+    {
+      "id": "dosage-calc-01",
+      "type": "numeric",
+      "bloom": "remember",
+      "stem": "A 4-year-old admitted with moderate dehydration from viral gastroenteritis weighs 41 lb on the unit scale. The nurse must document the weight in kilograms for weight-based orders. What is the child's weight in kg? (1 kg = 2.2 lb) Round to the nearest tenth.",
+      "answer": 18.6,
+      "tolerance": 0.05,
+      "unit": "kg",
+      "steps": [
+        "Set up: 41 lb × (1 kg / 2.2 lb)",
+        "41 ÷ 2.2 = 18.636... kg",
+        "Round to the nearest tenth: 18.6 kg"
+      ],
+      "explanation": "Divide pounds by 2.2 to convert to kilograms; the kg value is always the smaller number. Every pediatric medication and fluid order is weight-based, so weigh the child on the same scale, in the same clothing (or diaper only), and record the weight in kg."
+    },
+    {
+      "id": "dosage-calc-02",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 14-kg toddler with severe dehydration has a capillary refill of 4 seconds, HR 168, cool mottled extremities, lethargy, and dry mucous membranes. The provider orders a 0.9% sodium chloride bolus of 20 mL/kg IV over 20 minutes. How many mL will the nurse infuse? Round to the nearest whole number.",
+      "answer": 280,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Dose: 20 mL/kg × 14 kg",
+        "20 × 14 = 280 mL"
+      ],
+      "explanation": "Isotonic crystalloid boluses for pediatric hypovolemia are 20 mL/kg of normal saline or lactated Ringer's, repeated after reassessment of perfusion (capillary refill, HR, mental status, urine output). Never use hypotonic or dextrose-only fluids for a bolus."
+    },
+    {
+      "id": "dosage-calc-03",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 24-kg child with sickle cell disease is admitted in vaso-occlusive crisis. The provider orders maintenance IV fluids calculated by the Holliday-Segar method (100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg above 20). What is the child's total daily maintenance fluid requirement in mL/day? Round to the nearest whole number.",
+      "answer": 1580,
+      "tolerance": 0.5,
+      "unit": "mL/day",
+      "steps": [
+        "First 10 kg: 10 × 100 = 1,000 mL",
+        "Next 10 kg: 10 × 50 = 500 mL",
+        "Remaining 4 kg: 4 × 20 = 80 mL",
+        "Total: 1,000 + 500 + 80 = 1,580 mL/day"
+      ],
+      "explanation": "Holliday-Segar divides the weight into three tiers: 100 mL/kg for the first 10 kg, 50 mL/kg for 11-20 kg, and 20 mL/kg for every kg above 20. Hydration is a cornerstone of sickle cell crisis management because dehydration increases blood viscosity and sickling; many protocols run 1 to 1.5 times maintenance."
+    },
+    {
+      "id": "dosage-calc-04",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "For the same 24-kg child in sickle cell crisis, the daily maintenance requirement is 1,580 mL/day. At what rate in mL/hr will the nurse program the IV pump to deliver maintenance fluids? Round to the nearest tenth.",
+      "answer": 65.8,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Daily volume (Holliday-Segar): 1,000 + 500 + 80 = 1,580 mL/day",
+        "Hourly rate: 1,580 mL ÷ 24 hr = 65.83 mL/hr",
+        "Round to the nearest tenth: 65.8 mL/hr"
+      ],
+      "explanation": "Convert the 24-hour Holliday-Segar volume to an hourly pump rate by dividing by 24. A shortcut that gives nearly the same result is the 4-2-1 rule (4 mL/kg/hr for the first 10 kg, 2 mL/kg/hr for the next 10, 1 mL/kg/hr above 20: 40 + 20 + 4 = 64 mL/hr), but use the method your program specifies."
+    },
+    {
+      "id": "dosage-calc-05",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 6-year-old with a sore throat and positive rapid strep test is prescribed amoxicillin 50 mg/kg PO once daily for 10 days to prevent acute rheumatic fever. The child weighs 16 kg. Amoxicillin suspension is available as 400 mg/5 mL. How many mL will the nurse teach the parent to give per dose? Round to the nearest tenth.",
+      "answer": 10,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 50 mg/kg × 16 kg = 800 mg",
+        "Volume: 800 mg × (5 mL / 400 mg) = 10 mL",
+        "Answer: 10.0 mL once daily"
+      ],
+      "explanation": "Group A strep pharyngitis treated with a full 10-day course of antibiotics prevents acute rheumatic fever and rheumatic heart disease. Teach the family to finish the entire course even when the child feels better and to use an oral syringe, not a household spoon, for accuracy."
+    },
+    {
+      "id": "dosage-calc-06",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 3-year-old weighing 12 kg is admitted with acute glomerulonephritis. The nurse is monitoring for adequate renal perfusion; the minimum acceptable urine output for this child is 1 mL/kg/hr. What is the minimum total urine output the nurse expects over an 8-hour shift? Round to the nearest whole number.",
+      "answer": 96,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Hourly minimum: 1 mL/kg/hr × 12 kg = 12 mL/hr",
+        "Shift minimum: 12 mL/hr × 8 hr = 96 mL"
+      ],
+      "explanation": "Expected urine output is 1 to 2 mL/kg/hr for infants and young children (about 0.5 to 1 mL/kg/hr for adolescents). Output below the minimum signals worsening renal function or hypovolemia and should be reported promptly, along with weight changes, edema, and blood pressure."
+    },
+    {
+      "id": "dosage-calc-07",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 6-kg infant with dehydration has strict intake and output ordered. Over the last 4 hours the nurse weighed three wet diapers at 38 g, 42 g, and 34 g. A dry diaper of the same brand weighs 18 g. What is the infant's urine output in mL/kg/hr? (1 g = 1 mL) Round to the nearest tenth.",
+      "answer": 2.5,
+      "tolerance": 0.05,
+      "unit": "mL/kg/hr",
+      "steps": [
+        "Net urine per diaper: 38 - 18 = 20 g; 42 - 18 = 24 g; 34 - 18 = 16 g",
+        "Total: 20 + 24 + 16 = 60 g = 60 mL",
+        "Per kg: 60 mL ÷ 6 kg = 10 mL/kg",
+        "Per hour: 10 mL/kg ÷ 4 hr = 2.5 mL/kg/hr"
+      ],
+      "explanation": "Weigh diapers and subtract the dry diaper weight; 1 g of weight equals 1 mL of urine. An output of 2.5 mL/kg/hr exceeds the infant minimum of about 1 to 2 mL/kg/hr, indicating that rehydration is restoring renal perfusion."
+    },
+    {
+      "id": "dosage-calc-08",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 10-kg toddler with mild dehydration from gastroenteritis is prescribed oral rehydration solution (ORS) 50 mL/kg to be given over 4 hours. How many mL of ORS should the child receive per hour? Round to the nearest whole number.",
+      "answer": 125,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Total ORS: 50 mL/kg × 10 kg = 500 mL",
+        "Per hour: 500 mL ÷ 4 hr = 125 mL/hr"
+      ],
+      "explanation": "Mild dehydration is treated with ORS 50 mL/kg and moderate dehydration with 100 mL/kg, both over about 4 hours, plus replacement of ongoing losses. Give small frequent amounts (5 to 10 mL every 1 to 5 minutes by syringe or spoon) to limit vomiting, and avoid juices, sports drinks, and soda."
+    },
+    {
+      "id": "dosage-calc-09",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 9-kg infant with moderate dehydration (dry mucous membranes, decreased tears, HR 150) is prescribed ORS 100 mL/kg over 4 hours. The nurse teaches the parent to give the ORS in small amounts every 15 minutes. How many mL should the parent give every 15 minutes? Round to the nearest whole number.",
+      "answer": 56,
+      "tolerance": 0.5,
+      "unit": "mL",
+      "steps": [
+        "Total ORS: 100 mL/kg × 9 kg = 900 mL",
+        "Number of 15-minute intervals in 4 hours: 4 × 4 = 16",
+        "Per interval: 900 mL ÷ 16 = 56.25 mL",
+        "Round to the nearest whole number: 56 mL"
+      ],
+      "explanation": "Moderate dehydration calls for ORS 100 mL/kg over 4 hours. Breaking the total into small, frequent aliquots improves tolerance; if the infant vomits, wait 10 minutes and resume with smaller amounts. Reassess hydration status and urine output at the end of the 4 hours."
+    },
+    {
+      "id": "dosage-calc-10",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 37.4-lb child with suspected bacterial meningitis is prescribed ceftriaxone 100 mg/kg/day IV divided every 12 hours. The reconstituted vial contains 100 mg/mL. How many mL will the nurse draw up for each dose? Round to the nearest tenth.",
+      "answer": 8.5,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 37.4 lb ÷ 2.2 = 17 kg",
+        "Daily dose: 100 mg/kg/day × 17 kg = 1,700 mg/day",
+        "Per dose (q12h = 2 doses): 1,700 ÷ 2 = 850 mg",
+        "Volume: 850 mg × (1 mL / 100 mg) = 8.5 mL"
+      ],
+      "explanation": "For mg/kg/day orders, calculate the total daily dose first and then divide by the number of doses per day. Bacterial meningitis is a medical emergency: start antibiotics promptly after cultures (do not delay for lumbar puncture if it cannot be done quickly) and maintain droplet precautions for at least 24 hours of therapy."
+    },
+    {
+      "id": "dosage-calc-11",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 28.6-lb toddler with Kawasaki disease has a temperature of 39.6°C (103.3°F). The provider orders acetaminophen 15 mg/kg PO every 6 hours as needed. Acetaminophen oral suspension is available as 160 mg/5 mL. How many mL will the nurse give? Round to the nearest tenth.",
+      "answer": 6.1,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 28.6 lb ÷ 2.2 = 13 kg",
+        "Dose: 15 mg/kg × 13 kg = 195 mg",
+        "Volume: 195 mg × (5 mL / 160 mg) = 6.09 mL",
+        "Round to the nearest tenth: 6.1 mL"
+      ],
+      "explanation": "Acetaminophen is dosed at 10 to 15 mg/kg every 4 to 6 hours, not to exceed 5 doses (75 mg/kg) in 24 hours. Fever in Kawasaki disease is characteristically high and unresponsive to antipyretics; persistent fever after IVIG suggests refractory disease and should be reported."
+    },
+    {
+      "id": "dosage-calc-12",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "An infant with a large ventricular septal defect is in heart failure with tachypnea and hepatomegaly. The infant weighs 15.4 lb. The provider orders furosemide 1 mg/kg IV now. Furosemide is available as 10 mg/mL. How many mL will the nurse administer? Round to the nearest tenth.",
+      "answer": 0.7,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 15.4 lb ÷ 2.2 = 7 kg",
+        "Dose: 1 mg/kg × 7 kg = 7 mg",
+        "Volume: 7 mg × (1 mL / 10 mg) = 0.7 mL"
+      ],
+      "explanation": "Furosemide reduces preload in pediatric heart failure from left-to-right shunts such as VSD. Monitor daily weights, strict I&O (weigh diapers), and serum potassium; hypokalemia increases the risk of digoxin toxicity in infants who are also receiving digoxin."
+    },
+    {
+      "id": "dosage-calc-13",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 6-kg infant with heart failure from a congenital heart defect is prescribed digoxin 5 mcg/kg PO every 12 hours. Digoxin elixir is available as 50 mcg/mL. How many mL will the nurse give per dose? Round to the nearest tenth.",
+      "answer": 0.6,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 5 mcg/kg × 6 kg = 30 mcg",
+        "Volume: 30 mcg × (1 mL / 50 mcg) = 0.6 mL"
+      ],
+      "explanation": "Pediatric digoxin doses are very small and ordered in mcg, so a decimal error can be fatal; have a second nurse verify the dose and use a calibrated syringe. Count the apical pulse for a full minute before each dose and hold for an infant HR below 90 to 110 (or below 70 in older children), and watch for vomiting and poor feeding as early toxicity signs."
+    },
+    {
+      "id": "dosage-calc-14",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 32-kg school-age child in sickle cell vaso-occlusive crisis rates pain 9/10. The provider orders morphine 0.1 mg/kg IV every 3 hours as needed. Morphine is available as 4 mg/mL. How many mL will the nurse administer? Round to the nearest tenth.",
+      "answer": 0.8,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 0.1 mg/kg × 32 kg = 3.2 mg",
+        "Volume: 3.2 mg × (1 mL / 4 mg) = 0.8 mL"
+      ],
+      "explanation": "Severe pain in vaso-occlusive crisis is treated aggressively with scheduled or PCA opioids rather than waiting for pain to escalate. Monitor respiratory rate, sedation level, and oxygen saturation, and encourage incentive spirometry to reduce the risk of acute chest syndrome from hypoventilation."
+    },
+    {
+      "id": "dosage-calc-15",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 13-month-old weighing 11 kg is diagnosed with iron-deficiency anemia (Hgb 8.9 g/dL) after drinking 40 oz of cow's milk daily. The provider prescribes ferrous sulfate 3 mg/kg/day of elemental iron PO once daily. The drops contain 15 mg elemental iron per 1 mL. How many mL will the parent give each day? Round to the nearest tenth.",
+      "answer": 2.2,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Daily elemental iron: 3 mg/kg/day × 11 kg = 33 mg/day",
+        "Volume: 33 mg × (1 mL / 15 mg) = 2.2 mL"
+      ],
+      "explanation": "Iron is dosed by elemental iron, not by the total ferrous sulfate salt. Teach the parent to give it between meals with vitamin C-containing juice, use a dropper or syringe toward the back of the mouth to avoid staining teeth, expect dark stools, and limit cow's milk to 16 to 24 oz per day."
+    },
+    {
+      "id": "dosage-calc-16",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 35-kg child with newly diagnosed minimal change nephrotic syndrome is prescribed prednisone 2 mg/kg/day PO, with a maximum dose of 60 mg/day. How many mg of prednisone should the child receive each day? Round to the nearest whole number.",
+      "answer": 60,
+      "tolerance": 0.5,
+      "unit": "mg/day",
+      "steps": [
+        "Calculated dose: 2 mg/kg/day × 35 kg = 70 mg/day",
+        "Compare with the maximum: 70 mg exceeds the 60 mg/day cap",
+        "Give the lower amount: 60 mg/day"
+      ],
+      "explanation": "When a weight-based calculation exceeds the stated maximum, the maximum is the correct dose; giving 70 mg would be an overdose. Corticosteroids induce remission in most children with minimal change nephrotic syndrome; monitor for infection, hypertension, hyperglycemia, and mood changes, and taper rather than stop abruptly."
+    },
+    {
+      "id": "dosage-calc-17",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "An 18-kg preschooler with a new seizure disorder is prescribed levetiracetam 10 mg/kg/dose PO twice daily. Levetiracetam oral solution is available as 100 mg/mL. How many mL will the nurse give per dose? Round to the nearest tenth.",
+      "answer": 1.8,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 10 mg/kg × 18 kg = 180 mg",
+        "Volume: 180 mg × (1 mL / 100 mg) = 1.8 mL"
+      ],
+      "explanation": "Levetiracetam is a common first-line antiepileptic in children because it has few drug interactions and no routine level monitoring. Teach families to give doses at the same times every day, never stop the drug abruptly (risk of breakthrough seizures or status epilepticus), and report behavioral changes such as irritability or aggression."
+    },
+    {
+      "id": "dosage-calc-18",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 15-kg child in the acute phase of Kawasaki disease is prescribed high-dose aspirin. The safe dose range is 80 to 100 mg/kg/day divided every 6 hours. What is the maximum safe single dose in mg? Round to the nearest whole number.",
+      "answer": 375,
+      "tolerance": 0.5,
+      "unit": "mg/dose",
+      "steps": [
+        "Maximum daily dose: 100 mg/kg/day × 15 kg = 1,500 mg/day",
+        "Doses per day (q6h): 24 ÷ 6 = 4",
+        "Maximum single dose: 1,500 mg ÷ 4 = 375 mg"
+      ],
+      "explanation": "Use the upper limit of the daily range and divide by the number of doses to find the maximum safe per-dose amount; an ordered dose above it must be clarified. After the fever resolves, aspirin is lowered to an antiplatelet dose (3 to 5 mg/kg/day); teach families to avoid ibuprofen (it blocks aspirin's antiplatelet effect) and to report influenza or varicella exposure because of Reye syndrome risk."
+    },
+    {
+      "id": "dosage-calc-19",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "The same 15-kg child with Kawasaki disease is prescribed IVIG 2 g/kg IV as a single infusion over 12 hours. IVIG is supplied as a 10% solution (100 mg/mL). At what rate in mL/hr will the nurse set the pump to complete the infusion over 12 hours? Round to the nearest whole number.",
+      "answer": 25,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose: 2 g/kg × 15 kg = 30 g = 30,000 mg",
+        "Volume: 30,000 mg × (1 mL / 100 mg) = 300 mL",
+        "Rate: 300 mL ÷ 12 hr = 25 mL/hr"
+      ],
+      "explanation": "IVIG given within the first 10 days of Kawasaki disease reduces the risk of coronary artery aneurysms. In practice the infusion is started slowly and titrated up, with vital signs monitored for infusion reactions (chills, fever, hypotension); live vaccines such as MMR and varicella are delayed 11 months after IVIG."
+    },
+    {
+      "id": "dosage-calc-20",
+      "type": "numeric",
+      "bloom": "understand",
+      "stem": "A 20-kg child with hemophilia A has an acute knee hemarthrosis. The provider orders factor VIII to raise the factor level by 50%. Using the formula units = weight (kg) × desired % rise × 0.5, how many units of factor VIII will the nurse prepare? Round to the nearest whole number.",
+      "answer": 500,
+      "tolerance": 0.5,
+      "unit": "units",
+      "steps": [
+        "Formula: units = kg × desired % rise × 0.5",
+        "Units: 20 kg × 50 × 0.5 = 500 units"
+      ],
+      "explanation": "Each unit/kg of factor VIII raises the plasma level by about 2%, which is why the formula multiplies by 0.5. Give factor replacement promptly for joint bleeds, then apply RICE (rest, ice, compression, elevation) and avoid IM injections, rectal temperatures, aspirin, and NSAIDs."
+    }
+  ]
+}

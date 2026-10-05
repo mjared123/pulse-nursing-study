@@ -1,0 +1,356 @@
+{
+  "slug": "phimosis",
+  "title": "Phimosis & Paraphimosis",
+  "short": "Phimosis",
+  "icon": "layers",
+  "description": "Physiologic and pathologic phimosis in infants and boys, foreskin hygiene teaching, paraphimosis as an emergency, balanitis, topical steroid therapy, circumcision, and post-circumcision care.",
+  "keyPoints": [
+    "Phimosis is a narrowing of the foreskin opening so it cannot be retracted over the glans. Physiologic phimosis is NORMAL in infants and young children; most foreskins become retractable gradually, often by 3-5 years and nearly all by adolescence.",
+    "Never forcibly retract the foreskin: it causes tearing, bleeding, scarring, and pathologic phimosis. Clean the uncircumcised penis with warm water; as the child grows, retract only as far as it moves easily, clean, and ALWAYS return the foreskin to its normal position.",
+    "Signs needing evaluation: ballooning of the foreskin with voiding, spraying or weak stream, painful urination, recurrent infection (balanitis or balanoposthitis), or scarred, white, tight foreskin.",
+    "Treatment options: topical corticosteroid cream (for example, betamethasone) applied to the foreskin for several weeks with gentle stretching; circumcision for persistent or pathologic phimosis.",
+    "Paraphimosis is an EMERGENCY: the retracted foreskin cannot be returned, forming a tight band behind the glans that causes swelling and can cut off blood supply. Treatment: cold compresses and gentle compression to reduce swelling, manual reduction, and sometimes surgical dorsal slit.",
+    "Balanitis is inflammation of the glans (often with the foreskin): redness, swelling, discharge, pain. Treated with hygiene, warm sitz baths, and topical or oral antimicrobials as prescribed.",
+    "Post-circumcision care: petroleum jelly or petroleum gauze over the glans with each diaper change, monitor for bleeding and first void, yellow crust (granulation tissue) is normal, avoid tub baths until healed per provider; report active bleeding, no void in 6-8 hours, or signs of infection. (Do not use petroleum with a Plastibell ring.)"
+  ],
+  "questions": [
+    {
+      "id": "phimosis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A parent of a 6-month-old uncircumcised boy is worried that his foreskin will not pull back. Which statement by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The foreskin should be pulled back fully at every diaper change to stretch it.",
+          "correct": false,
+          "rationale": "Forced retraction can tear and scar the foreskin, causing pathologic phimosis."
+        },
+        {
+          "id": "b",
+          "text": "This is a sign of infection and needs antibiotics.",
+          "correct": false,
+          "rationale": "A nonretractable foreskin is normal in infants and is not a sign of infection."
+        },
+        {
+          "id": "c",
+          "text": "This is normal in infants; the foreskin usually separates gradually over the first several years.",
+          "correct": true,
+          "rationale": "Correct. Physiologic phimosis is normal in infancy; the foreskin separates naturally over time."
+        },
+        {
+          "id": "d",
+          "text": "He will need circumcision before age 1.",
+          "correct": false,
+          "rationale": "Circumcision is not needed for physiologic phimosis."
+        }
+      ],
+      "explanation": "Physiologic phimosis is normal at birth because the foreskin is attached to the glans. Separation happens gradually, and most boys have a retractable foreskin by adolescence."
+    },
+    {
+      "id": "phimosis-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is teaching the parent of a 4-year-old uncircumcised boy about hygiene. Which instruction is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retract the foreskin only as far as it goes easily, clean with water, and return it.",
+          "correct": true,
+          "rationale": "Correct. Gentle retraction, cleaning, and replacement prevent injury and paraphimosis."
+        },
+        {
+          "id": "b",
+          "text": "Force the foreskin back completely each day so it loosens and does not tighten.",
+          "correct": false,
+          "rationale": "Forced retraction causes injury and scarring."
+        },
+        {
+          "id": "c",
+          "text": "Use strong antibacterial soap under the foreskin daily to prevent infection.",
+          "correct": false,
+          "rationale": "Harsh soaps can irritate the delicate tissue; warm water or mild soap is recommended."
+        },
+        {
+          "id": "d",
+          "text": "Leave the foreskin retracted after bathing so the area can dry fully.",
+          "correct": false,
+          "rationale": "Leaving it retracted can cause paraphimosis."
+        }
+      ],
+      "explanation": "As boys grow, teach gentle retraction only as far as comfortable, cleaning with warm water, and always returning the foreskin forward. Older boys can learn to do this themselves."
+    },
+    {
+      "id": "phimosis-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The parent of a 3-year-old calls because the child's foreskin was pulled back during bath time and now will not go back over the head of the penis. The head of the penis is swollen and dark red. What should the nurse instruct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wait until tomorrow; it will go back on its own.",
+          "correct": false,
+          "rationale": "Paraphimosis can compromise blood flow; waiting can cause tissue damage."
+        },
+        {
+          "id": "b",
+          "text": "Apply a warm compress and wait for it to go back.",
+          "correct": false,
+          "rationale": "Warmth increases swelling; cold compresses are used to reduce swelling."
+        },
+        {
+          "id": "c",
+          "text": "Try forcing the foreskin forward as hard as possible.",
+          "correct": false,
+          "rationale": "Excessive force can cause injury; reduction should be done gently, ideally by a provider."
+        },
+        {
+          "id": "d",
+          "text": "Seek emergency care right away because this is paraphimosis.",
+          "correct": true,
+          "rationale": "Correct. Paraphimosis is an emergency; the retracted foreskin constricts the glans and may compromise blood flow."
+        }
+      ],
+      "explanation": "Paraphimosis occurs when the retracted foreskin cannot return over the glans, creating a constricting band. Treatment includes cold compresses, gentle manual compression and reduction, and sometimes a dorsal slit procedure."
+    },
+    {
+      "id": "phimosis-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 4-year-old with paraphimosis in the emergency department. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply cold compresses or an ice pack wrapped in a cloth to reduce swelling",
+          "correct": true,
+          "rationale": "Correct. Cold reduces edema and makes reduction easier."
+        },
+        {
+          "id": "b",
+          "text": "Assist with gentle manual compression of the glans and reduction of the foreskin",
+          "correct": true,
+          "rationale": "Correct. Manual reduction returns the foreskin to its normal position."
+        },
+        {
+          "id": "c",
+          "text": "Provide analgesia or prepare for local anesthesia as prescribed",
+          "correct": true,
+          "rationale": "Correct. Reduction is painful; pain control is important."
+        },
+        {
+          "id": "d",
+          "text": "Apply heat to soften the foreskin",
+          "correct": false,
+          "rationale": "Heat increases swelling."
+        },
+        {
+          "id": "e",
+          "text": "Discharge the child with no follow-up",
+          "correct": false,
+          "rationale": "Follow-up is needed to assess for recurrence and possible circumcision."
+        }
+      ],
+      "explanation": "Paraphimosis management: cold, gentle compression, analgesia, manual reduction, and surgical intervention if reduction fails. Families are taught to always return the foreskin after cleaning."
+    },
+    {
+      "id": "phimosis-05",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 5-year-old has phimosis with ballooning of the foreskin and a spraying urine stream. The provider prescribes a topical corticosteroid cream. The parent asks how this will help. Which response is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It treats a bacterial infection that has made the foreskin swell.",
+          "correct": false,
+          "rationale": "Corticosteroids are not antibacterial."
+        },
+        {
+          "id": "b",
+          "text": "It thins and softens the foreskin so it can gradually retract.",
+          "correct": true,
+          "rationale": "Correct. Topical corticosteroids thin and soften the foreskin, allowing gradual retraction and often avoiding surgery."
+        },
+        {
+          "id": "c",
+          "text": "It numbs the area so the foreskin can be forced back.",
+          "correct": false,
+          "rationale": "Corticosteroids are not anesthetics, and forced retraction is never recommended."
+        },
+        {
+          "id": "d",
+          "text": "It will make circumcision unnecessary in all cases.",
+          "correct": false,
+          "rationale": "Steroids are effective for many but not all boys."
+        }
+      ],
+      "explanation": "Topical corticosteroid cream applied to the foreskin opening for several weeks, combined with gentle retraction, is first-line treatment for persistent phimosis. Circumcision is reserved for failure or pathologic scarring."
+    },
+    {
+      "id": "phimosis-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-year-old uncircumcised boy has redness, swelling, and yellow discharge from the tip of the penis, and he cries when urinating. What is the most likely problem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paraphimosis",
+          "correct": false,
+          "rationale": "Paraphimosis involves a retracted foreskin that cannot be returned, not discharge."
+        },
+        {
+          "id": "b",
+          "text": "Testicular torsion",
+          "correct": false,
+          "rationale": "Torsion affects the scrotum and causes sudden severe testicular pain."
+        },
+        {
+          "id": "c",
+          "text": "Balanitis",
+          "correct": true,
+          "rationale": "Correct. Balanitis is inflammation of the glans with redness, swelling, discharge, and pain, often related to poor hygiene or irritation."
+        },
+        {
+          "id": "d",
+          "text": "Physiologic phimosis",
+          "correct": false,
+          "rationale": "Physiologic phimosis is painless and normal."
+        }
+      ],
+      "explanation": "Balanitis is treated with warm sitz baths, gentle hygiene, and topical or oral antimicrobials as prescribed. Recurrent balanitis may be an indication for circumcision."
+    },
+    {
+      "id": "phimosis-07",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is teaching the parent of a newborn how to care for a circumcision (not Plastibell). Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Perform hand hygiene and gather supplies"
+        },
+        {
+          "id": "b",
+          "text": "Gently clean the penis with warm water at the diaper change"
+        },
+        {
+          "id": "c",
+          "text": "Apply petroleum jelly or petroleum gauze to the tip of the penis"
+        },
+        {
+          "id": "d",
+          "text": "Fasten the diaper loosely to avoid pressure on the penis"
+        },
+        {
+          "id": "e",
+          "text": "Monitor and record voiding and check for bleeding"
+        }
+      ],
+      "explanation": "Circumcision care includes hand hygiene, gentle cleansing with warm water, petroleum application to prevent sticking, loose diapering, and monitoring for voiding and bleeding."
+    },
+    {
+      "id": "phimosis-08",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing post-circumcision findings for a newborn. Which findings should be reported to the provider? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steady bleeding that soaks the diaper area",
+          "correct": true,
+          "rationale": "Correct. Active bleeding needs prompt evaluation."
+        },
+        {
+          "id": "b",
+          "text": "No void in 8 hours after the procedure",
+          "correct": true,
+          "rationale": "Correct. Failure to void suggests urethral obstruction or swelling."
+        },
+        {
+          "id": "c",
+          "text": "Yellowish crust on the glans on day 2",
+          "correct": false,
+          "rationale": "A yellow crust is normal granulation tissue and should not be removed."
+        },
+        {
+          "id": "d",
+          "text": "Increasing swelling, foul-smelling drainage, and fever",
+          "correct": true,
+          "rationale": "Correct. These suggest infection."
+        },
+        {
+          "id": "e",
+          "text": "Mild redness of the glans",
+          "correct": false,
+          "rationale": "Mild redness is expected during healing."
+        }
+      ],
+      "explanation": "After circumcision, normal findings include mild redness and yellow crusting. Report active bleeding, no void within 6-8 hours, and signs of infection."
+    },
+    {
+      "id": "phimosis-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A newborn had a circumcision with a Plastibell device. Which instruction should the nurse give the parents?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply petroleum jelly around the ring at every diaper change.",
+          "correct": false,
+          "rationale": "Petroleum is generally avoided with a Plastibell because it can loosen the ring prematurely."
+        },
+        {
+          "id": "b",
+          "text": "The plastic ring will fall off on its own in about 5 to 8 days.",
+          "correct": true,
+          "rationale": "Correct. The ring falls off naturally once healing occurs; parents call the provider if it has not fallen off after about 8 days or if the penis swells."
+        },
+        {
+          "id": "c",
+          "text": "Pull the ring off if it has not fallen off in 2 days.",
+          "correct": false,
+          "rationale": "Parents should never remove the ring; it usually falls off by itself in 5-8 days."
+        },
+        {
+          "id": "d",
+          "text": "Wash the area with alcohol to prevent infection.",
+          "correct": false,
+          "rationale": "Alcohol irritates the tissue and is not recommended."
+        }
+      ],
+      "explanation": "Plastibell care includes gentle cleansing with warm water, no petroleum unless prescribed, and allowing the ring to fall off on its own. Report swelling, bleeding, or failure of the ring to fall off within about 8 days."
+    },
+    {
+      "id": "phimosis-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A parent of a 2-year-old uncircumcised boy received teaching about foreskin care. Which statement shows a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will clean the outside of his penis with warm water during baths.",
+          "correct": false,
+          "rationale": "Correct understanding."
+        },
+        {
+          "id": "b",
+          "text": "I will not force his foreskin back.",
+          "correct": false,
+          "rationale": "Correct understanding."
+        },
+        {
+          "id": "c",
+          "text": "I will call if his foreskin balloons a lot when he urinates or he has trouble peeing.",
+          "correct": false,
+          "rationale": "Correct understanding; these signs need evaluation."
+        },
+        {
+          "id": "d",
+          "text": "I will pull his foreskin all the way back every night to keep it from getting tight.",
+          "correct": true,
+          "rationale": "Correct (needs teaching). Forcible retraction can cause tears, scarring, and paraphimosis."
+        }
+      ],
+      "explanation": "Parents should never forcibly retract the foreskin. Teaching emphasizes gentle hygiene, allowing natural separation, and reporting urinary symptoms or infection."
+    }
+  ]
+}

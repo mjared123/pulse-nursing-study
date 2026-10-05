@@ -1,0 +1,434 @@
+{
+  "slug": "hemophilia",
+  "title": "Hemophilia",
+  "short": "Hemophilia",
+  "icon": "droplet",
+  "description": "Hemophilia A and B in children: X-linked inheritance, labs, hemarthrosis, factor replacement and DDAVP, bleeding precautions, intracranial bleeding, and safe activity.",
+  "keyPoints": [
+    "X-linked recessive: affected males, carrier females. Hemophilia A = factor VIII deficiency; hemophilia B = factor IX deficiency.",
+    "Labs: prolonged PTT, normal PT, normal platelet count; low factor VIII or IX activity.",
+    "Hemarthrosis is the most common bleed (warmth, pain, stiffness, swelling). Repeated bleeds cause permanent joint damage.",
+    "Treat bleeds with factor replacement plus RICE (rest, ice, compression, elevation). DDAVP for mild hemophilia A.",
+    "Avoid IM injections, rectal temperatures, aspirin, and NSAIDs. Use acetaminophen for pain.",
+    "Head injury with headache, vomiting, irritability, or lethargy = possible intracranial bleed; give factor and seek emergency care.",
+    "Encourage noncontact exercise like swimming; avoid contact sports. Wear a medical alert ID."
+  ],
+  "questions": [
+    {
+      "id": "hemophilia-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A mother who is a carrier of hemophilia A and a father without hemophilia ask about their children's risk. Which statement is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Each son has a 50% chance of hemophilia, and each daughter a 50% chance of being a carrier.",
+          "correct": true,
+          "rationale": "Correct. Hemophilia is X-linked recessive. A carrier mother passes the affected X to half her children: affected sons, carrier daughters."
+        },
+        {
+          "id": "b",
+          "text": "All sons will have hemophilia, and all daughters will be carriers.",
+          "correct": false,
+          "rationale": "Only children who inherit the affected X are affected or carriers; each son has a 50%, not 100%, chance."
+        },
+        {
+          "id": "c",
+          "text": "Daughters have a 50% chance of severe hemophilia, and sons will be carriers.",
+          "correct": false,
+          "rationale": "Daughters receive a normal X from the father and are carriers, not affected; males with the affected X have hemophilia rather than being carriers."
+        },
+        {
+          "id": "d",
+          "text": "Only the first-born son is at risk, and later children will be unaffected.",
+          "correct": false,
+          "rationale": "Each pregnancy carries the same independent risk."
+        }
+      ],
+      "explanation": "Hemophilia A (factor VIII deficiency, about 80-85%) and hemophilia B (factor IX deficiency, Christmas disease) are X-linked recessive. Males are affected; females are usually carriers. About one-third of cases arise from new mutations."
+    },
+    {
+      "id": "hemophilia-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 11-month-old boy is evaluated for a large bruise on the thigh after crawling and prolonged bleeding after a heel stick. Which laboratory results are consistent with hemophilia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prolonged PT, normal PTT, low platelet count",
+          "correct": false,
+          "rationale": "A low platelet count suggests thrombocytopenia, and a prolonged PT suggests a different factor or liver problem."
+        },
+        {
+          "id": "b",
+          "text": "Normal PT, prolonged PTT, normal platelet count",
+          "correct": true,
+          "rationale": "Correct. Factors VIII and IX are part of the intrinsic pathway measured by the PTT. Platelets and the extrinsic pathway (PT) are normal."
+        },
+        {
+          "id": "c",
+          "text": "Normal PT, normal PTT, low platelet count",
+          "correct": false,
+          "rationale": "This pattern suggests immune thrombocytopenia (ITP)."
+        },
+        {
+          "id": "d",
+          "text": "Prolonged PT and PTT with low fibrinogen",
+          "correct": false,
+          "rationale": "This pattern suggests disseminated intravascular coagulation."
+        }
+      ],
+      "explanation": "Hemophilia labs: prolonged PTT, normal PT, normal platelet count and bleeding time, and low factor VIII or IX activity. Diagnosis is confirmed by factor assay."
+    },
+    {
+      "id": "hemophilia-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 7-year-old with hemophilia A falls off a bike and reports a painful, warm, swollen right knee. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer the prescribed factor VIII concentrate.",
+          "correct": true,
+          "rationale": "Correct. Factor replacement is the priority treatment for a hemarthrosis and should be given as soon as possible to stop the bleeding."
+        },
+        {
+          "id": "b",
+          "text": "Apply heat and encourage range-of-motion exercises.",
+          "correct": false,
+          "rationale": "Heat increases bleeding; exercise is avoided during an acute bleed."
+        },
+        {
+          "id": "c",
+          "text": "Give ibuprofen for pain.",
+          "correct": false,
+          "rationale": "NSAIDs impair platelet function and increase bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Wrap the knee and have the child walk on it to prevent stiffness.",
+          "correct": false,
+          "rationale": "Weight bearing during an acute joint bleed worsens bleeding and damage."
+        }
+      ],
+      "explanation": "Hemarthrosis is the most common bleeding site in hemophilia. Treat promptly with factor replacement plus RICE (rest, ice, compression, elevation). Repeated joint bleeds cause chronic arthropathy and disability."
+    },
+    {
+      "id": "hemophilia-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 6-year-old with an acute bleed into the elbow joint. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Immobilize and rest the joint",
+          "correct": true,
+          "rationale": "Rest limits further bleeding."
+        },
+        {
+          "id": "b",
+          "text": "Apply ice for short periods",
+          "correct": true,
+          "rationale": "Cold promotes vasoconstriction and reduces pain and swelling."
+        },
+        {
+          "id": "c",
+          "text": "Elevate the arm above heart level",
+          "correct": true,
+          "rationale": "Elevation reduces blood flow to the area."
+        },
+        {
+          "id": "d",
+          "text": "Give aspirin for pain",
+          "correct": false,
+          "rationale": "Aspirin inhibits platelet function and increases bleeding."
+        },
+        {
+          "id": "e",
+          "text": "Apply gentle compression with an elastic wrap",
+          "correct": true,
+          "rationale": "Compression helps limit bleeding into the joint."
+        },
+        {
+          "id": "f",
+          "text": "Begin vigorous physical therapy right away",
+          "correct": false,
+          "rationale": "Passive and active exercises begin after the acute bleed is controlled, usually within 48 hours, to prevent stiffness."
+        }
+      ],
+      "explanation": "RICE (rest, ice, compression, elevation) plus factor replacement treats bleeds. Use acetaminophen or opioids for pain, never aspirin or NSAIDs. Physical therapy begins once bleeding has stopped."
+    },
+    {
+      "id": "hemophilia-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old with severe hemophilia A fell and hit his head 2 hours ago. He is now irritable, vomiting, and says his head hurts. What should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Viral gastroenteritis",
+          "correct": false,
+          "rationale": "Vomiting alone could be gastroenteritis, but combined with a recent head injury, headache, and irritability in hemophilia, a bleed must be assumed."
+        },
+        {
+          "id": "b",
+          "text": "Expected behavior after a minor fall",
+          "correct": false,
+          "rationale": "Any head trauma in hemophilia is treated as a potential emergency."
+        },
+        {
+          "id": "c",
+          "text": "Intracranial hemorrhage",
+          "correct": true,
+          "rationale": "Correct. Headache, vomiting, irritability, lethargy, or changes in level of consciousness after head trauma suggest an intracranial bleed, the leading cause of death from bleeding in hemophilia. Factor is given immediately."
+        },
+        {
+          "id": "d",
+          "text": "Hemarthrosis",
+          "correct": false,
+          "rationale": "Hemarthrosis causes joint pain and swelling, not headache and vomiting."
+        }
+      ],
+      "explanation": "Intracranial bleeding is a medical emergency in hemophilia. Give factor replacement before imaging when a significant head injury occurs, and monitor neurologic status closely."
+    },
+    {
+      "id": "hemophilia-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 9-year-old has mild hemophilia A. The provider prescribes desmopressin (DDAVP) before a dental extraction. How does this medication work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It replaces the missing factor IX needed to form a stable clot.",
+          "correct": false,
+          "rationale": "DDAVP does not contain clotting factor and is not effective for hemophilia B."
+        },
+        {
+          "id": "b",
+          "text": "It dissolves existing clots.",
+          "correct": false,
+          "rationale": "Desmopressin promotes clotting; it does not dissolve clots."
+        },
+        {
+          "id": "c",
+          "text": "It releases stored factor VIII and von Willebrand factor.",
+          "correct": true,
+          "rationale": "Correct. Desmopressin, a synthetic vasopressin, increases factor VIII levels 3-4 fold in mild hemophilia A."
+        },
+        {
+          "id": "d",
+          "text": "It increases platelet production in the bone marrow.",
+          "correct": false,
+          "rationale": "DDAVP does not stimulate the bone marrow."
+        }
+      ],
+      "explanation": "DDAVP (IV or intranasal) is used for mild hemophilia A and von Willebrand disease. Monitor for fluid retention and hyponatremia, so fluids may be restricted around dosing. Antifibrinolytics such as aminocaproic acid are often used for mouth bleeding."
+    },
+    {
+      "id": "hemophilia-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a hospitalized 5-year-old with hemophilia B. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid intramuscular injections whenever possible",
+          "correct": true,
+          "rationale": "IM injections can cause deep muscle hematomas; use the subcutaneous or IV route."
+        },
+        {
+          "id": "b",
+          "text": "Take temperatures by the rectal route",
+          "correct": false,
+          "rationale": "Rectal temperatures can injure the mucosa and cause bleeding; use oral, axillary, or tympanic routes."
+        },
+        {
+          "id": "c",
+          "text": "Apply pressure for at least 5 minutes after venipuncture",
+          "correct": true,
+          "rationale": "Prolonged pressure promotes hemostasis after needle sticks."
+        },
+        {
+          "id": "d",
+          "text": "Use a soft toothbrush",
+          "correct": true,
+          "rationale": "A soft toothbrush prevents gum bleeding while maintaining good oral hygiene."
+        },
+        {
+          "id": "e",
+          "text": "Give acetaminophen for mild pain",
+          "correct": true,
+          "rationale": "Acetaminophen does not affect platelet function and is safe."
+        },
+        {
+          "id": "f",
+          "text": "Encourage use of a straight razor when older",
+          "correct": false,
+          "rationale": "An electric razor is recommended to prevent cuts."
+        }
+      ],
+      "explanation": "Bleeding precautions in hemophilia: no IM injections or rectal temps, no aspirin or NSAIDs, prolonged pressure after punctures, soft toothbrush, electric razor, and padded environment for toddlers."
+    },
+    {
+      "id": "hemophilia-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 12-year-old with hemophilia A is learning to self-infuse factor VIII at home for a bleed. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Recognize early signs of a bleed, such as tingling or warmth in a joint"
+        },
+        {
+          "id": "b",
+          "text": "Perform hand hygiene and gather supplies"
+        },
+        {
+          "id": "c",
+          "text": "Reconstitute the factor concentrate according to directions"
+        },
+        {
+          "id": "d",
+          "text": "Perform venipuncture and infuse the factor IV at the prescribed rate"
+        },
+        {
+          "id": "e",
+          "text": "Apply pressure to the site and record the date, dose, and reason in the infusion log"
+        }
+      ],
+      "explanation": "School-age children can learn to self-infuse with supervision, promoting independence. Early recognition (aura, tingling, warmth) and prompt infusion limit joint damage. Records help the hemophilia team adjust prophylaxis."
+    },
+    {
+      "id": "hemophilia-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parents of a 10-year-old with hemophilia ask which activity is safest for their son. Which activity should the nurse recommend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football",
+          "correct": false,
+          "rationale": "Contact sports carry a high risk of serious bleeding and head injury."
+        },
+        {
+          "id": "b",
+          "text": "Ice hockey",
+          "correct": false,
+          "rationale": "Ice hockey is a high-contact sport with risk of trauma."
+        },
+        {
+          "id": "c",
+          "text": "Wrestling",
+          "correct": false,
+          "rationale": "Wrestling involves direct body contact and joint stress."
+        },
+        {
+          "id": "d",
+          "text": "Swimming",
+          "correct": true,
+          "rationale": "Correct. Swimming strengthens muscles that support and protect joints with minimal risk of trauma."
+        }
+      ],
+      "explanation": "Regular noncontact exercise (swimming, biking with a helmet, walking, golf) strengthens muscles around joints and reduces bleeding. Contact sports such as football, hockey, and wrestling are discouraged."
+    },
+    {
+      "id": "hemophilia-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse reviews the medication list of a 14-year-old with hemophilia A who reports a headache after a soccer practice without head injury. Which medication should the nurse question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ibuprofen 400 mg PO every 6 hours as needed",
+          "correct": true,
+          "rationale": "Correct. NSAIDs inhibit platelet aggregation and increase the risk of bleeding in hemophilia."
+        },
+        {
+          "id": "b",
+          "text": "Acetaminophen 650 mg PO every 6 hours as needed",
+          "correct": false,
+          "rationale": "Acetaminophen does not affect platelets and is the preferred analgesic."
+        },
+        {
+          "id": "c",
+          "text": "Factor VIII concentrate IV as needed for bleeds",
+          "correct": false,
+          "rationale": "Factor replacement is the standard treatment."
+        },
+        {
+          "id": "d",
+          "text": "Emicizumab subcutaneously every week",
+          "correct": false,
+          "rationale": "Emicizumab is a prophylactic agent that mimics factor VIII and reduces bleeding episodes in hemophilia A."
+        }
+      ],
+      "explanation": "Avoid aspirin and NSAIDs (ibuprofen, naproxen) in hemophilia. Teach families to read labels on over-the-counter products, which may contain aspirin or salicylates."
+    },
+    {
+      "id": "hemophilia-11",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse provides teaching to the parents of a 2-year-old newly diagnosed with severe hemophilia A. Which statement indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We'll get our son a medical alert bracelet.\"",
+          "correct": false,
+          "rationale": "This is correct. A medical ID alerts responders to the diagnosis in an emergency."
+        },
+        {
+          "id": "b",
+          "text": "\"We'll pad the corners of the coffee table and use knee pads when he is learning to climb.\"",
+          "correct": false,
+          "rationale": "This is correct. Safety proofing reduces injury in active toddlers."
+        },
+        {
+          "id": "c",
+          "text": "\"We'll give children's aspirin if he has a fever.\"",
+          "correct": true,
+          "rationale": "Correct choice, because this statement is wrong. Aspirin impairs platelet function and increases bleeding; acetaminophen is used instead."
+        },
+        {
+          "id": "d",
+          "text": "\"We'll make sure his dentist knows about the hemophilia.\"",
+          "correct": false,
+          "rationale": "This is correct. Dental procedures may require factor or antifibrinolytic therapy beforehand."
+        }
+      ],
+      "explanation": "Teaching: medical ID, home safety, recognize and treat bleeds early, avoid aspirin and NSAIDs, good dental hygiene, routine immunizations given subcutaneously when possible with pressure, and genetic counseling."
+    },
+    {
+      "id": "hemophilia-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse is evaluating outcomes for a 13-year-old with hemophilia A who was treated for a knee hemarthrosis. Which finding indicates that treatment was effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The adolescent reports pain of 6/10 and the knee remains warm.",
+          "correct": false,
+          "rationale": "Ongoing pain and warmth suggest continued bleeding or inflammation."
+        },
+        {
+          "id": "b",
+          "text": "The PTT is unchanged from the value measured on admission.",
+          "correct": false,
+          "rationale": "Hemophilia causes a chronically prolonged PTT; the joint response is the meaningful outcome."
+        },
+        {
+          "id": "c",
+          "text": "The adolescent needs crutches to avoid all movement for 2 weeks.",
+          "correct": false,
+          "rationale": "Prolonged immobility causes stiffness; gradual return to motion is the goal."
+        },
+        {
+          "id": "d",
+          "text": "Knee swelling has decreased, and the knee bends with only mild discomfort.",
+          "correct": true,
+          "rationale": "Correct. Reduced swelling and improving range of motion show the bleed has stopped and the joint is recovering."
+        }
+      ],
+      "explanation": "Outcomes after a joint bleed include reduced pain and swelling, restored range of motion, and prevention of chronic arthropathy. Prophylactic factor infusions reduce the frequency of joint bleeds."
+    }
+  ]
+}

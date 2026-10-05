@@ -1,0 +1,546 @@
+{
+  "slug": "cleft-lip-palate",
+  "title": "Cleft Lip & Cleft Palate",
+  "short": "Cleft Lip/Palate",
+  "icon": "shield",
+  "description": "Cleft lip and palate in infants: embryology and risk factors, feeding techniques, timing of repair, postoperative airway and suture-line care, long-term ear, speech, and dental problems, and supporting parental bonding.",
+  "keyPoints": [
+    "Cleft lip results from failure of the maxillary and medial nasal processes to fuse (weeks 5-8 of gestation). Cleft palate results from failure of the palatal shelves to fuse (weeks 7-12). The cause is multifactorial; prenatal folic acid lowers risk, while maternal smoking, alcohol, and anticonvulsants raise it.",
+    "Feeding: hold the infant upright, use a special nipple or bottle (Haberman, Pigeon, squeezable bottle), burp frequently because the infant swallows air, and limit feedings to about 20-30 minutes. ESSR: Enlarge the nipple, Stimulate sucking, Swallow, Rest.",
+    "Timing: lip repair (cheiloplasty) at about 10-12 weeks; palate repair (palatoplasty) at about 6-12 months, before speech develops.",
+    "After lip repair: position on the back or side, never prone; protect the suture line (Logan bow, avoid crying); cleanse with saline or sterile water as ordered.",
+    "After palate repair: prone or side-lying is acceptable to drain secretions. Nothing in the mouth: no straws, spoons, pacifiers, or tongue depressors. Use a wide-mouthed cup.",
+    "Use soft elbow immobilizers to keep hands from the mouth; remove them one at a time, under supervision, to check skin and allow range of motion.",
+    "Post-op priority is airway: watch for respiratory distress, bleeding (frequent swallowing), and edema.",
+    "Long-term: recurrent otitis media from eustachian tube dysfunction (risk of conductive hearing loss), speech problems, and dental malocclusion. A multidisciplinary team is needed, and nurses should model acceptance to support parental bonding and grief."
+  ],
+  "questions": [
+    {
+      "id": "cleft-lip-palate-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Parents of a newborn with a unilateral cleft lip and palate ask when the lip will be repaired. The nurse explains that cleft lip repair is usually performed at about what age?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Within 24 hours of birth",
+          "correct": false,
+          "rationale": "Immediate repair is not standard; the infant must be stable, gaining weight, and able to tolerate anesthesia."
+        },
+        {
+          "id": "b",
+          "text": "12-18 months, at the same time as palate repair",
+          "correct": false,
+          "rationale": "The lip is repaired earlier than the palate. Palate repair is usually done at 6-12 months."
+        },
+        {
+          "id": "c",
+          "text": "10-12 weeks of age",
+          "correct": true,
+          "rationale": "Correct. Lip repair (cheiloplasty) is commonly done at about 10-12 weeks, once the infant is gaining weight well. It restores appearance and improves feeding and bonding."
+        },
+        {
+          "id": "d",
+          "text": "After the child starts school",
+          "correct": false,
+          "rationale": "Waiting this long would interfere with feeding, bonding, and speech development."
+        }
+      ],
+      "explanation": "Typical timeline: lip repair at about 10-12 weeks, palate repair at about 6-12 months (before speech develops), with later revisions, orthodontics, and speech therapy as needed."
+    },
+    {
+      "id": "cleft-lip-palate-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A student nurse asks how a cleft lip develops. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The maxillary and medial nasal processes fail to fuse during roughly weeks 5-8 of gestation.",
+          "correct": true,
+          "rationale": "Correct. Cleft lip results from incomplete fusion of the maxillary and medial nasal processes early in embryonic development."
+        },
+        {
+          "id": "b",
+          "text": "The defect forms in the third trimester when the fetus begins swallowing amniotic fluid.",
+          "correct": false,
+          "rationale": "Facial structures form in the first trimester, long before the third trimester."
+        },
+        {
+          "id": "c",
+          "text": "It is caused by trauma to the fetal face during vaginal birth.",
+          "correct": false,
+          "rationale": "Cleft lip is a congenital malformation of embryonic development, not a birth injury."
+        },
+        {
+          "id": "d",
+          "text": "It is always inherited as an autosomal dominant single-gene disorder.",
+          "correct": false,
+          "rationale": "Most clefts are multifactorial (genetic plus environmental). Single-gene syndromes account for only a minority."
+        }
+      ],
+      "explanation": "Cleft lip forms when facial processes fail to fuse around weeks 5-8. Cleft palate forms when the palatal shelves fail to fuse around weeks 7-12. The two can occur together or separately."
+    },
+    {
+      "id": "cleft-lip-palate-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A woman who has a child with a cleft palate is planning another pregnancy and asks how to reduce the risk for her next baby. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"There is nothing that changes the risk because clefts are purely genetic.\"",
+          "correct": false,
+          "rationale": "Clefts are multifactorial, so modifiable environmental factors do play a role."
+        },
+        {
+          "id": "b",
+          "text": "\"Avoiding all dairy products in the first trimester will prevent a cleft from forming in the next baby.\"",
+          "correct": false,
+          "rationale": "Dairy intake is not linked to cleft formation."
+        },
+        {
+          "id": "c",
+          "text": "\"Clefts only happen once in a family, so your risk is now lower than average.\"",
+          "correct": false,
+          "rationale": "Having an affected child INCREASES recurrence risk for future pregnancies. Genetic counseling may be offered."
+        },
+        {
+          "id": "d",
+          "text": "\"Taking folic acid before and during early pregnancy, and avoiding smoking and alcohol, may lower it.\"",
+          "correct": true,
+          "rationale": "Correct. Clefts are multifactorial. Folic acid supplementation is associated with reduced risk, and maternal smoking, alcohol, and some medications (such as certain anticonvulsants) increase risk."
+        }
+      ],
+      "explanation": "Cleft lip and palate are multifactorial. Recurrence risk is higher in families with an affected member. Prenatal folic acid and avoiding teratogens (smoking, alcohol, phenytoin and other anticonvulsants) are recommended."
+    },
+    {
+      "id": "cleft-lip-palate-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is feeding a 2-day-old with a complete cleft lip and palate. Which technique is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feed the infant lying flat with a standard nipple to encourage a strong suck",
+          "correct": false,
+          "rationale": "A flat position increases the risk of aspiration and nasal regurgitation, and a standard nipple needs suction the infant cannot generate."
+        },
+        {
+          "id": "b",
+          "text": "Hold the infant upright, use a cleft nipple or squeeze bottle, and burp often",
+          "correct": true,
+          "rationale": "Correct. Upright positioning reduces aspiration and nasal regurgitation, special feeders compensate for poor suction, and frequent burping removes the excess air these infants swallow."
+        },
+        {
+          "id": "c",
+          "text": "Feed only by nasogastric tube until surgery to prevent aspiration",
+          "correct": false,
+          "rationale": "Most infants with clefts can feed orally with special equipment. Tube feeding is reserved for those who cannot."
+        },
+        {
+          "id": "d",
+          "text": "Allow feedings to last up to an hour to maximize intake and weight gain",
+          "correct": false,
+          "rationale": "Long feedings exhaust the infant and burn calories. Feedings should be limited to about 20-30 minutes."
+        }
+      ],
+      "explanation": "Infants with cleft palate cannot create a seal or suction. Use special nipples or bottles (Haberman, Pigeon, squeeze bottles), upright positioning, frequent burping, and time-limited feedings. Breastfeeding may work for isolated cleft lip."
+    },
+    {
+      "id": "cleft-lip-palate-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching the parents of an infant with cleft palate how to feed their baby. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hold the baby in an upright position during feedings",
+          "correct": true,
+          "rationale": "Correct. An upright position (45-90 degrees) lets gravity move fluid toward the esophagus and reduces nasal regurgitation and aspiration."
+        },
+        {
+          "id": "b",
+          "text": "Burp the baby frequently during the feeding",
+          "correct": true,
+          "rationale": "Correct. Infants with clefts swallow large amounts of air and need frequent burping."
+        },
+        {
+          "id": "c",
+          "text": "Lay the baby flat after feeding to promote sleep",
+          "correct": false,
+          "rationale": "Lying flat right after feeding increases the risk of regurgitation and aspiration."
+        },
+        {
+          "id": "d",
+          "text": "Gently squeeze the bottle in rhythm with the baby's sucking, then allow time to swallow and rest",
+          "correct": true,
+          "rationale": "Correct. This follows ESSR (Enlarge, Stimulate, Swallow, Rest) and prevents choking from too much flow."
+        },
+        {
+          "id": "e",
+          "text": "Limit each feeding to about 20-30 minutes",
+          "correct": true,
+          "rationale": "Correct. Longer feedings fatigue the infant and burn calories needed for growth."
+        },
+        {
+          "id": "f",
+          "text": "Enlarge the nipple hole with a hot needle so milk pours freely",
+          "correct": false,
+          "rationale": "Uncontrolled flow causes choking and aspiration. Use manufacturer cleft nipples or controlled-flow squeeze bottles."
+        }
+      ],
+      "explanation": "The ESSR method (Enlarge the nipple, Stimulate the suck reflex, Swallow, Rest) plus upright positioning, frequent burping, and time-limited feeds helps infants with clefts feed safely and gain weight."
+    },
+    {
+      "id": "cleft-lip-palate-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An infant returns from surgery after cleft lip repair. How should the nurse position the infant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Supine or side-lying, or upright in an infant seat",
+          "correct": true,
+          "rationale": "Correct. After lip repair, keep the infant off the abdomen so the suture line does not rub against the bedding. A side-lying position also helps drain oral secretions."
+        },
+        {
+          "id": "b",
+          "text": "Prone, with the head turned to one side",
+          "correct": false,
+          "rationale": "The prone position lets the face rub on the sheets and can disrupt the lip suture line."
+        },
+        {
+          "id": "c",
+          "text": "Trendelenburg, to promote drainage of secretions",
+          "correct": false,
+          "rationale": "Head-down positioning is not used and can increase facial edema."
+        },
+        {
+          "id": "d",
+          "text": "Prone, with the face on a soft pillow",
+          "correct": false,
+          "rationale": "Prone positioning is avoided after lip repair, and soft pillows are a suffocation hazard for infants."
+        }
+      ],
+      "explanation": "Key difference: after LIP repair, never place prone (protect the suture line). After PALATE repair, prone or side-lying is acceptable to help secretions drain."
+    },
+    {
+      "id": "cleft-lip-palate-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 3-month-old the day after cleft lip repair. Which action helps protect the suture line?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Allow the infant to cry for short periods to strengthen the lip muscles",
+          "correct": false,
+          "rationale": "Crying puts tension on the suture line. Comfort measures and pain medication should be used to keep the infant calm."
+        },
+        {
+          "id": "b",
+          "text": "Give the infant a pacifier to promote comfort and reduce crying",
+          "correct": false,
+          "rationale": "Sucking on a pacifier stresses the lip suture line and is avoided after repair."
+        },
+        {
+          "id": "c",
+          "text": "Gently cleanse the suture line with a cotton-tipped applicator and saline after feedings",
+          "correct": true,
+          "rationale": "Correct. Gentle cleansing removes formula and crusts that could cause infection or scarring. An antibiotic ointment may be ordered afterward."
+        },
+        {
+          "id": "d",
+          "text": "Rub dried formula off the incision with a dry washcloth to prevent crusting",
+          "correct": false,
+          "rationale": "Rubbing can disrupt sutures. Cleansing should be gentle dabbing with a moistened applicator."
+        }
+      ],
+      "explanation": "Protect the lip repair from tension and trauma: prevent crying, avoid sucking objects, use elbow immobilizers, use a Logan bow if ordered, and clean the incision gently after feedings."
+    },
+    {
+      "id": "cleft-lip-palate-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-month-old wears soft elbow immobilizers after cleft lip repair. The parent asks whether the immobilizers can ever be taken off. Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leave both immobilizers on continuously until the sutures are removed to protect the repair",
+          "correct": false,
+          "rationale": "Continuous restraint without checks risks skin breakdown, impaired circulation, and joint stiffness."
+        },
+        {
+          "id": "b",
+          "text": "Remove both immobilizers while the infant sleeps",
+          "correct": false,
+          "rationale": "Infants move their hands toward the face during sleep and could injure the repair if unrestrained."
+        },
+        {
+          "id": "c",
+          "text": "Replace the immobilizers with mittens so the infant can bend the elbows",
+          "correct": false,
+          "rationale": "Mittens do not prevent the infant from rubbing or putting hands near the suture line."
+        },
+        {
+          "id": "d",
+          "text": "Remove one immobilizer at a time, under supervision, to check skin and do range of motion",
+          "correct": true,
+          "rationale": "Correct. Removing one at a time under direct supervision keeps the infant from reaching the mouth while still allowing skin assessment, circulation checks, and joint movement."
+        }
+      ],
+      "explanation": "Elbow immobilizers keep hands away from the operative site while allowing some arm movement. Check skin and circulation regularly and remove them one at a time under supervision."
+    },
+    {
+      "id": "cleft-lip-palate-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 10-month-old who had cleft palate repair. Which items should the parents keep out of the child's mouth during healing? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drinking straws",
+          "correct": true,
+          "rationale": "Correct. Straws can puncture or disrupt the palatal suture line."
+        },
+        {
+          "id": "b",
+          "text": "Pacifiers",
+          "correct": true,
+          "rationale": "Correct. Pacifiers and sucking put pressure on the repair and can damage it."
+        },
+        {
+          "id": "c",
+          "text": "A wide-mouthed cup",
+          "correct": false,
+          "rationale": "A wide-mouthed or open cup is the recommended way to give fluids after palate repair."
+        },
+        {
+          "id": "d",
+          "text": "Spoons and forks",
+          "correct": true,
+          "rationale": "Correct. Utensils can poke the palate. Feeding is from the side of a cup, or as otherwise directed by the surgeon."
+        },
+        {
+          "id": "e",
+          "text": "Blenderized soft foods given from a cup",
+          "correct": false,
+          "rationale": "Soft or blenderized foods are typically allowed and given in a way that avoids utensils in the mouth."
+        },
+        {
+          "id": "f",
+          "text": "Soft elbow immobilizers",
+          "correct": false,
+          "rationale": "Elbow immobilizers are recommended to keep the child's hands away from the mouth; they are not placed in the mouth."
+        }
+      ],
+      "explanation": "After palatoplasty nothing hard goes in the mouth: no straws, spoons, forks, pacifiers, tongue depressors, or hard toys. Use cups and soft diets, and keep elbow immobilizers on as ordered."
+    },
+    {
+      "id": "cleft-lip-palate-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Two hours after cleft palate repair, a 9-month-old is swallowing frequently and is restless. HR has risen from 118 to 150 beats/min. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the prescribed opioid for pain and recheck vital signs in 1 hour",
+          "correct": false,
+          "rationale": "Restlessness may be pain, but frequent swallowing and tachycardia point to possible hemorrhage, which must be ruled out first."
+        },
+        {
+          "id": "b",
+          "text": "Look in the mouth with a flashlight for bleeding and notify the surgeon",
+          "correct": true,
+          "rationale": "Correct. Frequent swallowing and rising HR suggest bleeding from the palatal repair. The nurse looks with a light (no tongue blade, which could disrupt sutures) and reports right away."
+        },
+        {
+          "id": "c",
+          "text": "Offer a bottle of clear fluid to soothe the child and moisten the mouth",
+          "correct": false,
+          "rationale": "Bottles and sucking are avoided after palate repair, and feeding a child who may be bleeding is unsafe."
+        },
+        {
+          "id": "d",
+          "text": "Suction deeply with a rigid oral catheter to clear secretions from the airway",
+          "correct": false,
+          "rationale": "Rigid suction catheters can damage the repair. Suction, if needed, is gentle and avoids the palate."
+        }
+      ],
+      "explanation": "After palate repair the airway changes and the surgical site is vascular. Watch closely for respiratory distress and bleeding. Frequent swallowing is a classic sign of bleeding, because blood trickles down the back of the throat."
+    },
+    {
+      "id": "cleft-lip-palate-11",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse is providing anticipatory guidance to parents of a child with a repaired cleft palate. Which long-term problems should the nurse discuss? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Recurrent otitis media",
+          "correct": true,
+          "rationale": "Correct. Abnormal palatal muscles impair eustachian tube function, so middle-ear fluid and infections are common. Tympanostomy tubes are often placed."
+        },
+        {
+          "id": "b",
+          "text": "Conductive hearing loss",
+          "correct": true,
+          "rationale": "Correct. Repeated otitis media and middle-ear effusion can cause conductive hearing loss, so hearing should be screened regularly."
+        },
+        {
+          "id": "c",
+          "text": "Speech and articulation difficulties",
+          "correct": true,
+          "rationale": "Correct. Velopharyngeal insufficiency can cause hypernasal speech; speech therapy is often needed."
+        },
+        {
+          "id": "d",
+          "text": "Dental malocclusion and misaligned teeth",
+          "correct": true,
+          "rationale": "Correct. Clefts involving the alveolar ridge affect tooth development; orthodontic care is usually needed."
+        },
+        {
+          "id": "e",
+          "text": "Intellectual disability",
+          "correct": false,
+          "rationale": "An isolated cleft does not cause intellectual disability. Development is expected to be normal unless a syndrome is present."
+        },
+        {
+          "id": "f",
+          "text": "Hirschsprung disease",
+          "correct": false,
+          "rationale": "Hirschsprung disease is an unrelated congenital disorder of the colon."
+        }
+      ],
+      "explanation": "Children with clefts need multidisciplinary follow-up (plastic surgery, ENT, audiology, speech therapy, dentistry/orthodontics, nutrition, social work) because of risks to hearing, speech, and teeth."
+    },
+    {
+      "id": "cleft-lip-palate-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A mother cries when she first sees her newborn with a bilateral cleft lip and says, \"I can't even look at him.\" Which nursing action is most therapeutic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hold the infant warmly, point out his normal features, and show photos of repairs",
+          "correct": true,
+          "rationale": "Correct. Modeling acceptance, emphasizing the infant's positive features, and showing before-and-after repairs supports bonding and gives realistic hope."
+        },
+        {
+          "id": "b",
+          "text": "Take the infant to the nursery until the mother is ready to see him again",
+          "correct": false,
+          "rationale": "Separating the infant may delay bonding. The nurse should support the mother through the reaction instead."
+        },
+        {
+          "id": "c",
+          "text": "Tell the mother she should be grateful the defect can be fixed",
+          "correct": false,
+          "rationale": "This minimizes her feelings. Parents often grieve the loss of the expected \"perfect\" baby and need validation."
+        },
+        {
+          "id": "d",
+          "text": "Explain that her reaction may harm the infant's development and their bond",
+          "correct": false,
+          "rationale": "This adds guilt and blame and does not support the mother."
+        }
+      ],
+      "explanation": "Parents of infants with visible defects often go through grief. Nurses support bonding by modeling acceptance, handling the infant lovingly, giving accurate information about repair, and involving parents early in feeding and care."
+    },
+    {
+      "id": "cleft-lip-palate-13",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating discharge teaching for the parent of an infant who had cleft lip repair. Which statement indicates the need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll keep her arm immobilizers on but take them off one at a time to check her skin.\"",
+          "correct": false,
+          "rationale": "This is correct: immobilizers prevent touching the lip, and supervised one-at-a-time removal allows skin checks."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll gently clean the stitches after feedings like you showed me.\"",
+          "correct": false,
+          "rationale": "This is correct suture-line care to prevent crusting and infection."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll put her to sleep on her tummy so she can't rub her lip on anything.\"",
+          "correct": true,
+          "rationale": "Correct (needs teaching). The prone position is avoided after lip repair because the face can rub against bedding. Infants should sleep on their back."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll try to comfort her quickly when she cries.\"",
+          "correct": false,
+          "rationale": "This is correct: crying stresses the suture line, so prompt comforting is encouraged."
+        }
+      ],
+      "explanation": "After lip repair, teaching includes back or side positioning (never prone), suture-line cleansing, elbow immobilizers with periodic removal, preventing crying, and signs of infection."
+    },
+    {
+      "id": "cleft-lip-palate-14",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is feeding an infant with cleft palate using a squeezable cleft bottle. Place the steps in the correct order, following the ESSR method.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Hold the infant in an upright position"
+        },
+        {
+          "id": "b",
+          "text": "Enlarge the flow by placing the nipple and gently squeezing the bottle"
+        },
+        {
+          "id": "c",
+          "text": "Stimulate the suck reflex by rubbing the nipple on the lower lip"
+        },
+        {
+          "id": "d",
+          "text": "Allow the infant to swallow the fluid"
+        },
+        {
+          "id": "e",
+          "text": "Let the infant rest and burp before continuing"
+        }
+      ],
+      "explanation": "Position upright first to prevent aspiration. Then follow ESSR: Enlarge (deliver flow with the special nipple or squeeze), Stimulate the suck reflex, let the infant Swallow, then Rest and burp to clear swallowed air. Repeat the cycle and limit the feeding to 20-30 minutes."
+    },
+    {
+      "id": "cleft-lip-palate-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "During a bottle feeding, a 3-day-old with an unrepaired cleft palate starts coughing and choking, milk comes from the nose, and circumoral cyanosis develops. What should the nurse do first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continue the feeding more slowly so the infant gets enough calories",
+          "correct": false,
+          "rationale": "Continuing while the infant is choking and cyanotic risks aspiration."
+        },
+        {
+          "id": "b",
+          "text": "Lay the infant flat and give rescue breaths until the cyanosis resolves",
+          "correct": false,
+          "rationale": "Lying flat worsens aspiration of milk. Rescue breaths are not the first step for a choking infant who is coughing."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider that the infant needs a gastrostomy tube placed before the next feeding",
+          "correct": false,
+          "rationale": "Choking during one feeding calls for immediate airway care and feeding-technique changes, not a surgical feeding route."
+        },
+        {
+          "id": "d",
+          "text": "Stop the feeding, sit the infant upright and slightly forward, and suction as needed",
+          "correct": true,
+          "rationale": "Correct. The priority is airway: stop the flow of milk, use gravity to drain the airway, and clear secretions. Then let the infant recover before resuming at a slower rate."
+        }
+      ],
+      "explanation": "Infants with unrepaired cleft palate are at high risk for aspiration and nasal regurgitation. Upright positioning, controlled flow, frequent rests, and suction available at the bedside are key safety measures."
+    }
+  ]
+}

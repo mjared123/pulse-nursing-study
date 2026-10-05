@@ -1,0 +1,923 @@
+{
+  "slug": "congenital-heart",
+  "title": "Congenital Heart Defects",
+  "short": "Congenital Heart",
+  "icon": "septum",
+  "description": "Acyanotic versus cyanotic congenital heart defects in infants and children: hemodynamics, newborn CCHD screening, tet spells, ductal medications, cardiac catheterization care, and family teaching.",
+  "keyPoints": [
+    "Acyanotic, increased pulmonary flow (left-to-right shunt): VSD, ASD, PDA, AV canal. Obstructive: coarctation, aortic stenosis, pulmonic stenosis.",
+    "Cyanotic, decreased pulmonary flow: tetralogy of Fallot, tricuspid atresia. Mixed flow: transposition, truncus arteriosus, HLHS.",
+    "Tet spell: knee-chest position first, calm the child, 100% oxygen, then morphine and IV fluids.",
+    "Coarctation: high BP and bounding pulses in the arms, weak or absent femoral pulses, lower BP in the legs.",
+    "PGE1 (alprostadil) keeps the ductus OPEN for ductal-dependent lesions (watch for apnea). Indomethacin or ibuprofen CLOSES a PDA (watch urine output and bleeding).",
+    "CCHD pulse ox screen after 24 hours: pass if ≥95% in right hand or foot and difference ≤3%; any reading <90% fails.",
+    "Heart failure cues in infants: tachypnea, tachycardia, sweating and fatigue with feeds, poor weight gain. Chronic hypoxemia: clubbing, polycythemia, squatting.",
+    "After cardiac cath: check distal pulses, color and temperature of the extremity, dressing for bleeding, apical HR for 1 full minute; keep the leg straight 4-8 hours."
+  ],
+  "questions": [
+    {
+      "id": "congenital-heart-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nursing student is reviewing congenital heart defects. Which defect is classified as an acyanotic defect with increased pulmonary blood flow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tetralogy of Fallot",
+          "correct": false,
+          "rationale": "Tetralogy of Fallot is a cyanotic defect with decreased pulmonary blood flow caused by pulmonary stenosis and a right-to-left shunt across the VSD."
+        },
+        {
+          "id": "b",
+          "text": "Coarctation of the aorta",
+          "correct": false,
+          "rationale": "Coarctation is an acyanotic obstructive defect; it narrows the aorta and obstructs blood flow out of the heart rather than increasing pulmonary flow."
+        },
+        {
+          "id": "c",
+          "text": "Patent ductus arteriosus",
+          "correct": true,
+          "rationale": "Correct. In PDA, higher aortic pressure shunts blood left to right into the pulmonary artery, increasing pulmonary blood flow without cyanosis."
+        },
+        {
+          "id": "d",
+          "text": "Tricuspid atresia",
+          "correct": false,
+          "rationale": "Tricuspid atresia is a cyanotic defect with decreased pulmonary blood flow because no blood passes directly from the right atrium to the right ventricle."
+        }
+      ],
+      "explanation": "Acyanotic defects with increased pulmonary blood flow (VSD, ASD, PDA, AV canal) shunt left to right. Obstructive defects (coarctation, aortic and pulmonic stenosis) block outflow. Cyanotic defects either decrease pulmonary flow (TOF, tricuspid atresia) or mix blood (transposition, truncus, HLHS)."
+    },
+    {
+      "id": "congenital-heart-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 3-month-old with a large ventricular septal defect asks why the baby is not turning blue. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Pressure is higher on the left side, so oxygen-rich blood flows to the right side and back to the lungs, not out to the body.\"",
+          "correct": true,
+          "rationale": "Correct. Left ventricular pressure exceeds right, so the shunt is left to right; oxygenated blood recirculates to the lungs and systemic blood stays well oxygenated."
+        },
+        {
+          "id": "b",
+          "text": "\"The hole lets blood bypass the lungs, but the baby makes extra red blood cells to keep oxygen levels normal.\"",
+          "correct": false,
+          "rationale": "Blood bypassing the lungs describes a right-to-left shunt, which causes cyanosis. Polycythemia is a compensation seen in cyanotic defects, not a large VSD."
+        },
+        {
+          "id": "c",
+          "text": "\"Babies with a VSD only turn blue when they cry hard or strain during feedings.\"",
+          "correct": false,
+          "rationale": "Cyanosis with crying describes a hypercyanotic (tet) spell in tetralogy of Fallot, not a typical VSD."
+        },
+        {
+          "id": "d",
+          "text": "\"The ductus arteriosus is still carrying oxygen-rich blood to the body until the hole in the heart closes.\"",
+          "correct": false,
+          "rationale": "The ductus closes shortly after birth and does not explain the absence of cyanosis in a 3-month-old with a VSD."
+        }
+      ],
+      "explanation": "A VSD causes a left-to-right shunt and increased pulmonary blood flow. The child is acyanotic but can develop heart failure from pulmonary overcirculation. If pulmonary vascular resistance becomes very high over time, the shunt can reverse (Eisenmenger syndrome) and cause cyanosis."
+    },
+    {
+      "id": "congenital-heart-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with unrepaired tetralogy of Fallot becomes irritable during a blood draw, then deeply cyanotic with rapid, deep respirations. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer morphine sulfate as prescribed.",
+          "correct": false,
+          "rationale": "Morphine reduces infundibular spasm and hyperpnea and is used in tet spells, but positioning is the immediate, non-invasive first action."
+        },
+        {
+          "id": "b",
+          "text": "Place the child in a knee-chest position.",
+          "correct": true,
+          "rationale": "Correct. Knee-chest (or squatting) increases systemic vascular resistance and decreases venous return of desaturated blood from the legs, which pushes more blood through the pulmonary artery and reduces the right-to-left shunt."
+        },
+        {
+          "id": "c",
+          "text": "Place the child supine with the legs flat and call for the rapid response team.",
+          "correct": false,
+          "rationale": "Lying flat does not increase systemic vascular resistance. The nurse should intervene immediately with positioning rather than only call for help."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the child to take slow, deep breaths into a paper bag.",
+          "correct": false,
+          "rationale": "A toddler cannot follow this instruction, and rebreathing would worsen hypoxemia."
+        }
+      ],
+      "explanation": "Hypercyanotic (tet) spells are triggered by crying, feeding, or defecation. Priorities: knee-chest position, calm the child, 100% oxygen, then morphine, IV fluids, and if needed phenylephrine or propranolol as prescribed."
+    },
+    {
+      "id": "congenital-heart-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for an 18-month-old with tetralogy of Fallot who is having a hypercyanotic spell. Which interventions does the nurse anticipate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bring the knees to the chest while holding the toddler calmly over the shoulder",
+          "correct": true,
+          "rationale": "Knee-chest positioning increases systemic vascular resistance and pulmonary blood flow; holding the child calmly also reduces oxygen demand."
+        },
+        {
+          "id": "b",
+          "text": "Administer 100% oxygen by face mask or blow-by",
+          "correct": true,
+          "rationale": "Oxygen is a pulmonary vasodilator and systemic vasoconstrictor, which helps reduce the right-to-left shunt."
+        },
+        {
+          "id": "c",
+          "text": "Give morphine sulfate IV or subcutaneously as prescribed",
+          "correct": true,
+          "rationale": "Morphine decreases hyperpnea and infundibular spasm, breaking the cycle of the spell."
+        },
+        {
+          "id": "d",
+          "text": "Administer IV furosemide to reduce preload",
+          "correct": false,
+          "rationale": "Diuresis reduces preload and worsens a tet spell; IV fluid boluses are given instead to support preload."
+        },
+        {
+          "id": "e",
+          "text": "Seat the child upright with the legs dangling over the bed",
+          "correct": false,
+          "rationale": "Dangling legs increases pooling and lowers systemic vascular resistance relative to knee-chest; it does not redirect blood to the lungs."
+        },
+        {
+          "id": "f",
+          "text": "Administer an IV fluid bolus as prescribed",
+          "correct": true,
+          "rationale": "Volume increases preload and right ventricular output through the narrowed pulmonary outflow tract."
+        }
+      ],
+      "explanation": "Management of tet spells: knee-chest position, calm the child, 100% oxygen, morphine, IV fluids, and phenylephrine to raise systemic vascular resistance or propranolol to relax the infundibulum if needed."
+    },
+    {
+      "id": "congenital-heart-05",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which four defects make up tetralogy of Fallot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atrial septal defect, pulmonary stenosis, left ventricular hypertrophy, overriding aorta",
+          "correct": false,
+          "rationale": "TOF involves a ventricular (not atrial) septal defect and right (not left) ventricular hypertrophy."
+        },
+        {
+          "id": "b",
+          "text": "Ventricular septal defect, aortic stenosis, right ventricular hypertrophy, patent ductus arteriosus",
+          "correct": false,
+          "rationale": "TOF involves pulmonary (not aortic) stenosis and an overriding aorta, not a PDA."
+        },
+        {
+          "id": "c",
+          "text": "Ventricular septal defect, pulmonary stenosis, overriding aorta, right ventricular hypertrophy",
+          "correct": true,
+          "rationale": "Correct. These are the four classic components; the degree of pulmonary stenosis is the main determinant of how cyanotic the child is."
+        },
+        {
+          "id": "d",
+          "text": "Transposed great arteries, ventricular septal defect, pulmonary stenosis, coarctation",
+          "correct": false,
+          "rationale": "Transposition and coarctation are separate defects and are not components of TOF."
+        }
+      ],
+      "explanation": "Tetralogy of Fallot: VSD, pulmonary stenosis, overriding aorta, and right ventricular hypertrophy. The degree of pulmonic stenosis determines the amount of right-to-left shunting and cyanosis. Chest x-ray often shows a boot-shaped heart."
+    },
+    {
+      "id": "congenital-heart-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-week-old with a large VSD has a respiratory rate of 72/min, heart rate of 176/min, takes 45 minutes to finish 2 ounces of formula, and sweats on the forehead during feedings. Weight has dropped from the 50th to the 10th percentile. What do these findings most likely indicate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normal infant behavior for a 6-week-old",
+          "correct": false,
+          "rationale": "A resting respiratory rate of 72 and heart rate of 176 are elevated, and falling weight percentiles are abnormal."
+        },
+        {
+          "id": "b",
+          "text": "Pulmonary overcirculation with heart failure",
+          "correct": true,
+          "rationale": "Correct. As pulmonary vascular resistance falls in the first weeks of life, the left-to-right shunt increases; tachypnea, tachycardia, diaphoresis with feeds, and poor weight gain are classic heart failure findings."
+        },
+        {
+          "id": "c",
+          "text": "Reversal of the shunt to right-to-left (Eisenmenger syndrome)",
+          "correct": false,
+          "rationale": "Eisenmenger syndrome develops over years of pulmonary hypertension and presents with cyanosis, not in a 6-week-old."
+        },
+        {
+          "id": "d",
+          "text": "Pyloric stenosis causing poor intake",
+          "correct": false,
+          "rationale": "Pyloric stenosis presents with projectile vomiting after feeds, not diaphoresis, tachypnea, and tachycardia."
+        }
+      ],
+      "explanation": "Large left-to-right shunts often become symptomatic at 4-8 weeks as pulmonary vascular resistance falls. Feeding is the infant's exercise, so sweating, fatigue, and tachypnea during feeds plus failure to thrive point to heart failure."
+    },
+    {
+      "id": "congenital-heart-07",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 4-year-old with suspected coarctation of the aorta. Which findings support this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right arm blood pressure of 128/76 mm Hg and thigh blood pressure of 96/60 mm Hg",
+          "correct": true,
+          "rationale": "Narrowing distal to the left subclavian artery raises pressure proximal to the obstruction (arms) and lowers it distal to it (legs). Normally leg pressure is equal to or higher than arm pressure."
+        },
+        {
+          "id": "b",
+          "text": "Weak or delayed femoral pulses compared with brachial pulses",
+          "correct": true,
+          "rationale": "Reduced flow past the narrowing produces weak, delayed, or absent femoral pulses."
+        },
+        {
+          "id": "c",
+          "text": "Reports of frequent nosebleeds and headaches",
+          "correct": true,
+          "rationale": "Upper body hypertension can cause epistaxis, headache, and dizziness in older children."
+        },
+        {
+          "id": "d",
+          "text": "Central cyanosis with clubbing",
+          "correct": false,
+          "rationale": "Coarctation is an acyanotic obstructive defect; cyanosis and clubbing are not expected."
+        },
+        {
+          "id": "e",
+          "text": "Cool lower extremities and leg cramps with running",
+          "correct": true,
+          "rationale": "Decreased lower-body perfusion causes cool legs and claudication-type cramping with exercise."
+        },
+        {
+          "id": "f",
+          "text": "Bounding pedal pulses with a wide pulse pressure",
+          "correct": false,
+          "rationale": "Bounding pulses with a wide pulse pressure suggest PDA; pedal pulses are weak in coarctation."
+        }
+      ],
+      "explanation": "Coarctation of the aorta: high BP and bounding pulses in the arms, weak or absent femoral pulses, cool lower extremities, and lower leg BP. Older children may report headache, nosebleeds, dizziness, or leg cramps with exercise. Always compare upper and lower extremity BPs and pulses."
+    },
+    {
+      "id": "congenital-heart-08",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A newborn is 26 hours old. The first pulse oximetry screening shows SpO2 of 93% in the right hand and 92% in the foot. The newborn is pink, feeding well, and has no murmur. Which action by the nurse is most appropriate per the current CCHD screening algorithm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document a passed screen because both values are above 90% and the difference is 1%.",
+          "correct": false,
+          "rationale": "A pass requires ≥95% in the right hand or foot with a difference of 3% or less. Neither value reaches 95%, so this is not a pass."
+        },
+        {
+          "id": "b",
+          "text": "Repeat the screen in 1 hour.",
+          "correct": true,
+          "rationale": "Correct. Under the 2020 AAP-endorsed algorithm, values of 90-94% in both sites (or a difference >3%) call for one repeat in 1 hour; if the repeat does not pass, the screen is failed and the newborn needs an echocardiogram."
+        },
+        {
+          "id": "c",
+          "text": "Report a failed screen and request an immediate echocardiogram.",
+          "correct": false,
+          "rationale": "An immediate fail is any reading below 90%. A first result of 90-94% is followed by one repeat screen."
+        },
+        {
+          "id": "d",
+          "text": "Wait until the infant's first outpatient visit to recheck.",
+          "correct": false,
+          "rationale": "Delaying evaluation of a possible critical congenital heart defect risks ductal closure and collapse after discharge."
+        }
+      ],
+      "explanation": "Newborn CCHD screening is done after 24 hours of age on the right hand (preductal) and a foot (postductal). Pass: ≥95% in either site with a difference ≤3%. Fail: any reading <90%. Values 90-94% in both sites or a difference >3% get one repeat in 1 hour, then fail if still abnormal. Always also assess the infant clinically."
+    },
+    {
+      "id": "congenital-heart-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-day-old with a ductal-dependent cyanotic heart lesion has an SpO2 of 72% and is becoming more cyanotic. Which medication should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indomethacin IV every 12 hours",
+          "correct": false,
+          "rationale": "Indomethacin inhibits prostaglandin synthesis and closes the ductus, which would be lethal for a ductal-dependent lesion."
+        },
+        {
+          "id": "b",
+          "text": "Ibuprofen lysine IV loading dose",
+          "correct": false,
+          "rationale": "Ibuprofen also promotes ductal closure and is used to close a PDA in preterm infants, not to keep it open."
+        },
+        {
+          "id": "c",
+          "text": "Alprostadil (PGE1) continuous infusion",
+          "correct": true,
+          "rationale": "Correct. PGE1 keeps the ductus arteriosus open so blood can mix or reach the lungs or body until surgery. Monitor for apnea, fever, flushing, and hypotension."
+        },
+        {
+          "id": "d",
+          "text": "Digoxin IV after a 1-minute apical pulse check",
+          "correct": false,
+          "rationale": "Digoxin improves contractility in heart failure but does not maintain ductal patency or improve mixing."
+        }
+      ],
+      "explanation": "Prostaglandin E1 keeps the ductus open in ductal-dependent lesions such as transposition, HLHS, critical coarctation, tricuspid atresia, and pulmonary atresia. Apnea is the most serious adverse effect, so respiratory support must be immediately available. NSAIDs (indomethacin, ibuprofen) do the opposite and close a PDA."
+    },
+    {
+      "id": "congenital-heart-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 28-week preterm infant with a hemodynamically significant PDA is prescribed IV ibuprofen lysine. Which finding should the nurse report before administering the dose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bounding peripheral pulses in all extremities",
+          "correct": false,
+          "rationale": "Bounding pulses are an expected sign of a PDA and the reason the drug is given."
+        },
+        {
+          "id": "b",
+          "text": "Urine output of 0.4 mL/kg/hr over 8 hours",
+          "correct": true,
+          "rationale": "Correct. NSAIDs reduce renal blood flow; oliguria (less than 1 mL/kg/hr) is a reason to hold the dose and notify the provider."
+        },
+        {
+          "id": "c",
+          "text": "A continuous machinery-like murmur",
+          "correct": false,
+          "rationale": "A machinery murmur is the expected finding of a PDA."
+        },
+        {
+          "id": "d",
+          "text": "Wide pulse pressure on the latest BP",
+          "correct": false,
+          "rationale": "A wide pulse pressure from aortic runoff into the pulmonary artery is expected with a PDA."
+        }
+      ],
+      "explanation": "Indomethacin and ibuprofen close a PDA by blocking prostaglandin synthesis. Before each dose check urine output, creatinine, platelets, and signs of bleeding or NEC. Hold and report oliguria, bleeding, or thrombocytopenia."
+    },
+    {
+      "id": "congenital-heart-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which murmur is characteristic of a patent ductus arteriosus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continuous machinery-like murmur at the left upper sternal border",
+          "correct": true,
+          "rationale": "Correct. Blood flows from the aorta to the pulmonary artery during both systole and diastole, producing a continuous machinery murmur."
+        },
+        {
+          "id": "b",
+          "text": "Harsh holosystolic murmur at the left lower sternal border",
+          "correct": false,
+          "rationale": "This describes a VSD."
+        },
+        {
+          "id": "c",
+          "text": "Low-pitched diastolic rumble heard best at the apex",
+          "correct": false,
+          "rationale": "An apical diastolic rumble is associated with mitral stenosis, not PDA."
+        },
+        {
+          "id": "d",
+          "text": "Systolic ejection murmur with a fixed split S2 at the upper left sternal border",
+          "correct": false,
+          "rationale": "A systolic ejection murmur with a fixed split S2 is characteristic of an ASD."
+        }
+      ],
+      "explanation": "PDA: continuous machinery murmur, bounding pulses, and wide pulse pressure. VSD: loud holosystolic murmur at the left lower sternal border. ASD: systolic ejection murmur at the left upper sternal border with a fixed split S2."
+    },
+    {
+      "id": "congenital-heart-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A newborn diagnosed with transposition of the great arteries is profoundly cyanotic. Which explanation best describes why survival depends on additional openings in the heart?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The aorta receives blood from both ventricles, so a hole is needed to prevent heart failure.",
+          "correct": false,
+          "rationale": "This describes truncus arteriosus or an overriding aorta, not transposition."
+        },
+        {
+          "id": "b",
+          "text": "Blood returning from the lungs cannot enter the left atrium, so it drains into the right side instead.",
+          "correct": false,
+          "rationale": "This describes total anomalous pulmonary venous return."
+        },
+        {
+          "id": "c",
+          "text": "The left side of the heart is too small to pump blood to the body, so the right ventricle takes over.",
+          "correct": false,
+          "rationale": "This describes hypoplastic left heart syndrome."
+        },
+        {
+          "id": "d",
+          "text": "The pulmonary and systemic circulations run in parallel, so mixing through a PDA, ASD, or VSD is required.",
+          "correct": true,
+          "rationale": "Correct. The aorta arises from the right ventricle and the pulmonary artery from the left ventricle, creating two separate circuits. Mixing through the foramen ovale, ductus, or a VSD is essential."
+        }
+      ],
+      "explanation": "In transposition the great arteries are switched, creating parallel circulations. Treatment: PGE1 to keep the ductus open, balloon atrial septostomy to improve mixing, then the arterial switch procedure in the first weeks of life."
+    },
+    {
+      "id": "congenital-heart-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse reviews data for four infants on a pediatric cardiac unit. Which infant should the nurse see first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 5-day-old with HLHS on alprostadil who has had a 22-second pause in breathing",
+          "correct": true,
+          "rationale": "Correct. Apnea is the most serious adverse effect of PGE1, and an infant with HLHS depends on the ductus for systemic flow. This infant needs immediate respiratory support."
+        },
+        {
+          "id": "b",
+          "text": "A 2-month-old with a VSD who sweats during feedings",
+          "correct": false,
+          "rationale": "Diaphoresis with feeds is an expected sign of heart failure and needs follow-up, but it is not immediately life threatening."
+        },
+        {
+          "id": "c",
+          "text": "A 4-month-old with tetralogy of Fallot with an SpO2 of 84% at rest",
+          "correct": false,
+          "rationale": "Baseline saturations of 75-85% can be expected in unrepaired TOF when the child is calm and stable."
+        },
+        {
+          "id": "d",
+          "text": "A 6-month-old with an ASD and a fixed split S2",
+          "correct": false,
+          "rationale": "A fixed split S2 is an expected finding of an ASD."
+        }
+      ],
+      "explanation": "Prioritize unexpected, life-threatening findings. Apnea in an infant receiving prostaglandin E1 requires immediate intervention; the other findings are expected for each defect."
+    },
+    {
+      "id": "congenital-heart-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Following a cardiac catheterization through the right femoral artery, a 5-year-old's right foot is cool and pale with a weak pedal pulse. What should the nurse do first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elevate the right leg on two pillows.",
+          "correct": false,
+          "rationale": "Elevating the leg can further reduce arterial flow and does not address possible thrombosis."
+        },
+        {
+          "id": "b",
+          "text": "Apply a warm blanket to the right foot and recheck in 1 hour.",
+          "correct": false,
+          "rationale": "Warming the opposite extremity may promote reflex vasodilation, but delaying a report of arterial compromise is unsafe."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider immediately of the findings.",
+          "correct": true,
+          "rationale": "Correct. A cool, pale extremity with a weak pulse distal to the arterial site suggests arterial obstruction (thrombus or spasm) and needs prompt evaluation and possible anticoagulation or thrombolytics."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the child to wiggle the toes and walk to the bathroom.",
+          "correct": false,
+          "rationale": "The affected leg must be kept straight for 4-8 hours after catheterization; ambulation risks bleeding."
+        }
+      ],
+      "explanation": "After cardiac catheterization: monitor pulses below the site (most important), temperature and color of the extremity, the dressing for bleeding, vital signs (especially heart rate for dysrhythmias), and blood glucose in infants. Keep the leg straight for 4-8 hours. Report a cool, pale, or pulseless extremity."
+    },
+    {
+      "id": "congenital-heart-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse discovers that the femoral catheterization site of a 3-year-old is bleeding through the dressing 2 hours after the procedure. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Apply direct, continuous pressure 2.5 cm (1 inch) above the percutaneous skin site"
+        },
+        {
+          "id": "b",
+          "text": "Assess the heart rate, blood pressure, and pulses distal to the site"
+        },
+        {
+          "id": "c",
+          "text": "Notify the cardiologist of the bleeding"
+        },
+        {
+          "id": "d",
+          "text": "Reinforce the dressing and keep the affected leg straight"
+        },
+        {
+          "id": "e",
+          "text": "Document the amount of bleeding and the child's response"
+        }
+      ],
+      "explanation": "Bleeding is controlled first with direct pressure above the skin site, where the vessel was entered. Then assess for hypovolemia and distal perfusion, notify the provider, secure the site, and document."
+    },
+    {
+      "id": "congenital-heart-16",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 3-year-old with an unrepaired cyanotic heart defect. Which findings are expected as a result of chronic hypoxemia? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clubbing of the fingers",
+          "correct": true,
+          "rationale": "Chronic hypoxemia causes soft-tissue growth at the fingertips, which becomes noticeable after several months."
+        },
+        {
+          "id": "b",
+          "text": "Hematocrit of 62%",
+          "correct": true,
+          "rationale": "Polycythemia is a compensatory response to chronic hypoxemia, increasing oxygen-carrying capacity."
+        },
+        {
+          "id": "c",
+          "text": "Squatting when tired after play",
+          "correct": true,
+          "rationale": "Children with tetralogy of Fallot squat to increase systemic vascular resistance and improve pulmonary blood flow."
+        },
+        {
+          "id": "d",
+          "text": "Bounding femoral pulses",
+          "correct": false,
+          "rationale": "Bounding pulses suggest PDA runoff, not chronic hypoxemia."
+        },
+        {
+          "id": "e",
+          "text": "Bradycardia at rest",
+          "correct": false,
+          "rationale": "Hypoxemia typically causes tachycardia, not bradycardia."
+        }
+      ],
+      "explanation": "Chronic hypoxemia causes polycythemia (raising stroke risk from hyperviscosity), clubbing, fatigue, squatting, and slow growth. Keep these children well hydrated to reduce hyperviscosity and thrombosis."
+    },
+    {
+      "id": "congenital-heart-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old with tetralogy of Fallot has a hematocrit of 65% and is admitted with vomiting and diarrhea for 2 days. Which complication is the nurse most concerned about?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron overload",
+          "correct": false,
+          "rationale": "Iron overload is related to chronic transfusion, not to polycythemia with dehydration."
+        },
+        {
+          "id": "b",
+          "text": "Stroke from thrombosis",
+          "correct": true,
+          "rationale": "Correct. Dehydration increases blood viscosity in a child with polycythemia, greatly raising the risk of cerebrovascular thrombosis. IV hydration is a priority."
+        },
+        {
+          "id": "c",
+          "text": "Hypercalcemia",
+          "correct": false,
+          "rationale": "Vomiting and diarrhea do not cause hypercalcemia, and it is not related to cyanotic heart disease."
+        },
+        {
+          "id": "d",
+          "text": "Infective endocarditis",
+          "correct": false,
+          "rationale": "Endocarditis is a risk in cyanotic CHD, but it is not caused by vomiting and diarrhea; the immediate threat here is hyperviscosity from dehydration."
+        }
+      ],
+      "explanation": "Children with cyanotic heart disease and polycythemia must stay well hydrated. Fever, vomiting, diarrhea, or hot weather increase viscosity and the risk of stroke. Report signs of dehydration early."
+    },
+    {
+      "id": "congenital-heart-18",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parents of a 5-month-old with a large VSD awaiting surgical repair ask how to help the baby feed. Which instruction is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer small, frequent feedings with a soft nipple and limit each to about 30 minutes.",
+          "correct": true,
+          "rationale": "Correct. Small frequent feeds with a soft nipple reduce the work of sucking and fatigue; limiting feeding time prevents excess energy use."
+        },
+        {
+          "id": "b",
+          "text": "Feed every 6 hours to allow the baby to rest and conserve energy between feedings.",
+          "correct": false,
+          "rationale": "Long gaps lead to larger volumes and crying from hunger, both of which increase cardiac workload."
+        },
+        {
+          "id": "c",
+          "text": "Lay the baby flat during feedings to help with swallowing.",
+          "correct": false,
+          "rationale": "A semi-upright position eases breathing; lying flat increases respiratory effort and aspiration risk."
+        },
+        {
+          "id": "d",
+          "text": "Dilute formula with extra water so it is easier to digest and less tiring to take.",
+          "correct": false,
+          "rationale": "Diluted formula lowers calories; these infants need high-calorie formula (often 24-30 kcal/oz) to meet increased metabolic needs."
+        }
+      ],
+      "explanation": "Infants with CHD and heart failure have high caloric needs but tire easily. Use small frequent feeds, soft or preemie nipples, semi-upright positioning, high-calorie formula, and gavage for the remainder if the infant cannot finish in about 30 minutes."
+    },
+    {
+      "id": "congenital-heart-19",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement about hypoplastic left heart syndrome is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is an acyanotic defect usually discovered during adolescence on a sports physical.",
+          "correct": false,
+          "rationale": "HLHS is a critical defect that presents in the first days of life as the ductus closes."
+        },
+        {
+          "id": "b",
+          "text": "It is corrected with a single surgery shortly after birth.",
+          "correct": false,
+          "rationale": "HLHS requires a staged series of surgeries (Norwood, bidirectional Glenn, Fontan) or heart transplantation."
+        },
+        {
+          "id": "c",
+          "text": "Systemic blood flow depends on the ductus, so the newborn collapses when it closes.",
+          "correct": true,
+          "rationale": "Correct. The underdeveloped left ventricle cannot supply the body; blood reaches the aorta through the PDA. Closure causes shock, poor perfusion, and acidosis."
+        },
+        {
+          "id": "d",
+          "text": "Treatment includes indomethacin to close the ductus and improve systemic blood flow.",
+          "correct": false,
+          "rationale": "Closing the ductus would be fatal; PGE1 is given to keep it open."
+        }
+      ],
+      "explanation": "HLHS: underdeveloped left side of the heart. Signs include mild cyanosis and heart failure progressing to shock as the ductus closes. Initial care is PGE1 and stabilization, followed by staged palliation."
+    },
+    {
+      "id": "congenital-heart-20",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is performing critical congenital heart defect (CCHD) pulse oximetry screening on a healthy newborn. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Confirm the newborn is at least 24 hours old and is calm and warm"
+        },
+        {
+          "id": "b",
+          "text": "Place the sensor on the right hand and record the preductal SpO2"
+        },
+        {
+          "id": "c",
+          "text": "Place the sensor on either foot and record the postductal SpO2"
+        },
+        {
+          "id": "d",
+          "text": "Compare the two readings and calculate the difference"
+        },
+        {
+          "id": "e",
+          "text": "Interpret as pass, repeat, or fail and report results that do not pass"
+        }
+      ],
+      "explanation": "Screening is done after 24 hours to reduce false positives from the transitional circulation. The right hand reflects preductal blood and the foot postductal blood; both values and their difference determine the result."
+    },
+    {
+      "id": "congenital-heart-21",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-year-old is scheduled for a cardiac catheterization tomorrow. Which preparation is most developmentally appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid discussing the procedure so the child does not become anxious.",
+          "correct": false,
+          "rationale": "Children cope better when prepared honestly; avoidance increases fear and mistrust."
+        },
+        {
+          "id": "b",
+          "text": "Use a doll with a groin bandage and let the child handle a BP cuff and ECG leads.",
+          "correct": true,
+          "rationale": "Correct. School-age children benefit from concrete explanations and hands-on play with equipment, using simple, honest language before the procedure."
+        },
+        {
+          "id": "c",
+          "text": "Give a detailed explanation of cardiac hemodynamics using diagrams of the heart chambers.",
+          "correct": false,
+          "rationale": "Abstract physiology is not appropriate for a 6-year-old's concrete thinking."
+        },
+        {
+          "id": "d",
+          "text": "Tell the child the procedure will not hurt at all so they stay calm.",
+          "correct": false,
+          "rationale": "Promising no discomfort is dishonest; the child may feel pressure and the sting of local anesthesia."
+        }
+      ],
+      "explanation": "Prepare children for procedures based on developmental level: concrete, honest explanations, therapeutic play, and sensory information (what they will see, hear, and feel). Include parents in preparation."
+    },
+    {
+      "id": "congenital-heart-22",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 2-year-old 4 hours after cardiac catheterization via the left femoral vein. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Check pulses below the catheterization site with each set of vital signs",
+          "correct": true,
+          "rationale": "Checking distal pulses detects vascular compromise; the pulse may be weaker initially but should strengthen."
+        },
+        {
+          "id": "b",
+          "text": "Keep the left leg straight for the prescribed time",
+          "correct": true,
+          "rationale": "Keeping the leg straight (usually 4-8 hours) promotes healing of the vessel and prevents bleeding."
+        },
+        {
+          "id": "c",
+          "text": "Encourage oral fluids once awake and tolerating them",
+          "correct": true,
+          "rationale": "Fluids help prevent dehydration from NPO status and help excrete contrast dye."
+        },
+        {
+          "id": "d",
+          "text": "Take an oral temperature every hour",
+          "correct": false,
+          "rationale": "A 2-year-old cannot safely use an oral thermometer, and hourly temperatures are not needed; axillary temperatures are appropriate."
+        },
+        {
+          "id": "e",
+          "text": "Count the apical heart rate for a full minute",
+          "correct": true,
+          "rationale": "Dysrhythmias can occur after catheter manipulation inside the heart; count the apical rate for 1 minute."
+        },
+        {
+          "id": "f",
+          "text": "Remove the pressure dressing 1 hour after return to the unit",
+          "correct": false,
+          "rationale": "The pressure dressing stays in place per protocol, usually overnight or until the next day."
+        }
+      ],
+      "explanation": "Post-catheterization priorities include distal pulses, temperature and color of the extremity, dressing checks for bleeding, apical heart rate for 1 minute, BP, I&O, blood glucose in infants, and keeping the leg straight."
+    },
+    {
+      "id": "congenital-heart-23",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches the parents of a 4-month-old about infective endocarditis prevention after VSD repair with a synthetic patch. Which statement by a parent indicates the need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We'll tell the dentist about the heart repair before any dental work in the first 6 months.\"",
+          "correct": false,
+          "rationale": "This statement is accurate. Antibiotic prophylaxis is recommended for 6 months after repair with prosthetic material."
+        },
+        {
+          "id": "b",
+          "text": "\"We should start cleaning the baby's teeth as soon as they come in.\"",
+          "correct": false,
+          "rationale": "This statement is accurate. Good oral hygiene is the best long-term prevention of endocarditis."
+        },
+        {
+          "id": "c",
+          "text": "\"We can stop worrying about infection now that the hole is fixed.\"",
+          "correct": true,
+          "rationale": "Correct choice, because this statement is inaccurate. Prophylaxis is still recommended for 6 months after repair with prosthetic material, and longer if a residual defect is next to the patch; parents should still report unexplained fevers."
+        },
+        {
+          "id": "d",
+          "text": "\"We'll call the cardiologist if the baby has a fever without an obvious cause.\"",
+          "correct": false,
+          "rationale": "This statement is accurate. Unexplained fever, lethargy, or poor feeding could signal endocarditis."
+        }
+      ],
+      "explanation": "Infective endocarditis prophylaxis (AHA) applies to unrepaired cyanotic CHD, the first 6 months after repair with prosthetic material, repaired CHD with residual defects at or near prosthetic material, prosthetic valves, and previous endocarditis. Lifelong oral hygiene matters most."
+    },
+    {
+      "id": "congenital-heart-24",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 8-year-old is diagnosed with an atrial septal defect at a well-child visit. Which finding most likely led the provider to suspect the defect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Central cyanosis, clubbing, and polycythemia on the complete blood count",
+          "correct": false,
+          "rationale": "An ASD is acyanotic; cyanosis develops only if pulmonary hypertension reverses the shunt, which is rare in childhood."
+        },
+        {
+          "id": "b",
+          "text": "Systolic murmur at the left upper sternal border with a fixed split S2",
+          "correct": true,
+          "rationale": "Correct. Increased flow across the pulmonic valve causes a systolic ejection murmur, and the increased right-sided volume delays pulmonic valve closure regardless of respiration."
+        },
+        {
+          "id": "c",
+          "text": "Weak femoral pulses compared with the arm pulses",
+          "correct": false,
+          "rationale": "Weak femoral pulses suggest coarctation of the aorta."
+        },
+        {
+          "id": "d",
+          "text": "Continuous machinery murmur under the left clavicle",
+          "correct": false,
+          "rationale": "A continuous machinery murmur suggests a PDA."
+        }
+      ],
+      "explanation": "ASD is often asymptomatic and found during a routine exam. Many small defects close spontaneously; larger ones are closed by transcatheter device or surgery, usually before school age."
+    },
+    {
+      "id": "congenital-heart-25",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 3-week-old is brought to the ED with poor feeding, grey color, cool mottled legs, and absent femoral pulses. Right arm BP is 92/58 mm Hg and the leg BP cannot be obtained. Which treatment does the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indomethacin IV to close the ductus",
+          "correct": false,
+          "rationale": "Closing the ductus would further cut off lower-body blood flow."
+        },
+        {
+          "id": "b",
+          "text": "Oral glucose feeding to correct hypoglycemia",
+          "correct": false,
+          "rationale": "An infant in shock with poor feeding should be NPO and receive IV support; oral feeding risks aspiration."
+        },
+        {
+          "id": "c",
+          "text": "Knee-chest positioning",
+          "correct": false,
+          "rationale": "Knee-chest is used for tet spells, not for ductal-dependent systemic flow."
+        },
+        {
+          "id": "d",
+          "text": "Alprostadil infusion to reopen the ductus arteriosus",
+          "correct": true,
+          "rationale": "Correct. Critical coarctation often presents with shock as the ductus closes. PGE1 reopens the ductus to restore blood flow to the lower body while the infant is stabilized for surgery."
+        }
+      ],
+      "explanation": "Severe (critical) coarctation in neonates is ductal dependent. When the ductus closes, the infant develops heart failure and shock with absent lower-extremity pulses. PGE1, inotropes, and surgical repair are needed."
+    },
+    {
+      "id": "congenital-heart-26",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A nurse is teaching the parents of a 6-month-old with an unrepaired cyanotic heart defect about home care. Which statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We will keep the baby well hydrated, especially when it is hot or the baby has a fever.\"",
+          "correct": true,
+          "rationale": "Hydration reduces blood viscosity and the risk of stroke in children with polycythemia."
+        },
+        {
+          "id": "b",
+          "text": "\"If the baby turns very blue and breathes fast, we'll bring the knees up to the chest.\"",
+          "correct": true,
+          "rationale": "Knee-chest positioning is the first response to a hypercyanotic spell at home."
+        },
+        {
+          "id": "c",
+          "text": "\"We will skip the routine vaccines because of the heart condition.\"",
+          "correct": false,
+          "rationale": "Children with CHD should receive all routine immunizations plus influenza vaccine and, when eligible, RSV prophylaxis; infections are poorly tolerated."
+        },
+        {
+          "id": "d",
+          "text": "\"We'll weigh the baby on the same scale and report poor weight gain.\"",
+          "correct": true,
+          "rationale": "Monitoring growth detects feeding problems and worsening heart failure."
+        },
+        {
+          "id": "e",
+          "text": "\"We should never let the baby cry, even if that means skipping baths and checkups.\"",
+          "correct": false,
+          "rationale": "Prolonged crying should be minimized, but normal care and checkups must continue; overprotection interferes with development."
+        },
+        {
+          "id": "f",
+          "text": "\"We'll tell the dentist about the heart defect before any dental procedure.\"",
+          "correct": true,
+          "rationale": "Unrepaired cyanotic CHD is an indication for endocarditis prophylaxis before certain dental procedures."
+        }
+      ],
+      "explanation": "Family teaching for CHD: recognize and respond to tet spells, maintain hydration, monitor growth, keep immunizations current (including RSV prophylaxis when eligible), maintain oral hygiene and endocarditis prophylaxis, and treat the child as normally as possible."
+    }
+  ]
+}

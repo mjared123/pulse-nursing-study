@@ -1,0 +1,434 @@
+{
+  "slug": "nephrotic-syndrome",
+  "title": "Nephrotic Syndrome",
+  "short": "Nephrotic Syndrome",
+  "icon": "vein",
+  "description": "Minimal change nephrotic syndrome in young children: massive proteinuria, edema, corticosteroid therapy, infection prevention, and home monitoring.",
+  "keyPoints": [
+    "Minimal change nephrotic syndrome (MCNS) is the most common type in children, usually ages 2-7 years. Increased glomerular permeability lets large amounts of protein leak into the urine.",
+    "Hallmarks: massive proteinuria (3+ to 4+ on dipstick, frothy urine), hypoalbuminemia (often below 2.5 g/dL), hyperlipidemia, and generalized edema.",
+    "Edema starts periorbitally (worse in the morning) and spreads to the abdomen (ascites), scrotum or labia, and legs; weight gain is rapid. BP is usually normal or low, and hematuria is uncommon.",
+    "Prednisone is first-line; most children respond (protein-free urine) within 2-3 weeks. Steroids increase infection risk and mask fever; watch for mood changes, increased appetite, cushingoid features, and hyperglycemia. Never stop abruptly.",
+    "Infection (especially peritonitis and cellulitis) is a major risk. Practice hand hygiene, avoid sick contacts, and give skin care to edematous areas (support the scrotum, turn frequently).",
+    "Severe edema may be treated with 25% albumin IV followed by furosemide; monitor for fluid shifts. A no-added-salt diet is used during edema; fluids are not usually restricted unless severe.",
+    "Home care: daily weights and first-morning urine dipstick for protein, record in a diary, and report relapse (2+ or greater protein for 3 days, or edema). Live vaccines are held while on high-dose steroids; give inactivated influenza and pneumococcal vaccines."
+  ],
+  "questions": [
+    {
+      "id": "nephrotic-syndrome-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which set of findings defines nephrotic syndrome in a child?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gross hematuria, hypertension, oliguria, and an elevated ASO titer",
+          "correct": false,
+          "rationale": "These findings describe acute post-streptococcal glomerulonephritis."
+        },
+        {
+          "id": "b",
+          "text": "Glucosuria, polyuria, polydipsia, and weight loss",
+          "correct": false,
+          "rationale": "These findings suggest type 1 diabetes."
+        },
+        {
+          "id": "c",
+          "text": "Massive proteinuria, hypoalbuminemia, hyperlipidemia, and edema",
+          "correct": true,
+          "rationale": "Correct. These four features define nephrotic syndrome."
+        },
+        {
+          "id": "d",
+          "text": "Bacteriuria, dysuria, urinary frequency, and fever",
+          "correct": false,
+          "rationale": "These findings suggest a urinary tract infection."
+        }
+      ],
+      "explanation": "In nephrotic syndrome, the glomerular membrane becomes permeable to protein. Loss of albumin lowers oncotic pressure, causing edema, and the liver increases lipoprotein production, causing hyperlipidemia."
+    },
+    {
+      "id": "nephrotic-syndrome-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 3-year-old is brought to the clinic because his eyes have been puffy for a week, especially in the morning, and his pants no longer fit. Which additional finding is most consistent with minimal change nephrotic syndrome?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cola-colored urine and BP 140/92 mm Hg",
+          "correct": false,
+          "rationale": "Dark urine and hypertension point to acute glomerulonephritis."
+        },
+        {
+          "id": "b",
+          "text": "Frothy urine with 4+ protein and BP 96/58 mm Hg",
+          "correct": true,
+          "rationale": "Correct. Foamy urine with heavy proteinuria and normal BP are typical of MCNS."
+        },
+        {
+          "id": "c",
+          "text": "Burning on urination and cloudy urine",
+          "correct": false,
+          "rationale": "These findings suggest a urinary tract infection."
+        },
+        {
+          "id": "d",
+          "text": "Projectile vomiting and a palpable olive-shaped mass",
+          "correct": false,
+          "rationale": "These are signs of pyloric stenosis in young infants."
+        }
+      ],
+      "explanation": "MCNS typically affects preschool children and presents with periorbital edema that progresses to generalized edema, weight gain, decreased urine output, and frothy urine from heavy proteinuria. BP is usually normal."
+    },
+    {
+      "id": "nephrotic-syndrome-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 4-year-old with nephrotic syndrome asks why the child is so swollen. Which explanation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child is drinking too much fluid, and the kidneys can't keep up with it.\"",
+          "correct": false,
+          "rationale": "Edema in nephrotic syndrome is due to low oncotic pressure, not excess intake."
+        },
+        {
+          "id": "b",
+          "text": "\"The heart is not pumping strongly enough, so fluid backs up into the legs.\"",
+          "correct": false,
+          "rationale": "Heart failure is not the cause of edema in nephrotic syndrome."
+        },
+        {
+          "id": "c",
+          "text": "\"The kidneys are holding on to blood, which leaks into the tissues.\"",
+          "correct": false,
+          "rationale": "Blood is not retained in tissues; the problem is protein loss."
+        },
+        {
+          "id": "d",
+          "text": "\"Protein leaks into the urine, so the blood can't hold fluid in the vessels.\"",
+          "correct": true,
+          "rationale": "Correct. Albumin loss lowers plasma oncotic pressure, so fluid shifts into the interstitial spaces."
+        }
+      ],
+      "explanation": "Hypoalbuminemia lowers oncotic pressure, allowing fluid to move into the tissues. The resulting decrease in intravascular volume triggers renin-angiotensin-aldosterone activation, causing more sodium and water retention."
+    },
+    {
+      "id": "nephrotic-syndrome-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 5-year-old with nephrotic syndrome is receiving prednisone 2 mg/kg/day. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assign the child to a room away from children with infections",
+          "correct": true,
+          "rationale": "Correct. Corticosteroids and loss of immunoglobulins in the urine increase infection risk."
+        },
+        {
+          "id": "b",
+          "text": "Monitor for infection, remembering that steroids may mask fever",
+          "correct": true,
+          "rationale": "Correct. Steroids blunt the inflammatory response, so subtle signs (lethargy, abdominal pain) may signal peritonitis or other infection."
+        },
+        {
+          "id": "c",
+          "text": "Give the prednisone in the morning with food",
+          "correct": true,
+          "rationale": "Correct. Morning dosing mimics the natural cortisol rhythm, and food reduces GI irritation."
+        },
+        {
+          "id": "d",
+          "text": "Discontinue prednisone as soon as the urine is protein-free",
+          "correct": false,
+          "rationale": "Steroids must be tapered, not stopped abruptly, to prevent adrenal insufficiency and relapse."
+        },
+        {
+          "id": "e",
+          "text": "Check blood glucose as prescribed",
+          "correct": true,
+          "rationale": "Correct. Corticosteroids can cause hyperglycemia."
+        },
+        {
+          "id": "f",
+          "text": "Schedule the MMR vaccine due this month",
+          "correct": false,
+          "rationale": "Live vaccines are contraindicated while the child is on high-dose corticosteroids."
+        }
+      ],
+      "explanation": "Prednisone is the first-line treatment for MCNS. Nursing care includes infection prevention, monitoring for side effects (hyperglycemia, hypertension, mood changes, increased appetite, cushingoid features, GI upset), and teaching that the drug must be tapered."
+    },
+    {
+      "id": "nephrotic-syndrome-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old boy with nephrotic syndrome has severe scrotal and leg edema. Which nursing intervention is most appropriate for skin care?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Support the scrotum with a rolled towel and reposition every 2 hours",
+          "correct": true,
+          "rationale": "Correct. Elevating the scrotum reduces edema and pressure, and frequent turning protects stretched, fragile skin."
+        },
+        {
+          "id": "b",
+          "text": "Apply a tight elastic bandage to the scrotum to reduce swelling",
+          "correct": false,
+          "rationale": "Tight wraps can impair circulation and damage edematous skin."
+        },
+        {
+          "id": "c",
+          "text": "Keep the child in one position to avoid discomfort from moving the swollen scrotum",
+          "correct": false,
+          "rationale": "Immobility increases the risk of skin breakdown in edematous tissue."
+        },
+        {
+          "id": "d",
+          "text": "Massage edematous areas firmly with lotion",
+          "correct": false,
+          "rationale": "Firm massage can damage fragile, stretched skin."
+        }
+      ],
+      "explanation": "Edematous skin is thin, stretched, and prone to breakdown and infection. Care includes frequent repositioning, separating and cleansing skin surfaces, supporting the scrotum, and inspecting pressure areas."
+    },
+    {
+      "id": "nephrotic-syndrome-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-year-old with nephrotic syndrome has been on prednisone for 10 days. The child has new diffuse abdominal pain, temperature 37.8°C (100°F), lethargy, and a tender, tense abdomen. Which complication does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expected steroid side effect",
+          "correct": false,
+          "rationale": "Steroids can cause GI upset, but fever, lethargy, and abdominal tenderness suggest infection."
+        },
+        {
+          "id": "b",
+          "text": "Spontaneous bacterial peritonitis",
+          "correct": true,
+          "rationale": "Correct. Children with nephrotic syndrome and ascites are at risk for peritonitis (often pneumococcal), and steroids may blunt the fever."
+        },
+        {
+          "id": "c",
+          "text": "Relapse of nephrotic syndrome",
+          "correct": false,
+          "rationale": "Relapse presents with recurrent proteinuria and edema, not acute abdominal pain and fever."
+        },
+        {
+          "id": "d",
+          "text": "Acute appendicitis",
+          "correct": false,
+          "rationale": "Although possible, the combination of ascites, immunosuppression, and diffuse pain makes peritonitis much more likely."
+        }
+      ],
+      "explanation": "Infection is a leading complication of nephrotic syndrome because of urinary loss of immunoglobulins, edema, and corticosteroid therapy. Peritonitis must be considered in a child with ascites and abdominal pain, even with a low-grade fever."
+    },
+    {
+      "id": "nephrotic-syndrome-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 3-year-old (14 kg) with severe nephrotic edema is receiving 25% albumin IV followed by furosemide. Which assessment is the nurse's priority during and after the infusion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Checking the urine for glucose with each void",
+          "correct": false,
+          "rationale": "Urine glucose is not affected by albumin infusion."
+        },
+        {
+          "id": "b",
+          "text": "Monitoring for hypokalemia only after 24 hours",
+          "correct": false,
+          "rationale": "Electrolytes are monitored, but the immediate priority is the fluid shift."
+        },
+        {
+          "id": "c",
+          "text": "Monitoring for respiratory distress and signs of fluid overload",
+          "correct": true,
+          "rationale": "Correct. Albumin pulls fluid into the vascular space quickly and can cause hypervolemia, pulmonary edema, or heart failure. Diuresis then follows."
+        },
+        {
+          "id": "d",
+          "text": "Measuring head circumference for signs of cerebral edema",
+          "correct": false,
+          "rationale": "Head circumference is not a relevant assessment for this intervention; the risk is circulatory overload."
+        }
+      ],
+      "explanation": "Albumin infusion increases oncotic pressure and moves fluid into the vascular space; furosemide then promotes diuresis. Nurses monitor vital signs, BP, breath sounds, urine output, and electrolytes (especially potassium) during this therapy."
+    },
+    {
+      "id": "nephrotic-syndrome-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of a 5-year-old how to check the child's urine for protein at home. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Collect a sample of the child's first morning urine in a clean container"
+        },
+        {
+          "id": "b",
+          "text": "Dip the reagent strip into the urine and remove it right away"
+        },
+        {
+          "id": "c",
+          "text": "Wait the time listed on the bottle and compare the strip with the color chart"
+        },
+        {
+          "id": "d",
+          "text": "Record the result and the child's daily weight in the diary"
+        },
+        {
+          "id": "e",
+          "text": "Call the provider if protein is 2+ or greater for 3 days in a row or swelling returns"
+        }
+      ],
+      "explanation": "First-morning urine gives the most consistent result. After dipping the strip, the timing on the bottle must be followed for an accurate reading. Results are recorded with daily weights so trends can be seen, and parents report relapse criteria to the provider."
+    },
+    {
+      "id": "nephrotic-syndrome-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse evaluates the response of a 4-year-old to 3 weeks of prednisone for nephrotic syndrome. Which finding best shows the treatment is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urine dipstick negative to trace protein for 3 consecutive days",
+          "correct": true,
+          "rationale": "Correct. Remission is defined by protein-free (negative or trace) urine for 3 consecutive days, along with diuresis and resolving edema."
+        },
+        {
+          "id": "b",
+          "text": "Increased appetite and a rounder face after 3 weeks of therapy",
+          "correct": false,
+          "rationale": "These are steroid side effects, not signs that the disease is responding."
+        },
+        {
+          "id": "c",
+          "text": "Urine dipstick 3+ protein with stable weight",
+          "correct": false,
+          "rationale": "Persistent heavy proteinuria indicates the child has not responded."
+        },
+        {
+          "id": "d",
+          "text": "Serum cholesterol increased from the baseline as edema improves",
+          "correct": false,
+          "rationale": "Rising cholesterol reflects ongoing disease activity."
+        }
+      ],
+      "explanation": "About 80-90% of children with MCNS respond to steroids within 2-4 weeks. Response is shown by negative or trace proteinuria, diuresis, weight loss, and resolution of edema."
+    },
+    {
+      "id": "nephrotic-syndrome-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing discharge teaching for the parents of a 4-year-old with nephrotic syndrome on a tapering dose of prednisone. Which instructions should be included? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weigh your child daily at the same time on the same scale",
+          "correct": true,
+          "rationale": "Correct. Rapid weight gain may be the first sign of relapse."
+        },
+        {
+          "id": "b",
+          "text": "Avoid crowds and people who are sick, and wash hands often",
+          "correct": true,
+          "rationale": "Correct. The child remains at high risk for infection."
+        },
+        {
+          "id": "c",
+          "text": "Report exposure to chickenpox right away",
+          "correct": true,
+          "rationale": "Correct. Varicella can be severe or fatal in a child on steroids; the provider may give varicella zoster immune globulin or antivirals."
+        },
+        {
+          "id": "d",
+          "text": "Stop the prednisone if your child seems moody or very hungry",
+          "correct": false,
+          "rationale": "Mood changes and increased appetite are expected side effects; prednisone must never be stopped abruptly."
+        },
+        {
+          "id": "e",
+          "text": "Your child should get the inactivated flu vaccine each year",
+          "correct": true,
+          "rationale": "Correct. Inactivated influenza vaccine is recommended; live vaccines are held while on high-dose steroids."
+        },
+        {
+          "id": "f",
+          "text": "Restrict all fluids to 500 mL per day",
+          "correct": false,
+          "rationale": "Fluid restriction is generally not needed at home unless prescribed; a no-added-salt diet is used during edema."
+        }
+      ],
+      "explanation": "Home management includes daily weights, urine protein checks, infection prevention, medication adherence and tapering, a no-added-salt diet during edema, immunization guidance, and knowing the signs of relapse."
+    },
+    {
+      "id": "nephrotic-syndrome-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 3-year-old just diagnosed with minimal change nephrotic syndrome asks about the long-term outlook. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Most children develop kidney failure and need a transplant by adolescence.\"",
+          "correct": false,
+          "rationale": "MCNS rarely progresses to end-stage kidney disease."
+        },
+        {
+          "id": "b",
+          "text": "\"Once treated with steroids, the disease will never come back.\"",
+          "correct": false,
+          "rationale": "Relapses are common, especially during the first few years, often triggered by infections."
+        },
+        {
+          "id": "c",
+          "text": "\"Steroids rarely work, so most children need chemotherapy.\"",
+          "correct": false,
+          "rationale": "Most children with MCNS are steroid-responsive; other agents are used only for frequent relapses or steroid resistance."
+        },
+        {
+          "id": "d",
+          "text": "\"Most children respond well to steroids, but relapses are common.\"",
+          "correct": true,
+          "rationale": "Correct. MCNS has a good prognosis. Relapses are common but usually respond to treatment, and most children outgrow the disease."
+        }
+      ],
+      "explanation": "Minimal change nephrotic syndrome has a favorable prognosis: most children respond to steroids and keep normal kidney function, although many have one or more relapses. Families should learn to recognize relapse early."
+    },
+    {
+      "id": "nephrotic-syndrome-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 5-year-old with nephrotic syndrome is admitted with generalized edema and ascites. The child's weight is 2.4 kg above the dry weight, and the child is breathing at 36 breaths/min with an SpO2 of 92%. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measure the abdominal girth",
+          "correct": false,
+          "rationale": "Abdominal girth is useful for trending ascites but does not address the respiratory problem."
+        },
+        {
+          "id": "b",
+          "text": "Elevate the head of the bed and notify the provider",
+          "correct": true,
+          "rationale": "Correct. Ascites can push up on the diaphragm and impair breathing. Raising the head of the bed eases breathing, and the provider needs to know about respiratory compromise."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the child to eat a high-protein snack",
+          "correct": false,
+          "rationale": "Dietary protein does not quickly correct hypoalbuminemia and is not a priority with respiratory distress."
+        },
+        {
+          "id": "d",
+          "text": "Collect a urine specimen for a dipstick",
+          "correct": false,
+          "rationale": "Urine monitoring is ongoing care, not the priority with respiratory symptoms."
+        }
+      ],
+      "explanation": "Massive ascites and pleural effusions can compromise breathing in nephrotic syndrome. Elevating the head of the bed, monitoring respiratory status, and notifying the provider for possible albumin and diuretic therapy are priorities."
+    }
+  ]
+}

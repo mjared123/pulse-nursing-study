@@ -1,0 +1,507 @@
+{
+  "slug": "seizures",
+  "title": "Seizures & Epilepsy",
+  "short": "Seizures",
+  "icon": "zap",
+  "description": "Pediatric seizures: febrile seizures, epilepsy and seizure types, seizure first aid, status epilepticus and rescue medications, seizure precautions, postictal care, antiepileptic drug teaching, the ketogenic diet, and safety at home and school.",
+  "keyPoints": [
+    "Febrile seizures occur in children 6 months to 5 years with a temperature rise, usually generalized and under 15 minutes. They are usually benign. Antipyretics make the child comfortable but do NOT prevent febrile seizures.",
+    "Epilepsy = two or more unprovoked seizures more than 24 hours apart. Types: focal (with or without impaired awareness), generalized tonic-clonic, absence (brief staring spells, often mistaken for daydreaming), myoclonic, and atonic (drop attacks).",
+    "During a seizure: stay with the child, time it, protect the head, ease the child to the floor, turn side-lying to drain secretions, loosen tight clothing, and put NOTHING in the mouth. Do not restrain.",
+    "Status epilepticus = seizure lasting 5 minutes or longer or repeated seizures without return to baseline. Give a rescue benzodiazepine (rectal diazepam, intranasal or buccal midazolam, IV lorazepam) and call 911/rapid response.",
+    "Seizure precautions: padded side rails, bed low, suction and oxygen at bedside, IV access as ordered. Postictal: side-lying, airway, reorient, let the child rest, document.",
+    "Antiepileptic teaching: give at the same time daily, never stop abruptly (risk of status epilepticus), keep drug-level appointments. Phenytoin causes gingival hyperplasia (brush, floss, dental visits) and must not be mixed with dextrose. Medical ID bracelet.",
+    "Ketogenic diet (high fat, low carbohydrate) may control refractory seizures; even small amounts of hidden carbohydrate (some medications, toothpaste, gum) can break ketosis.",
+    "Safety: always swim with a buddy and adult supervision, showers rather than tub baths, helmets for biking, inform school staff of the seizure action plan, and follow state driving laws for teens."
+  ],
+  "questions": [
+    {
+      "id": "seizures-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is teaching the parents of a 2-year-old who had a febrile seizure. Within which age range do febrile seizures most commonly occur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birth to 3 months",
+          "correct": false,
+          "rationale": "Seizures with fever in very young infants raise concern for serious infection such as meningitis rather than typical febrile seizures."
+        },
+        {
+          "id": "b",
+          "text": "6 months to 5 years",
+          "correct": true,
+          "rationale": "Correct. Febrile seizures typically occur between 6 months and 5 years, peaking around 18 months."
+        },
+        {
+          "id": "c",
+          "text": "5 to 10 years",
+          "correct": false,
+          "rationale": "Febrile seizures are uncommon after age 5; new seizures at this age need further evaluation."
+        },
+        {
+          "id": "d",
+          "text": "Adolescence",
+          "correct": false,
+          "rationale": "Febrile seizures do not typically occur in adolescents."
+        }
+      ],
+      "explanation": "Febrile seizures are the most common seizures of childhood, occurring with a rising temperature in children 6 months to 5 years. Most are simple (generalized, lasting less than 15 minutes, not recurring within 24 hours) and have an excellent prognosis."
+    },
+    {
+      "id": "seizures-02",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The parent of an 18-month-old who had a simple febrile seizure says, \"From now on I will give acetaminophen around the clock whenever he has a fever so he will never have another seizure.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "That is the best plan; keeping his temperature down will prevent another seizure.",
+          "correct": false,
+          "rationale": "Inaccurate. Research shows antipyretics do not prevent febrile seizure recurrence."
+        },
+        {
+          "id": "b",
+          "text": "You should give aspirin instead because it works faster.",
+          "correct": false,
+          "rationale": "Aspirin is avoided in children because of the risk of Reye syndrome."
+        },
+        {
+          "id": "c",
+          "text": "Fever medicine can make him more comfortable but does not prevent febrile seizures.",
+          "correct": true,
+          "rationale": "Correct. Antipyretics improve comfort but do not prevent febrile seizures; parents should be taught first aid for a recurrence."
+        },
+        {
+          "id": "d",
+          "text": "He will need to start daily seizure medication to prevent another one from occurring.",
+          "correct": false,
+          "rationale": "Daily antiepileptics are not recommended after a simple febrile seizure because the risks outweigh the benefits."
+        }
+      ],
+      "explanation": "Febrile seizures recur in about one-third of children, and antipyretics do not prevent them. Teaching focuses on seizure first aid, when to call 911 (seizure over 5 minutes, breathing difficulty, child does not wake normally), and reassurance about the benign course."
+    },
+    {
+      "id": "seizures-03",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 7-year-old begins having a generalized tonic-clonic seizure while sitting in a chair in the playroom. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Stay with the child, call for help, and note the time the seizure started"
+        },
+        {
+          "id": "b",
+          "text": "Ease the child to the floor and protect the head with something soft"
+        },
+        {
+          "id": "c",
+          "text": "Turn the child to the side and loosen clothing around the neck"
+        },
+        {
+          "id": "d",
+          "text": "Observe and record seizure characteristics without restraining the child or placing anything in the mouth"
+        },
+        {
+          "id": "e",
+          "text": "After the seizure ends, check airway and breathing, then let the child rest while reorienting"
+        }
+      ],
+      "explanation": "Safety comes first: stay with the child, time the seizure, and prevent injury. Side-lying positioning lets secretions drain and keeps the airway open. Nothing is placed in the mouth, and movements are not restrained. Postictal care focuses on airway, rest, and reorientation."
+    },
+    {
+      "id": "seizures-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse observes a 9-year-old having a tonic-clonic seizure in bed. The child's jaw is clenched and there is frothy saliva at the mouth. Which action is appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insert a padded tongue blade between the teeth to prevent tongue biting",
+          "correct": false,
+          "rationale": "Never put anything in the mouth during a seizure; it can break teeth, injure the mouth, or obstruct the airway."
+        },
+        {
+          "id": "b",
+          "text": "Hold the child's arms and legs firmly to prevent injury",
+          "correct": false,
+          "rationale": "Restraining movements can cause musculoskeletal injury and does not stop the seizure."
+        },
+        {
+          "id": "c",
+          "text": "Turn the child to the side and allow secretions to drain",
+          "correct": true,
+          "rationale": "Correct. Side-lying positioning helps keep the airway open and allows saliva to drain, reducing aspiration risk."
+        },
+        {
+          "id": "d",
+          "text": "Give the child sips of water to clear the secretions",
+          "correct": false,
+          "rationale": "Nothing is given by mouth during or immediately after a seizure because of aspiration risk."
+        }
+      ],
+      "explanation": "During a seizure the priority is airway and safety. The nurse turns the child to the side, suctions the mouth if needed once the jaw relaxes, provides oxygen as ordered, and never forces anything into the mouth."
+    },
+    {
+      "id": "seizures-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old with epilepsy has been having continuous tonic-clonic activity for 6 minutes at home. The parent calls the clinic. Which instruction should the nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wait until the seizure stops, then bring the child to the clinic.",
+          "correct": false,
+          "rationale": "A seizure lasting 5 minutes or longer is status epilepticus; waiting increases the risk of brain injury and respiratory compromise."
+        },
+        {
+          "id": "b",
+          "text": "Place the child in a cool bath to stop the seizure.",
+          "correct": false,
+          "rationale": "A bath during a seizure creates drowning risk and does not stop the seizure."
+        },
+        {
+          "id": "c",
+          "text": "Give a dose of the oral seizure medication now.",
+          "correct": false,
+          "rationale": "Nothing should be given by mouth during a seizure because of aspiration risk."
+        },
+        {
+          "id": "d",
+          "text": "Give the prescribed rectal diazepam or nasal midazolam now and call 911.",
+          "correct": true,
+          "rationale": "Correct. A seizure lasting 5 minutes or longer is status epilepticus; the prescribed rescue benzodiazepine should be given and emergency services called."
+        }
+      ],
+      "explanation": "Status epilepticus is a medical emergency. Families of children with epilepsy are taught to give rescue medication (rectal diazepam, intranasal or buccal midazolam) per the seizure action plan at about 5 minutes and to call 911. Monitor breathing afterward because benzodiazepines can cause respiratory depression."
+    },
+    {
+      "id": "seizures-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old is in status epilepticus in the emergency department. IV lorazepam has been given. Which assessment is the priority for the nurse immediately after administration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiratory rate and SpO2",
+          "correct": true,
+          "rationale": "Correct. Benzodiazepines cause respiratory depression, especially after repeated doses; the nurse must monitor breathing and have bag-valve-mask ventilation ready."
+        },
+        {
+          "id": "b",
+          "text": "Blood glucose level",
+          "correct": false,
+          "rationale": "Glucose should be checked during a seizure workup, but the immediate risk after a benzodiazepine is respiratory depression."
+        },
+        {
+          "id": "c",
+          "text": "Pupil size and reaction to light",
+          "correct": false,
+          "rationale": "Neurologic checks are important but secondary to airway and breathing."
+        },
+        {
+          "id": "d",
+          "text": "Urine output and color",
+          "correct": false,
+          "rationale": "Urine output is not the immediate priority after benzodiazepine administration."
+        }
+      ],
+      "explanation": "First-line treatment for status epilepticus is a benzodiazepine (IV lorazepam or midazolam; rectal diazepam or intranasal/buccal midazolam without IV access). If seizures continue, second-line agents such as fosphenytoin, levetiracetam, or valproate are given. Airway and breathing remain the priority."
+    },
+    {
+      "id": "seizures-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 6-year-old with a seizure disorder is admitted. Which seizure precautions should the nurse implement? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the bed in the lowest position with side rails up and padded",
+          "correct": true,
+          "rationale": "Correct. This prevents falls and injury during a seizure."
+        },
+        {
+          "id": "b",
+          "text": "Place oral suction and oxygen equipment at the bedside",
+          "correct": true,
+          "rationale": "Correct. Suction clears secretions and oxygen supports breathing during and after a seizure."
+        },
+        {
+          "id": "c",
+          "text": "Tape a padded tongue blade to the head of the bed",
+          "correct": false,
+          "rationale": "Tongue blades are no longer recommended; nothing should be placed in the mouth during a seizure."
+        },
+        {
+          "id": "d",
+          "text": "Take the temperature rectally rather than orally",
+          "correct": false,
+          "rationale": "Axillary or tympanic temperature is safest; rectal temperatures are not a seizure precaution, and oral glass thermometers are avoided."
+        },
+        {
+          "id": "e",
+          "text": "Make sure the child has a patent IV access if ordered",
+          "correct": true,
+          "rationale": "Correct. IV access allows rapid administration of emergency medications."
+        },
+        {
+          "id": "f",
+          "text": "Allow the child to shower only with supervision",
+          "correct": true,
+          "rationale": "Correct. Bathing and showering are supervised to prevent drowning and falls."
+        }
+      ],
+      "explanation": "Seizure precautions include a low bed with padded rails, suction and oxygen at the bedside, IV access as ordered, supervision during bathing, and avoiding objects in the mouth."
+    },
+    {
+      "id": "seizures-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 12-year-old has been taking phenytoin for 1 year. Which teaching is most important to prevent a common adverse effect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid dairy products while taking the medication",
+          "correct": false,
+          "rationale": "Dairy does not cause phenytoin adverse effects. Enteral tube feedings can reduce absorption, but that is not the issue here."
+        },
+        {
+          "id": "b",
+          "text": "Brush and floss daily and see the dentist regularly",
+          "correct": true,
+          "rationale": "Correct. Phenytoin commonly causes gingival hyperplasia; good oral hygiene and regular dental visits reduce its severity."
+        },
+        {
+          "id": "c",
+          "text": "Wear sunglasses outdoors to protect the eyes from glare",
+          "correct": false,
+          "rationale": "Phenytoin does not commonly cause eye problems that sunglasses prevent."
+        },
+        {
+          "id": "d",
+          "text": "Drink extra fluids to prevent kidney stones",
+          "correct": false,
+          "rationale": "Kidney stones are associated with topiramate and zonisamide, not phenytoin."
+        }
+      ],
+      "explanation": "Phenytoin adverse effects include gingival hyperplasia, hirsutism, ataxia, nystagmus, rash (including Stevens-Johnson syndrome), and toxicity with a narrow therapeutic range (10-20 mcg/mL). IV phenytoin is mixed only with normal saline."
+    },
+    {
+      "id": "seizures-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The parent of a 15-year-old with epilepsy reports that the teen stopped taking levetiracetam 3 days ago because \"she has not had a seizure in months.\" What is the nurse's primary concern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The teen may gain weight now that the medication is stopped",
+          "correct": false,
+          "rationale": "Weight change is not the immediate concern."
+        },
+        {
+          "id": "b",
+          "text": "The teen may develop a rash from stopping the medication",
+          "correct": false,
+          "rationale": "Rashes are adverse effects of some antiepileptics, not of stopping them."
+        },
+        {
+          "id": "c",
+          "text": "The teen may have breakthrough seizures, including status epilepticus",
+          "correct": true,
+          "rationale": "Correct. Stopping antiepileptic drugs abruptly can cause rebound seizures and status epilepticus. Any discontinuation must be gradual and directed by the provider."
+        },
+        {
+          "id": "d",
+          "text": "The teen may have trouble sleeping",
+          "correct": false,
+          "rationale": "Sleep problems are not the main danger of abrupt withdrawal."
+        }
+      ],
+      "explanation": "Antiepileptic drugs must never be stopped abruptly. Adolescents are at high risk for nonadherence; the nurse explores reasons (side effects, body image, wanting to be normal), reinforces teaching, and coordinates with the provider."
+    },
+    {
+      "id": "seizures-10",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A teacher reports that a 7-year-old frequently stares blankly for about 10 seconds, with fluttering eyelids, and then continues the activity as if nothing happened. The child does not remember these episodes. Which type of seizure does this describe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atonic seizure",
+          "correct": false,
+          "rationale": "Atonic seizures cause sudden loss of muscle tone and falls (drop attacks)."
+        },
+        {
+          "id": "b",
+          "text": "Generalized tonic-clonic seizure",
+          "correct": false,
+          "rationale": "Tonic-clonic seizures cause stiffening and rhythmic jerking with a postictal period."
+        },
+        {
+          "id": "c",
+          "text": "Myoclonic seizure",
+          "correct": false,
+          "rationale": "Myoclonic seizures are brief, sudden muscle jerks."
+        },
+        {
+          "id": "d",
+          "text": "Absence seizure",
+          "correct": true,
+          "rationale": "Correct. Absence seizures are brief (usually under 20 seconds) staring spells with possible eyelid fluttering, abrupt onset and end, and no postictal period. They are often mistaken for daydreaming."
+        }
+      ],
+      "explanation": "Absence seizures begin in childhood and can occur many times a day, affecting learning. They can be triggered by hyperventilation. There is no postictal confusion; the child resumes the activity."
+    },
+    {
+      "id": "seizures-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-year-old with refractory epilepsy is started on a ketogenic diet. Which statement by the parent shows correct understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We will give her extra fruit juice to make sure she stays hydrated.",
+          "correct": false,
+          "rationale": "Juice is high in carbohydrates and would break ketosis."
+        },
+        {
+          "id": "b",
+          "text": "We need to check medicines, toothpaste, and snacks for hidden sugar and carbohydrates.",
+          "correct": true,
+          "rationale": "Correct. Even small amounts of carbohydrate in medications, toothpaste, or gum can break ketosis and lead to seizures."
+        },
+        {
+          "id": "c",
+          "text": "She can have a treat at birthday parties because one day will not matter.",
+          "correct": false,
+          "rationale": "Even a single high-carbohydrate meal can break ketosis and trigger seizures."
+        },
+        {
+          "id": "d",
+          "text": "The diet is high in protein and low in fat.",
+          "correct": false,
+          "rationale": "The ketogenic diet is high in fat and low in carbohydrates, with adequate protein."
+        }
+      ],
+      "explanation": "The ketogenic diet is high fat, low carbohydrate, and adequate protein; it produces ketosis that reduces seizure activity. It requires strict adherence and monitoring for adverse effects such as constipation, kidney stones, acidosis, hypoglycemia, and growth problems."
+    },
+    {
+      "id": "seizures-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the family of a 10-year-old newly diagnosed with epilepsy about safety. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swim only with a buddy and adult supervision who knows about the seizures",
+          "correct": true,
+          "rationale": "Correct. Swimming is allowed with supervision; drowning is a major risk during a seizure."
+        },
+        {
+          "id": "b",
+          "text": "Take showers instead of tub baths",
+          "correct": true,
+          "rationale": "Correct. Showers reduce drowning risk."
+        },
+        {
+          "id": "c",
+          "text": "Wear a helmet when riding a bike or skateboard",
+          "correct": true,
+          "rationale": "Correct. Helmets protect against head injury from falls."
+        },
+        {
+          "id": "d",
+          "text": "Avoid all sports and physical activity",
+          "correct": false,
+          "rationale": "Children with epilepsy are encouraged to participate in most activities with reasonable precautions; exclusion harms development and self-esteem."
+        },
+        {
+          "id": "e",
+          "text": "Keep the diagnosis private from the school to avoid embarrassment",
+          "correct": false,
+          "rationale": "School staff should know the seizure action plan so they can respond safely and give rescue medication."
+        },
+        {
+          "id": "f",
+          "text": "Wear a medical identification bracelet",
+          "correct": true,
+          "rationale": "Correct. A medical ID alerts others to the diagnosis in an emergency."
+        }
+      ],
+      "explanation": "Children with epilepsy should live as normally as possible with sensible precautions: supervision during water activities, protective gear, medical identification, adequate sleep, a seizure action plan for school, and medication adherence."
+    },
+    {
+      "id": "seizures-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 3-year-old is admitted after a generalized seizure lasting 3 minutes. The child is now sleepy but arousable, temperature 37.2°C (99°F), HR 110/min, RR 24/min, and SpO2 97%. Which action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the child side-lying, allow rest, and monitor neurologic status",
+          "correct": true,
+          "rationale": "Correct. In the postictal period, the child is positioned side-lying to protect the airway, allowed to rest, and monitored for changes in LOC or recurrent seizure activity."
+        },
+        {
+          "id": "b",
+          "text": "Wake the child every 5 minutes to check orientation and pupil response",
+          "correct": false,
+          "rationale": "Postictal sleepiness is expected; frequent awakening is unnecessary unless ordered or the child is hard to arouse."
+        },
+        {
+          "id": "c",
+          "text": "Offer a large meal to restore energy",
+          "correct": false,
+          "rationale": "Food is withheld until the child is fully awake and can swallow safely."
+        },
+        {
+          "id": "d",
+          "text": "Restrain the child gently to prevent injury from another seizure",
+          "correct": false,
+          "rationale": "Restraints do not prevent seizures and can cause injury."
+        }
+      ],
+      "explanation": "Postictal care includes airway maintenance, side-lying positioning, rest, reorientation, safety, and documentation. Drowsiness, confusion, and headache are common after a seizure."
+    },
+    {
+      "id": "seizures-14",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse observed a seizure in an 8-year-old. Which information should the nurse include in the documentation? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Time of onset and total duration",
+          "correct": true,
+          "rationale": "Correct. Duration determines whether status epilepticus criteria are met and guides treatment."
+        },
+        {
+          "id": "b",
+          "text": "Body parts involved and type of movements, including where the seizure started",
+          "correct": true,
+          "rationale": "Correct. Movement pattern and progression help identify focal versus generalized seizures."
+        },
+        {
+          "id": "c",
+          "text": "Level of consciousness during and after the seizure",
+          "correct": true,
+          "rationale": "Correct. Awareness and postictal state help classify the seizure."
+        },
+        {
+          "id": "d",
+          "text": "The child's most recent school grades",
+          "correct": false,
+          "rationale": "Academic performance may matter for long-term care but is not part of seizure documentation."
+        },
+        {
+          "id": "e",
+          "text": "Events before the seizure, such as an aura or a trigger",
+          "correct": true,
+          "rationale": "Correct. Preceding events or auras can point to the seizure focus and possible triggers."
+        }
+      ],
+      "explanation": "Seizure documentation includes events before the seizure (aura, trigger), time of onset, duration, movements and body parts involved, eye deviation, color changes, incontinence, LOC, and postictal behavior. Detailed observations help the provider classify the seizure and choose treatment."
+    }
+  ]
+}

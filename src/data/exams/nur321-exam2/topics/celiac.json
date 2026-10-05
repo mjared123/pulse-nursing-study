@@ -1,0 +1,434 @@
+{
+  "slug": "celiac",
+  "title": "Celiac Disease",
+  "short": "Celiac",
+  "icon": "shield",
+  "description": "Gluten-sensitive enteropathy in children: malabsorption signs, celiac crisis, diagnosis, and lifelong gluten-free diet teaching.",
+  "keyPoints": [
+    "Celiac disease is an immune-mediated reaction to gluten (gliadin) that damages and flattens the villi of the small intestine, causing malabsorption.",
+    "Gluten sources: wheat, rye, and barley. Oats are often cross-contaminated and are usually avoided unless labeled gluten-free and approved by the provider. Remember BROW: barley, rye, oats, wheat.",
+    "Signs: steatorrhea (bulky, pale, foul-smelling, fatty stools), abdominal distension, failure to thrive, muscle wasting, irritability, anemia, and delayed growth or puberty.",
+    "Diagnosis: tissue transglutaminase IgA (tTG-IgA) antibodies with total IgA, confirmed by small bowel biopsy. The child must still be eating gluten for accurate results.",
+    "Treatment is a strict, lifelong gluten-free diet. Safe grains include rice, corn, potatoes, quinoa, buckwheat, and millet.",
+    "Hidden gluten is found in processed foods, sauces, soups, gravies, salad dressings, processed meats, some medications, and play dough. Teach label reading.",
+    "Celiac crisis: severe watery diarrhea and vomiting causing dehydration, electrolyte imbalance, and metabolic acidosis; often triggered by infection or gluten exposure."
+  ],
+  "questions": [
+    {
+      "id": "celiac-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which grains must be eliminated from the diet of a child with celiac disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rice, corn, and millet",
+          "correct": false,
+          "rationale": "These grains are gluten-free and safe for children with celiac disease."
+        },
+        {
+          "id": "b",
+          "text": "Wheat, rye, and barley",
+          "correct": true,
+          "rationale": "Correct. These grains contain gluten proteins that trigger the immune response that damages intestinal villi."
+        },
+        {
+          "id": "c",
+          "text": "Quinoa, buckwheat, and amaranth",
+          "correct": false,
+          "rationale": "Despite their names or appearance, these grains do not contain gluten and are safe."
+        },
+        {
+          "id": "d",
+          "text": "Potatoes, soy, and tapioca",
+          "correct": false,
+          "rationale": "These are gluten-free starches and are safe substitutes."
+        }
+      ],
+      "explanation": "Gluten is found in wheat, rye, and barley. Oats themselves are usually tolerated but are often contaminated with wheat during processing, so many programs restrict them unless certified gluten-free."
+    },
+    {
+      "id": "celiac-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old is brought to the clinic for poor weight gain. The parent reports the child began eating cereals and breads at 9 months and now has large, pale, foul-smelling stools that float. The child has thin extremities, a protruding abdomen, and is irritable. Which condition do these findings most suggest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lactose intolerance",
+          "correct": false,
+          "rationale": "Lactose intolerance causes gas, bloating, and watery diarrhea after milk products but does not usually cause steatorrhea and wasting."
+        },
+        {
+          "id": "b",
+          "text": "Hirschsprung disease",
+          "correct": false,
+          "rationale": "Hirschsprung disease causes chronic constipation and ribbon-like stools, not steatorrhea."
+        },
+        {
+          "id": "c",
+          "text": "Celiac disease",
+          "correct": true,
+          "rationale": "Correct. Symptoms beginning after gluten is introduced, steatorrhea, abdominal distension, wasted extremities, irritability, and failure to thrive are classic for celiac disease."
+        },
+        {
+          "id": "d",
+          "text": "Pyloric stenosis",
+          "correct": false,
+          "rationale": "Pyloric stenosis causes projectile vomiting in young infants, typically at 2-8 weeks of age."
+        }
+      ],
+      "explanation": "Classic celiac disease appears in toddlers months after gluten is added to the diet. Malabsorption of fat causes steatorrhea, and malnutrition leads to a distended abdomen with thin limbs and buttocks, irritability, and FTT."
+    },
+    {
+      "id": "celiac-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parent of a 6-year-old newly diagnosed with celiac disease. Which foods are safe for the child to eat? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plain baked potato with butter",
+          "correct": true,
+          "rationale": "Correct. Potatoes and plain butter are naturally gluten-free."
+        },
+        {
+          "id": "b",
+          "text": "Rice with grilled chicken",
+          "correct": true,
+          "rationale": "Correct. Plain rice and unprocessed meats are gluten-free."
+        },
+        {
+          "id": "c",
+          "text": "Corn tortillas with beans",
+          "correct": true,
+          "rationale": "Correct. 100% corn tortillas and plain beans are gluten-free (check labels for wheat flour added to some brands)."
+        },
+        {
+          "id": "d",
+          "text": "Spaghetti with meat sauce",
+          "correct": false,
+          "rationale": "Regular pasta is made from wheat, and some sauces contain wheat as a thickener."
+        },
+        {
+          "id": "e",
+          "text": "Barley vegetable soup",
+          "correct": false,
+          "rationale": "Barley contains gluten."
+        },
+        {
+          "id": "f",
+          "text": "Quinoa salad with vegetables",
+          "correct": true,
+          "rationale": "Correct. Quinoa is a gluten-free seed that is a good source of protein and fiber."
+        }
+      ],
+      "explanation": "Safe choices include rice, corn, potatoes, quinoa, buckwheat, millet, fruits, vegetables, unprocessed meats, eggs, and most dairy. Processed foods must be checked for hidden gluten."
+    },
+    {
+      "id": "celiac-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-year-old is scheduled for tTG-IgA testing for suspected celiac disease. The parent says, \"I already stopped all bread and pasta a month ago to see if it would help.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Good, that will make the test more accurate because the gut has had time to rest.\"",
+          "correct": false,
+          "rationale": "Removing gluten lowers antibody levels and allows the villi to heal, which can cause false-negative results."
+        },
+        {
+          "id": "b",
+          "text": "\"That will not affect the test, so continue the diet.\"",
+          "correct": false,
+          "rationale": "A gluten-free diet does affect antibody and biopsy results."
+        },
+        {
+          "id": "c",
+          "text": "\"Testing is not needed now because the diet is working and symptoms have improved.\"",
+          "correct": false,
+          "rationale": "Confirming the diagnosis is important because the diet is lifelong and strict; symptom improvement alone does not confirm celiac disease."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll tell the provider; your child needs to eat gluten for accurate testing.\"",
+          "correct": true,
+          "rationale": "Correct. Serologic tests and biopsy must be done while the child is eating gluten. The provider may order a gluten challenge before testing."
+        }
+      ],
+      "explanation": "Diagnosis is based on elevated tTG-IgA (with a total IgA level to rule out IgA deficiency) and confirmed by intestinal biopsy showing villous atrophy. Both require ongoing gluten intake."
+    },
+    {
+      "id": "celiac-05",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a child with celiac disease asks why the child has steatorrhea. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Damaged villi in the small intestine cannot absorb fat, so it passes into the stool.\"",
+          "correct": true,
+          "rationale": "Correct. Villous atrophy reduces the absorptive surface, so fats are not absorbed and appear in bulky, greasy, foul-smelling stools."
+        },
+        {
+          "id": "b",
+          "text": "\"The pancreas is not producing enough enzymes to digest the fat in food.\"",
+          "correct": false,
+          "rationale": "This describes pancreatic insufficiency, as in cystic fibrosis, not celiac disease."
+        },
+        {
+          "id": "c",
+          "text": "\"Gluten speeds up the large intestine so food passes through before it is digested.\"",
+          "correct": false,
+          "rationale": "The primary problem is small intestine villous damage, not colonic transit."
+        },
+        {
+          "id": "d",
+          "text": "\"The liver is not making enough bile because of the gluten.\"",
+          "correct": false,
+          "rationale": "Celiac disease does not primarily affect bile production."
+        }
+      ],
+      "explanation": "In celiac disease, the immune response to gluten causes villous atrophy in the small intestine, leading to malabsorption of fats, fat-soluble vitamins (A, D, E, K), iron, folate, and calcium."
+    },
+    {
+      "id": "celiac-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 3-year-old with celiac disease is admitted after 2 days of profuse watery diarrhea and vomiting following a viral illness. Which findings indicate celiac crisis and require immediate action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bulky, foul-smelling stools and a protruding abdomen with thin extremities",
+          "correct": false,
+          "rationale": "These are chronic signs of malabsorption, not acute crisis."
+        },
+        {
+          "id": "b",
+          "text": "Mild abdominal cramping and one loose stool after a birthday party",
+          "correct": false,
+          "rationale": "This may indicate gluten exposure but is not a life-threatening crisis."
+        },
+        {
+          "id": "c",
+          "text": "Lethargy, dry mucous membranes, sunken eyes, and bicarbonate 14 mEq/L",
+          "correct": true,
+          "rationale": "Correct. Celiac crisis causes severe dehydration, electrolyte imbalance, and metabolic acidosis, which require IV fluids and electrolyte replacement."
+        },
+        {
+          "id": "d",
+          "text": "Weight at the 10th percentile with good energy",
+          "correct": false,
+          "rationale": "Low weight percentile alone is a chronic issue, not an acute crisis."
+        }
+      ],
+      "explanation": "Celiac crisis is a rare but serious complication with severe diarrhea, vomiting, dehydration, electrolyte disturbances (hypokalemia), metabolic acidosis, and hypoproteinemia. It is often triggered by infection, gluten ingestion, or surgery."
+    },
+    {
+      "id": "celiac-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the family of an 8-year-old with celiac disease about hidden sources of gluten. Which items should the family check carefully or avoid? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Canned soups and gravies",
+          "correct": true,
+          "rationale": "Correct. Wheat flour is a common thickener in soups and gravies."
+        },
+        {
+          "id": "b",
+          "text": "Fresh apples and bananas",
+          "correct": false,
+          "rationale": "Fresh fruits are naturally gluten-free."
+        },
+        {
+          "id": "c",
+          "text": "Hot dogs and luncheon meats",
+          "correct": true,
+          "rationale": "Correct. Processed meats may contain wheat fillers or binders."
+        },
+        {
+          "id": "d",
+          "text": "Play dough at school",
+          "correct": true,
+          "rationale": "Correct. Many play doughs contain wheat; children may ingest it or transfer it to the mouth from hands."
+        },
+        {
+          "id": "e",
+          "text": "Some oral medications and chewable vitamins",
+          "correct": true,
+          "rationale": "Correct. Some medications use gluten-containing fillers; the pharmacist should verify."
+        },
+        {
+          "id": "f",
+          "text": "Plain unflavored milk",
+          "correct": false,
+          "rationale": "Plain milk does not contain gluten."
+        }
+      ],
+      "explanation": "Gluten is often hidden in processed foods, sauces, salad dressings, soy sauce, malt flavoring, processed meats, and some medications and craft supplies. Families should read every label and look for \"certified gluten-free\" products."
+    },
+    {
+      "id": "celiac-08",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 14-year-old with celiac disease says, \"I feel fine now, so I eat pizza with my friends on weekends. One slice does not make me sick.\" Which response by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Small amounts are fine as long as you do not have symptoms like diarrhea or bloating.\"",
+          "correct": false,
+          "rationale": "Even small amounts of gluten damage the intestinal lining whether or not symptoms occur."
+        },
+        {
+          "id": "b",
+          "text": "\"Gluten damages your intestine even without symptoms. Let's plan gluten-free options for nights out.\"",
+          "correct": true,
+          "rationale": "Correct. This explains the reason for strict adherence and uses problem-solving that respects the adolescent's need for peer acceptance."
+        },
+        {
+          "id": "c",
+          "text": "\"If you keep eating pizza, you will end up in the hospital with a celiac crisis.\"",
+          "correct": false,
+          "rationale": "Scare tactics are not effective with adolescents and are not accurate for every exposure."
+        },
+        {
+          "id": "d",
+          "text": "\"I will tell your parents so they can stop you from going out with your friends.\"",
+          "correct": false,
+          "rationale": "This undermines the teen's autonomy and trust and does not build self-management skills."
+        }
+      ],
+      "explanation": "Adolescents often struggle with adherence because of peer pressure and lack of symptoms. Ongoing gluten exposure increases the risk of growth delay, osteoporosis, anemia, and intestinal lymphoma. Teaching should focus on practical strategies and self-management."
+    },
+    {
+      "id": "celiac-09",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A school-age child with celiac disease is learning to choose foods independently. Place the steps for safely choosing a packaged snack in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Look for a \"certified gluten-free\" label on the package"
+        },
+        {
+          "id": "b",
+          "text": "Read the ingredient list for wheat, rye, barley, malt, or oats"
+        },
+        {
+          "id": "c",
+          "text": "Check the allergen statement and \"may contain\" or shared-facility warnings"
+        },
+        {
+          "id": "d",
+          "text": "Ask a trusted adult or call the manufacturer if anything is unclear"
+        },
+        {
+          "id": "e",
+          "text": "Eat the snack only after confirming it is safe"
+        }
+      ],
+      "explanation": "A certified gluten-free label is the quickest safety check. If absent, the child reviews the ingredients for gluten sources, then checks allergen and cross-contamination warnings. When in doubt, the child asks before eating. Teaching this routine builds independence for school-age children."
+    },
+    {
+      "id": "celiac-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 7-year-old with celiac disease will start a new school. Which action by the nurse is most important to promote dietary adherence at school?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tell the parent to keep the child home on class party days to avoid exposure",
+          "correct": false,
+          "rationale": "Excluding the child from activities harms social development and is unnecessary with planning."
+        },
+        {
+          "id": "b",
+          "text": "Help the family meet with school staff to create a written gluten-free plan",
+          "correct": true,
+          "rationale": "Correct. Coordinating with school staff (often through a 504 plan) ensures safe meals, snacks, and classroom activities."
+        },
+        {
+          "id": "c",
+          "text": "Advise the child to trade lunches with friends to get variety",
+          "correct": false,
+          "rationale": "Trading food is unsafe because of possible gluten content."
+        },
+        {
+          "id": "d",
+          "text": "Ask the teacher to remind the child not to eat bread, pasta, or crackers",
+          "correct": false,
+          "rationale": "A verbal reminder is not enough; hidden gluten sources and cross-contamination require a coordinated plan."
+        }
+      ],
+      "explanation": "School-age children spend much of their day at school. A written plan with the school nurse, teachers, and food services addresses lunches, snacks, parties, and art supplies, and helps the child participate safely."
+    },
+    {
+      "id": "celiac-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a child with celiac disease asks how long the gluten-free diet must be followed. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Until the intestinal biopsy is normal again.\"",
+          "correct": false,
+          "rationale": "Healing of the intestine does not mean gluten can be reintroduced; damage will recur."
+        },
+        {
+          "id": "b",
+          "text": "\"Until your child reaches puberty.\"",
+          "correct": false,
+          "rationale": "Celiac disease is not outgrown."
+        },
+        {
+          "id": "c",
+          "text": "\"For about 6 months, and then gluten can be slowly reintroduced.\"",
+          "correct": false,
+          "rationale": "Reintroducing gluten will reactivate the immune response and intestinal damage."
+        },
+        {
+          "id": "d",
+          "text": "\"For life, because the immune reaction to gluten does not go away.\"",
+          "correct": true,
+          "rationale": "Correct. Celiac disease is a lifelong autoimmune condition, and a strict gluten-free diet is the only treatment."
+        }
+      ],
+      "explanation": "Celiac disease is permanent. With a strict gluten-free diet, symptoms usually improve within weeks and the villi heal over months, but any gluten exposure restarts the damage."
+    },
+    {
+      "id": "celiac-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 5-year-old with celiac disease started a gluten-free diet 6 weeks ago. Which finding best indicates the treatment is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formed stools, better appetite and mood, and a 1.2 kg weight gain",
+          "correct": true,
+          "rationale": "Correct. Improved stool consistency, appetite, behavior, and weight gain show improved absorption."
+        },
+        {
+          "id": "b",
+          "text": "Continued bulky stools but less abdominal pain and fewer complaints at school",
+          "correct": false,
+          "rationale": "Ongoing bulky stools suggest continued malabsorption, possibly from hidden gluten."
+        },
+        {
+          "id": "c",
+          "text": "Increased abdominal distension after meals with a good appetite",
+          "correct": false,
+          "rationale": "Increased distension suggests ongoing gluten exposure or another problem."
+        },
+        {
+          "id": "d",
+          "text": "Weight unchanged and continued irritability at bedtime",
+          "correct": false,
+          "rationale": "Lack of weight gain and continued irritability suggest the diet is not effective or not followed."
+        }
+      ],
+      "explanation": "Most children show clinical improvement within days to weeks of a strict gluten-free diet: better mood, appetite, stool pattern, and weight. Catch-up growth and normalization of tTG-IgA levels occur over months."
+    }
+  ]
+}

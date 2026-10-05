@@ -1,0 +1,434 @@
+{
+  "slug": "kawasaki",
+  "title": "Kawasaki Disease",
+  "short": "Kawasaki",
+  "icon": "zap",
+  "description": "Kawasaki disease (mucocutaneous lymph node syndrome): phases, diagnostic criteria, coronary artery aneurysm risk, IVIG and aspirin therapy, vaccine timing, and family teaching.",
+  "keyPoints": [
+    "Acute systemic vasculitis, most common in children under 5; leading cause of acquired heart disease in children in the US.",
+    "Diagnosis: fever for at least 5 days plus 4 of: bilateral nonexudative conjunctivitis, strawberry tongue or red cracked lips, polymorphous rash, extremity edema or erythema, cervical lymph node of at least 1.5 cm.",
+    "Phases: acute (fever, irritability), subacute (peeling fingers and toes, thrombocytosis, highest aneurysm risk), convalescent (labs normalize).",
+    "Main complication: coronary artery aneurysm, thrombosis, MI. Get a baseline echo and follow-up echoes.",
+    "Treatment: IVIG 2 g/kg (watch for infusion reactions) plus high-dose aspirin, then low-dose aspirin for its antiplatelet effect.",
+    "Delay MMR and varicella vaccines 11 months after IVIG. Avoid ibuprofen with aspirin; report flu or varicella exposure (Reye syndrome).",
+    "Irritability is a hallmark and can last weeks; provide a calm environment and gentle care."
+  ],
+  "questions": [
+    {
+      "id": "kawasaki-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the most serious complication of Kawasaki disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rheumatic valve disease",
+          "correct": false,
+          "rationale": "Valve scarring is the main complication of rheumatic fever, not Kawasaki disease."
+        },
+        {
+          "id": "b",
+          "text": "Coronary artery aneurysm",
+          "correct": true,
+          "rationale": "Correct. Vasculitis of the coronary arteries can cause aneurysms, thrombosis, myocardial infarction, and sudden death. Kawasaki disease is the leading cause of acquired heart disease in children in developed countries."
+        },
+        {
+          "id": "c",
+          "text": "Permanent joint deformity",
+          "correct": false,
+          "rationale": "Arthritis or arthralgia may occur but resolves without deformity."
+        },
+        {
+          "id": "d",
+          "text": "Chronic kidney disease",
+          "correct": false,
+          "rationale": "Kawasaki disease does not typically cause chronic kidney disease."
+        }
+      ],
+      "explanation": "Kawasaki disease is an acute systemic vasculitis, most common in children under 5. Without treatment about 25% develop coronary artery aneurysms; IVIG within the first 10 days lowers this to about 4%."
+    },
+    {
+      "id": "kawasaki-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 3-year-old has had a temperature of 39.8°C (103.6°F) for 6 days that does not respond to antipyretics. Which additional findings support a diagnosis of Kawasaki disease? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bilateral conjunctival injection without drainage",
+          "correct": true,
+          "rationale": "Bilateral, nonexudative conjunctivitis (limbal sparing) is a classic criterion."
+        },
+        {
+          "id": "b",
+          "text": "Red, cracked lips and a strawberry tongue",
+          "correct": true,
+          "rationale": "Oral mucous membrane changes are a diagnostic criterion."
+        },
+        {
+          "id": "c",
+          "text": "Swollen, red hands and feet",
+          "correct": true,
+          "rationale": "Edema and erythema of the hands and feet are seen in the acute phase."
+        },
+        {
+          "id": "d",
+          "text": "Generalized vesicular rash in different stages",
+          "correct": false,
+          "rationale": "Vesicles in different stages suggest varicella; the Kawasaki rash is polymorphous but not vesicular."
+        },
+        {
+          "id": "e",
+          "text": "A single tender cervical lymph node 2 cm in diameter",
+          "correct": true,
+          "rationale": "Unilateral cervical lymphadenopathy at least 1.5 cm is a criterion."
+        },
+        {
+          "id": "f",
+          "text": "Thick yellow eye discharge",
+          "correct": false,
+          "rationale": "Exudative conjunctivitis suggests a bacterial infection rather than Kawasaki disease."
+        }
+      ],
+      "explanation": "Diagnosis: fever for at least 5 days plus 4 of 5 criteria: bilateral nonexudative conjunctivitis, oral changes (strawberry tongue, red cracked lips), polymorphous rash, extremity changes (edema, erythema, later periungual peeling), and cervical lymphadenopathy of at least 1.5 cm."
+    },
+    {
+      "id": "kawasaki-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a child with Kawasaki disease asks why the child's fingertips and toes are peeling 2 weeks after the fever started. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"This is a sign of a new skin infection.\"",
+          "correct": false,
+          "rationale": "Periungual desquamation is an expected finding of the subacute phase, not an infection."
+        },
+        {
+          "id": "b",
+          "text": "\"This is an allergic reaction to the IVIG.\"",
+          "correct": false,
+          "rationale": "IVIG reactions occur during or shortly after the infusion and present as fever, chills, or hypotension, not peeling."
+        },
+        {
+          "id": "c",
+          "text": "\"This is expected in the second phase of the illness; keep the skin clean and moisturized.\"",
+          "correct": true,
+          "rationale": "Correct. Peeling around the nails and of the palms and soles occurs in the subacute phase. Gentle care and lotion are appropriate."
+        },
+        {
+          "id": "d",
+          "text": "\"This means the disease is getting worse and your child needs another dose of IVIG.\"",
+          "correct": false,
+          "rationale": "Desquamation does not indicate treatment failure; persistent fever is the cue for retreatment."
+        }
+      ],
+      "explanation": "Phases: acute (days 1-10: fever, conjunctivitis, oral changes, rash, swelling of hands and feet, irritability), subacute (about days 11-25: desquamation, thrombocytosis, highest risk of coronary aneurysm), and convalescent (until ESR and platelets normalize, about 6-8 weeks)."
+    },
+    {
+      "id": "kawasaki-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A child with Kawasaki disease is in the subacute phase. The platelet count is 980,000/mm³. Which complication is the nurse most concerned about?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bleeding from the gums due to platelet dysfunction",
+          "correct": false,
+          "rationale": "A high platelet count does not cause bleeding, and platelet dysfunction is not a feature of Kawasaki disease."
+        },
+        {
+          "id": "b",
+          "text": "Thrombosis in a coronary artery aneurysm",
+          "correct": true,
+          "rationale": "Correct. Thrombocytosis during the subacute phase, combined with damaged coronary vessels, greatly increases the risk of clot formation and myocardial infarction."
+        },
+        {
+          "id": "c",
+          "text": "Iron-deficiency anemia",
+          "correct": false,
+          "rationale": "Mild anemia may occur, but thrombocytosis does not cause iron deficiency."
+        },
+        {
+          "id": "d",
+          "text": "Acute kidney injury from platelet clumping in the glomeruli",
+          "correct": false,
+          "rationale": "Thrombocytosis in Kawasaki disease is not linked to glomerular clotting or kidney injury; the danger is coronary thrombosis."
+        }
+      ],
+      "explanation": "Platelet counts rise in the subacute phase, often above 1 million/mm³. Low-dose aspirin is given for its antiplatelet effect until echo and labs show no coronary involvement."
+    },
+    {
+      "id": "kawasaki-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old with Kawasaki disease is receiving IVIG. Which nursing action is most important during the infusion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monitor vital signs frequently for fever, chills, or hypotension.",
+          "correct": true,
+          "rationale": "Correct. IVIG is a blood product; reactions are most likely in the first 15-30 minutes and with faster rates. Monitor vital signs and stop the infusion if a reaction occurs."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the child to drink extra fluids to flush the medication.",
+          "correct": false,
+          "rationale": "Hydration is reasonable but not the priority during the infusion."
+        },
+        {
+          "id": "c",
+          "text": "Give the infusion as an IV push over 5 minutes to limit the time the IV line is needed.",
+          "correct": false,
+          "rationale": "IVIG is given as a slow, titrated infusion, usually over 10-12 hours for Kawasaki disease; rapid administration increases the risk of a reaction."
+        },
+        {
+          "id": "d",
+          "text": "Withhold aspirin until 2 days after the IVIG is finished to prevent bleeding.",
+          "correct": false,
+          "rationale": "High-dose aspirin is given along with IVIG in the acute phase; holding it is not indicated."
+        }
+      ],
+      "explanation": "IVIG (2 g/kg as a single infusion over 10-12 hours) reduces inflammation and the risk of coronary aneurysm. Monitor for allergic reaction, fluid overload, and hypotension."
+    },
+    {
+      "id": "kawasaki-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Before discharge, the parents of a 15-month-old who received IVIG for Kawasaki disease ask about the 15-month vaccines. Which response is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child can receive all vaccines on schedule.\"",
+          "correct": false,
+          "rationale": "Live vaccines given soon after IVIG may not produce immunity."
+        },
+        {
+          "id": "b",
+          "text": "\"Your child should not receive any vaccines for 1 year because IVIG weakens the immune system.\"",
+          "correct": false,
+          "rationale": "IVIG does not weaken the immune system, and inactivated vaccines, including influenza vaccine, can be given on schedule."
+        },
+        {
+          "id": "c",
+          "text": "\"Your child should never receive the MMR vaccine because of the risk of a reaction with IVIG.\"",
+          "correct": false,
+          "rationale": "MMR is only delayed, not permanently contraindicated; the concern is reduced vaccine effectiveness, not a reaction."
+        },
+        {
+          "id": "d",
+          "text": "\"The MMR and varicella vaccines should be delayed for 11 months after IVIG.\"",
+          "correct": true,
+          "rationale": "Correct. Antibodies in IVIG interfere with the immune response to live virus vaccines; they are delayed for 11 months after a 2 g/kg dose."
+        }
+      ],
+      "explanation": "After high-dose IVIG, live virus vaccines (MMR, varicella) are delayed for 11 months. Inactivated vaccines are not affected. Influenza vaccine is especially important because the child may be on aspirin."
+    },
+    {
+      "id": "kawasaki-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old with Kawasaki disease is taking low-dose aspirin. The parent calls to report that the child's sibling was just diagnosed with chickenpox. Why is this concerning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aspirin suppresses the immune response, making the child more likely to develop shingles.",
+          "correct": false,
+          "rationale": "Low-dose aspirin does not suppress immunity or increase the risk of shingles; the concern is Reye syndrome."
+        },
+        {
+          "id": "b",
+          "text": "Aspirin will cause a severe rash when combined with varicella.",
+          "correct": false,
+          "rationale": "The concern is Reye syndrome, not a drug rash."
+        },
+        {
+          "id": "c",
+          "text": "Aspirin taken during varicella infection increases the risk of Reye syndrome.",
+          "correct": true,
+          "rationale": "Correct. Reye syndrome causes acute encephalopathy and liver failure. The provider may switch to another antiplatelet drug temporarily."
+        },
+        {
+          "id": "d",
+          "text": "Varicella causes the aspirin to become ineffective.",
+          "correct": false,
+          "rationale": "Varicella does not reduce aspirin's effect."
+        }
+      ],
+      "explanation": "Children on aspirin therapy should receive the inactivated influenza vaccine and be monitored for exposure to influenza or varicella. Parents should notify the provider of exposure so therapy can be adjusted."
+    },
+    {
+      "id": "kawasaki-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 20-month-old with acute Kawasaki disease is extremely irritable and cries when touched. Which intervention is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encourage the parents to leave for a few hours so the child can rest without stimulation.",
+          "correct": false,
+          "rationale": "Parental presence is comforting to toddlers and reduces distress."
+        },
+        {
+          "id": "b",
+          "text": "Provide a quiet environment, minimize handling, and use cool cloths",
+          "correct": true,
+          "rationale": "Correct. Irritability is a hallmark of the acute phase. Reducing stimulation, gentle handling, and cool cloths help comfort the child."
+        },
+        {
+          "id": "c",
+          "text": "Restrain the child's arms to prevent scratching.",
+          "correct": false,
+          "rationale": "Restraints increase agitation; the rash is usually not severely pruritic."
+        },
+        {
+          "id": "d",
+          "text": "Encourage active play in the playroom to distract the child from discomfort.",
+          "correct": false,
+          "rationale": "Active play increases cardiac demands and discomfort in the acute phase."
+        }
+      ],
+      "explanation": "Nursing care in the acute phase: comfort, a quiet environment, cool compresses, lip care, soft and cool foods for sore mouth, monitoring I&O, daily weights, and cardiac assessment."
+    },
+    {
+      "id": "kawasaki-09",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 3-year-old with suspected Kawasaki disease is admitted with a temperature of 40°C (104°F) for 7 days. Place the nurse's actions in order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess vital signs, including heart rate, rhythm, and signs of heart failure"
+        },
+        {
+          "id": "b",
+          "text": "Obtain a baseline echocardiogram and labs as prescribed"
+        },
+        {
+          "id": "c",
+          "text": "Administer IVIG and high-dose aspirin as prescribed"
+        },
+        {
+          "id": "d",
+          "text": "Monitor for infusion reactions and track temperature response"
+        },
+        {
+          "id": "e",
+          "text": "Teach the parents about home aspirin therapy and follow-up echocardiograms"
+        }
+      ],
+      "explanation": "Begin with a cardiac assessment, then establish baseline echo and labs (CBC, ESR, CRP). Treat with IVIG and aspirin, monitor for reactions and fever resolution, then prepare the family for discharge and follow-up."
+    },
+    {
+      "id": "kawasaki-10",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse provides discharge teaching to the parents of a 4-year-old recovering from Kawasaki disease. Which statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We'll keep the appointments for echocardiograms at 2 and 6 weeks.\"",
+          "correct": true,
+          "rationale": "Follow-up echocardiography detects coronary aneurysms that may develop after discharge."
+        },
+        {
+          "id": "b",
+          "text": "\"We'll report any bruising, nosebleeds, or black stools.\"",
+          "correct": true,
+          "rationale": "Aspirin affects platelets and the GI tract; bleeding signs should be reported."
+        },
+        {
+          "id": "c",
+          "text": "\"We'll give ibuprofen for any fever while our child is on aspirin.\"",
+          "correct": false,
+          "rationale": "Ibuprofen interferes with aspirin's antiplatelet effect and should be avoided while on aspirin therapy."
+        },
+        {
+          "id": "d",
+          "text": "\"Irritability may last for a few weeks; it should slowly improve.\"",
+          "correct": true,
+          "rationale": "Irritability can persist for up to 2 months after the acute phase."
+        },
+        {
+          "id": "e",
+          "text": "\"We'll call the provider if our child is exposed to flu or chickenpox.\"",
+          "correct": true,
+          "rationale": "Exposure while on aspirin increases the risk of Reye syndrome."
+        },
+        {
+          "id": "f",
+          "text": "\"Since the fever is gone, there is no risk to the heart anymore.\"",
+          "correct": false,
+          "rationale": "Coronary aneurysms can develop in the subacute phase after the fever resolves."
+        }
+      ],
+      "explanation": "Discharge teaching includes aspirin administration and side effects, avoiding ibuprofen, reporting bleeding, monitoring temperature, follow-up echocardiograms, delaying live vaccines for 11 months, and reporting influenza or varicella exposure."
+    },
+    {
+      "id": "kawasaki-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Why is high-dose aspirin given in the acute phase of Kawasaki disease, followed later by low-dose aspirin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "High dose reduces fever and inflammation; low dose prevents coronary thrombosis.",
+          "correct": true,
+          "rationale": "Correct. Higher doses are anti-inflammatory and antipyretic, while lower doses (3-5 mg/kg/day) inhibit platelet aggregation during the period of thrombocytosis."
+        },
+        {
+          "id": "b",
+          "text": "High-dose aspirin prevents coronary aneurysms; low-dose aspirin treats the peeling skin of the hands and feet.",
+          "correct": false,
+          "rationale": "IVIG, not aspirin, is the main therapy that reduces aneurysm risk, and aspirin does not treat the desquamation."
+        },
+        {
+          "id": "c",
+          "text": "High-dose aspirin acts as an antibiotic against the infection; low-dose aspirin is continued for pain.",
+          "correct": false,
+          "rationale": "Aspirin has no antibiotic properties; Kawasaki disease is not treated with antibiotics."
+        },
+        {
+          "id": "d",
+          "text": "Both doses are given only to relieve joint pain.",
+          "correct": false,
+          "rationale": "Aspirin's roles are anti-inflammatory and antiplatelet, not only analgesic."
+        }
+      ],
+      "explanation": "Aspirin regimen: moderate to high dose until the child is afebrile for 48-72 hours, then low dose until labs normalize and echocardiograms show no coronary changes, usually 6-8 weeks. With aneurysms, therapy is longer."
+    },
+    {
+      "id": "kawasaki-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "Four children are in the pediatric unit. Which child's presentation is most consistent with Kawasaki disease and should be reported to the provider for an urgent echocardiogram?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 7-year-old with sore throat, fever for 1 day, a strawberry tongue, and a sandpaper rash",
+          "correct": false,
+          "rationale": "Sore throat, strawberry tongue, and a sandpaper rash after only 1 day of fever suggest scarlet fever from group A strep."
+        },
+        {
+          "id": "b",
+          "text": "A 10-month-old with fever for 3 days followed by a rash as the fever broke",
+          "correct": false,
+          "rationale": "Rash appearing as a high fever ends suggests roseola (HHV-6)."
+        },
+        {
+          "id": "c",
+          "text": "A 9-year-old with migratory knee and elbow pain 3 weeks after strep throat",
+          "correct": false,
+          "rationale": "This suggests rheumatic fever."
+        },
+        {
+          "id": "d",
+          "text": "A 2-year-old with 6 days of fever, nonpurulent red eyes, cracked lips, and swollen hands",
+          "correct": true,
+          "rationale": "Correct. Fever for 5 or more days plus conjunctivitis, oral changes, and extremity changes meets the criteria for Kawasaki disease and requires echocardiogram and IVIG."
+        }
+      ],
+      "explanation": "Kawasaki disease should be suspected in any young child with prolonged unexplained fever (5 days or more) plus mucocutaneous signs. Early IVIG within 10 days of fever onset prevents most coronary aneurysms."
+    }
+  ]
+}
