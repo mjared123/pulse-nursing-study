@@ -13,7 +13,7 @@ import AppHeader from './components/AppHeader.vue'
     <main class="mx-auto w-full max-w-6xl px-4 pt-6 pb-24 sm:px-6">
       <RouterView v-slot="{ Component, route }">
         <Transition name="fade" mode="out-in">
-          <component :is="Component" :key="route.path" />
+          <component :is="Component" :key="route.name === 'exam' ? route.path : route.fullPath" />
         </Transition>
       </RouterView>
     </main>

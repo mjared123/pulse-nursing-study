@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, createMemoryHistory } from 'vue-router'
 import Home from './views/Home.vue'
 import ExamDashboard from './views/ExamDashboard.vue'
 import TopicView from './views/TopicView.vue'
@@ -8,7 +8,8 @@ import ExamResults from './views/ExamResults.vue'
 import NotFound from './views/NotFound.vue'
 
 export const router = createRouter({
-  history: createWebHistory(),
+  // The single-file preview build runs inside a sandboxed frame, so it keeps routes in memory.
+  history: import.meta.env.VITE_MEMORY_ROUTER ? createMemoryHistory() : createWebHistory(),
   scrollBehavior: (to, from, saved) => saved ?? (to.hash ? { el: to.hash, top: 80 } : { top: 0 }),
   routes: [
     { path: '/', name: 'home', component: Home },

@@ -745,7 +745,7 @@
         },
         {
           "id": "d",
-          "text": "Lower the chest drainage system above chest level to improve flow",
+          "text": "Raise the chest drainage system above chest level to improve flow",
           "correct": false,
           "rationale": "Raising the drainage system above the chest can cause backflow and does not treat tamponade; it should stay below chest level."
         }

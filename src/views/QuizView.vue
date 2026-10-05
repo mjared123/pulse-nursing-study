@@ -86,8 +86,8 @@ const reviewOpen = ref(null)
       <p class="mt-2 text-stone-600 dark:text-stone-400">You got <b>{{ correctCount }}</b> of <b>{{ answeredCount }}</b> right.</p>
       <div class="mt-8 flex flex-wrap justify-center gap-3">
         <RouterLink :to="`/${exam.id}/topic/${topic.slug}`" class="btn-ghost"><Icon name="arrow-left" :size="16" /> Topic</RouterLink>
-        <a :href="`/${exam.id}/topic/${topic.slug}/quiz`" class="btn-primary"><Icon name="rotate" :size="16" /> New quiz</a>
-        <a v-if="correctCount < answeredCount" :href="`/${exam.id}/topic/${topic.slug}/quiz?mode=missed`" class="btn-ghost"><Icon name="target" :size="16" /> Retry missed</a>
+        <RouterLink :to="{ path: `/${exam.id}/topic/${topic.slug}/quiz`, query: { t: Date.now() } }" class="btn-primary"><Icon name="rotate" :size="16" /> New quiz</RouterLink>
+        <RouterLink v-if="correctCount < answeredCount" :to="{ path: `/${exam.id}/topic/${topic.slug}/quiz`, query: { mode: 'missed', t: Date.now() } }" class="btn-ghost"><Icon name="target" :size="16" /> Retry missed</RouterLink>
       </div>
     </section>
     <section class="card divide-y divide-stone-200/70 overflow-hidden dark:divide-white/5">
