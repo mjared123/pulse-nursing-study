@@ -1,0 +1,440 @@
+{
+  "slug": "appendicitis",
+  "title": "Appendicitis",
+  "short": "Appendicitis",
+  "icon": "target",
+  "description": "Acute appendicitis in children: classic pain progression, diagnostic findings, perforation and peritonitis, and pre- and post-operative nursing care.",
+  "keyPoints": [
+    "Classic progression: periumbilical pain that migrates to the right lower quadrant at McBurney point, followed by anorexia, nausea/vomiting, and low-grade fever.",
+    "Findings: rebound tenderness, guarding, pain with walking or coughing, side-lying with knees flexed, and elevated WBC with a left shift.",
+    "Ultrasound is the preferred first imaging study in children (no radiation); CT is used when ultrasound is inconclusive.",
+    "Before surgery: NPO, IV fluids, IV antibiotics, analgesia. NO heat to the abdomen, laxatives, or enemas, since they increase motility and the risk of rupture.",
+    "Sudden relief of pain is a red flag for perforation, followed by peritonitis: rigid board-like abdomen, high fever, tachycardia, worsening diffuse pain, shallow grunting respirations.",
+    "After a ruptured appendix: IV antibiotics for several days, NG tube to suction, right side-lying or semi-Fowler position to localize drainage, wound/drain care.",
+    "Post-op: early ambulation, incentive spirometry, scheduled pain control, advance diet as bowel sounds return, monitor for abscess and wound infection."
+  ],
+  "questions": [
+    {
+      "id": "appendicitis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which description best matches the classic progression of abdominal pain in a child with acute appendicitis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diffuse cramping pain that improves after a bowel movement",
+          "correct": false,
+          "rationale": "Pain relieved by defecation suggests constipation or gastroenteritis, not appendicitis."
+        },
+        {
+          "id": "b",
+          "text": "Pain that begins near the umbilicus and then localizes to the right lower quadrant",
+          "correct": true,
+          "rationale": "Correct. Early visceral pain is felt periumbilically; as inflammation reaches the parietal peritoneum, the pain localizes to McBurney point in the RLQ."
+        },
+        {
+          "id": "c",
+          "text": "Epigastric pain radiating to the back that worsens after fatty meals",
+          "correct": false,
+          "rationale": "This pattern suggests pancreatitis or gallbladder disease, which are uncommon in children."
+        },
+        {
+          "id": "d",
+          "text": "Left lower quadrant pain with bright red rectal bleeding",
+          "correct": false,
+          "rationale": "LLQ pain with rectal bleeding is not typical of appendicitis; it may suggest colitis or other lower GI disease."
+        }
+      ],
+      "explanation": "Appendicitis pain typically starts as vague periumbilical discomfort and migrates to the RLQ (McBurney point, midway between the umbilicus and the anterior superior iliac spine) over several hours. Anorexia usually follows the pain, then vomiting and low-grade fever."
+    },
+    {
+      "id": "appendicitis-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old with suspected appendicitis reports RLQ pain rated 7/10. The parent asks the nurse for a heating pad to help with the pain. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"A heating pad is fine as long as it is set on low and placed over a towel.\"",
+          "correct": false,
+          "rationale": "Any heat increases blood flow and inflammation and can hasten rupture of an inflamed appendix."
+        },
+        {
+          "id": "b",
+          "text": "\"Let us put the heating pad on for 20 minutes and then reassess.\"",
+          "correct": false,
+          "rationale": "Limiting the time does not make heat safe; heat is contraindicated with suspected appendicitis."
+        },
+        {
+          "id": "c",
+          "text": "\"Heat may increase the risk of rupture, so I will ask the provider about pain medication.\"",
+          "correct": true,
+          "rationale": "Correct. Heat is avoided because it may promote rupture. Analgesia is appropriate and does not mask the diagnosis, so the nurse should obtain an order."
+        },
+        {
+          "id": "d",
+          "text": "\"Pain medication is not allowed until the surgeon examines your child, because it can hide the signs.\"",
+          "correct": false,
+          "rationale": "Current evidence shows opioid analgesia does not mask the diagnosis of appendicitis; withholding pain relief is not appropriate."
+        }
+      ],
+      "explanation": "Heat, laxatives, and enemas are avoided in suspected appendicitis because they can increase inflammation or bowel motility and lead to perforation. Children should receive appropriate analgesia while awaiting diagnosis and surgery."
+    },
+    {
+      "id": "appendicitis-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 12-year-old is admitted with suspected appendicitis and is awaiting an abdominal ultrasound. Which orders does the nurse anticipate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the child NPO",
+          "correct": true,
+          "rationale": "Correct. The child is NPO in preparation for possible surgery and to rest the bowel."
+        },
+        {
+          "id": "b",
+          "text": "Start IV fluids",
+          "correct": true,
+          "rationale": "Correct. IV fluids maintain hydration and correct losses from vomiting and decreased intake while NPO."
+        },
+        {
+          "id": "c",
+          "text": "Administer a Fleet enema to relieve discomfort",
+          "correct": false,
+          "rationale": "Enemas stimulate bowel motility and can cause an inflamed appendix to rupture."
+        },
+        {
+          "id": "d",
+          "text": "Obtain a CBC",
+          "correct": true,
+          "rationale": "Correct. An elevated WBC count with a left shift supports the diagnosis of appendicitis."
+        },
+        {
+          "id": "e",
+          "text": "Give a stool softener to prevent straining",
+          "correct": false,
+          "rationale": "Laxatives and stool softeners increase peristalsis and are contraindicated before surgery for suspected appendicitis."
+        },
+        {
+          "id": "f",
+          "text": "Administer IV analgesia as prescribed",
+          "correct": true,
+          "rationale": "Correct. Pain control is appropriate and does not interfere with diagnosis."
+        }
+      ],
+      "explanation": "Preoperative care for appendicitis includes NPO status, IV fluids, labs (CBC, CRP, urinalysis, and a pregnancy test for adolescent girls), IV antibiotics as ordered, and analgesia. Anything that increases bowel motility is avoided."
+    },
+    {
+      "id": "appendicitis-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 9-year-old admitted 6 hours ago with RLQ pain suddenly tells the nurse, \"My tummy does not hurt anymore.\" Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document the improvement and encourage the child to rest quietly in a position of comfort",
+          "correct": false,
+          "rationale": "Sudden pain relief in appendicitis is a warning sign of perforation, not improvement. Documenting it as improvement could delay care."
+        },
+        {
+          "id": "b",
+          "text": "Ask the provider whether the child may start clear liquids",
+          "correct": false,
+          "rationale": "The child should remain NPO; feeding a child with a possible perforation is unsafe."
+        },
+        {
+          "id": "c",
+          "text": "Prepare to discharge the child home with outpatient follow-up in 24 hours",
+          "correct": false,
+          "rationale": "Discharge would be dangerous; this finding requires urgent assessment."
+        },
+        {
+          "id": "d",
+          "text": "Assess vital signs and the abdomen for peritonitis and notify the provider",
+          "correct": true,
+          "rationale": "Correct. Sudden relief of pain suggests the appendix has ruptured and pressure has been released. The nurse should assess for fever, tachycardia, rigidity, and increasing diffuse pain and notify the provider immediately."
+        }
+      ],
+      "explanation": "Abrupt relief of pain in a child with appendicitis is a classic sign of perforation. It is typically followed by signs of peritonitis such as a rigid abdomen, increasing diffuse pain, high fever, tachycardia, and shallow respirations."
+    },
+    {
+      "id": "appendicitis-05",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing a 7-year-old 12 hours after admission for appendicitis. Which findings suggest that peritonitis has developed? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rigid, board-like abdomen",
+          "correct": true,
+          "rationale": "Correct. Abdominal rigidity reflects diffuse peritoneal inflammation."
+        },
+        {
+          "id": "b",
+          "text": "Temperature 39.6°C (103.3°F)",
+          "correct": true,
+          "rationale": "Correct. A sudden high fever is typical after perforation and peritonitis."
+        },
+        {
+          "id": "c",
+          "text": "Heart rate 148 beats/min",
+          "correct": true,
+          "rationale": "Correct. Tachycardia above the normal range for a 7-year-old (about 70-120) suggests sepsis, fever, pain, or hypovolemia."
+        },
+        {
+          "id": "d",
+          "text": "Hyperactive bowel sounds in all four quadrants",
+          "correct": false,
+          "rationale": "Peritonitis typically causes decreased or absent bowel sounds from paralytic ileus."
+        },
+        {
+          "id": "e",
+          "text": "Shallow, grunting respirations",
+          "correct": true,
+          "rationale": "Correct. Children splint the abdomen and breathe shallowly to avoid moving the inflamed peritoneum."
+        },
+        {
+          "id": "f",
+          "text": "Pain localized only to McBurney point",
+          "correct": false,
+          "rationale": "Pain localized to McBurney point is typical of uncomplicated appendicitis. With peritonitis, pain becomes diffuse."
+        }
+      ],
+      "explanation": "Peritonitis after perforation presents with diffuse abdominal pain, rigidity and guarding, high fever, tachycardia, pallor, irritability, shallow respirations, and absent bowel sounds. It requires urgent IV antibiotics, fluid resuscitation, and surgery."
+    },
+    {
+      "id": "appendicitis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 8-year-old returns from surgery after a laparoscopic appendectomy for a ruptured appendix. A Penrose drain and an NG tube to low intermittent suction are in place. How should the nurse position the child?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right side-lying or semi-Fowler position",
+          "correct": true,
+          "rationale": "Correct. These positions use gravity to promote drainage from the peritoneal cavity and help keep infection localized in the lower abdomen."
+        },
+        {
+          "id": "b",
+          "text": "Prone with a pillow under the hips",
+          "correct": false,
+          "rationale": "Prone positioning puts pressure on the incision and does not promote drainage."
+        },
+        {
+          "id": "c",
+          "text": "Supine and flat with legs elevated",
+          "correct": false,
+          "rationale": "A flat position may let infected drainage spread upward toward the diaphragm, increasing the risk of subphrenic abscess."
+        },
+        {
+          "id": "d",
+          "text": "Left side-lying with the head of bed flat",
+          "correct": false,
+          "rationale": "Left side-lying does not promote drainage from the RLQ where the appendix was located."
+        }
+      ],
+      "explanation": "After a perforated appendix, the child is placed in a right side-lying or semi-Fowler position to promote drainage and prevent the spread of infection. Care also includes IV antibiotics, NG decompression until bowel function returns, and drain and wound care."
+    },
+    {
+      "id": "appendicitis-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 6-year-old asks why the child has an elevated white blood cell count of 17,500/mm³. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It means your child has a viral infection rather than appendicitis.\"",
+          "correct": false,
+          "rationale": "A viral illness more often causes a normal or low WBC; leukocytosis with a left shift supports a bacterial or inflammatory process such as appendicitis."
+        },
+        {
+          "id": "b",
+          "text": "\"It is caused by dehydration and will correct once IV fluids are running.\"",
+          "correct": false,
+          "rationale": "Dehydration may slightly concentrate blood counts but does not explain significant leukocytosis."
+        },
+        {
+          "id": "c",
+          "text": "\"It shows the body is responding to inflammation, which is common with appendicitis.\"",
+          "correct": true,
+          "rationale": "Correct. A WBC above about 10,000-11,000/mm³ with increased neutrophils is common in appendicitis and reflects the inflammatory response."
+        },
+        {
+          "id": "d",
+          "text": "\"It confirms the appendix has already ruptured.\"",
+          "correct": false,
+          "rationale": "An elevated WBC is common even in uncomplicated appendicitis; it does not by itself confirm perforation."
+        }
+      ],
+      "explanation": "Laboratory support for appendicitis includes leukocytosis (often 10,000-18,000/mm³) with a left shift and an elevated CRP. Very high counts may suggest perforation, but diagnosis relies on history, examination, and imaging."
+    },
+    {
+      "id": "appendicitis-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 14-year-old is 4 hours post laparoscopic appendectomy for uncomplicated appendicitis. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess airway, respiratory rate, and oxygen saturation"
+        },
+        {
+          "id": "b",
+          "text": "Assess pain using a numeric scale and give prescribed analgesia"
+        },
+        {
+          "id": "c",
+          "text": "Inspect the laparoscopic incisions for bleeding"
+        },
+        {
+          "id": "d",
+          "text": "Encourage use of the incentive spirometer"
+        },
+        {
+          "id": "e",
+          "text": "Assist the adolescent to ambulate in the hall"
+        }
+      ],
+      "explanation": "Airway and breathing come first after anesthesia. Pain is then assessed and treated because uncontrolled pain limits deep breathing and mobility. Next the incision sites are checked for bleeding, pulmonary hygiene is encouraged, and early ambulation follows once the child is comfortable and stable to promote bowel function and prevent complications."
+    },
+    {
+      "id": "appendicitis-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-year-old with suspected appendicitis is crying and lying curled up on the side. Which nursing approach is most appropriate when assessing the abdomen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begin palpation directly over McBurney point to confirm tenderness quickly",
+          "correct": false,
+          "rationale": "Starting at the most painful area causes pain and fear, making the rest of the exam unreliable."
+        },
+        {
+          "id": "b",
+          "text": "Palpate the painful area last and watch the child's face during the exam",
+          "correct": true,
+          "rationale": "Correct. Examining away from the painful area first and observing facial expression gives the most accurate information in a young child who may not describe pain well."
+        },
+        {
+          "id": "c",
+          "text": "Ask the child to jump up and down to check for rebound pain",
+          "correct": false,
+          "rationale": "This causes unnecessary pain and is not a nursing assessment technique for a distressed young child."
+        },
+        {
+          "id": "d",
+          "text": "Delay the abdominal assessment until the child stops crying",
+          "correct": false,
+          "rationale": "Assessment should not be delayed in a possibly deteriorating child; it can be done gently while using distraction and caregiver support."
+        }
+      ],
+      "explanation": "In young children, the painful area is examined last, and facial grimacing, guarding, and refusal to move are important cues. Preschoolers may not localize pain well and are more likely to present with perforation."
+    },
+    {
+      "id": "appendicitis-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 13-year-old girl had a laparoscopic appendectomy for uncomplicated appendicitis yesterday. Which finding best indicates she is ready for discharge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She tolerates a regular diet, has active bowel sounds, and oral pain medicine works",
+          "correct": true,
+          "rationale": "Correct. Return of bowel function, oral intake, and pain controlled with oral analgesics are the main discharge criteria."
+        },
+        {
+          "id": "b",
+          "text": "She has a temperature of 38.6°C (101.5°F) but says she feels fine and wants to go home",
+          "correct": false,
+          "rationale": "A new fever after surgery may indicate wound infection or abscess and needs evaluation before discharge."
+        },
+        {
+          "id": "c",
+          "text": "She has been taking clear liquids but vomited twice this morning after walking",
+          "correct": false,
+          "rationale": "Persistent vomiting suggests ileus or another complication and means she is not ready for discharge."
+        },
+        {
+          "id": "d",
+          "text": "She needs IV morphine every 3 hours for incisional pain rated 8/10 but is eating",
+          "correct": false,
+          "rationale": "Pain requiring frequent IV opioids is not adequately controlled for discharge."
+        }
+      ],
+      "explanation": "Children with uncomplicated appendicitis are often discharged within 24 hours. Discharge criteria include being afebrile, tolerating a diet, pain controlled with oral medication, ambulating, and caregiver understanding of wound care and signs of infection."
+    },
+    {
+      "id": "appendicitis-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 10-year-old being discharged after an appendectomy. Which signs should the parents report to the provider? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redness, swelling, or drainage at the incision",
+          "correct": true,
+          "rationale": "Correct. These are signs of wound infection."
+        },
+        {
+          "id": "b",
+          "text": "Fever of 38.3°C (101°F) or higher",
+          "correct": true,
+          "rationale": "Correct. Fever after discharge may indicate wound infection or an intra-abdominal abscess."
+        },
+        {
+          "id": "c",
+          "text": "Mild soreness at the incision sites",
+          "correct": false,
+          "rationale": "Mild incisional soreness is expected for several days and is treated with prescribed analgesics."
+        },
+        {
+          "id": "d",
+          "text": "Increasing abdominal pain or persistent vomiting",
+          "correct": true,
+          "rationale": "Correct. These may signal abscess, obstruction, or ileus."
+        },
+        {
+          "id": "e",
+          "text": "Feeling tired for a few days",
+          "correct": false,
+          "rationale": "Mild fatigue is expected during recovery and does not need to be reported."
+        }
+      ],
+      "explanation": "Discharge teaching after appendectomy includes incision care, signs of infection, pain management, gradual return to activity (avoid contact sports and heavy lifting as instructed, often 2-4 weeks), and when to call the provider."
+    },
+    {
+      "id": "appendicitis-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing data for four children in the ED. Which child should the nurse report to the provider first as most likely to have a perforated appendix?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 15-year-old with RLQ pain for 6 hours, temperature 37.9°C (100.2°F), anorexia, and nausea",
+          "correct": false,
+          "rationale": "This describes uncomplicated appendicitis that needs prompt care but is not the most urgent."
+        },
+        {
+          "id": "b",
+          "text": "A 12-year-old with periumbilical pain for 3 hours, one episode of vomiting, and mild nausea",
+          "correct": false,
+          "rationale": "This is an early presentation of possible appendicitis without signs of perforation."
+        },
+        {
+          "id": "c",
+          "text": "A 9-year-old with diarrhea, cramping, and a sibling with the same symptoms",
+          "correct": false,
+          "rationale": "Sick contacts and diarrhea suggest viral gastroenteritis."
+        },
+        {
+          "id": "d",
+          "text": "A 3-year-old with 2 days of vomiting, temperature 39.4°C (103°F), and a rigid abdomen",
+          "correct": true,
+          "rationale": "Correct. Young children often present late because they cannot describe pain; high fever, prolonged vomiting, and abdominal rigidity suggest perforation with peritonitis."
+        }
+      ],
+      "explanation": "Perforation is more common in children younger than 5 because symptoms are vague and diagnosis is delayed. High fever, distension, rigidity, and lethargy suggest peritonitis and need immediate intervention."
+    }
+  ]
+}

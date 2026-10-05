@@ -1,0 +1,534 @@
+{
+  "slug": "bacterial-meningitis",
+  "title": "Bacterial Meningitis",
+  "short": "Meningitis",
+  "icon": "shield",
+  "description": "Bacterial meningitis in infants and children: causative organisms by age, meningeal signs, meningococcemia, lumbar puncture and CSF findings, droplet precautions, antibiotic and supportive care, complications, and prevention.",
+  "keyPoints": [
+    "Organisms by age: neonates = group B streptococcus and E. coli; older infants and children = Streptococcus pneumoniae and Neisseria meningitidis. Hib meningitis is now rare because of routine Hib vaccination.",
+    "Children: fever, headache, nuchal rigidity, photophobia, positive Kernig and Brudzinski signs, vomiting, irritability, seizures. Infants: bulging fontanel, poor feeding, high-pitched cry, irritability, lethargy, temperature instability; nuchal rigidity is often absent.",
+    "A petechial or purpuric rash with fever suggests meningococcemia: a life-threatening emergency that can rapidly progress to septic shock and DIC. Report immediately.",
+    "Droplet precautions until the child has received 24 hours of effective IV antibiotics.",
+    "Lumbar puncture confirms the diagnosis: bacterial CSF is cloudy with high opening pressure, high WBC (neutrophils), high protein, and low glucose. Infants are held side-lying with neck flexed or sitting upright; older children side-lying knee-chest.",
+    "Start IV antibiotics as soon as possible (do not delay for imaging); dexamethasone given before or with the first antibiotic dose reduces hearing loss with Hib and pneumococcal disease.",
+    "Supportive care: quiet, dim room, minimal stimulation, seizure precautions, strict I&O, daily weights, head circumference in infants, and monitoring for increased ICP and SIADH (fluid restriction may be ordered).",
+    "Complications: hearing loss (audiology follow-up for every child), seizures, hydrocephalus, developmental delay. Close contacts of N. meningitidis (and Hib) cases receive chemoprophylaxis such as rifampin; vaccines (Hib, PCV, MenACWY, MenB) prevent disease."
+  ],
+  "questions": [
+    {
+      "id": "bacterial-meningitis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is reviewing risk factors for bacterial meningitis in a 10-day-old neonate. Which organisms are the most common causes of bacterial meningitis in this age group?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Group B streptococcus and Escherichia coli",
+          "correct": true,
+          "rationale": "Correct. Neonates acquire GBS and E. coli from the maternal genital and GI tract during birth, making them the leading neonatal causes."
+        },
+        {
+          "id": "b",
+          "text": "Haemophilus influenzae type b and Staphylococcus aureus",
+          "correct": false,
+          "rationale": "Hib was historically a cause in infants and toddlers (not neonates) and is now rare due to vaccination; S. aureus is mainly associated with trauma or neurosurgical procedures."
+        },
+        {
+          "id": "c",
+          "text": "Neisseria meningitidis and Mycoplasma pneumoniae",
+          "correct": false,
+          "rationale": "N. meningitidis peaks in older infants, adolescents, and young adults; Mycoplasma is not a common cause of bacterial meningitis."
+        },
+        {
+          "id": "d",
+          "text": "Streptococcus pyogenes and Pseudomonas aeruginosa",
+          "correct": false,
+          "rationale": "Neither is a leading cause of neonatal meningitis; Pseudomonas is mainly a hospital-acquired or postsurgical pathogen."
+        }
+      ],
+      "explanation": "In neonates the most common bacterial causes are group B streptococcus and E. coli (Listeria is less common). After the neonatal period, S. pneumoniae and N. meningitidis predominate. Routine Hib and pneumococcal vaccination have markedly reduced childhood meningitis."
+    },
+    {
+      "id": "bacterial-meningitis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 7-month-old asks why the nurse is checking the baby's fontanel instead of asking the baby to touch the chin to the chest like the 8-year-old in the next room. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Babies do not get stiff necks because their neck muscles are not yet developed enough to tighten.",
+          "correct": false,
+          "rationale": "Overstates the point; infants can develop meningeal irritation, but classic signs are unreliable, which is different from saying they cannot occur."
+        },
+        {
+          "id": "b",
+          "text": "Checking the fontanel is just routine for all babies and does not relate to meningitis.",
+          "correct": false,
+          "rationale": "Inaccurate; a bulging, tense fontanel is a key sign of increased intracranial pressure from meningitis in infants."
+        },
+        {
+          "id": "c",
+          "text": "A stiff neck is the most reliable meningitis sign at every age, so we will check it once the baby is calm.",
+          "correct": false,
+          "rationale": "Nuchal rigidity is often absent or unreliable in infants younger than about 12-18 months."
+        },
+        {
+          "id": "d",
+          "text": "In infants, a stiff neck is often absent, so we look for a bulging soft spot and poor feeding.",
+          "correct": true,
+          "rationale": "Correct. Infants present with nonspecific signs: bulging fontanel, irritability, poor feeding, vomiting, high-pitched cry, lethargy, and temperature instability."
+        }
+      ],
+      "explanation": "Meningeal signs (nuchal rigidity, Kernig, Brudzinski) are reliable in older children but often absent in infants. In infants the nurse assesses the fontanel, feeding, cry, activity level, temperature, and head circumference."
+    },
+    {
+      "id": "bacterial-meningitis-03",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 6-year-old is admitted with fever of 39.6°C (103.3°F) and vomiting. Which assessment findings support a diagnosis of bacterial meningitis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pain and resistance when the nurse extends the child's knee with the hip flexed at 90 degrees",
+          "correct": true,
+          "rationale": "Correct. This is a positive Kernig sign, indicating meningeal irritation."
+        },
+        {
+          "id": "b",
+          "text": "Involuntary flexion of the hips and knees when the nurse flexes the child's neck",
+          "correct": true,
+          "rationale": "Correct. This is a positive Brudzinski sign, indicating meningeal irritation."
+        },
+        {
+          "id": "c",
+          "text": "Child squints and turns away from the overhead light",
+          "correct": true,
+          "rationale": "Correct. Photophobia is a classic symptom of meningeal irritation."
+        },
+        {
+          "id": "d",
+          "text": "Child reports right lower quadrant pain that is worse when walking",
+          "correct": false,
+          "rationale": "Localized RLQ pain worse with movement suggests appendicitis, not meningitis."
+        },
+        {
+          "id": "e",
+          "text": "Generalized maculopapular rash that blanches and began after starting amoxicillin",
+          "correct": false,
+          "rationale": "A blanching drug-related rash suggests an antibiotic reaction; the meningitis-related concern is a nonblanching petechial or purpuric rash."
+        },
+        {
+          "id": "f",
+          "text": "Severe headache and neck stiffness",
+          "correct": true,
+          "rationale": "Correct. Headache and nuchal rigidity are hallmark findings of meningitis in children."
+        }
+      ],
+      "explanation": "Older children show classic meningeal signs: fever, headache, nuchal rigidity, photophobia, positive Kernig and Brudzinski signs, vomiting, irritability, and possible seizures or altered level of consciousness."
+    },
+    {
+      "id": "bacterial-meningitis-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old admitted 2 hours ago with suspected meningitis has a temperature of 40°C (104°F), HR 168/min, BP 74/40 mm Hg, and capillary refill of 4 seconds. The nurse notes new nonblanching purple spots spreading across the legs. What is the priority nursing action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply cool compresses and recheck the temperature in 1 hour",
+          "correct": false,
+          "rationale": "Treating fever does not address the underlying shock; delaying escalation could be fatal."
+        },
+        {
+          "id": "b",
+          "text": "Notify the provider immediately and prepare for fluid resuscitation and IV antibiotics",
+          "correct": true,
+          "rationale": "Correct. A spreading petechial/purpuric rash with hypotension and delayed capillary refill indicates meningococcemia with septic shock, an emergency requiring immediate fluids, antibiotics, and possible intensive care."
+        },
+        {
+          "id": "c",
+          "text": "Document the rash as an expected finding and continue routine monitoring",
+          "correct": false,
+          "rationale": "A nonblanching purpuric rash is never expected; it signals meningococcemia and possible DIC."
+        },
+        {
+          "id": "d",
+          "text": "Measure and mark the borders of the rash and reassess at the next scheduled vital signs",
+          "correct": false,
+          "rationale": "Marking the rash is appropriate only after the emergency is addressed; waiting for the next set of vitals delays life-saving treatment."
+        }
+      ],
+      "explanation": "Meningococcemia can progress from petechiae to purpura fulminans, septic shock, adrenal hemorrhage, and DIC within hours. Hypotension and delayed capillary refill in a child are late, ominous signs. The nurse escalates immediately and prepares for aggressive fluid resuscitation and antibiotics."
+    },
+    {
+      "id": "bacterial-meningitis-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 9-year-old with suspected bacterial meningitis is being admitted from the emergency department. Which room assignment and precautions are appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Semiprivate room with standard precautions only",
+          "correct": false,
+          "rationale": "N. meningitidis and Hib are spread by respiratory droplets; standard precautions alone are not adequate until antibiotics have been given for 24 hours."
+        },
+        {
+          "id": "b",
+          "text": "Negative-pressure airborne isolation room with N95 respirator",
+          "correct": false,
+          "rationale": "Bacterial meningitis is not transmitted by the airborne route; airborne isolation is used for diseases like tuberculosis, measles, and varicella."
+        },
+        {
+          "id": "c",
+          "text": "Private room with droplet precautions until 24 hours after starting IV antibiotics",
+          "correct": true,
+          "rationale": "Correct. Droplet precautions (surgical mask within close range) are maintained until the child has received 24 hours of effective antibiotic therapy."
+        },
+        {
+          "id": "d",
+          "text": "Private room with contact precautions until the CSF culture is negative",
+          "correct": false,
+          "rationale": "Contact precautions are not the primary route, and isolation is based on 24 hours of effective therapy, not repeat cultures."
+        }
+      ],
+      "explanation": "Children with suspected bacterial meningitis are placed in a private room on droplet precautions until 24 hours after effective IV antibiotics begin. Staff wear a mask when within close range of the child."
+    },
+    {
+      "id": "bacterial-meningitis-06",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 10-month-old is admitted with suspected bacterial meningitis. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Place the infant on droplet precautions and assess airway, breathing, circulation, and neurologic status"
+        },
+        {
+          "id": "b",
+          "text": "Assist with the lumbar puncture, holding the infant securely in a side-lying position with the neck gently flexed"
+        },
+        {
+          "id": "c",
+          "text": "Administer dexamethasone followed by the first dose of IV antibiotics as prescribed"
+        },
+        {
+          "id": "d",
+          "text": "Provide a quiet, dimly lit environment and implement seizure precautions"
+        },
+        {
+          "id": "e",
+          "text": "Measure head circumference and monitor intake, output, and daily weight"
+        }
+      ],
+      "explanation": "Immediate safety and stabilization come first. Cultures (blood and CSF) are obtained promptly but must not delay antibiotics; dexamethasone is given before or with the first antibiotic dose. Supportive care (reduced stimulation, seizure precautions) and ongoing monitoring for increased ICP and SIADH follow."
+    },
+    {
+      "id": "bacterial-meningitis-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse reviews CSF results for a 3-year-old with suspected meningitis. Which findings are consistent with bacterial meningitis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cloudy fluid, WBC 2,400/mm³ (mostly neutrophils), protein 180 mg/dL, glucose 18 mg/dL",
+          "correct": true,
+          "rationale": "Correct. Bacterial meningitis produces turbid CSF with markedly elevated WBCs (neutrophils), elevated protein, and decreased glucose because bacteria and WBCs consume glucose."
+        },
+        {
+          "id": "b",
+          "text": "Clear fluid, WBC 3/mm³, protein 30 mg/dL, glucose 65 mg/dL",
+          "correct": false,
+          "rationale": "These are normal CSF values."
+        },
+        {
+          "id": "c",
+          "text": "Clear fluid, WBC 150/mm³ (mostly lymphocytes), protein 50 mg/dL, glucose 60 mg/dL",
+          "correct": false,
+          "rationale": "Clear fluid with lymphocytes and normal glucose is typical of viral (aseptic) meningitis."
+        },
+        {
+          "id": "d",
+          "text": "Bloody fluid, WBC 5/mm³, protein 40 mg/dL, glucose 70 mg/dL",
+          "correct": false,
+          "rationale": "Bloody fluid with otherwise normal values suggests a traumatic tap or hemorrhage, not bacterial infection."
+        }
+      ],
+      "explanation": "Bacterial CSF: cloudy, elevated opening pressure, high WBC with neutrophils, high protein, low glucose, positive Gram stain/culture. Viral CSF: clear, lymphocytes, normal glucose, mildly elevated protein."
+    },
+    {
+      "id": "bacterial-meningitis-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-year-old with bacterial meningitis is crying, irritable, and covering her eyes. Which nursing intervention is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Turn on the television to a favorite show to distract her",
+          "correct": false,
+          "rationale": "Noise and bright screens increase stimulation, which worsens irritability and photophobia."
+        },
+        {
+          "id": "b",
+          "text": "Dim the lights, minimize noise, and cluster care to limit stimulation",
+          "correct": true,
+          "rationale": "Correct. A quiet, darkened environment reduces photophobia and irritability and helps avoid increases in ICP."
+        },
+        {
+          "id": "c",
+          "text": "Place a pillow under her head to flex her neck for comfort",
+          "correct": false,
+          "rationale": "Neck flexion increases meningeal pain; children are usually more comfortable side-lying with the head slightly extended and the HOB slightly elevated."
+        },
+        {
+          "id": "d",
+          "text": "Encourage her to walk in the hallway to promote comfort",
+          "correct": false,
+          "rationale": "Activity and hallway stimulation are inappropriate in the acute phase; the child needs rest, droplet precautions, and seizure precautions."
+        }
+      ],
+      "explanation": "Comfort measures for meningitis: quiet, dim room, minimal handling, clustered care, analgesics and antipyretics as ordered, positioning without a pillow or with head slightly extended, and seizure precautions."
+    },
+    {
+      "id": "bacterial-meningitis-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old with pneumococcal meningitis has received IV fluids at maintenance rate for 2 days. Today's data: weight up 0.6 kg, urine output 0.3 mL/kg/hr, serum sodium 126 mEq/L, urine specific gravity 1.030. What does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Central diabetes insipidus from pituitary injury",
+          "correct": false,
+          "rationale": "DI produces large volumes of dilute urine, low urine specific gravity, and high serum sodium: the opposite of these findings."
+        },
+        {
+          "id": "b",
+          "text": "Dehydration from vomiting and poor oral intake",
+          "correct": false,
+          "rationale": "Dehydration causes weight loss, not weight gain, and usually normal or high sodium."
+        },
+        {
+          "id": "c",
+          "text": "Acute post-streptococcal glomerulonephritis",
+          "correct": false,
+          "rationale": "Glomerulonephritis would show hematuria, proteinuria, and hypertension; the low sodium with concentrated urine points to inappropriate ADH secretion."
+        },
+        {
+          "id": "d",
+          "text": "Syndrome of inappropriate ADH secretion (SIADH)",
+          "correct": true,
+          "rationale": "Correct. Meningitis can trigger excess ADH, causing water retention, weight gain, low urine output, concentrated urine, and dilutional hyponatremia."
+        }
+      ],
+      "explanation": "SIADH is a recognized complication of meningitis. The nurse monitors I&O, daily weights, sodium, and urine specific gravity; treatment is usually fluid restriction. Severe hyponatremia increases the risk of cerebral edema and seizures."
+    },
+    {
+      "id": "bacterial-meningitis-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a 3-year-old with bacterial meningitis. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pad the side rails and keep suction and oxygen at the bedside",
+          "correct": true,
+          "rationale": "Correct. Seizures are common in bacterial meningitis; seizure precautions are required."
+        },
+        {
+          "id": "b",
+          "text": "Measure intake and output strictly and weigh the child daily",
+          "correct": true,
+          "rationale": "Correct. This detects fluid overload and SIADH early."
+        },
+        {
+          "id": "c",
+          "text": "Wear a surgical mask when within close range of the child for the first 24 hours of antibiotics",
+          "correct": true,
+          "rationale": "Correct. Droplet precautions are maintained until 24 hours of effective antibiotic therapy."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the child to drink as much fluid as possible",
+          "correct": false,
+          "rationale": "Fluids are often restricted or carefully calculated because of the risk of SIADH and cerebral edema."
+        },
+        {
+          "id": "e",
+          "text": "Assess neurologic status and vital signs frequently for signs of increased ICP",
+          "correct": true,
+          "rationale": "Correct. Changes in LOC, pupils, and vital signs signal increased ICP, a serious complication."
+        }
+      ],
+      "explanation": "Nursing care focuses on infection control, seizure precautions, careful fluid management, frequent neurologic checks, and comfort. Fluid overload worsens cerebral edema, so fluids follow the prescribed rate exactly."
+    },
+    {
+      "id": "bacterial-meningitis-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 14-year-old is diagnosed with Neisseria meningitidis meningitis. The parent asks what the family members who live in the home should do. Which response by the nurse is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Household members only need treatment if they develop a fever or headache.",
+          "correct": false,
+          "rationale": "Waiting for symptoms is dangerous; meningococcal disease progresses rapidly. Prophylaxis is given to close contacts before symptoms appear."
+        },
+        {
+          "id": "b",
+          "text": "Everyone living in the home should receive a preventive antibiotic such as rifampin.",
+          "correct": true,
+          "rationale": "Correct. Close contacts (household, daycare, those exposed to oral secretions) of N. meningitidis cases receive chemoprophylaxis such as rifampin, ceftriaxone, or ciprofloxacin, ideally within 24 hours of diagnosis."
+        },
+        {
+          "id": "c",
+          "text": "A meningococcal vaccine given today will fully protect them from this exposure.",
+          "correct": false,
+          "rationale": "Vaccination may be recommended in outbreaks, but it does not provide immediate protection; chemoprophylaxis is required for close contacts."
+        },
+        {
+          "id": "d",
+          "text": "The family should stay home from work and school for 2 weeks to avoid spreading it.",
+          "correct": false,
+          "rationale": "Quarantine is not recommended; contacts need prophylactic antibiotics."
+        }
+      ],
+      "explanation": "Close contacts of N. meningitidis (and invasive Hib) cases receive antibiotic prophylaxis, commonly rifampin. Teach that rifampin turns urine, sweat, and tears orange-red and can stain soft contact lenses and reduce oral contraceptive effectiveness."
+    },
+    {
+      "id": "bacterial-meningitis-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 4-year-old is ready for discharge after treatment for pneumococcal meningitis. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We will keep the hearing test appointment the audiologist scheduled.",
+          "correct": false,
+          "rationale": "Shows understanding; sensorineural hearing loss is the most common long-term complication, and all children need audiologic evaluation."
+        },
+        {
+          "id": "b",
+          "text": "We will tell the pediatrician if we notice any seizures or changes in how she learns or behaves.",
+          "correct": false,
+          "rationale": "Shows understanding; seizures and developmental or behavioral problems can occur after meningitis."
+        },
+        {
+          "id": "c",
+          "text": "If she can hear us at home, she does not need the hearing test.",
+          "correct": true,
+          "rationale": "Correct (needs teaching). Hearing loss can be partial or one-sided and missed at home. Every child recovering from bacterial meningitis needs formal audiology testing."
+        },
+        {
+          "id": "d",
+          "text": "We will keep her vaccinations up to date, including the pneumococcal vaccine.",
+          "correct": false,
+          "rationale": "Shows understanding; vaccination is key to preventing invasive pneumococcal, Hib, and meningococcal disease."
+        }
+      ],
+      "explanation": "All children who have had bacterial meningitis need a formal hearing evaluation (often before discharge or within about 4 weeks), because hearing loss is common and early intervention affects language development. Families also monitor for seizures, hydrocephalus, and developmental problems."
+    },
+    {
+      "id": "bacterial-meningitis-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-week-old with suspected meningitis needs a lumbar puncture. How should the nurse position the infant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prone with a rolled towel under the chest and the head turned to the side",
+          "correct": false,
+          "rationale": "Prone positioning does not open the intervertebral spaces and makes airway monitoring difficult."
+        },
+        {
+          "id": "b",
+          "text": "Supine with the head of the bed elevated 30 degrees to lower pressure",
+          "correct": false,
+          "rationale": "This position does not provide access to the lumbar spine."
+        },
+        {
+          "id": "c",
+          "text": "Side-lying with the neck tightly flexed to the chest and the knees pulled up firmly",
+          "correct": false,
+          "rationale": "Extreme neck flexion in a young infant can compress the airway and cause hypoxia; the neck should be only gently flexed."
+        },
+        {
+          "id": "d",
+          "text": "Sitting upright and leaning forward, or side-lying with the neck only slightly flexed",
+          "correct": true,
+          "rationale": "Correct. Infants may be held sitting upright and flexed forward or side-lying with the back curved; the nurse avoids extreme neck flexion and monitors breathing and oxygen saturation."
+        }
+      ],
+      "explanation": "For lumbar puncture, the goal is to widen the spaces between the lumbar vertebrae. Older children lie side-lying in a knee-chest position. Infants are held upright or side-lying with modified flexion, and the nurse watches for airway compromise."
+    },
+    {
+      "id": "bacterial-meningitis-14",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 7-month-old is being treated for Haemophilus influenzae meningitis. Which findings would the nurse report to the provider immediately? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Head circumference increased 2 cm from yesterday",
+          "correct": true,
+          "rationale": "Correct. A rapid increase suggests developing hydrocephalus or increased ICP."
+        },
+        {
+          "id": "b",
+          "text": "Tense, bulging anterior fontanel while the infant is calm and upright",
+          "correct": true,
+          "rationale": "Correct. A bulging fontanel in a quiet, upright infant indicates increased ICP."
+        },
+        {
+          "id": "c",
+          "text": "Rhythmic jerking of the right arm and leg lasting 1 minute",
+          "correct": true,
+          "rationale": "Correct. Seizures are a complication and require prompt treatment and evaluation."
+        },
+        {
+          "id": "d",
+          "text": "Temperature 37.8°C (100°F) after 48 hours of antibiotics, down from 39.5°C",
+          "correct": false,
+          "rationale": "A downward fever trend is expected with effective therapy and is not an emergency."
+        },
+        {
+          "id": "e",
+          "text": "Infant takes 4 oz of formula and falls asleep",
+          "correct": false,
+          "rationale": "Feeding well and sleeping afterward are reassuring signs."
+        }
+      ],
+      "explanation": "Complications of meningitis include increased ICP, hydrocephalus, seizures, SIADH, and septic shock. In infants, the nurse monitors fontanels, daily head circumference, behavior, feeding, and seizure activity."
+    },
+    {
+      "id": "bacterial-meningitis-15",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse is teaching a parent group about preventing bacterial meningitis. Which recommendation is most effective in preventing the disease?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid crowded places such as daycare until the child is 5 years old",
+          "correct": false,
+          "rationale": "Impractical and not the recommended primary prevention strategy."
+        },
+        {
+          "id": "b",
+          "text": "Give children a daily multivitamin to boost their immune system",
+          "correct": false,
+          "rationale": "There is no evidence that multivitamins prevent bacterial meningitis."
+        },
+        {
+          "id": "c",
+          "text": "Keep children on schedule for Hib, pneumococcal, and meningococcal vaccines",
+          "correct": true,
+          "rationale": "Correct. Hib, PCV, and meningococcal (MenACWY, MenB) vaccines have dramatically reduced bacterial meningitis and are the most effective prevention."
+        },
+        {
+          "id": "d",
+          "text": "Give a prophylactic antibiotic whenever a child has an ear infection",
+          "correct": false,
+          "rationale": "Routine prophylactic antibiotics are not recommended and promote antibiotic resistance."
+        }
+      ],
+      "explanation": "Immunization is the most effective prevention. Hib and PCV are given in infancy; MenACWY is given at 11-12 years with a booster at 16, and MenB may be given in adolescence. Hand hygiene and not sharing utensils or drinks also help."
+    }
+  ]
+}

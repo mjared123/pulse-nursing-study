@@ -1,0 +1,851 @@
+{
+  "slug": "dehydration",
+  "title": "Dehydration & Fluid/Electrolyte Balance",
+  "short": "Dehydration",
+  "icon": "droplet",
+  "description": "Isotonic, hypotonic, and hypertonic dehydration in infants and children: why infants are at higher risk, severity assessment, oral rehydration, IV boluses, maintenance fluids, urine output, gastroenteritis, and shock.",
+  "keyPoints": [
+    "Infants are at highest risk: greater body surface area relative to weight, higher proportion of extracellular water, higher metabolic rate, and immature kidneys that cannot concentrate urine well.",
+    "Types: isotonic (Na 130-150 mEq/L, most common), hypotonic (Na < 130, fluid shifts into cells, shock occurs sooner), hypertonic (Na > 150, risk of seizures; correct slowly to prevent cerebral edema).",
+    "Weight is the best indicator of fluid status: weigh daily on the same scale at the same time. Each 1 kg acute loss ≈ 1 L of fluid. Mild 3-5%, moderate 6-9%, severe ≥ 10% loss.",
+    "Hypotension is a LATE sign of shock in children. Earlier cues: tachycardia, capillary refill > 2 seconds, cool mottled extremities, irritability or lethargy, and falling urine output.",
+    "Oral rehydration therapy (ORS such as Pedialyte) is first line for mild to moderate dehydration: small frequent amounts (about 5 mL every 1-5 minutes). Avoid juice, soda, sports drinks, broth, and plain water.",
+    "Severe dehydration: IV/IO bolus of 20 mL/kg isotonic fluid (0.9% NS or LR), then reassess. Never add potassium to IV fluids until the child has voided.",
+    "Expected urine output: 1-2 mL/kg/hr for infants and young children, 0.5-1 mL/kg/hr for older children/adolescents. Diaper weighing: 1 g = 1 mL.",
+    "Maintenance fluids (Holliday-Segar): 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg over 20 (per 24 hours). Resume an age-appropriate diet early; the BRAT diet is not recommended."
+  ],
+  "questions": [
+    {
+      "id": "dehydration-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is caring for a 7-month-old infant admitted with acute gastroenteritis. Which assessment is the most accurate indicator of the infant's fluid status?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skin turgor pinched on the abdomen and timed for recoil",
+          "correct": false,
+          "rationale": "Skin turgor is useful but subjective and unreliable in hypertonic dehydration (skin may feel thick or doughy) and in chubby infants."
+        },
+        {
+          "id": "b",
+          "text": "Daily weight on the same scale at the same time",
+          "correct": true,
+          "rationale": "Correct. Acute changes in body weight reflect fluid gain or loss most accurately; 1 kg of acute weight loss equals about 1 L of fluid. Consistency (same scale, same time, same clothing or nude) is essential."
+        },
+        {
+          "id": "c",
+          "text": "Palpation of the anterior fontanel",
+          "correct": false,
+          "rationale": "A sunken fontanel supports dehydration but is a qualitative finding and changes with crying and position; it does not quantify fluid loss."
+        },
+        {
+          "id": "d",
+          "text": "Counting the number of wet diapers over each 24-hour period",
+          "correct": false,
+          "rationale": "Counting diapers is helpful at home, but it does not quantify volume. Weighing diapers is more precise, and weight remains the best overall indicator."
+        }
+      ],
+      "explanation": "Body weight is the single best indicator of hydration status in infants and children. Percentage of weight loss is used to classify dehydration as mild, moderate, or severe and to guide replacement."
+    },
+    {
+      "id": "dehydration-02",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is teaching a group of new parents why infants become dehydrated more quickly than older children and adults. Which factors should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Greater body surface area relative to body weight",
+          "correct": true,
+          "rationale": "Correct. A proportionally larger body surface area increases insensible water loss through the skin."
+        },
+        {
+          "id": "b",
+          "text": "Lower metabolic rate that conserves water",
+          "correct": false,
+          "rationale": "Infants have a HIGHER metabolic rate, which produces more metabolic waste that must be excreted in water and increases fluid needs."
+        },
+        {
+          "id": "c",
+          "text": "Immature kidneys that are less able to concentrate urine",
+          "correct": true,
+          "rationale": "Correct. Infant kidneys cannot concentrate or conserve water efficiently, so more water is lost with each void."
+        },
+        {
+          "id": "d",
+          "text": "A larger proportion of total body water in the extracellular compartment",
+          "correct": true,
+          "rationale": "Correct. Extracellular fluid is lost more readily than intracellular fluid, so infants lose fluid faster during vomiting and diarrhea."
+        },
+        {
+          "id": "e",
+          "text": "Higher metabolic rate that increases water turnover",
+          "correct": true,
+          "rationale": "Correct. Rapid metabolism increases heat and waste production, raising daily fluid requirements and turnover."
+        },
+        {
+          "id": "f",
+          "text": "Lower insensible losses through faster respirations",
+          "correct": false,
+          "rationale": "Faster respiratory rates INCREASE insensible water loss; they do not reduce it."
+        }
+      ],
+      "explanation": "Infants have a higher percentage of body water (much of it extracellular), greater body surface area, higher metabolic rate, and immature renal concentrating ability. Together these make them lose fluid faster and become dehydrated sooner than older children."
+    },
+    {
+      "id": "dehydration-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 10-month-old with several days of diarrhea has been drinking large amounts of plain water. Serum sodium is 126 mEq/L. Which statement best describes this type of dehydration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water shifts out of the cells into the extracellular space, so cells shrink.",
+          "correct": false,
+          "rationale": "This describes hypertonic dehydration (Na > 150), where the concentrated extracellular fluid pulls water out of the cells."
+        },
+        {
+          "id": "b",
+          "text": "Water and sodium are lost in equal proportions, and serum sodium stays normal.",
+          "correct": false,
+          "rationale": "This describes isotonic dehydration (Na 130-150 mEq/L), the most common type."
+        },
+        {
+          "id": "c",
+          "text": "Serum sodium above 150 mEq/L places the child at high risk for seizures during rehydration.",
+          "correct": false,
+          "rationale": "Sodium above 150 mEq/L is hypertonic dehydration. This child's sodium is low."
+        },
+        {
+          "id": "d",
+          "text": "Fluid shifts from the extracellular space into the cells, so shock can occur sooner.",
+          "correct": true,
+          "rationale": "Correct. In hypotonic dehydration (Na < 130), electrolyte loss exceeds water loss. Water shifts into the cells, further depleting circulating volume, so shock develops with smaller losses."
+        }
+      ],
+      "explanation": "Hypotonic dehydration occurs when electrolytes are lost in excess of water, often when losses are replaced with plain water. Intravascular volume falls quickly as water moves into cells, so physical signs of shock appear earlier than in other types."
+    },
+    {
+      "id": "dehydration-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 14-month-old is admitted with hypertonic dehydration. Serum sodium is 158 mEq/L. The child is irritable with a high-pitched cry. Which nursing action is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Initiate seizure precautions and expect the sodium to be corrected gradually",
+          "correct": true,
+          "rationale": "Correct. Hypertonic dehydration causes neurologic changes (irritability, lethargy, seizures). Sodium must be lowered slowly (typically over 48 hours) because rapid correction pulls water into brain cells and causes cerebral edema."
+        },
+        {
+          "id": "b",
+          "text": "Administer D5W rapidly to bring the sodium down quickly",
+          "correct": false,
+          "rationale": "Rapid infusion of free water drops serum sodium too fast and causes cerebral edema and seizures."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the child to drink as much plain water as tolerated",
+          "correct": false,
+          "rationale": "Unrestricted plain water lowers sodium unpredictably and too quickly; ORS or prescribed IV fluids are used instead."
+        },
+        {
+          "id": "d",
+          "text": "Prepare to administer 3% hypertonic saline",
+          "correct": false,
+          "rationale": "Hypertonic saline treats symptomatic HYPOnatremia. This child already has a high sodium."
+        }
+      ],
+      "explanation": "In hypertonic dehydration (Na > 150 mEq/L), water shifts out of cells, causing neurologic symptoms. Shock signs may be less obvious because extracellular volume is relatively preserved. Slow correction and seizure precautions are the nursing priorities."
+    },
+    {
+      "id": "dehydration-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 11-month-old weighed 8.0 kg at a well visit last week and weighs 7.4 kg today after 3 days of vomiting and diarrhea. Findings: irritable, dry mucous membranes, decreased tears, sunken anterior fontanel, capillary refill 3 seconds, HR 165 beats/min, BP 88/56 mm Hg, 2 wet diapers in 12 hours. How should the nurse classify this dehydration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No significant dehydration",
+          "correct": false,
+          "rationale": "Weight loss of 7.5% with dry mucous membranes, decreased tears, and tachycardia clearly indicate dehydration."
+        },
+        {
+          "id": "b",
+          "text": "Mild dehydration (3-5%)",
+          "correct": false,
+          "rationale": "Mild dehydration usually has normal or slightly increased HR, normal capillary refill, and normal tears and fontanel. This infant has lost 7.5% of body weight."
+        },
+        {
+          "id": "c",
+          "text": "Moderate dehydration (6-9%)",
+          "correct": true,
+          "rationale": "Correct. A 0.6-kg loss from 8.0 kg is 7.5%. Irritability, dry mucous membranes, decreased tears, sunken fontanel, tachycardia, capillary refill 2-4 seconds, and decreased urine output with a normal BP fit moderate dehydration."
+        },
+        {
+          "id": "d",
+          "text": "Severe dehydration (10% or more)",
+          "correct": false,
+          "rationale": "Severe dehydration includes lethargy, capillary refill > 4 seconds, cool mottled skin, minimal or no urine output, and hypotension. BP is still normal here."
+        }
+      ],
+      "explanation": "Percent weight loss = (pre-illness weight - current weight) / pre-illness weight × 100. Combine that figure with clinical signs: moderate dehydration brings tachycardia, delayed capillary refill, and decreased tears and urine, while BP is maintained until dehydration is severe."
+    },
+    {
+      "id": "dehydration-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-year-old with rotavirus gastroenteritis has been receiving oral rehydration. Which finding should the nurse recognize as the most concerning sign of deterioration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dry lips and mucous membranes",
+          "correct": false,
+          "rationale": "Dry mucous membranes are an early, expected finding in mild to moderate dehydration."
+        },
+        {
+          "id": "b",
+          "text": "Heart rate increased from 120 to 138 beats/min while the child is crying",
+          "correct": false,
+          "rationale": "Tachycardia (made worse by crying) is an early compensatory sign that warrants monitoring, but BP and perfusion are still maintained."
+        },
+        {
+          "id": "c",
+          "text": "BP 68/40 mm Hg, capillary refill 5 seconds, mottled extremities",
+          "correct": true,
+          "rationale": "Correct. Hypotension is a late sign in children and means compensatory mechanisms are failing. Combined with prolonged capillary refill and mottling, this is decompensated hypovolemic shock and requires an immediate isotonic fluid bolus."
+        },
+        {
+          "id": "d",
+          "text": "Urine specific gravity of 1.028 on the most recent diaper sample",
+          "correct": false,
+          "rationale": "A high specific gravity shows the kidneys are concentrating urine, an expected compensatory finding in dehydration."
+        }
+      ],
+      "explanation": "Children maintain blood pressure through tachycardia and vasoconstriction until 25% or more of circulating volume is lost. Once hypotension appears, the child is in decompensated shock and can arrest quickly."
+    },
+    {
+      "id": "dehydration-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 20-month-old with mild dehydration from viral gastroenteritis has vomited twice in the past hour. The provider orders oral rehydration therapy at home. Which instruction should the nurse give the parent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Let the child drink as much oral rehydration solution as wanted at each sitting to replace losses quickly.",
+          "correct": false,
+          "rationale": "Large gulps distend the stomach and trigger more vomiting. Small, frequent amounts are better tolerated."
+        },
+        {
+          "id": "b",
+          "text": "Offer diluted apple juice or a sports drink because the child prefers the taste.",
+          "correct": false,
+          "rationale": "Juice and sports drinks have a high sugar content and low sodium, which can worsen osmotic diarrhea and do not replace electrolytes properly."
+        },
+        {
+          "id": "c",
+          "text": "Hold all fluids for 4 hours to let the stomach rest, then restart with clear liquids.",
+          "correct": false,
+          "rationale": "Withholding fluids worsens dehydration. ORS should start right away in small amounts."
+        },
+        {
+          "id": "d",
+          "text": "Give 5 mL of ORS every 1-5 minutes by syringe or spoon, increasing as tolerated.",
+          "correct": true,
+          "rationale": "Correct. Small, frequent volumes are usually absorbed even when a child is vomiting. A large total volume can be given this way, and the amount is increased as vomiting subsides."
+        }
+      ],
+      "explanation": "Oral rehydration therapy is the first-line treatment for mild to moderate dehydration. Commercial ORS has a balanced glucose and sodium concentration that promotes absorption. Giving it in small frequent aliquots reduces vomiting."
+    },
+    {
+      "id": "dehydration-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A parent of a 3-year-old with diarrhea asks which drinks to use at home. The nurse should tell the parent to avoid which fluids? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apple juice",
+          "correct": true,
+          "rationale": "Correct. Juices are high in sugar and low in electrolytes; the osmotic load can worsen diarrhea."
+        },
+        {
+          "id": "b",
+          "text": "Commercial oral rehydration solution (e.g., Pedialyte)",
+          "correct": false,
+          "rationale": "This is the recommended fluid: it has the right glucose-to-sodium ratio to promote absorption."
+        },
+        {
+          "id": "c",
+          "text": "Sports drinks",
+          "correct": true,
+          "rationale": "Correct. Sports drinks have too much sugar and too little sodium and potassium to correct pediatric dehydration."
+        },
+        {
+          "id": "d",
+          "text": "Cola or ginger ale",
+          "correct": true,
+          "rationale": "Correct. Carbonated soft drinks are high in sugar, low in electrolytes, and may contain caffeine."
+        },
+        {
+          "id": "e",
+          "text": "Chicken broth",
+          "correct": true,
+          "rationale": "Correct. Broth is very high in sodium and lacks carbohydrate and potassium, risking hypernatremia."
+        },
+        {
+          "id": "f",
+          "text": "Breast milk or the child's usual age-appropriate milk once rehydrated",
+          "correct": false,
+          "rationale": "Breastfeeding should continue throughout illness, and the usual diet is resumed as soon as the child is rehydrated."
+        }
+      ],
+      "explanation": "Clear liquids such as juice, soda, sports drinks, gelatin, and broth have inappropriate sugar and electrolyte content. Commercial ORS is the fluid of choice, and breastfeeding should continue throughout the illness."
+    },
+    {
+      "id": "dehydration-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 12-kg toddler with severe dehydration is lethargic with capillary refill of 5 seconds. Which initial fluid order should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "240 mL of 0.9% NaCl IV as a rapid bolus, then reassess",
+          "correct": true,
+          "rationale": "Correct. The standard initial bolus for pediatric hypovolemia is 20 mL/kg of isotonic crystalloid (NS or LR): 20 mL × 12 kg = 240 mL, given rapidly, then reassess perfusion and repeat if needed."
+        },
+        {
+          "id": "b",
+          "text": "120 mL of D5W IV over 30 minutes to correct dehydration and prevent hypoglycemia",
+          "correct": false,
+          "rationale": "Dextrose in water is hypotonic once the glucose is metabolized and does not stay in the vascular space; it is never used as a resuscitation bolus."
+        },
+        {
+          "id": "c",
+          "text": "240 mL of D5 0.45% NaCl with 20 mEq/L KCl as a bolus",
+          "correct": false,
+          "rationale": "Potassium is never given as a bolus and is not added until the child voids. Hypotonic maintenance fluid is not used for volume resuscitation."
+        },
+        {
+          "id": "d",
+          "text": "480 mL of lactated Ringer's over 8 hours to avoid fluid overload",
+          "correct": false,
+          "rationale": "This is 40 mL/kg given slowly, which does not restore circulating volume quickly enough for a child in shock."
+        }
+      ],
+      "explanation": "For severe dehydration or shock, give 20 mL/kg isotonic crystalloid by IV or IO as quickly as possible. Reassess heart rate, capillary refill, mental status, and urine output after each bolus, then start maintenance plus deficit replacement."
+    },
+    {
+      "id": "dehydration-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "After a fluid bolus, a 9-month-old is prescribed D5 0.45% NaCl with 20 mEq/L KCl at a maintenance rate. Before hanging the bag, which assessment is most important?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Check the infant's temperature for fever that increases fluid needs",
+          "correct": false,
+          "rationale": "Fever increases fluid needs but does not determine whether potassium is safe to give."
+        },
+        {
+          "id": "b",
+          "text": "Confirm the infant has voided or has a wet diaper",
+          "correct": true,
+          "rationale": "Correct. Potassium is excreted by the kidneys. If the child is not producing urine, added potassium can accumulate and cause life-threatening hyperkalemia and dysrhythmias."
+        },
+        {
+          "id": "c",
+          "text": "Auscultate bowel sounds",
+          "correct": false,
+          "rationale": "Bowel sounds matter for oral feeding decisions, not for adding potassium to IV fluids."
+        },
+        {
+          "id": "d",
+          "text": "Assess the anterior fontanel for depression",
+          "correct": false,
+          "rationale": "The fontanel reflects hydration status but does not show adequate renal function for potassium excretion."
+        }
+      ],
+      "explanation": "Never add potassium to IV fluids until adequate urine output is confirmed. Potassium is also never given by IV push or bolus."
+    },
+    {
+      "id": "dehydration-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-kg infant is on strict intake and output. Over 4 hours, the infant has one wet diaper that weighs 42 g. A dry diaper of the same brand weighs 18 g. How should the nurse interpret the urine output?",
+      "options": [
+        {
+          "id": "a",
+          "text": "24 mL, about 1 mL/kg/hr, which is within the expected range",
+          "correct": true,
+          "rationale": "Correct. 42 g - 18 g = 24 g = 24 mL. 24 mL ÷ 4 hr ÷ 6 kg = 1 mL/kg/hr, which meets the minimum expected output of 1-2 mL/kg/hr for infants. The nurse should keep monitoring the trend."
+        },
+        {
+          "id": "b",
+          "text": "42 mL, about 1.75 mL/kg/hr, which is adequate",
+          "correct": false,
+          "rationale": "The dry diaper weight must be subtracted. Only the 24 g difference is urine."
+        },
+        {
+          "id": "c",
+          "text": "24 mL, about 4 mL/kg/hr, which suggests fluid overload from the IV",
+          "correct": false,
+          "rationale": "This error divides by hours only and skips weight. Output must be expressed per kilogram per hour."
+        },
+        {
+          "id": "d",
+          "text": "24 mL, about 0.25 mL/kg/hr, which indicates oliguria and needs a fluid bolus",
+          "correct": false,
+          "rationale": "This is a calculation error. 24 mL ÷ 4 hr ÷ 6 kg = 1 mL/kg/hr, not 0.25, so the output is not oliguric."
+        }
+      ],
+      "explanation": "Diaper weighing: wet weight - dry weight = urine volume (1 g = 1 mL). Divide by hours and by kilograms to get mL/kg/hr, then compare with the expected 1-2 mL/kg/hr for infants and young children."
+    },
+    {
+      "id": "dehydration-12",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the minimum expected urine output for a well-hydrated toddler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.1-0.2 mL/kg/hr",
+          "correct": false,
+          "rationale": "This is far below normal and would indicate severe oliguria."
+        },
+        {
+          "id": "b",
+          "text": "0.5 mL/kg/hr",
+          "correct": false,
+          "rationale": "About 0.5-1 mL/kg/hr is the expected range for adolescents and adults, not toddlers."
+        },
+        {
+          "id": "c",
+          "text": "1-2 mL/kg/hr",
+          "correct": true,
+          "rationale": "Correct. Infants and young children should produce about 1-2 mL/kg/hr. Lower output suggests dehydration or poor renal perfusion."
+        },
+        {
+          "id": "d",
+          "text": "5 mL/kg/hr",
+          "correct": false,
+          "rationale": "Output this high would suggest polyuria or excessive fluid, not the expected baseline."
+        }
+      ],
+      "explanation": "Use weight-based targets for urine output: 1-2 mL/kg/hr for infants and young children, and 0.5-1 mL/kg/hr for older children and adolescents."
+    },
+    {
+      "id": "dehydration-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 24-kg 7-year-old is NPO and needs maintenance IV fluids. Using the Holliday-Segar method, what is the child's 24-hour maintenance fluid requirement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2,400 mL/day (100 mL/hr)",
+          "correct": false,
+          "rationale": "This applies 100 mL/kg to the whole weight, which overestimates needs for children over 10 kg."
+        },
+        {
+          "id": "b",
+          "text": "1,200 mL/day (50 mL/hr)",
+          "correct": false,
+          "rationale": "This applies 50 mL/kg to the whole weight and underestimates needs."
+        },
+        {
+          "id": "c",
+          "text": "1,500 mL/day (about 63 mL/hr)",
+          "correct": false,
+          "rationale": "This counts only the first 20 kg and leaves out 20 mL/kg for the 4 kg above 20."
+        },
+        {
+          "id": "d",
+          "text": "1,580 mL/day (about 66 mL/hr)",
+          "correct": true,
+          "rationale": "Correct. 100 mL/kg × first 10 kg = 1,000 mL; 50 mL/kg × next 10 kg = 500 mL; 20 mL/kg × remaining 4 kg = 80 mL. Total = 1,580 mL/day ÷ 24 ≈ 66 mL/hr."
+        }
+      ],
+      "explanation": "Holliday-Segar daily maintenance: 100 mL/kg for the first 10 kg, plus 50 mL/kg for 11-20 kg, plus 20 mL/kg for each kg over 20. Divide by 24 for the hourly rate."
+    },
+    {
+      "id": "dehydration-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent of a 2-month-old asks how to protect the baby from the virus that most often causes severe vomiting and diarrhea in infants. What is the nurse's best response?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Giving the baby a daily probiotic will prevent all viral diarrhea, including rotavirus.",
+          "correct": false,
+          "rationale": "Probiotics may shorten some diarrheal illnesses, but they do not prevent rotavirus and are not a substitute for vaccination."
+        },
+        {
+          "id": "b",
+          "text": "The oral rotavirus vaccine series, along with careful handwashing after diaper changes.",
+          "correct": true,
+          "rationale": "Correct. Rotavirus is a leading cause of severe dehydrating gastroenteritis in infants and young children. The oral vaccine is given starting at 2 months, and fecal-oral spread is reduced with handwashing."
+        },
+        {
+          "id": "c",
+          "text": "Switching to soy formula will prevent the infection because it is easier to digest.",
+          "correct": false,
+          "rationale": "Formula type does not prevent rotavirus, which spreads by the fecal-oral route."
+        },
+        {
+          "id": "d",
+          "text": "The baby will get antibiotics if diarrhea begins.",
+          "correct": false,
+          "rationale": "Rotavirus is viral; antibiotics do not treat or prevent it."
+        }
+      ],
+      "explanation": "Rotavirus spreads by the fecal-oral route and survives on surfaces. Vaccination, hand hygiene, and proper diaper disposal are the key prevention strategies."
+    },
+    {
+      "id": "dehydration-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is discharging an 8-month-old breastfed infant who was rehydrated for gastroenteritis. Which parent statement shows correct understanding of feeding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll feed her only bananas, rice, applesauce, and toast for the next 3 days.\"",
+          "correct": false,
+          "rationale": "The BRAT diet is low in protein, fat, and calories and is no longer recommended."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll stop all food for 24 hours so her bowels can rest, then start clear liquids.\"",
+          "correct": false,
+          "rationale": "Prolonged fasting delays intestinal recovery and worsens nutritional status."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll keep breastfeeding, give ORS for extra losses, then resume her usual baby foods.\"",
+          "correct": true,
+          "rationale": "Correct. Breastfeeding should continue throughout illness, and an age-appropriate diet should resume as soon as the child is rehydrated. Early feeding shortens the illness and supports nutrition."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll mix her formula at half strength until the diarrhea stops, then go back to full strength.\"",
+          "correct": false,
+          "rationale": "Diluted formula is not recommended; children should return to full-strength feeds once rehydrated. This infant is also breastfed."
+        }
+      ],
+      "explanation": "Current guidelines: rehydrate with ORS, keep breastfeeding, and restart a normal age-appropriate diet early. The BRAT diet and gut rest are not recommended."
+    },
+    {
+      "id": "dehydration-16",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is monitoring a 4-year-old with severe vomiting and diarrhea. Which findings are early signs of compensated hypovolemic shock? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tachycardia",
+          "correct": true,
+          "rationale": "Correct. Rising heart rate is the child's first compensatory response to falling stroke volume."
+        },
+        {
+          "id": "b",
+          "text": "Capillary refill longer than 2 seconds",
+          "correct": true,
+          "rationale": "Correct. Peripheral vasoconstriction delays capillary refill early in shock."
+        },
+        {
+          "id": "c",
+          "text": "Hypotension",
+          "correct": false,
+          "rationale": "Hypotension is a LATE sign that means decompensated shock in children."
+        },
+        {
+          "id": "d",
+          "text": "Cool, pale extremities",
+          "correct": true,
+          "rationale": "Correct. Blood is shunted from the skin to vital organs, causing cool, pale extremities."
+        },
+        {
+          "id": "e",
+          "text": "Bradycardia",
+          "correct": false,
+          "rationale": "Bradycardia in a child in shock is an ominous, pre-arrest finding, not an early sign."
+        },
+        {
+          "id": "f",
+          "text": "Irritability or anxiety",
+          "correct": true,
+          "rationale": "Correct. Reduced cerebral perfusion first shows as restlessness, irritability, or anxiety, before lethargy."
+        }
+      ],
+      "explanation": "Recognize compensated shock early: tachycardia, delayed capillary refill, cool extremities, decreased urine output, and behavior changes. Hypotension and bradycardia are late signs of decompensation."
+    },
+    {
+      "id": "dehydration-17",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 10-month-old arrives in the emergency department lethargic, with capillary refill of 5 seconds, HR 190 beats/min, and no wet diaper for 10 hours. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess airway and breathing and apply oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Establish IV access (or IO if IV access is not quickly obtained)"
+        },
+        {
+          "id": "c",
+          "text": "Administer a 20 mL/kg isotonic crystalloid bolus as prescribed"
+        },
+        {
+          "id": "d",
+          "text": "Reassess heart rate, capillary refill, mental status, and urine output"
+        },
+        {
+          "id": "e",
+          "text": "Begin maintenance IV fluids with potassium once the infant voids"
+        }
+      ],
+      "explanation": "Follow ABCs: support airway and breathing first, then circulation with rapid vascular access (IO if IV access is delayed) and a 20 mL/kg isotonic bolus. Reassess after every bolus. Potassium-containing maintenance fluids start only after urine output is confirmed."
+    },
+    {
+      "id": "dehydration-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 3-year-old (14 kg) has received IV rehydration for moderate dehydration for 6 hours. Which finding best indicates the treatment has been effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urine output 21 mL/hr, moist mucous membranes, HR 110 beats/min",
+          "correct": true,
+          "rationale": "Correct. 21 mL/hr ÷ 14 kg = 1.5 mL/kg/hr, within the expected range. Moist mucous membranes and a normalizing HR also confirm restored volume."
+        },
+        {
+          "id": "b",
+          "text": "Urine specific gravity 1.032 on the latest sample",
+          "correct": false,
+          "rationale": "A specific gravity this high means the kidneys are still conserving water; the child remains dehydrated."
+        },
+        {
+          "id": "c",
+          "text": "Sleeping quietly and difficult to arouse, with HR 90 beats/min",
+          "correct": false,
+          "rationale": "Difficulty arousing is a decreased level of consciousness that may mean worsening perfusion or electrolyte imbalance, not improvement."
+        },
+        {
+          "id": "d",
+          "text": "Weight unchanged from admission, with no further loose stools",
+          "correct": false,
+          "rationale": "Effective rehydration should increase weight toward the pre-illness baseline."
+        }
+      ],
+      "explanation": "Evaluate rehydration using several measures together: urine output at goal, falling specific gravity, normal heart rate and capillary refill, moist mucous membranes, tears, improved activity, and weight gain toward baseline."
+    },
+    {
+      "id": "dehydration-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 15-month-old with 2 days of watery diarrhea has these labs: Na 138 mEq/L, K 3.6 mEq/L, BUN 26 mg/dL, urine specific gravity 1.030. Which type of dehydration do these results indicate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypotonic dehydration",
+          "correct": false,
+          "rationale": "Hypotonic dehydration requires serum sodium below 130 mEq/L."
+        },
+        {
+          "id": "b",
+          "text": "Hypertonic dehydration",
+          "correct": false,
+          "rationale": "Hypertonic dehydration requires serum sodium above 150 mEq/L."
+        },
+        {
+          "id": "c",
+          "text": "Water intoxication",
+          "correct": false,
+          "rationale": "Water intoxication causes low sodium and dilute urine, not a high specific gravity and normal sodium."
+        },
+        {
+          "id": "d",
+          "text": "Isotonic dehydration",
+          "correct": true,
+          "rationale": "Correct. Sodium is within 130-150 mEq/L, so water and sodium were lost in proportion. The elevated BUN and high specific gravity reflect reduced renal perfusion and urine concentration."
+        }
+      ],
+      "explanation": "Serum sodium defines the type of dehydration. Isotonic dehydration (Na 130-150) is the most common type and is usually seen in gastroenteritis. Hypovolemic shock is the major risk."
+    },
+    {
+      "id": "dehydration-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 18-month-old with 3 days of profuse diarrhea has arterial blood gases of pH 7.29, PaCO2 30 mm Hg, and HCO3 15 mEq/L. Respirations are deep and rapid. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Metabolic alkalosis from loss of gastric acid through repeated vomiting",
+          "correct": false,
+          "rationale": "Loss of hydrochloric acid from vomiting causes metabolic alkalosis (high pH and HCO3), the pattern seen in pyloric stenosis, not diarrhea."
+        },
+        {
+          "id": "b",
+          "text": "Partially compensated metabolic acidosis from bicarbonate loss in stool",
+          "correct": true,
+          "rationale": "Correct. Diarrhea causes loss of bicarbonate-rich intestinal fluid, lowering pH and HCO3. The lungs compensate by blowing off CO2 (low PaCO2, deep rapid breathing)."
+        },
+        {
+          "id": "c",
+          "text": "Respiratory acidosis from hypoventilation and CO2 retention",
+          "correct": false,
+          "rationale": "In respiratory acidosis the PaCO2 is HIGH. Here it is low, and the child is breathing deeply and rapidly."
+        },
+        {
+          "id": "d",
+          "text": "Respiratory alkalosis from anxiety and pain-related hyperventilation",
+          "correct": false,
+          "rationale": "In respiratory alkalosis the pH is high. This pH is acidotic, and the low HCO3 points to a metabolic cause."
+        }
+      ],
+      "explanation": "Diarrhea leads to metabolic acidosis (bicarbonate loss, poor perfusion, ketosis from starvation). Vomiting of gastric contents leads to metabolic alkalosis. Kussmaul-type breathing is respiratory compensation."
+    },
+    {
+      "id": "dehydration-21",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 2-year-old receiving IV fluids for dehydration from gastroenteritis. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maintain strict intake and output, including weighing diapers",
+          "correct": true,
+          "rationale": "Correct. Accurate I&O, including diaper weights (1 g = 1 mL), guides fluid replacement."
+        },
+        {
+          "id": "b",
+          "text": "Weigh the child daily on the same scale at the same time",
+          "correct": true,
+          "rationale": "Correct. Daily weight is the best indicator of fluid status."
+        },
+        {
+          "id": "c",
+          "text": "Obtain rectal temperatures every 2 hours",
+          "correct": false,
+          "rationale": "Rectal temperatures stimulate the bowel and can increase stooling; use axillary or temporal routes in a child with diarrhea."
+        },
+        {
+          "id": "d",
+          "text": "Infuse fluids with an electronic infusion pump and check the IV site at least hourly",
+          "correct": true,
+          "rationale": "Correct. Small children are at risk for fluid overload and infiltration, so pumps and frequent site checks are standard."
+        },
+        {
+          "id": "e",
+          "text": "Add potassium chloride to the IV fluid now, before the first void",
+          "correct": false,
+          "rationale": "Potassium is not added until urine output is established."
+        },
+        {
+          "id": "f",
+          "text": "Use contact precautions and strict hand hygiene",
+          "correct": true,
+          "rationale": "Correct. Infectious gastroenteritis such as rotavirus spreads by the fecal-oral route; contact precautions protect other patients."
+        }
+      ],
+      "explanation": "Nursing care during IV rehydration centers on accurate measurement (I&O, diaper weights, daily weight, specific gravity), safe infusion (pump, frequent site checks, potassium only after voiding), skin care, and infection control."
+    },
+    {
+      "id": "dehydration-22",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches the parent of a 2-year-old with mild dehydration about oral rehydration at home. Which statement indicates the need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll give 1 teaspoon of the solution every few minutes and slowly give more.\"",
+          "correct": false,
+          "rationale": "This is correct technique: small frequent amounts are tolerated even with vomiting."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll bring her back if she has no wet diaper in 8 hours or becomes very sleepy.\"",
+          "correct": false,
+          "rationale": "This correctly identifies danger signs (decreased urine output, lethargy) that need medical evaluation."
+        },
+        {
+          "id": "c",
+          "text": "\"If she throws up, I'll stop the oral rehydration solution and give her ginger ale instead.\"",
+          "correct": true,
+          "rationale": "Correct (needs teaching). Vomiting is not a reason to stop ORS. The parent should wait 10-15 minutes, then restart small amounts. Ginger ale is high in sugar and low in electrolytes."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll start her regular foods again once she is keeping fluids down.\"",
+          "correct": false,
+          "rationale": "Correct understanding: early return to an age-appropriate diet is recommended."
+        }
+      ],
+      "explanation": "Home ORS teaching: commercial ORS in small frequent amounts, restart after vomiting with smaller volumes, avoid sugary or salty clear liquids, resume usual diet early, and know warning signs (no urine for 6-8 hours, lethargy, sunken eyes, no tears, persistent vomiting, bloody stool)."
+    },
+    {
+      "id": "dehydration-23",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse receives report on four children on a pediatric unit. Which child should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 4-year-old with mild dehydration who has dry lips, is drinking ORS, and has voided twice this shift",
+          "correct": false,
+          "rationale": "Dry lips are expected with mild dehydration, and the child is tolerating oral rehydration."
+        },
+        {
+          "id": "b",
+          "text": "A lethargic 9-month-old with gastroenteritis, capillary refill 4 seconds, and no wet diaper for 8 hours",
+          "correct": true,
+          "rationale": "Correct. Lethargy, delayed capillary refill, and no urine output signal severe dehydration with impending shock. This infant needs immediate assessment and fluid resuscitation."
+        },
+        {
+          "id": "c",
+          "text": "A 2-year-old with serum sodium 146 mEq/L who is playing in the crib and asking for a snack",
+          "correct": false,
+          "rationale": "A sodium of 146 mEq/L is within the isotonic range, and the child is active and alert."
+        },
+        {
+          "id": "d",
+          "text": "A 10-year-old with two loose stools this shift, HR 96 beats/min, and mild cramping",
+          "correct": false,
+          "rationale": "HR 96 is normal for a school-age child, and two loose stools is not an acute concern."
+        }
+      ],
+      "explanation": "Prioritize the child showing signs of poor perfusion: altered mental status, delayed capillary refill, and oliguria or anuria. Infants decompensate quickly."
+    },
+    {
+      "id": "dehydration-24",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a student how to measure urine output for an infant using diaper weights. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Weigh a clean, dry diaper of the same brand and size and record the weight"
+        },
+        {
+          "id": "b",
+          "text": "Apply the diaper to the infant"
+        },
+        {
+          "id": "c",
+          "text": "Remove the wet diaper promptly after voiding and weigh it before it dries"
+        },
+        {
+          "id": "d",
+          "text": "Subtract the dry diaper weight from the wet diaper weight"
+        },
+        {
+          "id": "e",
+          "text": "Record the difference as urine output (1 g = 1 mL) and calculate mL/kg/hr"
+        }
+      ],
+      "explanation": "Diaper weighing gives an accurate output measurement in infants: wet weight minus dry weight equals urine volume. Weigh promptly to prevent evaporation, and use the same brand for the dry reference weight."
+    }
+  ]
+}

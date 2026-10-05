@@ -1,0 +1,251 @@
+{
+  "id": "nur321-exam2",
+  "course": "NUR 321",
+  "title": "Exam 2",
+  "subtitle": "Pediatric Cardiovascular, Hematologic, GI, GU & Neurologic Alterations",
+  "term": "Fall 2026",
+  "order": 2,
+  "format": {
+    "totalQuestions": 50,
+    "minutes": 51,
+    "alternateFormat": 3,
+    "dosageCalculation": 5
+  },
+  "groups": [
+    {
+      "id": "cardio",
+      "title": "Cardiovascular",
+      "color": "rose"
+    },
+    {
+      "id": "heme",
+      "title": "Hematology",
+      "color": "violet"
+    },
+    {
+      "id": "gi",
+      "title": "Gastrointestinal",
+      "color": "amber"
+    },
+    {
+      "id": "gu",
+      "title": "Genitourinary",
+      "color": "sky"
+    },
+    {
+      "id": "neuro",
+      "title": "Neurological",
+      "color": "indigo"
+    },
+    {
+      "id": "math",
+      "title": "Dosage Calculation",
+      "color": "emerald"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "congenital-heart",
+      "group": "cardio",
+      "blueprint": 8
+    },
+    {
+      "slug": "rheumatic-fever",
+      "group": "cardio",
+      "blueprint": 2
+    },
+    {
+      "slug": "heart-failure",
+      "group": "cardio",
+      "blueprint": 2
+    },
+    {
+      "slug": "kawasaki",
+      "group": "cardio",
+      "blueprint": 1
+    },
+    {
+      "slug": "hemophilia",
+      "group": "heme",
+      "blueprint": 1
+    },
+    {
+      "slug": "anemia",
+      "group": "heme",
+      "blueprint": 1
+    },
+    {
+      "slug": "sickle-cell",
+      "group": "heme",
+      "blueprint": 1
+    },
+    {
+      "slug": "pyloric-stenosis",
+      "group": "gi",
+      "blueprint": 2
+    },
+    {
+      "slug": "hirschsprung",
+      "group": "gi",
+      "blueprint": 1
+    },
+    {
+      "slug": "appendicitis",
+      "group": "gi",
+      "blueprint": 1
+    },
+    {
+      "slug": "dehydration",
+      "group": "gi",
+      "blueprint": 7
+    },
+    {
+      "slug": "cleft-lip-palate",
+      "group": "gi",
+      "blueprint": 3
+    },
+    {
+      "slug": "intussusception",
+      "group": "gi",
+      "blueprint": 2
+    },
+    {
+      "slug": "celiac",
+      "group": "gi",
+      "blueprint": 1
+    },
+    {
+      "slug": "gastroesophageal-reflux",
+      "group": "gi",
+      "blueprint": 1
+    },
+    {
+      "slug": "glomerulonephritis",
+      "group": "gu",
+      "blueprint": 1
+    },
+    {
+      "slug": "nephrotic-syndrome",
+      "group": "gu",
+      "blueprint": 1
+    },
+    {
+      "slug": "testicular-torsion",
+      "group": "gu",
+      "blueprint": 1
+    },
+    {
+      "slug": "phimosis",
+      "group": "gu",
+      "blueprint": 1
+    },
+    {
+      "slug": "bacterial-meningitis",
+      "group": "neuro",
+      "blueprint": 3
+    },
+    {
+      "slug": "seizures",
+      "group": "neuro",
+      "blueprint": 2
+    },
+    {
+      "slug": "increased-icp",
+      "group": "neuro",
+      "blueprint": 1
+    },
+    {
+      "slug": "hydrocephalus",
+      "group": "neuro",
+      "blueprint": 1
+    },
+    {
+      "slug": "dosage-calc",
+      "group": "math",
+      "blueprint": 5
+    }
+  ],
+  "quizLength": 20,
+  "practiceExams": {
+    "count": 3,
+    "note": "The study guide lists 45 topic points plus 5 dosage calculations (3 alternate format), so each practice exam is 50 questions weighted exactly like the study guide. The guide gives no time limit; 51 minutes keeps the same pace as the program's other exams.",
+    "distribution": {
+      "congenital-heart": 8,
+      "rheumatic-fever": 2,
+      "heart-failure": 2,
+      "kawasaki": 1,
+      "hemophilia": 1,
+      "anemia": 1,
+      "sickle-cell": 1,
+      "pyloric-stenosis": 2,
+      "hirschsprung": 1,
+      "appendicitis": 1,
+      "dehydration": 7,
+      "cleft-lip-palate": 3,
+      "intussusception": 2,
+      "celiac": 1,
+      "gastroesophageal-reflux": 1,
+      "glomerulonephritis": 1,
+      "nephrotic-syndrome": 1,
+      "testicular-torsion": 1,
+      "phimosis": 1,
+      "bacterial-meningitis": 3,
+      "seizures": 2,
+      "increased-icp": 1,
+      "hydrocephalus": 1,
+      "dosage-calc": 5
+    }
+  },
+  "objectives": [
+    {
+      "title": "Cardiovascular Function & Perfusion",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in cardiovascular function and perfusion",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment of alterations in cardiovascular function and perfusion in pediatric clients",
+        "Describe the effect of alterations in cardiovascular function and perfusion on pediatric clients' overall health",
+        "Explore the role of the nurse when caring for pediatric clients with alterations in cardiovascular function and perfusion",
+        "Apply the nursing process using clinical judgment while caring for pediatric clients with alterations in cardiovascular function and perfusion"
+      ]
+    },
+    {
+      "title": "Hematologic Function",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in hematologic function",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment of alterations in hematologic function in pediatric clients",
+        "Describe the effect of alterations in hematologic function on pediatric clients' overall health",
+        "Explore the role of the nurse when caring for pediatric clients with alterations in hematologic function",
+        "Apply the nursing process using clinical judgment while caring for pediatric clients with alterations in hematologic function"
+      ]
+    },
+    {
+      "title": "Digestive Function",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in digestive function",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment of alterations in digestive function in pediatric clients",
+        "Describe the effect of alterations in digestive function on pediatric clients' overall health",
+        "Explore the role of the nurse when caring for pediatric clients with alterations in digestive function",
+        "Apply the nursing process using clinical judgment while caring for pediatric clients with alterations in digestive function"
+      ]
+    },
+    {
+      "title": "Genitourinary Function",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in genitourinary function",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment of alterations in genitourinary function in pediatric clients",
+        "Describe the effect of alterations in genitourinary function on pediatric clients' overall health",
+        "Explore the role of the nurse when caring for pediatric clients with alterations in genitourinary function",
+        "Apply the nursing process using clinical judgment while caring for pediatric clients with alterations in genitourinary function"
+      ]
+    },
+    {
+      "title": "Neurologic Function",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in neurologic function",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment of alterations in neurologic function in pediatric clients",
+        "Describe the effect of alterations in neurologic function on pediatric clients' overall health",
+        "Explore the role of the nurse when caring for pediatric clients with alterations in neurologic function",
+        "Apply the nursing process using clinical judgment while caring for pediatric clients with alterations in neurologic function"
+      ]
+    }
+  ]
+}

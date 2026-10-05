@@ -1,0 +1,434 @@
+{
+  "slug": "glomerulonephritis",
+  "title": "Acute Glomerulonephritis",
+  "short": "Glomerulonephritis",
+  "icon": "droplet",
+  "description": "Acute post-streptococcal glomerulonephritis in children: immune-complex injury, hematuria, edema and hypertension, lab findings, and fluid and sodium management.",
+  "keyPoints": [
+    "Acute post-streptococcal glomerulonephritis (APSGN) is an immune-complex disease that follows a group A beta-hemolytic streptococcal infection of the throat (about 1-2 weeks later) or skin/impetigo (about 3-6 weeks later). Most common in school-age children 5-12 years.",
+    "Classic signs: dark tea- or cola-colored urine (hematuria), periorbital edema (worse in the morning), oliguria, hypertension, mild to moderate proteinuria, fatigue, and anorexia.",
+    "Labs: elevated ASO titer (or anti-DNase B after skin infection), low serum complement C3, elevated BUN and creatinine, urine with RBCs and RBC casts.",
+    "Care: monitor BP frequently, daily weights, strict I&O; restrict sodium and fluid (and potassium if oliguric); antihypertensives and diuretics as prescribed; antibiotics only if active strep infection persists.",
+    "Hypertensive encephalopathy warning signs: headache, blurred vision, vomiting, confusion, and seizures. Report immediately.",
+    "Rest during the acute phase; activity is resumed as hematuria and hypertension resolve. Most children recover fully; gross hematuria fades in weeks, while microscopic hematuria can persist for months.",
+    "Contrast with nephrotic syndrome: APSGN has hematuria, hypertension, and mild proteinuria; nephrotic syndrome has massive proteinuria, severe edema, hypoalbuminemia, and usually normal BP."
+  ],
+  "questions": [
+    {
+      "id": "glomerulonephritis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which recent infection is most commonly associated with acute glomerulonephritis in children?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiratory syncytial virus bronchiolitis",
+          "correct": false,
+          "rationale": "RSV is a viral respiratory infection that is not a typical trigger of post-infectious glomerulonephritis."
+        },
+        {
+          "id": "b",
+          "text": "Escherichia coli urinary tract infection",
+          "correct": false,
+          "rationale": "A UTI is a direct infection of the urinary tract; APSGN follows a streptococcal infection elsewhere in the body."
+        },
+        {
+          "id": "c",
+          "text": "Rotavirus gastroenteritis in a toddler",
+          "correct": false,
+          "rationale": "Rotavirus is not associated with APSGN."
+        },
+        {
+          "id": "d",
+          "text": "Group A streptococcal pharyngitis or impetigo",
+          "correct": true,
+          "rationale": "Correct. APSGN is an immune-complex reaction that follows group A strep infection of the throat or skin."
+        }
+      ],
+      "explanation": "APSGN develops after a latent period following group A strep pharyngitis (about 1-2 weeks) or skin infection (about 3-6 weeks). Antigen-antibody complexes deposit in the glomeruli and cause inflammation."
+    },
+    {
+      "id": "glomerulonephritis-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 8-year-old is brought to the clinic because the urine has looked \"like cola\" for 2 days. The child had a sore throat 2 weeks ago. Which group of additional findings is most consistent with acute post-streptococcal glomerulonephritis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Periorbital edema, BP 138/90 mm Hg, and decreased urine output",
+          "correct": true,
+          "rationale": "Correct. Edema (especially periorbital), hypertension, and oliguria with dark urine are classic findings of APSGN."
+        },
+        {
+          "id": "b",
+          "text": "Generalized edema, frothy urine, and BP 98/60 mm Hg",
+          "correct": false,
+          "rationale": "Massive edema with frothy urine and normal BP suggests nephrotic syndrome."
+        },
+        {
+          "id": "c",
+          "text": "Dysuria, urinary frequency, and suprapubic pain",
+          "correct": false,
+          "rationale": "These findings suggest a urinary tract infection."
+        },
+        {
+          "id": "d",
+          "text": "Polyuria, polydipsia, and weight loss",
+          "correct": false,
+          "rationale": "These findings suggest diabetes mellitus."
+        }
+      ],
+      "explanation": "Glomerular inflammation lowers the glomerular filtration rate, causing sodium and water retention (edema, hypertension, oliguria) and leakage of red blood cells into the urine (tea- or cola-colored urine)."
+    },
+    {
+      "id": "glomerulonephritis-03",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse reviews laboratory results for a child with suspected APSGN. Which findings support this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elevated antistreptolysin O (ASO) titer",
+          "correct": true,
+          "rationale": "Correct. An elevated ASO titer shows a recent streptococcal infection."
+        },
+        {
+          "id": "b",
+          "text": "Low serum complement (C3)",
+          "correct": true,
+          "rationale": "Correct. Complement is consumed in the immune-complex reaction, so C3 is decreased; it usually normalizes within 6-8 weeks."
+        },
+        {
+          "id": "c",
+          "text": "Urinalysis with red blood cells and RBC casts",
+          "correct": true,
+          "rationale": "Correct. RBC casts indicate glomerular bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Serum albumin 1.6 g/dL with massive proteinuria",
+          "correct": false,
+          "rationale": "Very low albumin with massive proteinuria is characteristic of nephrotic syndrome; APSGN typically causes mild to moderate proteinuria."
+        },
+        {
+          "id": "e",
+          "text": "Elevated BUN and creatinine",
+          "correct": true,
+          "rationale": "Correct. Reduced GFR causes BUN and creatinine to rise."
+        },
+        {
+          "id": "f",
+          "text": "Serum cholesterol 420 mg/dL",
+          "correct": false,
+          "rationale": "Marked hyperlipidemia is a feature of nephrotic syndrome, not APSGN."
+        }
+      ],
+      "explanation": "Typical APSGN labs: hematuria with RBC casts, mild proteinuria, elevated BUN/creatinine, positive ASO or anti-DNase B, and decreased C3. Hyperlipidemia and severe hypoalbuminemia point to nephrotic syndrome."
+    },
+    {
+      "id": "glomerulonephritis-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 7-year-old with APSGN has a BP of 134/88 mm Hg, periorbital edema, and urine output of 0.4 mL/kg/hr. Which diet does the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "High-protein diet with extra fluids to flush the kidneys and clear the edema",
+          "correct": false,
+          "rationale": "Extra fluids would worsen edema and hypertension in an oliguric child; high protein is not indicated with rising BUN."
+        },
+        {
+          "id": "b",
+          "text": "No added salt, with fluid limited to insensible loss plus urine output",
+          "correct": true,
+          "rationale": "Correct. With hypertension, edema, and oliguria, sodium and fluid are restricted. Potassium may also be limited until urine output improves."
+        },
+        {
+          "id": "c",
+          "text": "High-potassium diet with bananas and orange juice to replace urine losses",
+          "correct": false,
+          "rationale": "Oliguria can cause hyperkalemia, so high-potassium foods are avoided."
+        },
+        {
+          "id": "d",
+          "text": "NPO with IV fluids at maintenance rate",
+          "correct": false,
+          "rationale": "The child can eat; maintenance IV fluids would add to fluid overload."
+        }
+      ],
+      "explanation": "Sodium and fluid restriction are the main dietary measures in APSGN with edema and hypertension. Fluid allowance is usually based on insensible losses plus urine output. Potassium is restricted with oliguria."
+    },
+    {
+      "id": "glomerulonephritis-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 9-year-old with APSGN tells the nurse, \"My head really hurts and I see spots.\" BP is 168/104 mm Hg. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give acetaminophen for the headache and reassess in 1 hour",
+          "correct": false,
+          "rationale": "Treating the headache alone delays treatment of a hypertensive emergency."
+        },
+        {
+          "id": "b",
+          "text": "Darken the room and encourage the child to nap",
+          "correct": false,
+          "rationale": "Quiet environment is helpful, but the priority is immediate notification for antihypertensive treatment."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider immediately and implement seizure precautions",
+          "correct": true,
+          "rationale": "Correct. Headache, visual changes, and severe hypertension indicate hypertensive encephalopathy, which can progress to seizures. Rapid treatment is needed."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the child to drink water to treat dehydration",
+          "correct": false,
+          "rationale": "Fluids would worsen fluid overload and hypertension."
+        }
+      ],
+      "explanation": "Hypertensive encephalopathy is a serious complication of APSGN. Signs include headache, dizziness, visual disturbances, vomiting, altered mental status, and seizures. The nurse reports immediately, institutes seizure precautions, and prepares to give IV antihypertensives."
+    },
+    {
+      "id": "glomerulonephritis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a 6-year-old hospitalized with APSGN. Which intervention is the best way to monitor the child's fluid status?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weigh the child every morning on the same scale before breakfast",
+          "correct": true,
+          "rationale": "Correct. Daily weight at the same time with the same scale and clothing is the most accurate indicator of fluid balance."
+        },
+        {
+          "id": "b",
+          "text": "Measure abdominal girth once a week",
+          "correct": false,
+          "rationale": "Weekly girth is too infrequent and less useful in APSGN, where ascites is not typical."
+        },
+        {
+          "id": "c",
+          "text": "Check the urine dipstick for glucose each shift",
+          "correct": false,
+          "rationale": "Glucose is not an indicator of fluid balance in APSGN."
+        },
+        {
+          "id": "d",
+          "text": "Ask the parent to estimate how much the child drinks",
+          "correct": false,
+          "rationale": "Estimates are inaccurate; strict I&O and daily weights are needed."
+        }
+      ],
+      "explanation": "Daily weights, strict intake and output, frequent BP checks, and assessment for edema are key for monitoring fluid retention and response to treatment in APSGN."
+    },
+    {
+      "id": "glomerulonephritis-07",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 10-year-old with APSGN is newly admitted with BP 146/94 mm Hg, periorbital edema, and dark urine. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess neurologic status and recheck BP"
+        },
+        {
+          "id": "b",
+          "text": "Administer the prescribed antihypertensive"
+        },
+        {
+          "id": "c",
+          "text": "Begin strict intake and output and obtain a baseline weight"
+        },
+        {
+          "id": "d",
+          "text": "Explain the sodium- and fluid-restricted diet to the child and family"
+        },
+        {
+          "id": "e",
+          "text": "Plan quiet activities the child can do in bed"
+        }
+      ],
+      "explanation": "The nurse first checks for signs of hypertensive encephalopathy and confirms the BP, then treats the hypertension. Monitoring of fluid status is started next, followed by teaching about diet restrictions. Planning age-appropriate quiet activities supports rest during the acute phase."
+    },
+    {
+      "id": "glomerulonephritis-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 7-year-old being discharged after APSGN. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep follow-up appointments for BP checks and urinalysis",
+          "correct": true,
+          "rationale": "Correct. BP and urine must be followed until hematuria and proteinuria resolve."
+        },
+        {
+          "id": "b",
+          "text": "Report headaches, decreased urine output, or increased swelling",
+          "correct": true,
+          "rationale": "Correct. These may signal recurrence of hypertension or worsening kidney function."
+        },
+        {
+          "id": "c",
+          "text": "Expect the urine to stay cola-colored for at least a year",
+          "correct": false,
+          "rationale": "Gross hematuria usually resolves within a few weeks; only microscopic hematuria may persist for months."
+        },
+        {
+          "id": "d",
+          "text": "Encourage a high-sodium diet to restore electrolytes",
+          "correct": false,
+          "rationale": "Sodium is limited while edema or hypertension persists."
+        },
+        {
+          "id": "e",
+          "text": "Your child may gradually return to normal activities as the provider advises",
+          "correct": true,
+          "rationale": "Correct. Activity is gradually increased as symptoms resolve; bed rest is not required once the acute phase is over."
+        }
+      ],
+      "explanation": "Discharge teaching for APSGN covers follow-up for BP and urinalysis, diet restrictions until resolved, signs of complications to report, and a gradual return to normal activities. The prognosis is excellent for most children."
+    },
+    {
+      "id": "glomerulonephritis-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a child with APSGN asks why the child's eyes are puffy. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your child is allergic to the antibiotic.\"",
+          "correct": false,
+          "rationale": "Periorbital edema in APSGN is caused by fluid retention, not allergy."
+        },
+        {
+          "id": "b",
+          "text": "\"The kidneys are losing large amounts of protein, so fluid leaks into the tissues.\"",
+          "correct": false,
+          "rationale": "This mechanism describes nephrotic syndrome; proteinuria in APSGN is usually mild."
+        },
+        {
+          "id": "c",
+          "text": "\"The puffiness is from crying and will go away when your child rests.\"",
+          "correct": false,
+          "rationale": "This dismisses a key clinical sign of fluid retention."
+        },
+        {
+          "id": "d",
+          "text": "\"Inflamed kidneys are not filtering well, so salt and water build up in the body.\"",
+          "correct": true,
+          "rationale": "Correct. Decreased GFR leads to sodium and water retention, causing edema and hypertension."
+        }
+      ],
+      "explanation": "In APSGN, the inflamed glomeruli filter less blood, so sodium and water are retained. This causes periorbital and dependent edema, hypertension, and circulatory congestion."
+    },
+    {
+      "id": "glomerulonephritis-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 9-year-old has been treated for APSGN for 5 days. Which finding best indicates the child is improving?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urine output increased to 1.5 mL/kg/hr with a 0.8 kg weight loss",
+          "correct": true,
+          "rationale": "Correct. Diuresis with weight loss shows that GFR is improving and fluid is being excreted, often the first sign of recovery."
+        },
+        {
+          "id": "b",
+          "text": "BP 142/92 mm Hg and new crackles in the lung bases",
+          "correct": false,
+          "rationale": "These findings suggest persistent hypertension and fluid overload."
+        },
+        {
+          "id": "c",
+          "text": "Serum potassium 6.1 mEq/L",
+          "correct": false,
+          "rationale": "Hyperkalemia indicates the kidneys are still not excreting potassium adequately."
+        },
+        {
+          "id": "d",
+          "text": "Urine still dark cola-colored with output of 0.3 mL/kg/hr",
+          "correct": false,
+          "rationale": "Persistent oliguria indicates ongoing kidney dysfunction."
+        }
+      ],
+      "explanation": "Recovery from APSGN typically begins with diuresis and weight loss, followed by improvement in BP and edema. Gross hematuria resolves over weeks, and C3 returns to normal within about 6-8 weeks."
+    },
+    {
+      "id": "glomerulonephritis-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is caring for two children: one with acute glomerulonephritis and one with nephrotic syndrome. Which finding is expected in the child with acute glomerulonephritis but NOT typically in the child with nephrotic syndrome?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Periorbital edema",
+          "correct": false,
+          "rationale": "Both conditions can cause periorbital edema."
+        },
+        {
+          "id": "b",
+          "text": "Gross hematuria and hypertension",
+          "correct": true,
+          "rationale": "Correct. Grossly bloody, cola-colored urine and hypertension are hallmarks of APSGN. Nephrotic syndrome usually has normal BP and little or no hematuria."
+        },
+        {
+          "id": "c",
+          "text": "Massive proteinuria with frothy urine",
+          "correct": false,
+          "rationale": "Massive proteinuria is characteristic of nephrotic syndrome."
+        },
+        {
+          "id": "d",
+          "text": "Serum cholesterol greatly elevated",
+          "correct": false,
+          "rationale": "Hyperlipidemia is characteristic of nephrotic syndrome."
+        }
+      ],
+      "explanation": "Glomerulonephritis is an inflammatory (nephritic) process: hematuria, hypertension, oliguria, and mild proteinuria. Nephrotic syndrome is a permeability problem: massive proteinuria, hypoalbuminemia, hyperlipidemia, and severe edema."
+    },
+    {
+      "id": "glomerulonephritis-12",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 6-year-old with APSGN has a urine output of 15 mL over the last 4 hours (weight 20 kg). Which findings would indicate complications the nurse should report? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serum potassium 6.2 mEq/L",
+          "correct": true,
+          "rationale": "Correct. Hyperkalemia from oliguria can cause life-threatening dysrhythmias."
+        },
+        {
+          "id": "b",
+          "text": "Crackles in the lungs and respiratory rate of 34 breaths/min",
+          "correct": true,
+          "rationale": "Correct. These suggest pulmonary edema from fluid overload."
+        },
+        {
+          "id": "c",
+          "text": "Periorbital edema that decreases during the day",
+          "correct": false,
+          "rationale": "Periorbital edema that is worse in the morning and improves when upright is an expected finding of APSGN."
+        },
+        {
+          "id": "d",
+          "text": "Severe headache and vomiting",
+          "correct": true,
+          "rationale": "Correct. These may indicate hypertensive encephalopathy."
+        },
+        {
+          "id": "e",
+          "text": "Tea-colored urine",
+          "correct": false,
+          "rationale": "Dark urine is an expected finding of APSGN."
+        }
+      ],
+      "explanation": "Output of 15 mL over 4 hours in a 20 kg child is about 0.19 mL/kg/hr, well below the minimum of 1 mL/kg/hr. Oliguria raises the risk of hyperkalemia, fluid overload with heart failure or pulmonary edema, and hypertensive encephalopathy."
+    }
+  ]
+}

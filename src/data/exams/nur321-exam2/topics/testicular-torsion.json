@@ -1,0 +1,362 @@
+{
+  "slug": "testicular-torsion",
+  "title": "Testicular Torsion",
+  "short": "Testicular Torsion",
+  "icon": "target",
+  "description": "Testicular torsion as a pediatric surgical emergency: presentation in adolescents, absent cremasteric reflex, Doppler ultrasound, the 4-6 hour window to save the testis, preoperative preparation, orchiopexy, and how torsion differs from epididymitis.",
+  "keyPoints": [
+    "Testicular torsion is twisting of the spermatic cord that cuts off blood supply to the testis. It is a SURGICAL EMERGENCY.",
+    "Most common in adolescents (peak 12-18 years), with a second smaller peak in newborns. Often occurs during sleep, after activity, or after minor trauma.",
+    "Signs: sudden, severe unilateral scrotal pain (may radiate to the groin or lower abdomen), scrotal swelling and redness, nausea and vomiting, a high-riding testis with a horizontal lie, and an ABSENT cremasteric reflex.",
+    "Doppler (color flow) ultrasound shows decreased or absent blood flow, but if clinical suspicion is high, surgery should not be delayed for imaging.",
+    "Surgery within 4-6 hours of symptom onset gives the best chance of saving the testis; viability drops sharply after that. Prepare the teen: NPO, IV access, pain control, consent.",
+    "Treatment: surgical detorsion and orchiopexy (fixing the testis to the scrotal wall), usually both sides because the opposite testis is at risk. A nonviable testis is removed (orchiectomy).",
+    "Epididymitis has a more gradual onset, often with fever, dysuria, or urethral discharge; pain is relieved by elevating the testis (positive Prehn sign) and the cremasteric reflex is usually present. Torsion pain is NOT relieved by elevation."
+  ],
+  "questions": [
+    {
+      "id": "testicular-torsion-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which age group is at highest risk for testicular torsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toddlers 1-3 years",
+          "correct": false,
+          "rationale": "Torsion is uncommon in toddlers."
+        },
+        {
+          "id": "b",
+          "text": "Adolescents 12-18 years",
+          "correct": true,
+          "rationale": "Correct. Torsion peaks during adolescence, when the testes grow rapidly; there is a second smaller peak in newborns."
+        },
+        {
+          "id": "c",
+          "text": "School-age children 6-9 years",
+          "correct": false,
+          "rationale": "Torsion can occur at this age but is much less common than in adolescence."
+        },
+        {
+          "id": "d",
+          "text": "Young adults over 25 years",
+          "correct": false,
+          "rationale": "Torsion becomes less common after the teen years."
+        }
+      ],
+      "explanation": "Testicular torsion most commonly affects adolescents, likely related to rapid testicular growth during puberty and an anatomic predisposition (bell-clapper deformity)."
+    },
+    {
+      "id": "testicular-torsion-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 14-year-old arrives at the emergency department at 0300 with sudden, severe left scrotal pain that woke him from sleep 1 hour ago. He has vomited twice. The left testis is swollen, high-riding, and lies horizontally, and the cremasteric reflex is absent on the left. What is the nurse's priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply ice and elevate the scrotum, then reassess in 2 hours",
+          "correct": false,
+          "rationale": "Comfort measures do not restore blood flow; waiting reduces the chance of saving the testis."
+        },
+        {
+          "id": "b",
+          "text": "Collect a urine specimen for culture and wait for results",
+          "correct": false,
+          "rationale": "A urinalysis may be done but must not delay surgical evaluation."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider at once and prepare for emergency surgery",
+          "correct": true,
+          "rationale": "Correct. Sudden severe pain, vomiting, high-riding horizontal testis, and absent cremasteric reflex strongly suggest torsion, which requires surgery as quickly as possible, ideally within 4-6 hours."
+        },
+        {
+          "id": "d",
+          "text": "Teach the teen about safer sex practices and STI testing",
+          "correct": false,
+          "rationale": "Teaching about sexually transmitted infections is not the priority during a surgical emergency."
+        }
+      ],
+      "explanation": "Testicular torsion is time-critical: testis viability falls sharply after 4-6 hours. The nurse escalates quickly, keeps the teen NPO, starts IV access, gives analgesia as ordered, and prepares for surgery."
+    },
+    {
+      "id": "testicular-torsion-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is assessing a 15-year-old with suspected testicular torsion. Which findings support this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden onset of severe scrotal pain",
+          "correct": true,
+          "rationale": "Correct. Torsion classically presents with sudden, severe unilateral scrotal pain."
+        },
+        {
+          "id": "b",
+          "text": "Nausea and vomiting",
+          "correct": true,
+          "rationale": "Correct. Nausea and vomiting are common with torsion because of intense pain."
+        },
+        {
+          "id": "c",
+          "text": "Absent cremasteric reflex on the affected side",
+          "correct": true,
+          "rationale": "Correct. An absent cremasteric reflex is one of the most reliable signs of torsion."
+        },
+        {
+          "id": "d",
+          "text": "Pain relieved when the testis is elevated",
+          "correct": false,
+          "rationale": "Pain relief with elevation (positive Prehn sign) suggests epididymitis; torsion pain is not relieved."
+        },
+        {
+          "id": "e",
+          "text": "Gradual onset of pain over several days with burning on urination",
+          "correct": false,
+          "rationale": "Gradual pain with dysuria suggests epididymitis or infection."
+        },
+        {
+          "id": "f",
+          "text": "High-riding testis with a horizontal lie",
+          "correct": true,
+          "rationale": "Correct. Twisting of the cord shortens it, pulling the testis up into a horizontal position."
+        }
+      ],
+      "explanation": "Torsion: sudden severe pain, swelling, nausea and vomiting, high-riding horizontal testis, absent cremasteric reflex. Epididymitis: gradual onset, fever, dysuria, positive Prehn sign, cremasteric reflex present."
+    },
+    {
+      "id": "testicular-torsion-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 13-year-old with testicular torsion asks why the surgeon wants to operate right away. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The twisted cord cuts off blood flow, and the testis is best saved within 4 to 6 hours.",
+          "correct": true,
+          "rationale": "Correct. The goal is to restore blood flow before tissue dies; salvage rates drop sharply after 6 hours."
+        },
+        {
+          "id": "b",
+          "text": "Surgery is needed to drain an infection that has spread into the testis.",
+          "correct": false,
+          "rationale": "Torsion is not an infection; surgery untwists the cord."
+        },
+        {
+          "id": "c",
+          "text": "Surgery is done mainly to relieve pain; the testis will heal regardless.",
+          "correct": false,
+          "rationale": "Without prompt surgery, the testis may die and need removal."
+        },
+        {
+          "id": "d",
+          "text": "The surgeon needs to remove the testis to prevent it from becoming cancerous later.",
+          "correct": false,
+          "rationale": "Torsion is not related to cancer prevention; the goal is to save the testis."
+        }
+      ],
+      "explanation": "Torsion compromises blood flow. Detorsion within 4-6 hours offers the best chance of testicular salvage; delays increase the chance of orchiectomy."
+    },
+    {
+      "id": "testicular-torsion-05",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 16-year-old is diagnosed with testicular torsion and will go to surgery. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Notify the surgeon of the assessment findings"
+        },
+        {
+          "id": "b",
+          "text": "Keep the teen NPO and start IV access"
+        },
+        {
+          "id": "c",
+          "text": "Administer prescribed analgesia"
+        },
+        {
+          "id": "d",
+          "text": "Verify that informed consent has been signed by the parent"
+        },
+        {
+          "id": "e",
+          "text": "Transfer the teen to the operating room"
+        }
+      ],
+      "explanation": "The surgeon is notified first because time to surgery determines testicular survival. Preoperative preparation (NPO, IV access), comfort, and consent follow quickly so surgery is not delayed."
+    },
+    {
+      "id": "testicular-torsion-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 14-year-old with sudden scrotal pain is scheduled for a Doppler ultrasound. The teen asks what the test will show. Which response is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It will show whether there is a kidney stone.",
+          "correct": false,
+          "rationale": "A scrotal Doppler evaluates testicular blood flow, not kidney stones."
+        },
+        {
+          "id": "b",
+          "text": "It will measure the size of your bladder.",
+          "correct": false,
+          "rationale": "This test does not evaluate the bladder."
+        },
+        {
+          "id": "c",
+          "text": "It will check for a hernia only.",
+          "correct": false,
+          "rationale": "A hernia may be seen, but the main purpose is evaluating blood flow to the testis."
+        },
+        {
+          "id": "d",
+          "text": "It shows whether blood is flowing to the testicle.",
+          "correct": true,
+          "rationale": "Correct. Color Doppler ultrasound shows decreased or absent blood flow in torsion."
+        }
+      ],
+      "explanation": "Doppler ultrasound helps confirm torsion by showing reduced or absent blood flow, but surgery should not be delayed for imaging when suspicion is high."
+    },
+    {
+      "id": "testicular-torsion-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is comparing two adolescents with scrotal pain. Which finding is most suggestive of epididymitis rather than testicular torsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden onset of pain that woke him from sleep",
+          "correct": false,
+          "rationale": "Sudden onset is typical of torsion."
+        },
+        {
+          "id": "b",
+          "text": "Relief with elevation, plus dysuria and fever",
+          "correct": true,
+          "rationale": "Correct. Pain relief with elevation (positive Prehn sign), dysuria, and fever are typical of epididymitis."
+        },
+        {
+          "id": "c",
+          "text": "Absent cremasteric reflex on the affected side",
+          "correct": false,
+          "rationale": "An absent cremasteric reflex suggests torsion."
+        },
+        {
+          "id": "d",
+          "text": "High-riding testis with a horizontal lie",
+          "correct": false,
+          "rationale": "This is a classic finding in torsion."
+        }
+      ],
+      "explanation": "Epididymitis usually has a gradual onset with fever, dysuria, and pain relieved by elevating the testis. It is treated with antibiotics. When in doubt, torsion is treated as an emergency."
+    },
+    {
+      "id": "testicular-torsion-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 15-year-old had a detorsion and bilateral orchiopexy. Which discharge instruction is appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Return to contact sports the next day if pain is controlled with ibuprofen",
+          "correct": false,
+          "rationale": "Strenuous activity and contact sports are avoided for several weeks after surgery."
+        },
+        {
+          "id": "b",
+          "text": "Remove the dressing and soak in a hot tub on the first day to ease swelling",
+          "correct": false,
+          "rationale": "Soaking is usually avoided until the incisions heal and the surgeon approves."
+        },
+        {
+          "id": "c",
+          "text": "No follow-up visit is needed once the incision stops hurting",
+          "correct": false,
+          "rationale": "Follow-up is important to assess healing and testicular viability, even when pain has resolved."
+        },
+        {
+          "id": "d",
+          "text": "Wear supportive underwear, use ice for swelling, and limit strenuous activity",
+          "correct": true,
+          "rationale": "Correct. Scrotal support, ice for swelling, and activity restrictions promote healing."
+        }
+      ],
+      "explanation": "After orchiopexy, care includes pain control, scrotal support, ice, activity restriction, incision care, and follow-up. The opposite testis is usually fixed too because it is at risk for future torsion."
+    },
+    {
+      "id": "testicular-torsion-09",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A nurse is teaching a group of adolescent boys about testicular torsion. Which statements indicate the teaching was effective? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I get sudden, bad pain in my testicle, I should go to the emergency room right away.",
+          "correct": true,
+          "rationale": "Correct. Sudden severe testicular pain is an emergency."
+        },
+        {
+          "id": "b",
+          "text": "I should wait to see whether the pain goes away on its own overnight.",
+          "correct": false,
+          "rationale": "Waiting may cause loss of the testis."
+        },
+        {
+          "id": "c",
+          "text": "Torsion can happen even when I am sleeping.",
+          "correct": true,
+          "rationale": "Correct. Torsion often occurs during sleep."
+        },
+        {
+          "id": "d",
+          "text": "I should tell my parents or coach even if I am embarrassed.",
+          "correct": true,
+          "rationale": "Correct. Embarrassment often delays care; teens should be encouraged to report symptoms promptly."
+        },
+        {
+          "id": "e",
+          "text": "Only older men get testicular torsion.",
+          "correct": false,
+          "rationale": "Torsion is most common in adolescents."
+        }
+      ],
+      "explanation": "Teens often delay seeking care because of embarrassment. Teaching emphasizes that sudden testicular pain is an emergency and needs immediate evaluation."
+    },
+    {
+      "id": "testicular-torsion-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 13-year-old who had torsion for 12 hours before arriving is in surgery, and the testis is found to be nonviable. What will the surgeon most likely do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Remove the nonviable testis (orchiectomy) and fix the opposite testis",
+          "correct": true,
+          "rationale": "Correct. A dead testis is removed, and the contralateral testis is fixed (orchiopexy) to prevent future torsion."
+        },
+        {
+          "id": "b",
+          "text": "Leave the testis in place and give antibiotics",
+          "correct": false,
+          "rationale": "A necrotic testis is removed; antibiotics are not the treatment."
+        },
+        {
+          "id": "c",
+          "text": "Untwist the testis only and do nothing to the other side",
+          "correct": false,
+          "rationale": "The opposite side is usually fixed because of the anatomic risk."
+        },
+        {
+          "id": "d",
+          "text": "Postpone surgery until the swelling decreases",
+          "correct": false,
+          "rationale": "Surgery is not delayed in torsion."
+        }
+      ],
+      "explanation": "Delayed presentation lowers salvage rates. A nonviable testis is removed, and the other testis is anchored. Teens and families may need emotional support and discussion of a testicular prosthesis later."
+    }
+  ]
+}

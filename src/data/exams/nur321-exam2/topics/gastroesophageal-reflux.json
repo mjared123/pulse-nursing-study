@@ -1,0 +1,428 @@
+{
+  "slug": "gastroesophageal-reflux",
+  "title": "Gastroesophageal Reflux (GER/GERD)",
+  "short": "GER / GERD",
+  "icon": "flame",
+  "description": "Physiologic reflux versus GERD in infants and children: warning signs, feeding techniques, safe sleep, medications, and fundoplication care.",
+  "keyPoints": [
+    "GER is the passive return of stomach contents into the esophagus; in infants it is common and physiologic (\"happy spitter\") because of an immature lower esophageal sphincter, and usually resolves by 12-18 months.",
+    "GERD is reflux that causes complications: poor weight gain or FTT, irritability and back arching (Sandifer posturing), feeding refusal, esophagitis, hematemesis, and respiratory problems (wheezing, recurrent pneumonia, apnea).",
+    "Feeding: small, frequent feedings, frequent burping, hold the infant upright for 20-30 minutes after feeding, and thickened feedings only as prescribed.",
+    "Safe sleep: infants with GER still sleep SUPINE on a flat, firm surface. Elevating the head of the crib and prone or side positioning are not recommended.",
+    "Medications for GERD: H2 receptor antagonists (famotidine) and proton pump inhibitors (omeprazole, lansoprazole) given 30 minutes before a meal.",
+    "Nissen fundoplication (wrapping the fundus around the lower esophagus) is reserved for severe GERD that fails medical therapy; afterward, watch for gas bloat and inability to vomit or burp.",
+    "Older children and adolescents: avoid caffeine, chocolate, spicy and fatty foods, carbonated drinks, and tobacco smoke exposure; lose weight if overweight; avoid eating 2-3 hours before bed."
+  ],
+  "questions": [
+    {
+      "id": "gastroesophageal-reflux-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 3-month-old who spits up after most feedings asks why it happens. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Your baby is allergic to the formula and needs to switch to a soy-based one.\"",
+          "correct": false,
+          "rationale": "Spitting up in a thriving infant is usually physiologic and does not by itself indicate formula allergy."
+        },
+        {
+          "id": "b",
+          "text": "\"The muscle at the bottom of the esophagus is immature, so milk flows back up.\"",
+          "correct": true,
+          "rationale": "Correct. Transient relaxation of an immature lower esophageal sphincter, a short esophagus, and a liquid diet make regurgitation common in infants."
+        },
+        {
+          "id": "c",
+          "text": "\"Your baby has a narrowing at the stomach outlet that keeps milk from passing through.\"",
+          "correct": false,
+          "rationale": "Narrowing at the stomach outlet describes pyloric stenosis, which causes forceful projectile vomiting."
+        },
+        {
+          "id": "d",
+          "text": "\"Your baby is swallowing too much air because of a sucking problem.\"",
+          "correct": false,
+          "rationale": "Air swallowing can worsen spitting up but is not the primary cause."
+        }
+      ],
+      "explanation": "Physiologic GER is very common in infants, peaks around 4 months, and resolves in most by 12-18 months as the LES matures, the infant spends more time upright, and solid foods are introduced."
+    },
+    {
+      "id": "gastroesophageal-reflux-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing the records of four infants who spit up frequently. Which infant's data are most consistent with GERD rather than physiologic GER?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 2-month-old who spits up small amounts after feedings and is gaining 30 g/day",
+          "correct": false,
+          "rationale": "Effortless spitting up with good weight gain describes a \"happy spitter\" with physiologic GER."
+        },
+        {
+          "id": "b",
+          "text": "A 4-month-old who spits up after most feeds but is content and meeting milestones",
+          "correct": false,
+          "rationale": "A content, growing infant with spitting up does not have signs of complications."
+        },
+        {
+          "id": "c",
+          "text": "A 5-month-old who arches during feeds, refuses bottles, and is losing weight",
+          "correct": true,
+          "rationale": "Correct. Feeding refusal, back arching, irritability, and weight loss or poor weight gain are signs of GERD."
+        },
+        {
+          "id": "d",
+          "text": "A 6-month-old who spits up more after starting cereal but is gaining weight steadily",
+          "correct": false,
+          "rationale": "Changes in spitting up without poor growth or distress are not consistent with GERD."
+        }
+      ],
+      "explanation": "GERD is diagnosed when reflux causes troublesome symptoms or complications such as FTT, feeding refusal, irritability, arching, esophagitis, hematemesis, or respiratory problems."
+    },
+    {
+      "id": "gastroesophageal-reflux-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a 2-month-old with GER about feeding techniques. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer smaller, more frequent feedings",
+          "correct": true,
+          "rationale": "Correct. Smaller volumes reduce gastric distension and reflux."
+        },
+        {
+          "id": "b",
+          "text": "Burp the infant frequently during feedings",
+          "correct": true,
+          "rationale": "Correct. Frequent burping reduces gastric air and pressure."
+        },
+        {
+          "id": "c",
+          "text": "Hold the infant upright for 20-30 minutes after feeding",
+          "correct": true,
+          "rationale": "Correct. Upright positioning while awake and observed uses gravity to reduce reflux."
+        },
+        {
+          "id": "d",
+          "text": "Place the infant in a car seat after every feeding",
+          "correct": false,
+          "rationale": "Semi-reclined positions in a car seat increase abdominal pressure and can worsen reflux; they are not a substitute for safe upright holding."
+        },
+        {
+          "id": "e",
+          "text": "Add rice cereal to every bottle without checking with the provider",
+          "correct": false,
+          "rationale": "Thickened feedings may help some infants, but only as prescribed by the provider because of caloric, nutritional, and safety concerns."
+        },
+        {
+          "id": "f",
+          "text": "Avoid tight diapers and waistbands after feeding",
+          "correct": true,
+          "rationale": "Correct. Pressure on the abdomen increases reflux."
+        }
+      ],
+      "explanation": "Conservative management of infant GER includes small frequent feedings, frequent burping, holding upright after feeds, avoiding abdominal pressure and overfeeding, and thickened feedings only when prescribed."
+    },
+    {
+      "id": "gastroesophageal-reflux-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 3-month-old with GER asks whether the infant should sleep on the stomach or with the head of the crib raised to prevent spitting up. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Place your baby on the stomach so milk can drain out of the mouth.\"",
+          "correct": false,
+          "rationale": "Prone sleep greatly increases the risk of sudden infant death syndrome and is not recommended for infants with GER."
+        },
+        {
+          "id": "b",
+          "text": "\"Put your baby on the side with a rolled blanket for support.\"",
+          "correct": false,
+          "rationale": "Side-lying is unstable, and infants can roll to prone; soft items in the crib are suffocation hazards."
+        },
+        {
+          "id": "c",
+          "text": "\"Raise the head of the crib with a wedge so the stomach contents stay down.\"",
+          "correct": false,
+          "rationale": "The AAP recommends against elevating the head of the crib or using wedges and positioners because they are ineffective for reflux and increase risk."
+        },
+        {
+          "id": "d",
+          "text": "\"Always place your baby on the back on a firm, flat mattress to sleep.\"",
+          "correct": true,
+          "rationale": "Correct. Supine sleep on a flat, firm surface is recommended for all infants, including those with GER. Healthy infants protect their airway when they spit up."
+        }
+      ],
+      "explanation": "Safe sleep guidelines apply to infants with reflux: back to sleep, on a firm flat surface, with no wedges, positioners, pillows, or soft bedding. The risk of SIDS from prone positioning outweighs any benefit for reflux."
+    },
+    {
+      "id": "gastroesophageal-reflux-05",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which medication is a proton pump inhibitor often prescribed for infants and children with GERD?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omeprazole",
+          "correct": true,
+          "rationale": "Correct. Omeprazole is a PPI that blocks the final step of acid secretion and is used to treat GERD and esophagitis."
+        },
+        {
+          "id": "b",
+          "text": "Famotidine",
+          "correct": false,
+          "rationale": "Famotidine is an H2 receptor antagonist, not a proton pump inhibitor."
+        },
+        {
+          "id": "c",
+          "text": "Ondansetron",
+          "correct": false,
+          "rationale": "Ondansetron is an antiemetic and is not a treatment for GERD."
+        },
+        {
+          "id": "d",
+          "text": "Metoclopramide",
+          "correct": false,
+          "rationale": "Metoclopramide is a prokinetic that is not routinely recommended for infant GERD because of adverse effects such as tardive dyskinesia."
+        }
+      ],
+      "explanation": "PPIs (omeprazole, lansoprazole, esomeprazole) and H2 receptor antagonists (famotidine) reduce gastric acid in GERD. PPIs are most effective when given 30 minutes before the first meal of the day."
+    },
+    {
+      "id": "gastroesophageal-reflux-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 6-month-old with GERD is prescribed omeprazole once daily. Which instruction should the nurse give the parent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Give the medicine at bedtime with a full bottle.\"",
+          "correct": false,
+          "rationale": "PPIs work best before a meal, not with a large feeding at bedtime."
+        },
+        {
+          "id": "b",
+          "text": "\"Mix the medicine into the formula bottle so your baby takes it.\"",
+          "correct": false,
+          "rationale": "Mixing medication into a full bottle risks an incomplete dose if the infant does not finish."
+        },
+        {
+          "id": "c",
+          "text": "\"Give the medicine about 30 minutes before the first feeding of the day.\"",
+          "correct": true,
+          "rationale": "Correct. PPIs are most effective when given before a meal, when the proton pumps are activated."
+        },
+        {
+          "id": "d",
+          "text": "\"Stop the medicine as soon as the spitting up decreases.\"",
+          "correct": false,
+          "rationale": "Medications should not be stopped without provider guidance; the course is usually reevaluated after several weeks."
+        }
+      ],
+      "explanation": "Proton pump inhibitors inhibit activated proton pumps, so timing them 30-60 minutes before a meal maximizes effect. Long-term use is limited because of increased risk of infections such as pneumonia and gastroenteritis."
+    },
+    {
+      "id": "gastroesophageal-reflux-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 2-month-old with GERD is admitted for observation. Which assessment finding should the nurse report immediately?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The infant spits up about 10 mL after a 120 mL feeding",
+          "correct": false,
+          "rationale": "Small-volume regurgitation is expected with reflux."
+        },
+        {
+          "id": "b",
+          "text": "The infant has a brief pause in breathing with color change to dusky after a feeding",
+          "correct": true,
+          "rationale": "Correct. Reflux can trigger apnea, laryngospasm, or aspiration. An apparent life-threatening event needs immediate evaluation."
+        },
+        {
+          "id": "c",
+          "text": "The infant is fussy for a few minutes after feeding and calms when held upright",
+          "correct": false,
+          "rationale": "Mild fussiness that responds to upright positioning is a common, manageable finding."
+        },
+        {
+          "id": "d",
+          "text": "The infant has 7 wet diapers in 24 hours",
+          "correct": false,
+          "rationale": "Six or more wet diapers a day indicates adequate hydration."
+        }
+      ],
+      "explanation": "Respiratory complications of GERD include apnea, choking, cyanotic spells (BRUE), aspiration pneumonia, wheezing, and stridor. These are priorities because they threaten airway and breathing."
+    },
+    {
+      "id": "gastroesophageal-reflux-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is demonstrating a feeding for a 3-month-old with GER. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Hold the infant in an upright, semi-sitting position"
+        },
+        {
+          "id": "b",
+          "text": "Offer a small volume of the prescribed formula"
+        },
+        {
+          "id": "c",
+          "text": "Stop midway to burp the infant"
+        },
+        {
+          "id": "d",
+          "text": "Finish the feeding and burp again"
+        },
+        {
+          "id": "e",
+          "text": "Keep the infant upright and observed for 20-30 minutes"
+        }
+      ],
+      "explanation": "Feeding in an upright position, giving smaller amounts, burping frequently during and after the feed, and then holding the infant upright for 20-30 minutes reduce gastric distension and the chance of reflux."
+    },
+    {
+      "id": "gastroesophageal-reflux-09",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "An 8-month-old is 2 days post laparoscopic Nissen fundoplication for severe GERD. Which findings should the nurse recognize as related to the surgery? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominal distension and discomfort from inability to burp",
+          "correct": true,
+          "rationale": "Correct. Gas bloat syndrome occurs because the tight wrap prevents air from escaping the stomach."
+        },
+        {
+          "id": "b",
+          "text": "Retching without being able to vomit",
+          "correct": true,
+          "rationale": "Correct. The wrap often prevents vomiting; retching should be reported because it can loosen or herniate the wrap."
+        },
+        {
+          "id": "c",
+          "text": "Projectile vomiting of formula",
+          "correct": false,
+          "rationale": "Forceful vomiting is unexpected after fundoplication and could indicate a failed wrap or obstruction."
+        },
+        {
+          "id": "d",
+          "text": "Gastrostomy tube in place for venting and feeding",
+          "correct": true,
+          "rationale": "Correct. A G-tube is often placed with a fundoplication to vent air and provide nutrition."
+        },
+        {
+          "id": "e",
+          "text": "Increased episodes of reflux into the esophagus",
+          "correct": false,
+          "rationale": "The goal of the surgery is to prevent reflux; increased reflux suggests the wrap is not working."
+        }
+      ],
+      "explanation": "After Nissen fundoplication, children may have gas bloat and be unable to burp or vomit. Venting through a gastrostomy tube relieves distension. Retching, dumping syndrome, and slipped wrap are complications to monitor."
+    },
+    {
+      "id": "gastroesophageal-reflux-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 13-year-old with GERD reports heartburn after meals. Which lifestyle change should the nurse recommend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drink a soda with meals to help digestion and relieve gas",
+          "correct": false,
+          "rationale": "Carbonated and caffeinated beverages increase gastric pressure and acid and worsen reflux."
+        },
+        {
+          "id": "b",
+          "text": "Lie down for 30 minutes after eating",
+          "correct": false,
+          "rationale": "Lying down soon after eating increases reflux."
+        },
+        {
+          "id": "c",
+          "text": "Have a large snack right before bedtime to neutralize acid",
+          "correct": false,
+          "rationale": "Eating within 2-3 hours of bedtime worsens nighttime reflux; food does not neutralize acid overnight."
+        },
+        {
+          "id": "d",
+          "text": "Avoid spicy foods, chocolate, caffeine, and fatty meals",
+          "correct": true,
+          "rationale": "Correct. These foods relax the LES or increase acid, worsening symptoms."
+        }
+      ],
+      "explanation": "Older children and adolescents with GERD benefit from avoiding trigger foods, eating smaller meals, avoiding food 2-3 hours before bed, elevating the head of the bed (for older children, not infants), losing weight if overweight, and avoiding tobacco smoke."
+    },
+    {
+      "id": "gastroesophageal-reflux-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 9-month-old with GER that is now resolving asks why reflux is improving. Which response by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The esophageal muscle matures, and babies spend more time upright and eat more solids.\"",
+          "correct": true,
+          "rationale": "Correct. LES maturation, more time upright, and thicker solid foods all reduce reflux, which usually resolves by 12-18 months."
+        },
+        {
+          "id": "b",
+          "text": "\"The medicine has cured the reflux permanently, so it can be stopped now.\"",
+          "correct": false,
+          "rationale": "Physiologic GER improves with maturation, not as a permanent cure from medication."
+        },
+        {
+          "id": "c",
+          "text": "\"Babies stop spitting up only after surgery to tighten the stomach valve.\"",
+          "correct": false,
+          "rationale": "Surgery is reserved for severe GERD; most infants outgrow reflux."
+        },
+        {
+          "id": "d",
+          "text": "\"Reflux improves because your baby's stomach is making less acid as it grows.\"",
+          "correct": false,
+          "rationale": "Gastric acid production does not decrease with growth; reflux improves as the LES matures, posture becomes more upright, and the diet thickens."
+        }
+      ],
+      "explanation": "Physiologic infant reflux peaks around 4 months and resolves for most infants by 12-18 months. Persistent or worsening symptoms after this age should be evaluated for GERD or other causes."
+    },
+    {
+      "id": "gastroesophageal-reflux-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating teaching provided to the parent of a 4-month-old with GER. Which statement by the parent indicates the teaching was effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I will prop the bottle so my baby can feed while lying in the crib.\"",
+          "correct": false,
+          "rationale": "Bottle propping increases the risk of aspiration, ear infections, and dental caries and does not keep the infant upright."
+        },
+        {
+          "id": "b",
+          "text": "\"I will give a big bottle every 4 hours so my baby sleeps longer.\"",
+          "correct": false,
+          "rationale": "Large-volume feedings increase gastric distension and reflux."
+        },
+        {
+          "id": "c",
+          "text": "\"I will hold my baby upright after feedings and place my baby on the back to sleep.\"",
+          "correct": true,
+          "rationale": "Correct. Upright positioning while awake and supine sleep are both appropriate for infants with GER."
+        },
+        {
+          "id": "d",
+          "text": "\"I will put a wedge pillow in the crib to raise my baby's head.\"",
+          "correct": false,
+          "rationale": "Wedges and positioners are not recommended because of suffocation and SIDS risk."
+        }
+      ],
+      "explanation": "Effective teaching includes small frequent feedings, frequent burping, upright holding after feeds, and supine sleep without positioning devices, plus knowing when to call the provider (poor weight gain, blood in vomit, breathing problems, forceful vomiting)."
+    }
+  ]
+}

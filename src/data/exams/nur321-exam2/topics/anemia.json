@@ -1,0 +1,434 @@
+{
+  "slug": "anemia",
+  "title": "Iron-Deficiency Anemia",
+  "short": "Iron-Deficiency Anemia",
+  "icon": "vein",
+  "description": "Iron-deficiency anemia in infants, toddlers, and adolescents: risk factors, lab findings, signs, oral iron administration, iron-rich foods, and family teaching.",
+  "keyPoints": [
+    "Highest risk: preterm infants, toddlers drinking more than 24 oz of cow's milk a day, and adolescents (growth, menstruation, poor diet).",
+    "Labs: low Hgb and Hct, low MCV (microcytic), low ferritin and serum iron, high TIBC.",
+    "Normal Hgb: about 11-14 g/dL in toddlers; 11.5-15.5 g/dL in school-age children.",
+    "Signs: pallor, fatigue, irritability, pica, tachycardia; may look well-nourished but pale.",
+    "Give oral iron between meals with vitamin C (juice), never with milk; use a straw or syringe behind the teeth and brush afterward.",
+    "Expect dark green or black stools and possible constipation. Keep iron locked up: overdose can be fatal.",
+    "Limit milk to 16-24 oz/day; offer meats, fortified cereals, beans, and leafy greens. Continue iron for months after Hgb normalizes."
+  ],
+  "questions": [
+    {
+      "id": "anemia-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which age group is at the highest risk for iron-deficiency anemia due to excessive milk intake?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Newborns 0-4 weeks",
+          "correct": false,
+          "rationale": "Term newborns have iron stores from the mother that last about 4-6 months."
+        },
+        {
+          "id": "b",
+          "text": "Toddlers 1-3 years",
+          "correct": true,
+          "rationale": "Correct. Toddlers who drink large amounts of cow's milk fill up on milk, which is low in iron, and eat fewer iron-rich foods. Cow's milk can also cause occult GI blood loss."
+        },
+        {
+          "id": "c",
+          "text": "School-age children 6-10 years",
+          "correct": false,
+          "rationale": "School-age children are at lower risk unless their diet is very poor."
+        },
+        {
+          "id": "d",
+          "text": "Infants 4-6 months on iron-fortified formula",
+          "correct": false,
+          "rationale": "Iron-fortified formula supplies adequate iron during infancy."
+        }
+      ],
+      "explanation": "High-risk groups for iron-deficiency anemia: preterm infants (fewer stores), toddlers with excess cow's milk intake (more than 24 oz/day), and adolescents (rapid growth, menstruation, poor diet)."
+    },
+    {
+      "id": "anemia-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-year-old drinks about 40 oz of whole milk a day and is a picky eater. The hemoglobin is 9.2 g/dL. Which instruction is most important for the nurse to give the parent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Switch to skim milk so your child drinks fewer calories.\"",
+          "correct": false,
+          "rationale": "Switching milk type does not address the volume of milk displacing iron-rich foods."
+        },
+        {
+          "id": "b",
+          "text": "\"Limit milk to no more than 16-24 ounces a day and offer iron-rich foods.\"",
+          "correct": true,
+          "rationale": "Correct. Reducing milk intake encourages appetite for iron-rich foods and reduces GI blood loss linked to large amounts of cow's milk."
+        },
+        {
+          "id": "c",
+          "text": "\"Give your child more milk with each meal to boost calcium.\"",
+          "correct": false,
+          "rationale": "More milk would worsen iron deficiency; calcium also interferes with iron absorption."
+        },
+        {
+          "id": "d",
+          "text": "\"Your child will outgrow this, so no change is needed.\"",
+          "correct": false,
+          "rationale": "Iron deficiency can impair development and needs treatment."
+        }
+      ],
+      "explanation": "Toddlers should drink no more than 16-24 oz of milk daily. Offer iron-rich foods such as lean meats, fortified cereals, beans, and dark green vegetables along with vitamin C sources."
+    },
+    {
+      "id": "anemia-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which laboratory findings are consistent with iron-deficiency anemia in a 3-year-old?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Low hemoglobin, high MCV, normal ferritin",
+          "correct": false,
+          "rationale": "A high MCV suggests a macrocytic anemia such as folate or vitamin B12 deficiency."
+        },
+        {
+          "id": "b",
+          "text": "Normal hemoglobin, low platelets, high ferritin",
+          "correct": false,
+          "rationale": "This pattern does not indicate iron deficiency."
+        },
+        {
+          "id": "c",
+          "text": "High hemoglobin, high reticulocyte count, low ferritin",
+          "correct": false,
+          "rationale": "High hemoglobin is not consistent with anemia."
+        },
+        {
+          "id": "d",
+          "text": "Low hemoglobin, low MCV, low ferritin",
+          "correct": true,
+          "rationale": "Correct. Iron deficiency causes a microcytic (low MCV), hypochromic anemia with depleted iron stores (low ferritin)."
+        }
+      ],
+      "explanation": "Iron-deficiency anemia: low Hgb and Hct, low MCV (microcytic), low MCH (hypochromic), low serum iron and ferritin, and high total iron-binding capacity. Normal Hgb is about 11-14 g/dL in toddlers and 11.5-15.5 g/dL in school-age children."
+    },
+    {
+      "id": "anemia-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing an 18-month-old with severe iron-deficiency anemia. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pallor of the skin and conjunctivae",
+          "correct": true,
+          "rationale": "Decreased hemoglobin causes pallor."
+        },
+        {
+          "id": "b",
+          "text": "Irritability and fatigue",
+          "correct": true,
+          "rationale": "Reduced oxygen delivery causes tiredness and irritability."
+        },
+        {
+          "id": "c",
+          "text": "Eating dirt or ice",
+          "correct": true,
+          "rationale": "Pica is associated with iron deficiency."
+        },
+        {
+          "id": "d",
+          "text": "Jaundice",
+          "correct": false,
+          "rationale": "Jaundice occurs with hemolytic anemias such as sickle cell disease, not iron deficiency."
+        },
+        {
+          "id": "e",
+          "text": "Tachycardia",
+          "correct": true,
+          "rationale": "The heart compensates for decreased oxygen-carrying capacity by beating faster."
+        },
+        {
+          "id": "f",
+          "text": "Bradycardia",
+          "correct": false,
+          "rationale": "Anemia causes tachycardia, not bradycardia."
+        }
+      ],
+      "explanation": "Many children with mild iron deficiency look well. Severe anemia causes pallor, fatigue, irritability, pica, tachycardia, a systolic flow murmur, and developmental delays. Children may appear chubby but pale (milk babies)."
+    },
+    {
+      "id": "anemia-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is teaching the parent of a 3-year-old how to give oral liquid iron. Which instruction is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Give it with a glass of milk at mealtime to prevent stomach upset and constipation.\"",
+          "correct": false,
+          "rationale": "Milk and dairy products bind iron and decrease absorption; iron is best given between meals."
+        },
+        {
+          "id": "b",
+          "text": "\"Give it between meals with orange juice, using a syringe behind the teeth.\"",
+          "correct": true,
+          "rationale": "Correct. Iron is best absorbed on an empty stomach with vitamin C; placing it behind the teeth or using a straw prevents tooth staining."
+        },
+        {
+          "id": "c",
+          "text": "\"Mix it into your child's applesauce at dinner.\"",
+          "correct": false,
+          "rationale": "Food reduces absorption, and the child may not finish the whole serving."
+        },
+        {
+          "id": "d",
+          "text": "\"Stop the medication and call the clinic if your child's stools turn dark green or black.\"",
+          "correct": false,
+          "rationale": "Dark green or black stools are expected with iron and are not a reason to stop."
+        }
+      ],
+      "explanation": "Oral iron teaching: give between meals with vitamin C (citrus juice), not with milk, tea, or antacids; use a straw, dropper, or syringe behind the teeth and brush afterward to prevent staining; expect dark stools; manage constipation with fluids and fiber; continue therapy for about 2-3 months after Hgb normalizes to refill stores."
+    },
+    {
+      "id": "anemia-06",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "After teaching about oral iron therapy, which statements by the parent of a 4-year-old indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"My child's stools may look dark green or black.\"",
+          "correct": true,
+          "rationale": "This is an expected effect of oral iron."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll give the iron right after dinner with a glass of milk.\"",
+          "correct": false,
+          "rationale": "Milk decreases iron absorption."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll have my child brush their teeth after taking the iron.\"",
+          "correct": true,
+          "rationale": "Brushing helps prevent tooth staining from liquid iron."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll keep the iron bottle locked up, out of reach.\"",
+          "correct": true,
+          "rationale": "Iron overdose is a leading cause of poisoning deaths in young children."
+        },
+        {
+          "id": "e",
+          "text": "\"If my child gets constipated, I'll add more fruits, vegetables, and water.\"",
+          "correct": true,
+          "rationale": "Fiber and fluids help prevent constipation from iron."
+        },
+        {
+          "id": "f",
+          "text": "\"I'll stop the iron once my child looks pink again.\"",
+          "correct": false,
+          "rationale": "Therapy continues for months after hemoglobin normalizes to replenish stores."
+        }
+      ],
+      "explanation": "Iron safety and effectiveness depend on correct timing, preventing staining, managing GI effects, and safe storage. Accidental iron overdose can be fatal in young children."
+    },
+    {
+      "id": "anemia-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Which meal is the best choice to increase iron intake for a 6-year-old with iron-deficiency anemia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Macaroni and cheese with a large glass of cold milk",
+          "correct": false,
+          "rationale": "Dairy is low in iron, and calcium inhibits iron absorption."
+        },
+        {
+          "id": "b",
+          "text": "Banana and strawberry yogurt with a glass of whole milk",
+          "correct": false,
+          "rationale": "These foods are low in iron, and the calcium in yogurt and milk inhibits iron absorption."
+        },
+        {
+          "id": "c",
+          "text": "Iron-fortified cereal with strawberries and orange juice",
+          "correct": true,
+          "rationale": "Correct. Fortified cereal provides iron, and vitamin C in strawberries and orange juice increases absorption."
+        },
+        {
+          "id": "d",
+          "text": "White rice cakes with cream cheese and apple juice",
+          "correct": false,
+          "rationale": "These foods provide little iron."
+        }
+      ],
+      "explanation": "Iron-rich foods include red meat, poultry, fish, fortified cereals, beans, lentils, tofu, egg yolks, and dark leafy greens. Pairing with vitamin C increases absorption of nonheme iron."
+    },
+    {
+      "id": "anemia-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 9-month-old born at 32 weeks gestation is breastfed exclusively and is not taking iron supplements. Why is this infant at high risk for iron-deficiency anemia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preterm infants have smaller iron stores that are depleted by rapid growth.",
+          "correct": true,
+          "rationale": "Correct. Most iron is transferred in the third trimester. Preterm infants are born with smaller stores and need iron supplementation starting by 2-4 weeks of age."
+        },
+        {
+          "id": "b",
+          "text": "Breast milk contains no iron, so exclusively breastfed infants receive none.",
+          "correct": false,
+          "rationale": "Breast milk contains iron that is well absorbed, but not enough to meet the needs of preterm infants after the first months."
+        },
+        {
+          "id": "c",
+          "text": "Preterm infants cannot absorb iron from the gut until about 12 months of age.",
+          "correct": false,
+          "rationale": "Preterm infants can absorb iron; the issue is limited stores and high demand."
+        },
+        {
+          "id": "d",
+          "text": "Preterm infants lose iron through the skin.",
+          "correct": false,
+          "rationale": "Iron loss through the skin is not a significant cause."
+        }
+      ],
+      "explanation": "The AAP recommends iron supplements for preterm breastfed infants from about 1 month until 12 months, and for term exclusively breastfed infants starting at 4 months until iron-rich foods are established."
+    },
+    {
+      "id": "anemia-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 15-year-old female reports fatigue, heavy menstrual periods, and a diet of mostly chips and soda. Her hemoglobin is 9.8 g/dL. Which factors contribute to her anemia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Excessive cow's milk intake that blocks iron absorption",
+          "correct": false,
+          "rationale": "There is no evidence of excess milk intake in this adolescent."
+        },
+        {
+          "id": "b",
+          "text": "An inherited hemoglobin abnormality such as sickle cell disease",
+          "correct": false,
+          "rationale": "Nothing in the history suggests an inherited hemoglobinopathy such as sickle cell disease."
+        },
+        {
+          "id": "c",
+          "text": "Rapid growth, menstrual blood loss, and poor dietary iron intake",
+          "correct": true,
+          "rationale": "Correct. Adolescent females need more iron for growth and to replace menstrual losses, and a poor diet worsens deficiency."
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B12 malabsorption",
+          "correct": false,
+          "rationale": "B12 deficiency causes a macrocytic anemia and is uncommon in adolescents with this history."
+        }
+      ],
+      "explanation": "Adolescents, especially females, are at risk due to growth spurts, menstruation, athletic activity, and dieting or fast-food diets. Screening and nutrition teaching are important."
+    },
+    {
+      "id": "anemia-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is preparing to give liquid ferrous sulfate to a 2-year-old. Place the actions in order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Check that the dose is due between meals, at least 1 hour before a feeding"
+        },
+        {
+          "id": "b",
+          "text": "Measure the dose with an oral syringe"
+        },
+        {
+          "id": "c",
+          "text": "Place the syringe toward the back of the mouth, behind the teeth, and give slowly"
+        },
+        {
+          "id": "d",
+          "text": "Offer orange juice afterward"
+        },
+        {
+          "id": "e",
+          "text": "Wipe or brush the child's teeth"
+        }
+      ],
+      "explanation": "Timing between meals maximizes absorption. An oral syringe provides an accurate dose and keeps the liquid off the front teeth. Vitamin C aids absorption, and brushing prevents staining."
+    },
+    {
+      "id": "anemia-11",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse is evaluating the response of a 3-year-old to 1 month of oral iron therapy. Which finding best indicates the therapy is effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stools are now dark green, showing the iron is being absorbed",
+          "correct": false,
+          "rationale": "Dark stools come from unabsorbed iron; they show the iron is being taken but do not show effectiveness."
+        },
+        {
+          "id": "b",
+          "text": "The child now drinks 32 oz of milk daily and eats well",
+          "correct": false,
+          "rationale": "This intake is excessive and works against treatment."
+        },
+        {
+          "id": "c",
+          "text": "The MCV has decreased from 68 fL to 62 fL",
+          "correct": false,
+          "rationale": "A falling MCV indicates worsening microcytosis."
+        },
+        {
+          "id": "d",
+          "text": "Reticulocytes rose within 2 weeks and hemoglobin has risen 1-2 g/dL",
+          "correct": true,
+          "rationale": "Correct. Reticulocytes rise within days to 2 weeks, and hemoglobin should rise by at least 1 g/dL within a month when therapy is effective."
+        }
+      ],
+      "explanation": "Effective iron therapy produces a rise in reticulocytes within 1-2 weeks and a rise in hemoglobin within 4 weeks. Failure to respond suggests poor adherence, ongoing blood loss, or another cause of anemia."
+    },
+    {
+      "id": "anemia-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks why the provider is concerned about the toddler's anemia if the child seems fine. Which explanation is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Iron deficiency in young children can affect brain development and learning.\"",
+          "correct": true,
+          "rationale": "Correct. Iron is essential for neurologic development; deficiency in early childhood is linked to cognitive and behavioral delays."
+        },
+        {
+          "id": "b",
+          "text": "\"Anemia always leads to heart failure in toddlers if it lasts more than a few weeks.\"",
+          "correct": false,
+          "rationale": "Heart failure occurs only with very severe anemia."
+        },
+        {
+          "id": "c",
+          "text": "\"Iron deficiency that is left untreated can turn into sickle cell disease.\"",
+          "correct": false,
+          "rationale": "Sickle cell disease is genetic and unrelated to iron intake."
+        },
+        {
+          "id": "d",
+          "text": "\"Anemia is contagious to siblings.\"",
+          "correct": false,
+          "rationale": "Anemia is not contagious."
+        }
+      ],
+      "explanation": "Iron is needed for brain growth and myelination. Untreated iron deficiency in infancy and toddlerhood can cause lasting cognitive, motor, and behavioral effects, which is why screening at about 12 months is recommended."
+    }
+  ]
+}

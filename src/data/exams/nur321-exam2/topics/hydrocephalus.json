@@ -1,0 +1,428 @@
+{
+  "slug": "hydrocephalus",
+  "title": "Hydrocephalus & VP Shunts",
+  "short": "Hydrocephalus",
+  "icon": "droplet",
+  "description": "Hydrocephalus in infants and children: causes and types, link with myelomeningocele, head circumference monitoring, signs of increased ICP, ventriculoperitoneal shunt care, shunt malfunction and infection, and family teaching.",
+  "keyPoints": [
+    "Hydrocephalus is an imbalance between CSF production and absorption (or obstruction of flow) that enlarges the ventricles and raises ICP.",
+    "Noncommunicating (obstructive): CSF flow is blocked within the ventricular system, such as aqueductal stenosis. Communicating: CSF flows out of the ventricles but is not absorbed in the subarachnoid space. Strongly associated with myelomeningocele (Chiari II malformation).",
+    "Infant signs: rapidly increasing head circumference (measure at the widest point, above the eyebrows and around the occiput, daily or as ordered), bulging fontanel, separated sutures, distended scalp veins, sunset eyes, high-pitched cry, irritability, poor feeding, vomiting. Older children: headache, vomiting, lethargy, behavior or school changes.",
+    "Treatment: ventriculoperitoneal (VP) shunt drains CSF from the ventricle to the peritoneum. Endoscopic third ventriculostomy is an option for some obstructive cases.",
+    "Post-op: position flat or as ordered (often on the unoperated side) to avoid too-rapid CSF drainage; do not lie on the valve; do NOT pump the shunt without a provider order; monitor neuro status, head circumference, and the abdomen.",
+    "Shunt malfunction (obstruction) = signs of increased ICP: irritability, vomiting, headache, lethargy, bulging fontanel, change in LOC. Shunt infection = fever, redness or swelling along the shunt tract, poor feeding, abdominal pain. Peritonitis = abdominal distension, tenderness, fever.",
+    "Shunts need revisions as the child grows and when they obstruct or become infected. Teach families signs of malfunction and infection and when to seek care immediately."
+  ],
+  "questions": [
+    {
+      "id": "hydrocephalus-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is teaching a parent about hydrocephalus. Which congenital condition is most commonly associated with hydrocephalus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cleft lip",
+          "correct": false,
+          "rationale": "Cleft lip is not associated with hydrocephalus."
+        },
+        {
+          "id": "b",
+          "text": "Hip dysplasia",
+          "correct": false,
+          "rationale": "Developmental dysplasia of the hip is not associated with hydrocephalus."
+        },
+        {
+          "id": "c",
+          "text": "Hypospadias",
+          "correct": false,
+          "rationale": "Hypospadias is a genitourinary defect unrelated to hydrocephalus."
+        },
+        {
+          "id": "d",
+          "text": "Myelomeningocele",
+          "correct": true,
+          "rationale": "Correct. Most children with myelomeningocele develop hydrocephalus, often related to the Chiari II malformation obstructing CSF flow."
+        }
+      ],
+      "explanation": "Hydrocephalus is strongly associated with myelomeningocele. Infants with myelomeningocele have daily head circumference measurements and are monitored for signs of increased ICP, especially after the back is closed."
+    },
+    {
+      "id": "hydrocephalus-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a newborn with aqueductal stenosis asks what type of hydrocephalus the baby has. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Noncommunicating, because the flow of fluid is blocked within the ventricles",
+          "correct": true,
+          "rationale": "Correct. Aqueductal stenosis obstructs CSF flow within the ventricular system, causing noncommunicating (obstructive) hydrocephalus."
+        },
+        {
+          "id": "b",
+          "text": "Communicating, because the fluid is not absorbed in the space around the brain",
+          "correct": false,
+          "rationale": "Communicating hydrocephalus involves impaired absorption after CSF leaves the ventricles, not blockage within them."
+        },
+        {
+          "id": "c",
+          "text": "Normal-pressure hydrocephalus, which is common in newborns",
+          "correct": false,
+          "rationale": "Normal-pressure hydrocephalus is a disorder of older adults."
+        },
+        {
+          "id": "d",
+          "text": "Hydrocephalus caused by too much fluid production",
+          "correct": false,
+          "rationale": "Overproduction (for example, from a choroid plexus papilloma) is rare and not caused by aqueductal stenosis."
+        }
+      ],
+      "explanation": "Hydrocephalus can result from obstruction (noncommunicating), impaired absorption (communicating), or rarely CSF overproduction. Aqueductal stenosis is the most common cause of congenital obstructive hydrocephalus."
+    },
+    {
+      "id": "hydrocephalus-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is measuring the head circumference of a 2-month-old with suspected hydrocephalus. Which technique is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the tape around the head just above the ears and below the occiput at the nape",
+          "correct": false,
+          "rationale": "This misses the widest part of the head and underestimates the circumference."
+        },
+        {
+          "id": "b",
+          "text": "Place the tape just above the eyebrows and around the most prominent part of the occiput",
+          "correct": true,
+          "rationale": "Correct. This measures the widest occipitofrontal circumference; measurements are taken at the same place and time and plotted on a growth chart."
+        },
+        {
+          "id": "c",
+          "text": "Measure from the bridge of the nose over the top of the head to the back of the neck",
+          "correct": false,
+          "rationale": "This measures an arc over the head, not the occipitofrontal circumference."
+        },
+        {
+          "id": "d",
+          "text": "Measure only when the infant is crying so the fontanel shows the maximum size",
+          "correct": false,
+          "rationale": "Crying distorts the fontanel and does not change skull size; measurements are taken when the infant is calm."
+        }
+      ],
+      "explanation": "Head circumference (occipitofrontal circumference) is measured at the widest point and plotted over time. A rapid increase or crossing of percentile lines suggests hydrocephalus."
+    },
+    {
+      "id": "hydrocephalus-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 4-month-old has a VP shunt placed 3 months ago. The parent calls the clinic. Which findings suggest shunt malfunction? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vomiting and poor feeding",
+          "correct": true,
+          "rationale": "Correct. Vomiting and poor feeding are signs of increased ICP from shunt obstruction."
+        },
+        {
+          "id": "b",
+          "text": "Bulging, tense anterior fontanel",
+          "correct": true,
+          "rationale": "Correct. A bulging fontanel indicates increased ICP."
+        },
+        {
+          "id": "c",
+          "text": "Irritability and high-pitched cry",
+          "correct": true,
+          "rationale": "Correct. These are signs of increased ICP in infants."
+        },
+        {
+          "id": "d",
+          "text": "Soft, flat anterior fontanel",
+          "correct": false,
+          "rationale": "A soft, flat fontanel is a normal finding."
+        },
+        {
+          "id": "e",
+          "text": "Increased sleepiness and difficulty waking",
+          "correct": true,
+          "rationale": "Correct. Lethargy and decreased LOC indicate increased ICP."
+        },
+        {
+          "id": "f",
+          "text": "Babbling and smiling at the parent",
+          "correct": false,
+          "rationale": "Age-appropriate social behavior is reassuring."
+        }
+      ],
+      "explanation": "Shunt malfunction presents as signs of increased ICP: irritability, vomiting, poor feeding, lethargy, bulging fontanel, increasing head circumference, sunset eyes, and seizures. Parents need to seek care immediately."
+    },
+    {
+      "id": "hydrocephalus-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-year-old had a VP shunt revision 5 days ago. Temperature is 39°C (102.2°F), and the nurse notes redness and swelling along the shunt tract on the neck. What does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shunt obstruction",
+          "correct": false,
+          "rationale": "Obstruction causes signs of increased ICP, but fever and redness along the tract point to infection."
+        },
+        {
+          "id": "b",
+          "text": "Expected postoperative inflammation",
+          "correct": false,
+          "rationale": "Fever and spreading redness along the tract 5 days after surgery are not expected."
+        },
+        {
+          "id": "c",
+          "text": "Shunt infection",
+          "correct": true,
+          "rationale": "Correct. Fever with redness, tenderness, or swelling along the shunt tract indicates infection, most common within the first few months after placement."
+        },
+        {
+          "id": "d",
+          "text": "Allergic reaction to the shunt material",
+          "correct": false,
+          "rationale": "Allergic reactions to shunt material are rare and do not typically cause high fever."
+        }
+      ],
+      "explanation": "Shunt infection is a serious complication, usually caused by skin flora such as Staphylococcus. Signs include fever, redness or drainage along the tract, poor feeding, irritability, and abdominal pain. Treatment includes IV antibiotics and often shunt removal or externalization."
+    },
+    {
+      "id": "hydrocephalus-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 3-month-old returns from surgery after VP shunt placement. Which position is most appropriate unless otherwise ordered?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prone with the head turned toward the shunt side to protect the airway",
+          "correct": false,
+          "rationale": "Lying on the shunt valve puts pressure on it and the incision."
+        },
+        {
+          "id": "b",
+          "text": "High Fowler position immediately to promote CSF drainage",
+          "correct": false,
+          "rationale": "Elevating the head too soon can cause CSF to drain too rapidly, risking subdural hematoma."
+        },
+        {
+          "id": "c",
+          "text": "Lying on the operated side to promote drainage",
+          "correct": false,
+          "rationale": "Lying on the operated side puts pressure on the valve and incision."
+        },
+        {
+          "id": "d",
+          "text": "Flat on the unoperated side, with gradual elevation as prescribed",
+          "correct": true,
+          "rationale": "Correct. The infant is usually positioned flat and on the unoperated side to prevent rapid CSF drainage and pressure on the valve; the HOB is raised gradually per orders."
+        }
+      ],
+      "explanation": "Positioning after shunt placement follows surgeon orders. Infants usually lie flat on the unoperated side initially to avoid rapid ventricular decompression; the HOB is raised gradually. If ICP is elevated, the HOB may be raised as ordered."
+    },
+    {
+      "id": "hydrocephalus-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent asks whether to press on the shunt pump under the baby's scalp to \"make sure it works.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do not pump the shunt unless the neurosurgeon tells you to.",
+          "correct": true,
+          "rationale": "Correct. Shunts are pumped only when ordered by the provider."
+        },
+        {
+          "id": "b",
+          "text": "Yes, pump it several times every day to keep the tubing clear.",
+          "correct": false,
+          "rationale": "Routine pumping without an order can damage the shunt or cause overdrainage."
+        },
+        {
+          "id": "c",
+          "text": "Pump it only if the baby has a fever or seems unusually fussy.",
+          "correct": false,
+          "rationale": "Fever or fussiness may signal shunt infection or malfunction, which requires medical evaluation, not pumping."
+        },
+        {
+          "id": "d",
+          "text": "Pump it whenever the baby cries.",
+          "correct": false,
+          "rationale": "Crying is not an indication for pumping."
+        }
+      ],
+      "explanation": "Families are taught not to pump the shunt unless directed. They learn signs of malfunction and infection and when to call the provider."
+    },
+    {
+      "id": "hydrocephalus-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is preparing to discharge a 6-month-old with a new VP shunt. Place the teaching steps in a logical order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess the parents' current understanding of hydrocephalus and the shunt"
+        },
+        {
+          "id": "b",
+          "text": "Explain how the shunt drains fluid from the brain to the abdomen"
+        },
+        {
+          "id": "c",
+          "text": "Teach the signs of shunt malfunction and infection and when to seek immediate care"
+        },
+        {
+          "id": "d",
+          "text": "Demonstrate measuring head circumference and incision care"
+        },
+        {
+          "id": "e",
+          "text": "Have the parents teach back and return-demonstrate the skills"
+        }
+      ],
+      "explanation": "Effective teaching starts with assessing baseline knowledge, then explaining the shunt, teaching warning signs, demonstrating skills, and confirming understanding with teach-back and return demonstration."
+    },
+    {
+      "id": "hydrocephalus-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 10-year-old with a VP shunt reports abdominal pain. Temperature is 38.8°C (101.8°F), the abdomen is distended and tender with guarding, and bowel sounds are hypoactive. Which complication should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constipation from inactivity",
+          "correct": false,
+          "rationale": "Constipation does not usually cause high fever and guarding."
+        },
+        {
+          "id": "b",
+          "text": "Peritonitis related to the shunt",
+          "correct": true,
+          "rationale": "Correct. The distal catheter drains into the peritoneum; infection there can cause peritonitis with fever, distension, tenderness, guarding, and decreased bowel sounds."
+        },
+        {
+          "id": "c",
+          "text": "Shunt obstruction",
+          "correct": false,
+          "rationale": "Obstruction causes signs of increased ICP rather than localized abdominal findings with fever."
+        },
+        {
+          "id": "d",
+          "text": "Expected discomfort from shunt growth",
+          "correct": false,
+          "rationale": "Shunts do not grow, and fever with guarding is not expected."
+        }
+      ],
+      "explanation": "VP shunt complications include obstruction, infection, peritonitis, abdominal pseudocyst, and bowel perforation. Abdominal findings with fever need prompt evaluation."
+    },
+    {
+      "id": "hydrocephalus-10",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 3-year-old with a VP shunt asks why the child may need more surgery. Which explanation is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The shunt will need to be replaced every year as part of routine care.",
+          "correct": false,
+          "rationale": "Shunts are not replaced on a fixed schedule; revisions are based on need."
+        },
+        {
+          "id": "b",
+          "text": "Shunts usually dissolve over time and must be replaced with a new one.",
+          "correct": false,
+          "rationale": "Shunts do not dissolve."
+        },
+        {
+          "id": "c",
+          "text": "The tubing may need lengthening with growth, or it may block or become infected.",
+          "correct": true,
+          "rationale": "Correct. Revisions are needed for growth, obstruction, and infection."
+        },
+        {
+          "id": "d",
+          "text": "Surgery will be needed only if the child develops a seizure disorder.",
+          "correct": false,
+          "rationale": "Revisions are needed for obstruction, infection, or growth, not seizures."
+        }
+      ],
+      "explanation": "Shunt revisions are common because of growth, mechanical obstruction, disconnection, or infection. Families need lifelong awareness of malfunction signs."
+    },
+    {
+      "id": "hydrocephalus-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a 2-month-old with hydrocephalus awaiting shunt placement. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measure head circumference daily at the same time and location",
+          "correct": true,
+          "rationale": "Correct. Daily measurements detect rapid head growth."
+        },
+        {
+          "id": "b",
+          "text": "Support the infant's head and neck when lifting or holding",
+          "correct": true,
+          "rationale": "Correct. The enlarged head is heavy; supporting the head prevents neck strain and injury."
+        },
+        {
+          "id": "c",
+          "text": "Reposition the infant frequently and use a pressure-relieving mattress",
+          "correct": true,
+          "rationale": "Correct. The heavy head is at risk for pressure injury."
+        },
+        {
+          "id": "d",
+          "text": "Feed the infant large volumes quickly to promote weight gain",
+          "correct": false,
+          "rationale": "Infants with increased ICP are prone to vomiting; small, frequent feedings are better."
+        },
+        {
+          "id": "e",
+          "text": "Monitor for irritability, vomiting, and changes in fontanel tension",
+          "correct": true,
+          "rationale": "Correct. These are signs of increasing ICP."
+        }
+      ],
+      "explanation": "Preoperative care focuses on monitoring for increased ICP, protecting the head and skin, supporting feeding with small, frequent meals, and supporting the family."
+    },
+    {
+      "id": "hydrocephalus-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse is evaluating discharge teaching for the parents of an infant with a new VP shunt. Which statement shows a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We will call the neurosurgeon if she has a fever or redness along the tubing.",
+          "correct": false,
+          "rationale": "Correct understanding of shunt infection signs."
+        },
+        {
+          "id": "b",
+          "text": "If she vomits and is very sleepy, we will wait a day to see if she gets better.",
+          "correct": true,
+          "rationale": "Correct (needs teaching). Vomiting and lethargy suggest shunt malfunction and need immediate evaluation, not waiting."
+        },
+        {
+          "id": "c",
+          "text": "We will measure her head circumference as the nurse showed us.",
+          "correct": false,
+          "rationale": "Correct understanding of monitoring."
+        },
+        {
+          "id": "d",
+          "text": "We will not press on the shunt unless the doctor tells us to.",
+          "correct": false,
+          "rationale": "Correct understanding; pumping is done only on order."
+        }
+      ],
+      "explanation": "Parents must recognize shunt malfunction (increased ICP signs) and infection and seek care immediately. Waiting can lead to serious neurologic harm."
+    }
+  ]
+}

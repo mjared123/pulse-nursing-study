@@ -1,0 +1,506 @@
+{
+  "slug": "rheumatic-fever",
+  "title": "Rheumatic Fever",
+  "short": "Rheumatic Fever",
+  "icon": "flame",
+  "description": "Acute rheumatic fever after group A strep pharyngitis: Jones criteria, ASO titer, carditis care, anti-inflammatory therapy, Sydenham chorea, and long-term penicillin prophylaxis.",
+  "keyPoints": [
+    "Rheumatic fever is an autoimmune reaction 2-6 weeks after untreated group A beta-hemolytic strep pharyngitis; most common at ages 5-15.",
+    "Major Jones criteria: carditis, polyarthritis (migratory, large joints), Sydenham chorea, erythema marginatum, subcutaneous nodules.",
+    "Minor criteria: fever, arthralgia, elevated ESR or CRP, prolonged PR interval. Need evidence of strep (elevated ASO titer) plus 2 major, or 1 major + 2 minor.",
+    "Carditis is the only manifestation that causes permanent damage, usually to the mitral valve (rheumatic heart disease).",
+    "Treat strep with penicillin; give aspirin or NSAIDs for arthritis; bed rest or limited activity during acute carditis.",
+    "Secondary prophylaxis: benzathine penicillin G IM every 4 weeks for years (with carditis: at least 10 years or until age 21).",
+    "Prevention starts with completing the full 10-day antibiotic course for strep throat."
+  ],
+  "questions": [
+    {
+      "id": "rheumatic-fever-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Acute rheumatic fever is a complication of an untreated or incompletely treated infection with which organism?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methicillin-resistant Staphylococcus aureus",
+          "correct": false,
+          "rationale": "MRSA causes skin and soft-tissue infections and acute bacterial endocarditis, not rheumatic fever."
+        },
+        {
+          "id": "b",
+          "text": "Respiratory syncytial virus",
+          "correct": false,
+          "rationale": "RSV causes bronchiolitis in infants and is not linked to rheumatic fever."
+        },
+        {
+          "id": "c",
+          "text": "Epstein-Barr virus (infectious mononucleosis)",
+          "correct": false,
+          "rationale": "EBV causes infectious mononucleosis, which can mimic strep pharyngitis but does not cause rheumatic fever."
+        },
+        {
+          "id": "d",
+          "text": "Group A beta-hemolytic streptococcus",
+          "correct": true,
+          "rationale": "Correct. Rheumatic fever is an autoimmune reaction that follows group A streptococcal pharyngitis, usually 2-6 weeks after the sore throat."
+        }
+      ],
+      "explanation": "Rheumatic fever is an inflammatory, autoimmune disease that develops after group A beta-hemolytic streptococcal (GAS) pharyngitis. Antibodies cross-react with tissue in the heart, joints, skin, and brain. It is most common in children 5-15 years old."
+    },
+    {
+      "id": "rheumatic-fever-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A parent asks why the provider insists on a full 10-day course of antibiotics for the child's strep throat even though the child feels better after 2 days. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Finishing the full course clears the strep bacteria and helps prevent complications such as rheumatic fever.\"",
+          "correct": true,
+          "rationale": "Correct. Complete eradication of GAS within about 9 days of symptom onset prevents rheumatic fever; stopping early allows the organism to persist."
+        },
+        {
+          "id": "b",
+          "text": "\"The antibiotic is needed for 10 days because the throat tissue needs that long to heal, even after the pain is gone.\"",
+          "correct": false,
+          "rationale": "Throat tissue healing is not the reason; the full course is needed to eradicate the bacteria and prevent complications."
+        },
+        {
+          "id": "c",
+          "text": "\"Stopping early will make your child allergic to penicillin.\"",
+          "correct": false,
+          "rationale": "Stopping antibiotics early does not cause an allergy."
+        },
+        {
+          "id": "d",
+          "text": "\"It is only necessary if your child still has a fever; once the fever is gone, the infection has cleared.\"",
+          "correct": false,
+          "rationale": "Resolution of fever does not mean the bacteria are eradicated; the full course is needed even when the fever and sore throat have resolved."
+        }
+      ],
+      "explanation": "Primary prevention of rheumatic fever is prompt diagnosis and complete treatment of GAS pharyngitis, usually with a 10-day course of oral penicillin V or amoxicillin, or a single IM dose of benzathine penicillin G."
+    },
+    {
+      "id": "rheumatic-fever-03",
+      "type": "sata",
+      "bloom": "remember",
+      "stem": "A nurse is reviewing the revised Jones criteria. Which findings are major criteria for acute rheumatic fever? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carditis",
+          "correct": true,
+          "rationale": "Carditis is a major criterion and the most serious manifestation because it can cause permanent valve damage."
+        },
+        {
+          "id": "b",
+          "text": "Polyarthritis",
+          "correct": true,
+          "rationale": "Migratory polyarthritis of the large joints is a major criterion."
+        },
+        {
+          "id": "c",
+          "text": "Prolonged PR interval",
+          "correct": false,
+          "rationale": "A prolonged PR interval is a minor criterion."
+        },
+        {
+          "id": "d",
+          "text": "Sydenham chorea",
+          "correct": true,
+          "rationale": "Chorea (involuntary, purposeless movements) is a major criterion."
+        },
+        {
+          "id": "e",
+          "text": "Fever",
+          "correct": false,
+          "rationale": "Fever is a minor criterion."
+        },
+        {
+          "id": "f",
+          "text": "Erythema marginatum",
+          "correct": true,
+          "rationale": "Erythema marginatum, a nonpruritic rash with red margins and clear centers on the trunk, is a major criterion."
+        }
+      ],
+      "explanation": "Major Jones criteria: carditis, polyarthritis, chorea, erythema marginatum, and subcutaneous nodules. Minor: fever, arthralgia, elevated ESR or CRP, and prolonged PR interval. Diagnosis requires evidence of a recent GAS infection plus 2 major, or 1 major and 2 minor criteria."
+    },
+    {
+      "id": "rheumatic-fever-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 9-year-old had a sore throat 3 weeks ago that was not treated. Now the child has a temperature of 38.6°C (101.5°F), red, swollen knees one day and a painful, swollen elbow the next, and an ESR of 68 mm/hr. Which laboratory test best confirms the link to a recent streptococcal infection?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Complete blood count with differential",
+          "correct": false,
+          "rationale": "A CBC with differential may show leukocytosis but does not identify a recent strep infection."
+        },
+        {
+          "id": "b",
+          "text": "Antistreptolysin O (ASO) titer",
+          "correct": true,
+          "rationale": "Correct. An elevated or rising ASO titer shows a recent GAS infection, which is required to diagnose rheumatic fever."
+        },
+        {
+          "id": "c",
+          "text": "Blood cultures drawn from two sites",
+          "correct": false,
+          "rationale": "Rheumatic fever is an immune reaction, not a bacteremia; blood cultures are typically negative."
+        },
+        {
+          "id": "d",
+          "text": "Rheumatoid factor",
+          "correct": false,
+          "rationale": "Rheumatoid factor is used in evaluating some forms of arthritis but does not confirm a strep infection."
+        }
+      ],
+      "explanation": "Evidence of preceding GAS infection is shown by an elevated or rising ASO titer (or anti-DNase B), a positive throat culture, or a positive rapid strep test. ESR and CRP are elevated as markers of inflammation."
+    },
+    {
+      "id": "rheumatic-fever-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 10-year-old is admitted with acute rheumatic fever and carditis. The heart rate is 128/min at rest and a new murmur is present. Which nursing intervention is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encourage active range-of-motion exercises of all joints every 2 hours.",
+          "correct": false,
+          "rationale": "Exercise increases cardiac workload; joints are inflamed and painful and should be supported and rested."
+        },
+        {
+          "id": "b",
+          "text": "Plan quiet activities and maintain bed rest during the acute phase of carditis.",
+          "correct": true,
+          "rationale": "Correct. Rest reduces cardiac workload while the heart is inflamed. Quiet diversion such as reading, puzzles, or video games helps the child cope."
+        },
+        {
+          "id": "c",
+          "text": "Apply warm, heavy compresses to the joints.",
+          "correct": false,
+          "rationale": "Inflamed joints are very tender; heavy compresses increase pain. Light bed linen or a bed cradle is preferred."
+        },
+        {
+          "id": "d",
+          "text": "Restrict oral fluids to 500 mL/day.",
+          "correct": false,
+          "rationale": "Fluid restriction is not a routine priority unless heart failure is present and prescribed."
+        }
+      ],
+      "explanation": "During acute carditis, bed rest or limited activity is maintained until inflammation subsides (falling ESR and CRP, normal heart rate). Monitor pulse at rest, signs of heart failure, and changes in murmur."
+    },
+    {
+      "id": "rheumatic-fever-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 12-year-old with rheumatic fever is prescribed high-dose aspirin for polyarthritis. Which finding should the nurse report as a possible sign of salicylate toxicity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringing in the ears and rapid deep breathing",
+          "correct": true,
+          "rationale": "Correct. Tinnitus, nausea, vomiting, and hyperventilation are signs of salicylate toxicity and should be reported."
+        },
+        {
+          "id": "b",
+          "text": "Decreased joint swelling and improved mobility",
+          "correct": false,
+          "rationale": "Decreased swelling and improved mobility are the expected therapeutic response to anti-inflammatory therapy."
+        },
+        {
+          "id": "c",
+          "text": "Temperature of 37.2°C (99°F)",
+          "correct": false,
+          "rationale": "A near-normal temperature indicates improvement, not toxicity."
+        },
+        {
+          "id": "d",
+          "text": "Improved sleep and less need for repositioning at night",
+          "correct": false,
+          "rationale": "Better sleep and less need for repositioning reflect improved comfort, not toxicity."
+        }
+      ],
+      "explanation": "Aspirin or other NSAIDs (such as naproxen) treat the arthritis and fever of rheumatic fever; corticosteroids may be used for severe carditis. Monitor for tinnitus, GI bleeding, and toxicity, and teach about the risk of Reye syndrome if the child is exposed to influenza or varicella."
+    },
+    {
+      "id": "rheumatic-fever-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is caring for an 8-year-old with rheumatic fever. The child's parent reports that the child has become clumsy, drops cups, makes faces, and cries easily. Handwriting has become sloppy. Which manifestation does this describe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Febrile seizures",
+          "correct": false,
+          "rationale": "Seizures are episodic with loss of consciousness or tone changes; the child's continuous movements and emotional lability do not match."
+        },
+        {
+          "id": "b",
+          "text": "Side effects of penicillin",
+          "correct": false,
+          "rationale": "Penicillin does not cause involuntary movements or emotional lability."
+        },
+        {
+          "id": "c",
+          "text": "Sydenham chorea",
+          "correct": true,
+          "rationale": "Correct. Chorea causes sudden, purposeless, involuntary movements, facial grimacing, clumsiness, worsening handwriting, and emotional lability. It worsens with stress and resolves over weeks to months."
+        },
+        {
+          "id": "d",
+          "text": "Attention-deficit/hyperactivity disorder",
+          "correct": false,
+          "rationale": "ADHD does not develop suddenly after a strep infection and does not cause involuntary grimacing."
+        }
+      ],
+      "explanation": "Sydenham chorea may appear months after the strep infection. Nursing care: safety (padded side rails, help with eating and writing), a calm environment, reassurance that it is temporary and not intentional, and support for the child's self-esteem."
+    },
+    {
+      "id": "rheumatic-fever-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is planning care for a 9-year-old with rheumatic fever who has Sydenham chorea. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assist with feeding and provide utensils that are easy to grip",
+          "correct": true,
+          "rationale": "Involuntary movements make eating difficult; assistance and adapted utensils promote nutrition and independence."
+        },
+        {
+          "id": "b",
+          "text": "Pad the side rails and keep the environment free of hazards",
+          "correct": true,
+          "rationale": "Uncontrolled movements increase the risk of injury."
+        },
+        {
+          "id": "c",
+          "text": "Tell the child to try harder to control the movements",
+          "correct": false,
+          "rationale": "The movements are involuntary; this statement increases frustration and damages self-esteem."
+        },
+        {
+          "id": "d",
+          "text": "Explain to the family that the movements are temporary",
+          "correct": true,
+          "rationale": "Chorea usually resolves completely over weeks to months; reassurance reduces family anxiety."
+        },
+        {
+          "id": "e",
+          "text": "Keep the room busy and stimulating to distract the child",
+          "correct": false,
+          "rationale": "Stress and stimulation worsen chorea; a calm, quiet environment is preferred."
+        }
+      ],
+      "explanation": "Care for chorea focuses on safety, assistance with activities of daily living, emotional support, and a calm environment. Reassure the child and family that it is not intentional and will resolve."
+    },
+    {
+      "id": "rheumatic-fever-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 11-year-old is being discharged after an episode of rheumatic fever with carditis. Which prescription should the nurse expect for long-term secondary prevention?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oral amoxicillin only when the child has a sore throat",
+          "correct": false,
+          "rationale": "Treating only when symptoms appear does not prevent recurrence; continuous prophylaxis is required."
+        },
+        {
+          "id": "b",
+          "text": "Daily low-dose aspirin for 2 years",
+          "correct": false,
+          "rationale": "Aspirin treats inflammation during the acute illness; it does not prevent recurrent strep infection."
+        },
+        {
+          "id": "c",
+          "text": "Daily oral prednisone until adulthood",
+          "correct": false,
+          "rationale": "Corticosteroids are used short term for severe carditis, not for long-term prevention."
+        },
+        {
+          "id": "d",
+          "text": "Benzathine penicillin G IM every 4 weeks for many years",
+          "correct": true,
+          "rationale": "Correct. Continuous antibiotic prophylaxis prevents recurrent GAS infection. With carditis, prophylaxis continues for 10 years or until age 21 (longer if valve disease persists), whichever is longer."
+        }
+      ],
+      "explanation": "Secondary prophylaxis: benzathine penicillin G IM every 4 weeks (or daily oral penicillin V twice a day). Duration: no carditis, 5 years or until 21; carditis without residual valve disease, 10 years or until 21; carditis with residual valve disease, 10 years or until 40, sometimes lifelong."
+    },
+    {
+      "id": "rheumatic-fever-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 13-year-old is receiving the first IM dose of benzathine penicillin G for rheumatic fever prophylaxis. Place the nurse's actions in order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Ask the adolescent and parent about any previous reactions to penicillin"
+        },
+        {
+          "id": "b",
+          "text": "Explain the procedure honestly and offer a choice of injection site to give some control"
+        },
+        {
+          "id": "c",
+          "text": "Administer the medication slowly, deep IM, into a large muscle such as the ventrogluteal site"
+        },
+        {
+          "id": "d",
+          "text": "Observe the adolescent for at least 30 minutes for signs of an allergic reaction"
+        },
+        {
+          "id": "e",
+          "text": "Schedule the next injection in 4 weeks and reinforce the importance of every dose"
+        }
+      ],
+      "explanation": "Always confirm allergy history before penicillin. Give adolescents honest preparation and choices to support autonomy. Benzathine penicillin is thick and painful, so it is given slowly and deep IM. Monitor for anaphylaxis and stress adherence to monthly injections."
+    },
+    {
+      "id": "rheumatic-fever-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a 10-year-old with rheumatic fever and carditis. Which finding requires immediate follow-up?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Erythema marginatum on the trunk",
+          "correct": false,
+          "rationale": "This painless rash is an expected manifestation that fades without treatment."
+        },
+        {
+          "id": "b",
+          "text": "Painful knee that was swollen yesterday but is improving today",
+          "correct": false,
+          "rationale": "Migratory polyarthritis moves from joint to joint and resolves without permanent damage; it is expected."
+        },
+        {
+          "id": "c",
+          "text": "New gallop rhythm, crackles in both lung bases, and periorbital edema",
+          "correct": true,
+          "rationale": "Correct. These findings suggest worsening carditis with heart failure and need prompt intervention."
+        },
+        {
+          "id": "d",
+          "text": "Small, painless nodules over the elbows",
+          "correct": false,
+          "rationale": "Subcutaneous nodules are an expected, harmless manifestation."
+        }
+      ],
+      "explanation": "Carditis is the only manifestation of rheumatic fever that can cause permanent damage, most often to the mitral valve. Watch for tachycardia out of proportion to fever, new murmurs, pericardial friction rub, and signs of heart failure."
+    },
+    {
+      "id": "rheumatic-fever-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement best describes the long-term risk of acute rheumatic fever?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polyarthritis often leads to permanent joint deformity in the large weight-bearing joints.",
+          "correct": false,
+          "rationale": "The arthritis of rheumatic fever is migratory and resolves without permanent joint damage, including in the large joints."
+        },
+        {
+          "id": "b",
+          "text": "Carditis can cause rheumatic heart disease, usually of the mitral valve.",
+          "correct": true,
+          "rationale": "Correct. Repeated or severe inflammation scars the valves, especially the mitral and then the aortic valve, causing stenosis or regurgitation."
+        },
+        {
+          "id": "c",
+          "text": "Sydenham chorea usually causes permanent neurologic disability.",
+          "correct": false,
+          "rationale": "Chorea typically resolves completely within months."
+        },
+        {
+          "id": "d",
+          "text": "One episode gives lifelong immunity, so later strep infections pose no further risk.",
+          "correct": false,
+          "rationale": "Recurrence is common after another GAS infection, which is why long-term prophylaxis is needed."
+        }
+      ],
+      "explanation": "Rheumatic heart disease is the main long-term complication. Each recurrence adds valve damage, so preventing future strep infections with prophylaxis is essential."
+    },
+    {
+      "id": "rheumatic-fever-13",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A nurse provides discharge teaching to the parents of a 10-year-old recovering from rheumatic fever with carditis. Which statements indicate correct understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We'll make sure our child gets the penicillin shot every 4 weeks, even when feeling well.\"",
+          "correct": true,
+          "rationale": "Adherence to monthly prophylaxis prevents recurrence and further valve damage."
+        },
+        {
+          "id": "b",
+          "text": "\"Once the joint pain is gone, the medicine can stop.\"",
+          "correct": false,
+          "rationale": "Prophylaxis continues for years regardless of symptoms."
+        },
+        {
+          "id": "c",
+          "text": "\"We'll tell the dentist and other providers that our child had rheumatic fever.\"",
+          "correct": true,
+          "rationale": "Providers need to know the history to evaluate valve disease and prophylaxis needs."
+        },
+        {
+          "id": "d",
+          "text": "\"Our child should still get a flu shot every year while taking aspirin.\"",
+          "correct": true,
+          "rationale": "Annual influenza vaccination reduces the risk of Reye syndrome while on aspirin; inactivated vaccine is safe."
+        },
+        {
+          "id": "e",
+          "text": "\"We'll have family members with sore throats tested for strep.\"",
+          "correct": true,
+          "rationale": "Treating strep in close contacts reduces the child's exposure to GAS."
+        },
+        {
+          "id": "f",
+          "text": "\"Our child will never be able to play sports again.\"",
+          "correct": false,
+          "rationale": "Activity resumes gradually as inflammation resolves; restrictions depend on residual heart disease, as advised by the cardiologist."
+        }
+      ],
+      "explanation": "Discharge teaching: adherence to prophylaxis, informing providers of the history, good oral hygiene, annual influenza vaccine (aspirin and Reye syndrome), gradual return to activity, and follow-up with cardiology."
+    },
+    {
+      "id": "rheumatic-fever-14",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A 7-year-old is admitted with suspected rheumatic fever. Which set of findings meets the Jones criteria for diagnosis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Positive rapid strep test 3 weeks ago, fever, and arthralgia",
+          "correct": false,
+          "rationale": "Fever and arthralgia are both minor criteria; at least one major criterion is needed along with them."
+        },
+        {
+          "id": "b",
+          "text": "Elevated ASO titer, fever, elevated CRP, and erythema marginatum",
+          "correct": true,
+          "rationale": "Correct. Evidence of recent GAS infection plus 1 major (erythema marginatum) and 2 minor criteria (fever, elevated CRP) meets the diagnosis."
+        },
+        {
+          "id": "c",
+          "text": "Fever, elevated ESR, and prolonged PR interval with a negative ASO titer",
+          "correct": false,
+          "rationale": "These are all minor criteria, and there is no evidence of a preceding strep infection."
+        },
+        {
+          "id": "d",
+          "text": "Polyarthritis and arthralgia",
+          "correct": false,
+          "rationale": "Arthralgia cannot be counted as a minor criterion when polyarthritis is counted as major, and evidence of strep infection is missing."
+        }
+      ],
+      "explanation": "Jones criteria require evidence of a preceding GAS infection plus either 2 major criteria or 1 major and 2 minor criteria. A symptom cannot count as both major and minor (for example, arthritis and arthralgia)."
+    }
+  ]
+}
