@@ -1,0 +1,368 @@
+{
+  "slug": "vsd",
+  "title": "Ventricular Septal Defect",
+  "short": "VSD",
+  "icon": "septum",
+  "description": "Congenital and post-MI ventricular septal defects: left-to-right shunting, murmur, Eisenmenger syndrome, cardiogenic shock, emergency repair, and endocarditis prevention.",
+  "keyPoints": [
+    "A VSD is an opening in the interventricular septum; higher left-sided pressure drives a left-to-right (acyanotic) shunt that increases pulmonary blood flow.",
+    "Murmur: harsh holosystolic murmur at the left lower sternal border, often with a palpable thrill.",
+    "Post-MI ventricular septal rupture usually occurs within the first week after MI (often days 3-5) and causes sudden heart failure and cardiogenic shock.",
+    "Oxygen saturation step-up from the right atrium to the pulmonary artery on a PA catheter confirms a left-to-right shunt.",
+    "Post-MI VSD treatment: stabilize (IABP or mechanical support, inotropes, afterload reduction as BP allows) and urgent surgical or transcatheter repair.",
+    "Eisenmenger syndrome: long-standing pulmonary hypertension reverses the shunt (right-to-left), causing cyanosis, clubbing, and polycythemia.",
+    "After repair, monitor for heart block (conduction system runs near the septum). Prophylactic antibiotics are recommended for 6 months after repair with prosthetic material and for residual defects near a patch."
+  ],
+  "questions": [
+    {
+      "id": "vsd-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nurse is caring for an adult with an unrepaired ventricular septal defect. Which statement best describes the blood flow through the defect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deoxygenated blood flows from the right ventricle to the left ventricle, causing cyanosis.",
+          "correct": false,
+          "rationale": "Right-to-left flow occurs only when pulmonary pressures exceed systemic pressures, as in Eisenmenger syndrome, not in a typical VSD."
+        },
+        {
+          "id": "b",
+          "text": "Blood flows between the atria because of an open foramen ovale.",
+          "correct": false,
+          "rationale": "This describes an atrial-level shunt, not a ventricular septal defect."
+        },
+        {
+          "id": "c",
+          "text": "Oxygenated blood flows from the left ventricle to the right ventricle, increasing blood flow to the lungs.",
+          "correct": true,
+          "rationale": "Correct. Left ventricular pressure is higher than right, so blood shunts left to right, returns through the lungs, and causes pulmonary overcirculation and LA and LV volume overload."
+        },
+        {
+          "id": "d",
+          "text": "Blood flows backward from the left ventricle into the left atrium.",
+          "correct": false,
+          "rationale": "This describes mitral regurgitation."
+        }
+      ],
+      "explanation": "A VSD is typically an acyanotic defect with a left-to-right shunt. Small defects may be asymptomatic, while large ones cause pulmonary overcirculation, heart failure, and eventually pulmonary hypertension if left unrepaired."
+    },
+    {
+      "id": "vsd-02",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is 4 days post anterior wall MI. The client suddenly becomes dyspneic and hypotensive (BP 80/52 mm Hg). The nurse hears a new loud, harsh holosystolic murmur at the left lower sternal border and feels a thrill. Which complication does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ventricular septal rupture",
+          "correct": true,
+          "rationale": "Correct. Necrosis of the septum after MI can cause it to rupture, usually within the first week. A new harsh holosystolic murmur at the left lower sternal border with a thrill and sudden shock is the classic picture."
+        },
+        {
+          "id": "b",
+          "text": "Papillary muscle rupture",
+          "correct": false,
+          "rationale": "Papillary muscle rupture produces a holosystolic murmur at the apex radiating to the axilla, usually without a thrill, and is more common after inferior MI."
+        },
+        {
+          "id": "c",
+          "text": "Dressler syndrome",
+          "correct": false,
+          "rationale": "Dressler syndrome is an immune-mediated pericarditis weeks after MI, with fever, pleuritic chest pain, and a friction rub."
+        },
+        {
+          "id": "d",
+          "text": "Ventricular aneurysm",
+          "correct": false,
+          "rationale": "An aneurysm usually develops later and causes heart failure, dysrhythmias, or mural thrombus rather than a sudden new harsh murmur with a thrill."
+        }
+      ],
+      "explanation": "Mechanical complications of MI (septal rupture, papillary muscle rupture, free wall rupture) typically occur in the first week. Location helps: VSD at the left lower sternal border with a thrill; acute MR at the apex radiating to the axilla."
+    },
+    {
+      "id": "vsd-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with post-MI ventricular septal rupture is developing cardiogenic shock. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systolic BP below 90 mm Hg",
+          "correct": true,
+          "rationale": "Correct. Shunting reduces forward cardiac output, causing hypotension."
+        },
+        {
+          "id": "b",
+          "text": "Cool, clammy skin",
+          "correct": true,
+          "rationale": "Correct. Compensatory vasoconstriction shunts blood away from the skin."
+        },
+        {
+          "id": "c",
+          "text": "Urine output below 0.5 mL/kg/hr",
+          "correct": true,
+          "rationale": "Correct. Decreased renal perfusion reduces urine output."
+        },
+        {
+          "id": "d",
+          "text": "New restlessness or confusion",
+          "correct": true,
+          "rationale": "Correct. Decreased cerebral perfusion causes altered mental status, often an early sign."
+        },
+        {
+          "id": "e",
+          "text": "Warm, flushed extremities with bounding pulses",
+          "correct": false,
+          "rationale": "These suggest distributive (e.g., early septic) shock, not cardiogenic shock with low output and vasoconstriction."
+        },
+        {
+          "id": "f",
+          "text": "Bradycardia below 50/min",
+          "correct": false,
+          "rationale": "Low cardiac output usually triggers compensatory tachycardia."
+        }
+      ],
+      "explanation": "Cardiogenic shock is pump failure with inadequate tissue perfusion: hypotension, tachycardia, cool clammy skin, oliguria, altered mentation, and rising lactate. In post-MI VSD, it requires urgent stabilization and repair."
+    },
+    {
+      "id": "vsd-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is diagnosed with post-MI ventricular septal rupture and cardiogenic shock. Which plan of care does the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer a thrombolytic to reopen the occluded coronary artery",
+          "correct": false,
+          "rationale": "Thrombolytics do not close a mechanical defect and would increase bleeding risk before emergency surgery."
+        },
+        {
+          "id": "b",
+          "text": "Start oral metoprolol and plan discharge within 48 hours",
+          "correct": false,
+          "rationale": "Beta-blockers can worsen shock, and this client is critically unstable."
+        },
+        {
+          "id": "c",
+          "text": "Insert an intra-aortic balloon pump or other mechanical support and prepare for emergency repair",
+          "correct": true,
+          "rationale": "Correct. Mechanical support reduces afterload and the left-to-right shunt and supports perfusion as a bridge to surgical or transcatheter closure, which is the definitive treatment."
+        },
+        {
+          "id": "d",
+          "text": "Treat with IV fluids alone and reassess the murmur in 1 week",
+          "correct": false,
+          "rationale": "Medical therapy alone has very high mortality in post-MI VSD; delay is dangerous."
+        }
+      ],
+      "explanation": "Post-MI VSD with shock is a surgical emergency. Stabilization (IABP or mechanical circulatory support, inotropes, vasodilators if BP allows, ventilation as needed) bridges the client to urgent closure."
+    },
+    {
+      "id": "vsd-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a suspected post-MI ventricular septal rupture has a pulmonary artery catheter. Oxygen saturations drawn from the catheter are right atrium 62% and pulmonary artery 84%. How should the nurse interpret these results?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They are normal values that rule out a shunt.",
+          "correct": false,
+          "rationale": "Saturations should be nearly the same in the RA and PA; a large increase is abnormal."
+        },
+        {
+          "id": "b",
+          "text": "Oxygenated blood is entering the right ventricle from the left ventricle, indicating a left-to-right shunt.",
+          "correct": true,
+          "rationale": "Correct. An oxygen saturation step-up between the RA and the PA means oxygenated blood is crossing from the LV into the RV through the septal defect."
+        },
+        {
+          "id": "c",
+          "text": "The client has severe hypoxemia from pulmonary edema.",
+          "correct": false,
+          "rationale": "These are venous saturations; the abnormality is the difference between chambers, not systemic oxygenation."
+        },
+        {
+          "id": "d",
+          "text": "The catheter tip has wedged in the pulmonary artery.",
+          "correct": false,
+          "rationale": "Wedging gives a PAWP reading and does not explain a saturation step-up between the RA and PA."
+        }
+      ],
+      "explanation": "A step-up in oxygen saturation from the right atrium to the right ventricle or pulmonary artery is a classic hemodynamic sign of a VSD. Echocardiography with Doppler confirms the diagnosis."
+    },
+    {
+      "id": "vsd-06",
+      "type": "sata",
+      "bloom": "remember",
+      "stem": "An adult with a large, long-standing unrepaired VSD has developed Eisenmenger syndrome. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cyanosis",
+          "correct": true,
+          "rationale": "Correct. Pulmonary vascular resistance exceeds systemic resistance, reversing the shunt to right-to-left so deoxygenated blood enters the systemic circulation."
+        },
+        {
+          "id": "b",
+          "text": "Clubbing of the fingers",
+          "correct": true,
+          "rationale": "Correct. Chronic hypoxemia causes digital clubbing."
+        },
+        {
+          "id": "c",
+          "text": "Elevated hemoglobin and hematocrit",
+          "correct": true,
+          "rationale": "Correct. Chronic hypoxemia stimulates erythropoietin, causing secondary polycythemia."
+        },
+        {
+          "id": "d",
+          "text": "SpO2 of 99% on room air",
+          "correct": false,
+          "rationale": "Right-to-left shunting causes systemic desaturation, so SpO2 is low."
+        },
+        {
+          "id": "e",
+          "text": "A murmur that becomes louder as the shunt reverses",
+          "correct": false,
+          "rationale": "As right and left pressures equalize, flow across the defect decreases and the VSD murmur often softens or disappears."
+        }
+      ],
+      "explanation": "Eisenmenger syndrome is the end stage of an untreated large left-to-right shunt: chronic overcirculation damages the pulmonary vasculature, pulmonary hypertension becomes fixed, and the shunt reverses. Repair of the defect is usually no longer an option."
+    },
+    {
+      "id": "vsd-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client who had a VSD closed with a prosthetic patch 2 months ago. Which instructions about preventing infective endocarditis should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Take the prescribed antibiotic before dental procedures that manipulate the gums during the first 6 months after repair",
+          "correct": true,
+          "rationale": "Correct. AHA guidelines recommend prophylaxis for the first 6 months after complete repair with prosthetic material, until the patch is endothelialized."
+        },
+        {
+          "id": "b",
+          "text": "Brush and floss daily and keep regular dental appointments",
+          "correct": true,
+          "rationale": "Correct. Good oral hygiene reduces bacteremia from daily activities, the main source of endocarditis risk."
+        },
+        {
+          "id": "c",
+          "text": "Report fever, chills, night sweats, or unexplained fatigue",
+          "correct": true,
+          "rationale": "Correct. These may be early signs of endocarditis and need prompt evaluation and blood cultures."
+        },
+        {
+          "id": "d",
+          "text": "Stop brushing your teeth if your gums bleed",
+          "correct": false,
+          "rationale": "Stopping oral hygiene increases bacterial load; the client should brush gently and see a dentist."
+        },
+        {
+          "id": "e",
+          "text": "Body piercing and tattoos are safe because the defect is closed",
+          "correct": false,
+          "rationale": "Piercing and tattoos can introduce bacteria; clients with cardiac risk should avoid them or discuss them with their provider."
+        }
+      ],
+      "explanation": "Endocarditis prophylaxis is reserved for highest-risk clients, including those within 6 months of repair with prosthetic material and those with residual defects at or near a patch. All clients with structural heart disease benefit from excellent oral hygiene and prompt reporting of infection symptoms."
+    },
+    {
+      "id": "vsd-08",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "Place the path of blood flow through a left-to-right shunt in a VSD in order, starting with blood returning from the lungs.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Oxygenated blood enters the left atrium from the pulmonary veins"
+        },
+        {
+          "id": "b",
+          "text": "Blood moves into the left ventricle"
+        },
+        {
+          "id": "c",
+          "text": "During systole, part of the left ventricular volume crosses the septal defect into the right ventricle"
+        },
+        {
+          "id": "d",
+          "text": "The right ventricle ejects the extra volume into the pulmonary artery"
+        },
+        {
+          "id": "e",
+          "text": "The lungs receive increased blood flow, which returns again to the left atrium"
+        }
+      ],
+      "explanation": "In a left-to-right VSD, the same oxygenated blood recirculates through the lungs. This causes pulmonary overcirculation and volume overload of the LA and LV, which explains heart failure symptoms and the eventual risk of pulmonary hypertension."
+    },
+    {
+      "id": "vsd-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client underwent emergency surgical repair of a post-MI ventricular septal rupture 12 hours ago. Which set of findings best indicates that the repair and supportive therapy have been effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urine output 15 mL/hr, MAP 58 mm Hg, and new confusion",
+          "correct": false,
+          "rationale": "Low urine output, low MAP, and confusion indicate ongoing poor perfusion."
+        },
+        {
+          "id": "b",
+          "text": "SpO2 88% on 6 L/min, persistent harsh murmur, and rising lactate",
+          "correct": false,
+          "rationale": "A persistent murmur and rising lactate suggest a residual shunt and continued shock."
+        },
+        {
+          "id": "c",
+          "text": "Increasing vasopressor requirement, cool mottled skin, and HR 136/min",
+          "correct": false,
+          "rationale": "These are signs of worsening cardiogenic shock."
+        },
+        {
+          "id": "d",
+          "text": "Urine output 50 mL/hr, MAP 72 mm Hg, warm extremities, and no harsh systolic murmur",
+          "correct": true,
+          "rationale": "Correct. Adequate urine output, MAP above 65, warm skin, and the absence of the shunt murmur indicate restored forward flow and tissue perfusion."
+        }
+      ],
+      "explanation": "Evaluate outcomes using perfusion markers: MAP at least 65 mm Hg, urine output at least 0.5 mL/kg/hr, mental status, skin temperature, lactate, and resolution of the shunt murmur. A recurrent murmur suggests a residual defect."
+    },
+    {
+      "id": "vsd-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a client on the first day after surgical VSD closure. Which finding requires the nurse's immediate action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incisional pain rated 5 out of 10",
+          "correct": false,
+          "rationale": "Postoperative pain is expected and is managed with prescribed analgesics; it is not the most urgent finding."
+        },
+        {
+          "id": "b",
+          "text": "Heart rate 38/min with P waves that are not conducted to the QRS complexes",
+          "correct": true,
+          "rationale": "Correct. The AV conduction system runs close to the ventricular septum, so complete heart block is a known complication of VSD repair. The nurse should assess perfusion, activate the temporary epicardial pacing wires as prescribed, and notify the surgeon."
+        },
+        {
+          "id": "c",
+          "text": "Serosanguineous chest tube drainage of 40 mL in the past hour",
+          "correct": false,
+          "rationale": "This amount and color are within expected limits after cardiac surgery."
+        },
+        {
+          "id": "d",
+          "text": "Temperature 37.8°C (100.0°F)",
+          "correct": false,
+          "rationale": "A low-grade temperature in the first 24-48 hours after surgery is common, though the nurse continues to monitor it."
+        }
+      ],
+      "explanation": "After VSD closure, monitor closely for conduction disturbances (heart block), bleeding, tamponade, residual shunt, and infection. Temporary epicardial pacing wires are often placed during surgery for this reason."
+    }
+  ]
+}

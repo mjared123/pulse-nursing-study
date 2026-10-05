@@ -1,0 +1,789 @@
+{
+  "slug": "chest-trauma",
+  "title": "Pneumothorax / Hemothorax / Tension / Flail Chest",
+  "short": "Pneumo, Hemo & Flail Chest",
+  "icon": "lungs",
+  "description": "Recognizing and managing pneumothorax, open chest wounds, tension pneumothorax, hemothorax, and flail chest, plus oxygen delivery, positioning, and V/Q concepts in chest trauma.",
+  "keyPoints": [
+    "Tension pneumothorax: trachea deviates away from the affected side, absent breath sounds, hyperresonance, JVD, tachycardia, hypotension. Treat right away with needle decompression, then a chest tube.",
+    "Needle decompression site: 4th/5th ICS just anterior to the midaxillary line (current ATLS for adults) or the 2nd ICS midclavicular line, always on the affected side.",
+    "Open (sucking) chest wound: cover it at once, then use a vented chest seal or an occlusive dressing taped on 3 sides. If tension develops, lift the dressing.",
+    "Hemothorax: dullness to percussion, decreased breath sounds, and signs of shock. Treated with a chest tube, volume and blood replacement, and possibly autotransfusion. 1,500 mL at insertion or about 200 mL/hr for 2-4 hr means thoracotomy.",
+    "Flail chest: 2 or more adjacent ribs broken in 2 or more places cause paradoxical movement. Priorities are oxygenation, pain control, and ventilation support. Watch for pulmonary contusion getting worse over 24-72 hr.",
+    "A collapsed lung that is still perfused creates a shunt (low V/Q), so the hypoxemia responds poorly to oxygen alone.",
+    "Nonrebreather: 10-15 L/min with the bag kept inflated. Venturi: precise FiO2. Nasal cannula: no more than 6 L/min. FiO2 above 50% for more than 24-48 hr risks oxygen toxicity.",
+    "For one-sided lung disease, position the client good lung down with the head of the bed elevated."
+  ],
+  "questions": [
+    {
+      "id": "chest-trauma-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse is reviewing four clients in an urgent care clinic. Which client has the greatest risk for a primary spontaneous pneumothorax?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 68-year-old woman with chronic heart failure and bilateral ankle edema",
+          "correct": false,
+          "rationale": "Heart failure causes pulmonary congestion and pleural effusions, not rupture of apical blebs; it is not a classic risk profile for primary spontaneous pneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "A 45-year-old woman who takes oral contraceptives and is obese",
+          "correct": false,
+          "rationale": "Estrogen use and obesity raise the risk for venous thromboembolism, not spontaneous pneumothorax."
+        },
+        {
+          "id": "c",
+          "text": "A 22-year-old tall, thin man who smokes cigarettes",
+          "correct": true,
+          "rationale": "Primary spontaneous pneumothorax classically occurs in tall, thin young men; rupture of small apical blebs is the cause, and smoking greatly increases the risk."
+        },
+        {
+          "id": "d",
+          "text": "A 30-year-old man with well-controlled hypertension",
+          "correct": false,
+          "rationale": "Hypertension is not linked to rupture of pleural blebs and does not predispose to spontaneous pneumothorax."
+        }
+      ],
+      "explanation": "Primary spontaneous pneumothorax results from rupture of small subpleural blebs, usually at the lung apex, in clients without known lung disease. Tall, thin males aged 20-40 and smokers are at highest risk. Secondary spontaneous pneumothorax occurs with underlying lung disease such as COPD or cystic fibrosis."
+    },
+    {
+      "id": "chest-trauma-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client arrives in the emergency department with a stab wound to the right anterior chest. The nurse hears a sucking sound with each inspiration and sees air bubbling from the wound. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pack the wound tightly with sterile gauze to stop the air leak",
+          "correct": false,
+          "rationale": "Packing a chest wound does not create a reliable seal and can push debris inward; it also does nothing to let trapped air escape."
+        },
+        {
+          "id": "b",
+          "text": "Place the client flat and supine to reduce air entry",
+          "correct": false,
+          "rationale": "Lying flat does not stop air entry and impairs lung expansion; the client with chest trauma breathes best with the head elevated if the spine is cleared."
+        },
+        {
+          "id": "c",
+          "text": "Apply a sterile occlusive dressing taped on three sides",
+          "correct": true,
+          "rationale": "A nonporous dressing taped on three sides (or a commercial vented chest seal) acts as a one-way flutter valve: it seals on inspiration and lets air escape on expiration, preventing tension pneumothorax."
+        },
+        {
+          "id": "d",
+          "text": "Apply a sterile occlusive dressing taped securely on all four sides",
+          "correct": false,
+          "rationale": "Sealing all four sides traps air that continues to leak from the injured lung into the pleural space and can convert an open pneumothorax into a tension pneumothorax."
+        }
+      ],
+      "explanation": "An open (sucking) chest wound lets atmospheric air enter the pleural space and collapse the lung. The wound is covered immediately, then sealed with a vented chest seal or a nonporous dressing taped on three sides so air can escape during exhalation. The nurse then watches closely for signs of tension pneumothorax."
+    },
+    {
+      "id": "chest-trauma-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Paramedics applied an occlusive dressing taped on all four sides over a client's open chest wound. Twenty minutes later the client has severe dyspnea, BP 82/50 mm Hg, HR 138/min, distended neck veins, and the trachea is shifted away from the injured side. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increase the oxygen flow on the nonrebreather mask to 15 L/min",
+          "correct": false,
+          "rationale": "Oxygen is supportive but will not relieve the rising pleural pressure that is compressing the lung, heart, and great vessels."
+        },
+        {
+          "id": "b",
+          "text": "Lift one corner of the dressing to release trapped air",
+          "correct": true,
+          "rationale": "These cues indicate tension pneumothorax from air trapped under a fully sealed dressing. Lifting the dressing lets the trapped air escape and is the fastest way to relieve pressure while the provider is called."
+        },
+        {
+          "id": "c",
+          "text": "Prepare the client for a stat portable chest x-ray",
+          "correct": false,
+          "rationale": "Tension pneumothorax is a clinical diagnosis; waiting for an x-ray delays treatment of a life-threatening condition."
+        },
+        {
+          "id": "d",
+          "text": "Start a rapid 1,000 mL normal saline bolus to treat the hypotension",
+          "correct": false,
+          "rationale": "Fluids do not correct obstructive shock caused by compression of the vena cava and heart; the trapped air must be released first."
+        }
+      ],
+      "explanation": "A dressing sealed on all sides can convert an open pneumothorax into a tension pneumothorax because air from the injured lung has no way out. Tracheal deviation away from the affected side, hypotension, JVD, and severe distress are the cues. The first action is to remove or lift the dressing to release the air, then notify the provider for decompression and a chest tube."
+    },
+    {
+      "id": "chest-trauma-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "One hour after subclavian central line insertion, a client reports sudden severe shortness of breath. Findings: BP 78/50 mm Hg, HR 132/min, RR 36/min, SpO2 82%, trachea deviated to the left, and absent breath sounds on the right. The nurse notifies the rapid response team. Which intervention should the nurse anticipate first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Immediate needle decompression of the right chest",
+          "correct": true,
+          "rationale": "These are the cues of a right-sided tension pneumothorax. Immediate needle decompression converts it to a simple pneumothorax and restores venous return; a chest tube follows."
+        },
+        {
+          "id": "b",
+          "text": "A stat chest x-ray to confirm the diagnosis",
+          "correct": false,
+          "rationale": "Tension pneumothorax is diagnosed clinically. Delaying treatment for imaging in a hypotensive, hypoxemic client can lead to cardiac arrest."
+        },
+        {
+          "id": "c",
+          "text": "Placing the client in Trendelenburg position",
+          "correct": false,
+          "rationale": "Trendelenburg increases pressure on the diaphragm and worsens breathing; it does not relieve the cause of the hypotension."
+        },
+        {
+          "id": "d",
+          "text": "A thoracentesis at the right posterior lower chest",
+          "correct": false,
+          "rationale": "Thoracentesis removes pleural fluid at a lower posterior site; it is not the emergency treatment for air under tension."
+        }
+      ],
+      "explanation": "Central line insertion, mechanical ventilation, and chest trauma can all cause tension pneumothorax. Air enters the pleural space on each breath but cannot leave, so pressure rises, the mediastinum shifts, and venous return and cardiac output fall. Needle decompression is done immediately, followed by chest tube insertion."
+    },
+    {
+      "id": "chest-trauma-05",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse assists with emergency needle decompression for an adult with a left tension pneumothorax. Based on current trauma (ATLS) guidance, which insertion site should the nurse expect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2nd intercostal space at the right sternal border",
+          "correct": false,
+          "rationale": "This site is on the wrong side and too close to the sternum, where the internal mammary vessels run; decompression is done on the affected side."
+        },
+        {
+          "id": "b",
+          "text": "7th intercostal space at the left posterior axillary line",
+          "correct": false,
+          "rationale": "This low posterior site is used for thoracentesis of fluid, not emergency decompression of air."
+        },
+        {
+          "id": "c",
+          "text": "2nd intercostal space at the right midclavicular line",
+          "correct": false,
+          "rationale": "The 2nd ICS midclavicular line is a traditional landmark, but this option is on the unaffected (right) side."
+        },
+        {
+          "id": "d",
+          "text": "4th or 5th intercostal space on the left, just anterior to the midaxillary line",
+          "correct": true,
+          "rationale": "Current ATLS guidance for adults uses the 4th or 5th ICS just anterior to the midaxillary line on the affected side, because the chest wall is thinner there. The 2nd ICS midclavicular line on the affected side is the traditional alternative."
+        }
+      ],
+      "explanation": "Needle decompression is done on the affected side. ATLS now prefers the 4th/5th intercostal space just anterior to the midaxillary line in adults (thinner chest wall, fewer failed attempts). The 2nd ICS midclavicular line remains an accepted alternative. Either way, a chest tube is placed afterward."
+    },
+    {
+      "id": "chest-trauma-06",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with multiple rib fractures after a motorcycle crash is on mechanical ventilation. Which findings should the nurse recognize as cues of a developing right tension pneumothorax? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trachea shifted toward the left side",
+          "correct": true,
+          "rationale": "Pressure building in the right pleural space pushes the mediastinum and trachea toward the unaffected (left) side."
+        },
+        {
+          "id": "b",
+          "text": "Distended jugular veins",
+          "correct": true,
+          "rationale": "Compression of the vena cava and heart impairs venous return, so blood backs up into the neck veins."
+        },
+        {
+          "id": "c",
+          "text": "Dullness to percussion over the right chest",
+          "correct": false,
+          "rationale": "Dullness suggests fluid or blood (hemothorax). A chest filled with air under tension is hyperresonant."
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure falling from 128/76 to 84/52 mm Hg",
+          "correct": true,
+          "rationale": "Reduced venous return and cardiac output cause obstructive shock and hypotension."
+        },
+        {
+          "id": "e",
+          "text": "Absent breath sounds over the right lung",
+          "correct": true,
+          "rationale": "The collapsed right lung is not ventilated, so breath sounds are absent on the affected side."
+        },
+        {
+          "id": "f",
+          "text": "Heart rate decreasing from 104 to 56/min",
+          "correct": false,
+          "rationale": "The body compensates for falling cardiac output with tachycardia; bradycardia would be a late, pre-arrest finding, not an expected cue."
+        }
+      ],
+      "explanation": "Tension pneumothorax shows as severe respiratory distress, absent breath sounds and hyperresonance on the affected side, tracheal deviation away from that side, JVD, tachycardia, and hypotension. Clients on positive-pressure ventilation are at high risk, and high peak airway pressures may be the first cue. It is a medical emergency."
+    },
+    {
+      "id": "chest-trauma-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nursing student asks why a client with a tension pneumothorax becomes hypotensive. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blood is lost into the pleural space, which reduces circulating volume",
+          "correct": false,
+          "rationale": "This describes hemothorax. In tension pneumothorax the pleural space fills with air, not blood."
+        },
+        {
+          "id": "b",
+          "text": "Rising intrathoracic pressure shifts the mediastinum and compresses the heart and vena cava, so venous return and cardiac output drop",
+          "correct": true,
+          "rationale": "Air trapped under pressure pushes the mediastinum toward the opposite side and compresses the great veins and heart. Less blood returns to the heart, so cardiac output and blood pressure fall (obstructive shock)."
+        },
+        {
+          "id": "c",
+          "text": "Hypoxemia causes widespread vasodilation that lowers systemic vascular resistance",
+          "correct": false,
+          "rationale": "Hypoxemia is present, but the main cause of hypotension is mechanical compression, not vasodilation."
+        },
+        {
+          "id": "d",
+          "text": "Pain from the collapsed lung stimulates the vagus nerve and slows the heart",
+          "correct": false,
+          "rationale": "Clients with tension pneumothorax are tachycardic, not bradycardic; the problem is impaired venous return."
+        }
+      ],
+      "explanation": "Tension pneumothorax causes obstructive shock: rising pleural pressure compresses the lung, shifts the mediastinum, and kinks or compresses the vena cava and heart. Preload and cardiac output fall even though blood volume is normal. Only decompression corrects this."
+    },
+    {
+      "id": "chest-trauma-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "After a motor vehicle crash, a client has BP 88/56 mm Hg, HR 124/min, and RR 28/min. The nurse finds decreased breath sounds and dullness to percussion over the left lower chest; the trachea is midline. Which condition should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simple pneumothorax",
+          "correct": false,
+          "rationale": "A pneumothorax is air in the pleural space, which produces hyperresonance on percussion, not dullness."
+        },
+        {
+          "id": "b",
+          "text": "Flail chest",
+          "correct": false,
+          "rationale": "Flail chest is identified by paradoxical chest wall movement; it does not by itself cause dullness to percussion."
+        },
+        {
+          "id": "c",
+          "text": "Tension pneumothorax",
+          "correct": false,
+          "rationale": "Tension pneumothorax causes hyperresonance and tracheal deviation; this client's trachea is midline and the chest is dull."
+        },
+        {
+          "id": "d",
+          "text": "Hemothorax",
+          "correct": true,
+          "rationale": "Blood in the pleural space causes dullness to percussion and decreased breath sounds. Hypotension and tachycardia point to hypovolemia from blood loss into the chest."
+        }
+      ],
+      "explanation": "Hemothorax is blood in the pleural space, usually from chest trauma. Cues include decreased breath sounds, dullness to percussion on the affected side, and signs of hypovolemic shock. Percussion helps tell it apart from pneumothorax, which is hyperresonant."
+    },
+    {
+      "id": "chest-trauma-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a large left hemothorax has BP 86/54 mm Hg and HR 128/min. Which interventions should the nurse anticipate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insert two large-bore IV catheters",
+          "correct": true,
+          "rationale": "Large-bore IV access lets the team replace volume and blood rapidly in a client with hypovolemic shock."
+        },
+        {
+          "id": "b",
+          "text": "Send a type and crossmatch",
+          "correct": true,
+          "rationale": "The client is losing blood into the chest and is likely to need a blood transfusion."
+        },
+        {
+          "id": "c",
+          "text": "Prepare for chest tube insertion at the 4th or 5th intercostal space, midaxillary line",
+          "correct": true,
+          "rationale": "A large-bore chest tube placed laterally at the 4th/5th ICS drains blood from the pleural space, re-expands the lung, and lets the team measure ongoing blood loss."
+        },
+        {
+          "id": "d",
+          "text": "Set up an autotransfusion collection system if prescribed",
+          "correct": true,
+          "rationale": "Autotransfusion collects the client's own shed blood from the chest drainage so it can be filtered and reinfused, reducing the need for donor blood."
+        },
+        {
+          "id": "e",
+          "text": "Assist with needle decompression at the 2nd intercostal space",
+          "correct": false,
+          "rationale": "Needle decompression releases air under tension; a small needle cannot drain blood and is not definitive treatment for hemothorax."
+        },
+        {
+          "id": "f",
+          "text": "Restrict IV fluids to prevent pulmonary edema",
+          "correct": false,
+          "rationale": "This client is in hypovolemic shock and needs volume and blood replacement, not fluid restriction."
+        }
+      ],
+      "explanation": "Hemothorax with shock is treated by restoring circulating volume (large-bore IVs, blood products) and draining the chest with a chest tube. Autotransfusion may be used to return the client's own blood. Chest tube output is monitored closely to decide whether surgery is needed."
+    },
+    {
+      "id": "chest-trauma-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client had a chest tube placed 3 hours ago for a traumatic right hemothorax. The drainage has been bright red at 210, 230, and 220 mL in each of the past 3 hours. BP is 94/60 mm Hg and HR is 118/min. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strip the chest tube to keep it free of clots",
+          "correct": false,
+          "rationale": "Stripping creates very high negative pressure that can damage lung tissue and is not recommended; it also does not address the ongoing bleeding."
+        },
+        {
+          "id": "b",
+          "text": "Clamp the chest tube to slow the bleeding",
+          "correct": false,
+          "rationale": "Clamping does not stop bleeding inside the chest; it hides the blood loss and can cause tension physiology as blood and air build up."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider immediately and prepare the client for possible thoracotomy",
+          "correct": true,
+          "rationale": "Ongoing drainage of about 200 mL/hr or more for 2-4 hours (or 1,500 mL or more at insertion) signals massive bleeding that usually needs surgical repair. The falling BP and rising HR confirm the client is not compensating."
+        },
+        {
+          "id": "d",
+          "text": "Document the drainage as expected and recheck in 1 hour",
+          "correct": false,
+          "rationale": "This volume of bright red drainage with worsening vital signs is not expected; waiting delays life-saving treatment."
+        }
+      ],
+      "explanation": "After chest tube insertion for hemothorax, the nurse tracks drainage hourly. Initial drainage of 1,500 mL or more, or continued drainage of about 200 mL/hr for 2-4 hours, indicates massive hemothorax and the need for thoracotomy. The nurse reports these findings immediately rather than clamping or stripping the tube."
+    },
+    {
+      "id": "chest-trauma-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client whose chest hit the steering wheel in a crash has a section of the right chest wall that moves inward during inspiration and outward during expiration. How should the nurse interpret this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flail chest from multiple adjacent ribs fractured in more than one place",
+          "correct": true,
+          "rationale": "Paradoxical movement occurs when two or more adjacent ribs are each broken in two or more places. The free-floating segment is pulled in by negative pressure on inspiration and pushed out on expiration."
+        },
+        {
+          "id": "b",
+          "text": "Tension pneumothorax with mediastinal shift",
+          "correct": false,
+          "rationale": "Tension pneumothorax causes tracheal deviation, JVD, and hypotension, not a segment of chest wall moving opposite the rest of the chest."
+        },
+        {
+          "id": "c",
+          "text": "Cardiac tamponade compressing the right ventricle",
+          "correct": false,
+          "rationale": "Tamponade presents with muffled heart sounds, JVD, and hypotension (Beck's triad), not paradoxical chest wall movement."
+        },
+        {
+          "id": "d",
+          "text": "Normal chest wall movement during labored breathing",
+          "correct": false,
+          "rationale": "With normal breathing the whole chest wall expands outward together on inspiration; inward movement of a segment is never normal."
+        }
+      ],
+      "explanation": "Flail chest results from fractures of two or more adjacent ribs in two or more places, creating a free-floating segment. That segment moves paradoxically: in on inspiration, out on expiration. The real danger is the underlying pulmonary contusion and the pain that limits effective breathing."
+    },
+    {
+      "id": "chest-trauma-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a flail chest has RR 28/min with shallow breaths, SpO2 91% on 4 L/min nasal cannula, and rates chest pain 9/10. The client refuses to cough or use the incentive spirometer because it hurts. Which nursing action is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encourage oral and IV fluid intake of at least 3 L per day",
+          "correct": false,
+          "rationale": "Flail chest usually comes with pulmonary contusion; aggressive fluids can worsen lung edema. Fluids are given carefully to keep the client euvolemic."
+        },
+        {
+          "id": "b",
+          "text": "Wrap the chest tightly with an elastic binder to stabilize the segment",
+          "correct": false,
+          "rationale": "Tight binding or sandbags restrict chest expansion and increase the risk of atelectasis and pneumonia; they are no longer recommended."
+        },
+        {
+          "id": "c",
+          "text": "Administer the prescribed analgesic, such as an opioid or epidural, so the client can breathe deeply",
+          "correct": true,
+          "rationale": "Effective pain control (often regional or epidural analgesia) is a mainstay of flail chest care. It lets the client take deep breaths and cough, which prevents atelectasis, hypoventilation, and pneumonia."
+        },
+        {
+          "id": "d",
+          "text": "Teach the client to take shallow, rapid breaths to limit pain",
+          "correct": false,
+          "rationale": "Shallow breathing causes hypoventilation and atelectasis and worsens hypoxemia; the goal is deep, effective breaths."
+        }
+      ],
+      "explanation": "Treatment of flail chest focuses on oxygenation, pain control, and pulmonary hygiene. Good analgesia lets the client breathe deeply and cough, preventing atelectasis and pneumonia. Clients who still cannot ventilate adequately need intubation and mechanical ventilation with PEEP."
+    },
+    {
+      "id": "chest-trauma-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a left flail chest and pulmonary contusion is on day 2 of hospitalization. Over 4 hours, SpO2 has dropped from 95% to 86% on a nonrebreather mask, crackles are heard over the left lung, and the client is restless. ABG: PaO2 54 mm Hg, PaCO2 50 mm Hg, pH 7.30. Which intervention should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Changing to a nasal cannula at 10 L/min",
+          "correct": false,
+          "rationale": "A nasal cannula delivers less oxygen than a nonrebreather and is not used above about 6 L/min; it would worsen oxygenation."
+        },
+        {
+          "id": "b",
+          "text": "Intubation and mechanical ventilation with PEEP",
+          "correct": true,
+          "rationale": "Worsening hypoxemia despite high FiO2, plus hypercapnia and acidosis, shows respiratory failure from the evolving contusion. Mechanical ventilation with PEEP keeps alveoli open and supports ventilation."
+        },
+        {
+          "id": "c",
+          "text": "Holding all opioid analgesics to prevent respiratory depression",
+          "correct": false,
+          "rationale": "The failure is caused by the contusion and chest wall injury, not opioids. Withholding pain control would make breathing even less effective."
+        },
+        {
+          "id": "d",
+          "text": "Administering a 2 L normal saline bolus",
+          "correct": false,
+          "rationale": "Contused lung tissue leaks fluid easily; a large fluid bolus would worsen pulmonary edema and hypoxemia."
+        }
+      ],
+      "explanation": "Pulmonary contusion often worsens over the first 24-72 hours as bruised lung tissue fills with blood and fluid. Rising oxygen needs, crackles, restlessness, and a falling PaO2 with rising PaCO2 signal respiratory failure. Intubation with PEEP is then needed to improve oxygenation."
+    },
+    {
+      "id": "chest-trauma-14",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is monitoring a client with a flail chest who is breathing on their own with oxygen. Which findings should the nurse report to the provider immediately? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "New confusion and restlessness",
+          "correct": true,
+          "rationale": "Restlessness and confusion are early signs of hypoxemia or hypercapnia and suggest worsening respiratory status."
+        },
+        {
+          "id": "b",
+          "text": "PaO2 58 mm Hg on 50% oxygen",
+          "correct": true,
+          "rationale": "A PaO2 below 60 mm Hg on a high FiO2 shows the client is failing to oxygenate and may need ventilatory support."
+        },
+        {
+          "id": "c",
+          "text": "PaCO2 rising from 38 to 52 mm Hg with pH 7.29",
+          "correct": true,
+          "rationale": "Rising PaCO2 with acidosis shows hypoventilation and respiratory fatigue, which can progress to respiratory failure."
+        },
+        {
+          "id": "d",
+          "text": "Pain rated 3/10 after the scheduled analgesic",
+          "correct": false,
+          "rationale": "A pain rating of 3/10 shows good pain control, which supports effective breathing; this does not need urgent reporting."
+        },
+        {
+          "id": "e",
+          "text": "Paradoxical movement of the injured chest segment",
+          "correct": false,
+          "rationale": "Paradoxical movement is the defining sign of the flail segment the client already has; it is expected and is not a new change by itself."
+        }
+      ],
+      "explanation": "In flail chest, the nurse watches for respiratory failure: changes in mental status, a falling PaO2 despite oxygen, and a rising PaCO2 with acidosis. These findings mean the client may need intubation and mechanical ventilation. Adequate pain control and expected paradoxical movement are not, by themselves, reasons for urgent notification."
+    },
+    {
+      "id": "chest-trauma-15",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with COPD and a history of chronic CO2 retention has a small pneumothorax after a fall. The provider prescribes oxygen at exactly 28%. Which delivery device should the nurse use?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nasal cannula",
+          "correct": false,
+          "rationale": "A nasal cannula's FiO2 varies with the client's breathing rate and depth, so it cannot deliver an exact 28%."
+        },
+        {
+          "id": "b",
+          "text": "Venturi mask",
+          "correct": true,
+          "rationale": "A Venturi mask mixes oxygen and room air through a set adapter, delivering a precise FiO2 (about 24-50%) regardless of breathing pattern. This makes it ideal for clients who retain CO2."
+        },
+        {
+          "id": "c",
+          "text": "Nonrebreather mask",
+          "correct": false,
+          "rationale": "A nonrebreather delivers a high, imprecise FiO2 (about 60-90% or more) and is not suited to a precise low concentration."
+        },
+        {
+          "id": "d",
+          "text": "Simple face mask",
+          "correct": false,
+          "rationale": "A simple face mask delivers about 40-60% oxygen and cannot be set to an exact concentration."
+        }
+      ],
+      "explanation": "The Venturi mask is a high-flow device that delivers a precise, fixed FiO2, so it is preferred when exact oxygen dosing matters, such as in clients with chronic hypercapnia. Nasal cannulas and simple masks are low-flow devices whose FiO2 changes with the client's breathing. A nonrebreather is used when the highest possible FiO2 is needed."
+    },
+    {
+      "id": "chest-trauma-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a traumatic pneumothorax is receiving oxygen by nonrebreather mask at 10 L/min. The nurse notices that the reservoir bag collapses completely each time the client inhales. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Remove the one-way valves so the client can breathe more easily",
+          "correct": false,
+          "rationale": "Removing the valves lets exhaled CO2 back into the bag and room air into the mask, lowering the FiO2 the client receives."
+        },
+        {
+          "id": "b",
+          "text": "Switch to a nasal cannula at 6 L/min",
+          "correct": false,
+          "rationale": "A nasal cannula delivers much less oxygen than a properly working nonrebreather and would leave this client hypoxemic."
+        },
+        {
+          "id": "c",
+          "text": "Increase the oxygen flow until the bag stays at least partly inflated during inspiration",
+          "correct": true,
+          "rationale": "The reservoir bag must stay at least one-third to two-thirds full throughout the breathing cycle. Increasing the flow (usually 10-15 L/min) keeps the bag inflated so the client gets a high FiO2."
+        },
+        {
+          "id": "d",
+          "text": "Loosen the mask so more room air can enter",
+          "correct": false,
+          "rationale": "A loose seal lets room air in and lowers the delivered FiO2; the mask should fit snugly."
+        }
+      ],
+      "explanation": "A nonrebreather mask delivers the highest FiO2 of the standard masks (about 60-90% or more) when the bag stays inflated and the valves are intact. Flow is set at 10-15 L/min, enough to keep the bag from collapsing on inspiration. A collapsing bag means the client is not getting enough oxygen."
+    },
+    {
+      "id": "chest-trauma-17",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a client receiving oxygen at 5 L/min by nasal cannula after a pneumothorax. Which actions are appropriate to prevent complications of oxygen therapy? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Add humidification to the oxygen source",
+          "correct": true,
+          "rationale": "Oxygen dries the nasal mucosa; humidification is generally recommended for nasal cannula flows above about 4 L/min."
+        },
+        {
+          "id": "b",
+          "text": "Apply water-soluble lubricant to dry nares",
+          "correct": true,
+          "rationale": "Water-based lubricant soothes dry mucosa and is safe to use around oxygen."
+        },
+        {
+          "id": "c",
+          "text": "Apply petroleum jelly to the lips and nostrils",
+          "correct": false,
+          "rationale": "Petroleum-based products are flammable in an oxygen-enriched environment and should not be used."
+        },
+        {
+          "id": "d",
+          "text": "Pad the tubing over the ears and check the skin there every shift",
+          "correct": true,
+          "rationale": "Cannula tubing can cause pressure injuries behind the ears and on the nares; padding and regular skin checks prevent breakdown."
+        },
+        {
+          "id": "e",
+          "text": "Post no-smoking signs and keep open flames out of the room",
+          "correct": true,
+          "rationale": "Oxygen supports combustion, so smoking and open flames create a fire hazard."
+        },
+        {
+          "id": "f",
+          "text": "Increase the nasal cannula to 10 L/min if the SpO2 drops",
+          "correct": false,
+          "rationale": "Nasal cannula flow is limited to about 6 L/min; higher flows add little oxygen and irritate the mucosa. A different device (such as a mask) is needed for higher FiO2."
+        }
+      ],
+      "explanation": "Oxygen is a drug with side effects. Nursing care includes humidification for higher flows, water-based lubricant, skin protection from tubing, and fire safety. If a client needs more oxygen than a nasal cannula can deliver (about 6 L/min, roughly 44%), the nurse changes devices instead of increasing the flow."
+    },
+    {
+      "id": "chest-trauma-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a flail chest has received oxygen at FiO2 0.80 for 48 hours. The client now reports burning substernal chest discomfort, tingling in the hands and feet, a dry cough, and increasing fatigue. Which complication should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxygen toxicity",
+          "correct": true,
+          "rationale": "High concentrations of oxygen (above about 50%) for more than 24-48 hours can injure lung tissue. Early signs include substernal discomfort, paresthesias, dry cough, dyspnea, restlessness, and fatigue."
+        },
+        {
+          "id": "b",
+          "text": "CO2 narcosis",
+          "correct": false,
+          "rationale": "CO2 narcosis occurs in clients with chronic hypercapnia given too much oxygen; it causes drowsiness, confusion, and a falling respiratory rate, not substernal burning and paresthesias."
+        },
+        {
+          "id": "c",
+          "text": "Acute myocardial infarction",
+          "correct": false,
+          "rationale": "Chest pain should always be evaluated, but this cluster of burning discomfort, paresthesias, and dry cough after prolonged high FiO2 fits oxygen toxicity."
+        },
+        {
+          "id": "d",
+          "text": "Absorption atelectasis from mucus plugging",
+          "correct": false,
+          "rationale": "Absorption atelectasis can occur with high FiO2 because nitrogen is washed out of alveoli, but it presents with decreased breath sounds and worsening hypoxemia, not paresthesias."
+        }
+      ],
+      "explanation": "Oxygen toxicity can develop when FiO2 above about 50% is given for more than 24-48 hours. Signs include substernal discomfort, paresthesias, dry cough, dyspnea, restlessness, and fatigue, and it can progress to ARDS-like lung injury. Prevention is using the lowest FiO2 that keeps the SpO2 or PaO2 in the target range; PEEP may allow the FiO2 to be lowered."
+    },
+    {
+      "id": "chest-trauma-19",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with a large right pneumothorax remains at SpO2 86% even on a nonrebreather mask. Which explanation best describes why the hypoxemia does not improve much with oxygen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alveoli are ventilated but not perfused, creating dead space",
+          "correct": false,
+          "rationale": "Ventilation without perfusion (high V/Q, dead space) is the mechanism in pulmonary embolism, not in a collapsed lung."
+        },
+        {
+          "id": "b",
+          "text": "The alveolar-capillary membrane is thickened, slowing diffusion",
+          "correct": false,
+          "rationale": "Diffusion problems occur with conditions such as pulmonary fibrosis; supplemental oxygen usually improves them."
+        },
+        {
+          "id": "c",
+          "text": "Blood keeps flowing past collapsed alveoli that receive no air, creating a shunt",
+          "correct": true,
+          "rationale": "The collapsed lung is still perfused but not ventilated (V/Q near zero). That blood returns to the left heart without picking up oxygen, so extra inspired oxygen cannot reach it."
+        },
+        {
+          "id": "d",
+          "text": "The respiratory center in the brainstem is depressed",
+          "correct": false,
+          "rationale": "Central hypoventilation from CNS depression is not the problem here; the client is breathing rapidly."
+        }
+      ],
+      "explanation": "Normal V/Q is about 0.8. When alveoli collapse (pneumothorax, atelectasis) or fill with fluid, perfusion continues without ventilation, creating a shunt (low V/Q). Shunted blood never meets the inspired oxygen, so hypoxemia responds poorly to oxygen alone. Re-expanding the lung, for example with a chest tube, is what corrects it."
+    },
+    {
+      "id": "chest-trauma-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client has a right lower lobe pulmonary contusion from a fall. The client is alert and not intubated. When repositioning the client, which position should the nurse choose to best improve oxygenation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right side-lying with the head of the bed flat",
+          "correct": false,
+          "rationale": "Placing the injured lung down sends more blood flow to the poorly ventilated lung, worsening V/Q mismatch; a flat bed also limits chest expansion."
+        },
+        {
+          "id": "b",
+          "text": "Left side-lying with the head of the bed elevated",
+          "correct": true,
+          "rationale": "With the good (left) lung down, gravity sends more blood flow to the better-ventilated lung, improving V/Q matching. Head elevation helps the diaphragm descend."
+        },
+        {
+          "id": "c",
+          "text": "Supine with the head of the bed flat",
+          "correct": false,
+          "rationale": "Lying flat lets the abdominal contents push up on the diaphragm and reduces lung expansion."
+        },
+        {
+          "id": "d",
+          "text": "Trendelenburg position",
+          "correct": false,
+          "rationale": "Head-down positioning increases pressure on the diaphragm and makes breathing harder."
+        }
+      ],
+      "explanation": "For clients with disease mainly in one lung, positioning with the good lung down improves V/Q matching because gravity sends more blood to the dependent, better-ventilated lung. Elevating the head of the bed also improves lung expansion. Positioning is a simple, effective nursing action to improve oxygenation."
+    },
+    {
+      "id": "chest-trauma-21",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse provides discharge teaching to a client recovering from a primary spontaneous pneumothorax. Which statements by the client indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'm going to quit smoking because it increases my chance of another collapsed lung.\"",
+          "correct": true,
+          "rationale": "Smoking is a major risk factor for spontaneous pneumothorax and for recurrence, so quitting reduces the risk."
+        },
+        {
+          "id": "b",
+          "text": "\"I will go to the emergency department if I suddenly feel short of breath or have sharp chest pain.\"",
+          "correct": true,
+          "rationale": "Recurrence is common; sudden dyspnea or pleuritic chest pain may mean the lung has collapsed again and needs prompt evaluation."
+        },
+        {
+          "id": "c",
+          "text": "\"I plan to go scuba diving on my vacation next month.\"",
+          "correct": false,
+          "rationale": "Scuba diving involves large pressure changes that can cause a pneumothorax; it is generally discouraged after a spontaneous pneumothorax unless definitive surgical treatment is done. This statement needs more teaching."
+        },
+        {
+          "id": "d",
+          "text": "\"I will check with my provider before I travel by airplane.\"",
+          "correct": true,
+          "rationale": "Changes in cabin pressure can enlarge a remaining pneumothorax; air travel is usually delayed until x-ray confirms the lung has fully re-expanded."
+        },
+        {
+          "id": "e",
+          "text": "\"Since my lung is healed, this can never happen again.\"",
+          "correct": false,
+          "rationale": "Spontaneous pneumothorax has a high recurrence rate, so the client needs to know the warning signs."
+        }
+      ],
+      "explanation": "After a spontaneous pneumothorax, teaching focuses on recurrence risk: quitting smoking, recognizing sudden dyspnea or pleuritic pain, and avoiding large pressure changes such as scuba diving and early air travel until cleared. Recurrent episodes may require pleurodesis or surgery."
+    },
+    {
+      "id": "chest-trauma-22",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client is brought to the emergency department with a gunshot wound to the left chest. Air is heard sucking into the wound with each breath. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Immediately cover the wound with a gloved hand"
+        },
+        {
+          "id": "b",
+          "text": "Apply a sterile occlusive dressing (or vented chest seal) secured on three sides"
+        },
+        {
+          "id": "c",
+          "text": "Apply high-flow oxygen by nonrebreather mask"
+        },
+        {
+          "id": "d",
+          "text": "Reassess breath sounds, tracheal position, and blood pressure for signs of tension pneumothorax"
+        },
+        {
+          "id": "e",
+          "text": "Prepare the client for chest tube insertion"
+        }
+      ],
+      "explanation": "The open wound is the cause of the breathing problem, so it is covered at once with a gloved hand to stop air entry, then sealed with a three-sided or vented dressing that lets air escape. High-flow oxygen supports oxygenation. Because a sealed wound can lead to tension pneumothorax, the nurse reassesses closely, then prepares for the chest tube that will re-expand the lung."
+    }
+  ]
+}

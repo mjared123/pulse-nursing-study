@@ -1,0 +1,179 @@
+{
+  "slug": "cardiac-injury",
+  "title": "Cardiac Injury",
+  "short": "Cardiac Injury",
+  "icon": "shield",
+  "description": "Blunt and penetrating cardiac trauma, including myocardial contusion, commotio cordis, dysrhythmia monitoring, and recognizing tamponade after injury.",
+  "keyPoints": [
+    "Blunt cardiac injury (myocardial contusion) is usually caused by a steering wheel, airbag, or sternal impact. Suspect it with chest wall bruising, sternal fractures, or unexplained tachycardia.",
+    "Workup: 12-lead ECG and troponin on arrival. A normal ECG plus normal troponin largely rules out significant blunt cardiac injury.",
+    "Dysrhythmias are the main danger: sinus tachycardia (most common), PVCs, atrial fibrillation, bundle branch blocks, VT/VF. Place the client on continuous cardiac monitoring.",
+    "Penetrating chest trauma: never remove an impaled object. Watch for hemorrhage and tamponade.",
+    "Beck's triad (hypotension, JVD, muffled heart sounds) after chest trauma means tamponade. Prepare for pericardiocentesis or surgery.",
+    "Commotio cordis: a blow to the chest (baseball, hockey puck) at the vulnerable moment of repolarization causes VF. Treat with immediate CPR and an AED.",
+    "Priorities follow ABCs: airway, breathing, circulation with large-bore IVs, then rhythm and perfusion monitoring."
+  ],
+  "questions": [
+    {
+      "id": "cardiac-injury-01",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An unrestrained driver struck the steering wheel in a head-on collision. The client has bruising over the sternum, HR 118/min, BP 112/70 mm Hg, and SpO2 96% on room air. Which diagnostic test should the nurse anticipate first to screen for blunt cardiac injury?",
+      "options": [
+        { "id": "a", "text": "Cardiac catheterization", "correct": false, "rationale": "Cardiac catheterization is invasive and is not a screening test for myocardial contusion. It is used if a coronary artery injury or acute coronary occlusion is suspected." },
+        { "id": "b", "text": "12-lead ECG", "correct": true, "rationale": "A 12-lead ECG is the initial screening test for blunt cardiac injury. It is quick and noninvasive and detects dysrhythmias, conduction blocks, and ST changes." },
+        { "id": "c", "text": "Exercise stress test", "correct": false, "rationale": "A stress test is unsafe and inappropriate in an acutely injured trauma client." },
+        { "id": "d", "text": "Serum B-type natriuretic peptide (BNP)", "correct": false, "rationale": "BNP reflects ventricular stretch in heart failure. It is not used to screen for myocardial contusion; troponin is the biomarker of choice." }
+      ],
+      "explanation": "Any client with significant blunt chest trauma should have a 12-lead ECG and serum troponin on arrival. An abnormal ECG or rising troponin calls for continuous monitoring. Echocardiography is added if the client is hemodynamically unstable."
+    },
+    {
+      "id": "cardiac-injury-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with suspected myocardial contusion asks why blood is being drawn for troponin. Which response by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "It measures how well your blood is clotting after the injury.", "correct": false, "rationale": "Clotting is evaluated with PT/INR, aPTT, and platelets. Troponin does not measure coagulation." },
+        { "id": "b", "text": "It checks your kidney function before you receive contrast dye.", "correct": false, "rationale": "Kidney function is assessed with BUN and creatinine, not troponin." },
+        { "id": "c", "text": "It shows whether your lungs were bruised.", "correct": false, "rationale": "Pulmonary contusion is evaluated with imaging and oxygenation. Troponin is specific to heart muscle." },
+        { "id": "d", "text": "Troponin is released when heart muscle cells are damaged, so it helps show whether the heart was bruised.", "correct": true, "rationale": "Troponin is a cardiac-specific protein released from injured myocardial cells. Elevation after chest trauma supports myocardial contusion." }
+      ],
+      "explanation": "Troponin is the most sensitive and specific marker of myocardial cell injury. In blunt chest trauma, an elevated or rising troponin together with ECG changes supports blunt cardiac injury and the need for monitoring, while a normal ECG and troponin make significant injury unlikely."
+    },
+    {
+      "id": "cardiac-injury-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is admitted to the progressive care unit with a myocardial contusion after a motor vehicle crash. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Maintain continuous cardiac monitoring", "correct": true, "rationale": "Dysrhythmias are the most common complication of myocardial contusion and can be life-threatening, so continuous monitoring is essential." },
+        { "id": "b", "text": "Trend serial troponin levels as prescribed", "correct": true, "rationale": "Serial troponins show whether myocardial injury is evolving." },
+        { "id": "c", "text": "Assess for hypotension, JVD, and muffled heart sounds", "correct": true, "rationale": "Bleeding into the pericardial sac can cause tamponade. Beck's triad must be watched for." },
+        { "id": "d", "text": "Encourage the client to ambulate in the hallway every 2 hours on the first day", "correct": false, "rationale": "Activity is limited early because of injuries and dysrhythmia risk. Ambulation increases cardiac workload while the client needs close monitoring." },
+        { "id": "e", "text": "Provide adequate pain control for chest wall injuries", "correct": true, "rationale": "Chest wall pain limits deep breathing and coughing, which increases the risk of atelectasis and pneumonia. Pain also raises heart rate and oxygen demand." },
+        { "id": "f", "text": "Withhold oxygen to avoid masking a drop in SpO2", "correct": false, "rationale": "Oxygen is given to keep SpO2 in the target range (usually ≥ 94% in trauma). Withholding it risks hypoxemia and increases dysrhythmia risk." }
+      ],
+      "explanation": "Care of myocardial contusion is mostly supportive: continuous ECG monitoring, serial troponins, oxygen as needed, pain control, and watching for complications such as dysrhythmias, heart failure, and tamponade."
+    },
+    {
+      "id": "cardiac-injury-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a blunt cardiac injury is on telemetry. Which finding should the nurse report to the provider immediately?",
+      "options": [
+        { "id": "a", "text": "Sinus tachycardia at 104/min with reports of chest wall pain of 6/10", "correct": false, "rationale": "Mild sinus tachycardia is the most common rhythm after chest trauma and often reflects pain or anxiety. It needs assessment and pain control but is not the most urgent finding." },
+        { "id": "b", "text": "Bruising over the sternum", "correct": false, "rationale": "Sternal bruising is an expected finding after steering-wheel impact and is the reason the client is being monitored." },
+        { "id": "c", "text": "Runs of nonsustained ventricular tachycardia", "correct": true, "rationale": "Runs of VT show ventricular irritability from injured myocardium and can progress to sustained VT or VF. This needs immediate treatment." },
+        { "id": "d", "text": "Troponin slightly elevated, unchanged from the previous draw", "correct": false, "rationale": "A stable, mildly elevated troponin fits a known contusion. It is less urgent than a potentially lethal ventricular dysrhythmia." }
+      ],
+      "explanation": "Injured myocardium is irritable, and ventricular dysrhythmias are the most dangerous early complication of blunt cardiac injury. Sinus tachycardia is common and usually reflects pain, hypovolemia, or anxiety, but VT can deteriorate into a pulseless rhythm."
+    },
+    {
+      "id": "cardiac-injury-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client arrives after a stab wound to the left chest. BP has dropped from 110/70 to 78/56 mm Hg, neck veins are distended, and heart sounds are difficult to hear. Breath sounds are present and equal bilaterally. Which complication should the nurse suspect?",
+      "options": [
+        { "id": "a", "text": "Tension pneumothorax", "correct": false, "rationale": "Tension pneumothorax also causes hypotension and JVD, but breath sounds are absent on the affected side and the trachea deviates. This client has equal breath sounds." },
+        { "id": "b", "text": "Cardiac tamponade", "correct": true, "rationale": "Hypotension, JVD, and muffled heart sounds form Beck's triad. Blood collecting in the pericardial sac after penetrating trauma compresses the heart." },
+        { "id": "c", "text": "Hypovolemic shock from external bleeding alone", "correct": false, "rationale": "Hypovolemia causes hypotension with flat neck veins, not JVD." },
+        { "id": "d", "text": "Myocardial contusion", "correct": false, "rationale": "Contusion usually follows blunt trauma and presents with dysrhythmias and troponin elevation, not muffled heart sounds and JVD." }
+      ],
+      "explanation": "Beck's triad (hypotension, JVD, muffled heart sounds) after penetrating chest trauma indicates cardiac tamponade. Equal breath sounds help distinguish it from tension pneumothorax. Treatment is emergency pericardiocentesis or surgical repair."
+    },
+    {
+      "id": "cardiac-injury-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client arrives in the emergency department with a knife still impaled in the left anterior chest. The client is alert, BP 104/68 mm Hg, HR 112/min. Which action should the nurse take?",
+      "options": [
+        { "id": "a", "text": "Remove the knife and apply direct pressure to the wound", "correct": false, "rationale": "Removing the object can release a tamponade effect and cause massive hemorrhage. It is removed only in the operating room." },
+        { "id": "b", "text": "Stabilize the object in place with bulky dressings and prepare for surgery", "correct": true, "rationale": "An impaled object is stabilized where it is to prevent movement and further injury while the client is prepared for surgical removal." },
+        { "id": "c", "text": "Probe the wound to estimate its depth", "correct": false, "rationale": "Probing can cause further damage and bleeding. Depth is assessed with imaging and in surgery." },
+        { "id": "d", "text": "Place the client in the prone position", "correct": false, "rationale": "Prone positioning would push on the impaled object and makes airway management and assessment difficult." }
+      ],
+      "explanation": "With penetrating chest trauma and an impaled object, the object is stabilized in place and only removed in the operating room. Other priorities are airway, breathing, large-bore IV access, blood products, and monitoring for tamponade and hemorrhage."
+    },
+    {
+      "id": "cardiac-injury-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 14-year-old baseball player collapses on the field after being struck in the center of the chest by a pitched ball. The player is unresponsive and not breathing normally. What should the school nurse do first after calling for help?",
+      "options": [
+        { "id": "a", "text": "Apply ice to the chest and observe the player", "correct": false, "rationale": "An unresponsive client who is not breathing normally is in cardiac arrest. Observing delays life-saving CPR." },
+        { "id": "b", "text": "Place the player in the recovery position", "correct": false, "rationale": "The recovery position is for an unresponsive client who is breathing normally with a pulse. This player needs CPR." },
+        { "id": "c", "text": "Wait for EMS to bring a monitor before acting", "correct": false, "rationale": "Survival from VF falls with every minute without CPR and defibrillation. The nurse must act immediately." },
+        { "id": "d", "text": "Begin chest compressions and use an AED as soon as it is available", "correct": true, "rationale": "This is likely commotio cordis, where a blow to the chest triggers VF. Immediate CPR and early defibrillation are the only effective treatment." }
+      ],
+      "explanation": "Commotio cordis is sudden cardiac arrest caused by a low-energy blunt blow to the chest that occurs during the vulnerable phase of repolarization, triggering VF. The heart is often structurally normal, so survival depends on immediate CPR and rapid AED defibrillation."
+    },
+    {
+      "id": "cardiac-injury-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client arrives in the trauma bay after a high-speed motor vehicle crash with chest wall bruising and tachycardia. Place the nurse's actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Assess airway patency with cervical spine protection" },
+        { "id": "b", "text": "Assess breathing, breath sounds, and SpO2, and apply oxygen" },
+        { "id": "c", "text": "Insert 2 large-bore IVs and assess BP and pulses" },
+        { "id": "d", "text": "Obtain a 12-lead ECG and draw a troponin level" },
+        { "id": "e", "text": "Place the client on continuous cardiac monitoring for transfer" }
+      ],
+      "explanation": "The primary survey follows ABCs: airway with spinal protection, breathing and oxygenation, then circulation with large-bore IV access. Once immediate threats are managed, the 12-lead ECG and troponin screen for blunt cardiac injury, and continuous monitoring continues through transfer."
+    },
+    {
+      "id": "cardiac-injury-09",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing a client 6 hours after blunt chest trauma from a steering wheel. Which findings suggest blunt cardiac injury may be developing complications? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "New irregularly irregular rhythm on the monitor", "correct": true, "rationale": "New atrial fibrillation is a recognized dysrhythmia after myocardial contusion and can reduce cardiac output." },
+        { "id": "b", "text": "Narrowing pulse pressure with rising JVD", "correct": true, "rationale": "A narrowing pulse pressure with JVD suggests rising pericardial pressure from blood in the pericardial sac, an early sign of tamponade." },
+        { "id": "c", "text": "Crackles and a new S3 heart sound", "correct": true, "rationale": "These suggest ventricular dysfunction and heart failure from damaged myocardium." },
+        { "id": "d", "text": "Pain at the site of chest wall bruising with deep breaths", "correct": false, "rationale": "Pain with deep breathing is expected with chest wall injury and does not by itself indicate a cardiac complication." },
+        { "id": "e", "text": "BP 122/76 mm Hg and HR 88/min, unchanged from admission", "correct": false, "rationale": "Stable, normal vital signs do not suggest a complication." }
+      ],
+      "explanation": "Complications of blunt cardiac injury include dysrhythmias (AF, PVCs, VT), ventricular dysfunction or heart failure, valve or septal injury, and pericardial bleeding with tamponade. Serial assessment of rhythm, heart sounds, JVD, BP, and breath sounds detects these early."
+    },
+    {
+      "id": "cardiac-injury-10",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which mechanism of injury most commonly causes myocardial contusion?",
+      "options": [
+        { "id": "a", "text": "Deceleration impact against a steering wheel", "correct": true, "rationale": "A rapid-deceleration motor vehicle crash in which the chest strikes the steering wheel compresses the heart between the sternum and spine. It is the classic mechanism." },
+        { "id": "b", "text": "A gunshot wound to the abdomen", "correct": false, "rationale": "A gunshot wound is penetrating trauma, and an abdominal wound does not typically bruise the myocardium." },
+        { "id": "c", "text": "Inhalation of smoke in a house fire", "correct": false, "rationale": "Smoke inhalation causes airway and lung injury and carbon monoxide poisoning, not myocardial contusion." },
+        { "id": "d", "text": "A fall onto an outstretched hand", "correct": false, "rationale": "A fall onto an outstretched hand typically causes wrist or arm fractures, not cardiac injury." }
+      ],
+      "explanation": "Myocardial contusion results from blunt force, most commonly a motor vehicle crash with the chest striking the steering wheel. Falls from height, crush injuries, and direct blows can also cause it."
+    },
+    {
+      "id": "cardiac-injury-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a gunshot wound to the chest is hypotensive and tachycardic. Which actions should the nurse anticipate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Insert 2 large-bore IV catheters", "correct": true, "rationale": "Large-bore access (16- or 18-gauge or larger) is needed for rapid infusion of blood products and fluids." },
+        { "id": "b", "text": "Prepare for transfusion of blood products", "correct": true, "rationale": "Hemorrhagic shock is treated with blood products, often through a massive transfusion protocol, instead of large volumes of crystalloid." },
+        { "id": "c", "text": "Prepare for a focused assessment with sonography for trauma (FAST) exam", "correct": true, "rationale": "A bedside FAST exam quickly detects pericardial fluid (tamponade) and intra-abdominal or thoracic bleeding." },
+        { "id": "d", "text": "Administer a large dose of furosemide", "correct": false, "rationale": "A diuretic would deplete intravascular volume in a client in hemorrhagic shock." },
+        { "id": "e", "text": "Prepare the client for emergency surgery", "correct": true, "rationale": "Penetrating cardiac injury with hemodynamic instability usually requires urgent thoracotomy or sternotomy to control bleeding." }
+      ],
+      "explanation": "Hemodynamically unstable penetrating chest trauma requires rapid ABCs, large-bore IV access, blood products, a bedside FAST exam to look for pericardial fluid, and preparation for emergency surgery. Diuretics are contraindicated."
+    },
+    {
+      "id": "cardiac-injury-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client was admitted for observation after blunt chest trauma. The initial ECG showed sinus rhythm and the first troponin was normal. Which finding 6 hours later best indicates the client can likely be discharged from cardiac monitoring?",
+      "options": [
+        { "id": "a", "text": "The client reports chest wall pain is 3/10", "correct": false, "rationale": "Improved pain is reassuring but does not rule out myocardial injury or dysrhythmia." },
+        { "id": "b", "text": "The client's SpO2 is 97% on room air", "correct": false, "rationale": "Adequate oxygenation reflects lung function, not the absence of cardiac injury." },
+        { "id": "c", "text": "Repeat troponin is normal and the ECG shows no new changes", "correct": true, "rationale": "A normal ECG with normal serial troponins has a high negative predictive value for significant blunt cardiac injury." },
+        { "id": "d", "text": "The client's BP is 136/84 mm Hg", "correct": false, "rationale": "A normal BP alone does not exclude contusion or an evolving dysrhythmia." }
+      ],
+      "explanation": "Trauma guidelines indicate that a normal ECG together with normal troponin effectively rules out clinically significant blunt cardiac injury. Clients with abnormal findings need continued monitoring, and hemodynamically unstable clients need an echocardiogram."
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "slug": "svt-st-sb",
+  "title": "SVT / Sinus Tachycardia / Sinus Bradycardia",
+  "short": "SVT, ST & SB",
+  "icon": "zap",
+  "description": "Recognition, causes, and nursing management of supraventricular tachycardia, sinus tachycardia, and sinus bradycardia, including vagal maneuvers, adenosine, cardioversion, atropine, and pacing.",
+  "keyPoints": [
+    "Sinus tachycardia (rate 101-150, upright P before every QRS) is a response to something: fever, pain, hypovolemia, anxiety, hypoxia. Treat the cause, not the rate.",
+    "SVT: regular, narrow QRS, rate usually 150-220, P waves hidden in the preceding T wave; starts and stops abruptly.",
+    "Stable SVT: vagal maneuvers first, then adenosine 6 mg rapid IV push followed immediately by a 20 mL NS flush (12 mg if no conversion). Warn of brief asystole, flushing, and chest pressure.",
+    "Unstable SVT (hypotension, altered mental status, chest pain, acute HF, signs of shock): synchronized cardioversion. Sedate if time permits.",
+    "Sinus bradycardia (rate < 60) needs no treatment if asymptomatic: athletes, sleep, vagal stimulation. Look for beta blockers, hypothermia, increased ICP, hypothyroidism.",
+    "Symptomatic bradycardia: atropine 1 mg IV every 3-5 min (max 3 mg). If ineffective: transcutaneous pacing or dopamine (5-20 mcg/kg/min) or epinephrine (2-10 mcg/min) infusion.",
+    "Transcutaneous pacing: give analgesia/sedation, confirm electrical capture on the monitor AND mechanical capture with a palpable femoral pulse."
+  ],
+  "questions": [
+    {
+      "id": "svt-st-sb-01",
+      "type": "single",
+      "bloom": "analyze",
+      "ecg": "svt",
+      "stem": "A 28-year-old client presents to the emergency department reporting a sudden 'racing heart' that started while climbing stairs. The nurse analyzes the rhythm strip shown: regular rhythm, rate 188/min, narrow QRS complexes, and P waves that cannot be identified. Which rhythm should the nurse document?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sinus tachycardia",
+          "correct": false,
+          "rationale": "Sinus tachycardia has a visible upright P wave before every QRS and usually a rate of 101-150/min with a gradual onset; this strip has no identifiable P waves and a rate near 190."
+        },
+        {
+          "id": "b",
+          "text": "Atrial fibrillation",
+          "correct": false,
+          "rationale": "Atrial fibrillation is irregularly irregular with a fibrillatory baseline. This rhythm is regular."
+        },
+        {
+          "id": "c",
+          "text": "Supraventricular tachycardia",
+          "correct": true,
+          "rationale": "A regular, narrow-complex rhythm at 150-220/min with P waves buried in the preceding T wave and an abrupt onset is classic SVT."
+        },
+        {
+          "id": "d",
+          "text": "Ventricular tachycardia",
+          "correct": false,
+          "rationale": "Ventricular tachycardia has wide (≥ 0.12 sec), bizarre QRS complexes. Narrow QRS complexes show the impulse is conducted through the normal His-Purkinje pathway, so the origin is above the ventricles."
+        }
+      ],
+      "explanation": "SVT originates above the ventricles, so the QRS stays narrow. Its hallmarks are a regular rate of about 150-220/min, P waves hidden in the T waves, and a sudden onset and termination. Narrow vs. wide QRS and regular vs. irregular are the first two questions to ask of any tachycardia."
+    },
+    {
+      "id": "svt-st-sb-02",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "sinus_tach",
+      "stem": "A client is 1 day postoperative after a bowel resection. The nurse analyzes the rhythm strip shown: regular rhythm at 128/min with an upright P wave before every QRS, PR interval 0.16 sec, QRS 0.08 sec. Vital signs: T 38.9°C (102°F), BP 98/60 mm Hg, RR 22/min. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Request a prescription for IV metoprolol to slow the heart rate",
+          "correct": false,
+          "rationale": "Slowing a compensatory sinus tachycardia with a beta blocker removes the body's way of keeping cardiac output up and may worsen hypotension. The cause must be treated instead."
+        },
+        {
+          "id": "b",
+          "text": "Assess for the cause, such as infection, fluid loss, and pain, and notify the provider",
+          "correct": true,
+          "rationale": "This is sinus tachycardia, a compensatory response. Fever, borderline BP, and the postoperative setting point to infection, hypovolemia, or pain, which must be identified and treated."
+        },
+        {
+          "id": "c",
+          "text": "Prepare to administer adenosine 6 mg rapid IV push",
+          "correct": false,
+          "rationale": "Adenosine treats re-entrant SVT. It will not convert a sinus rhythm and only causes a transient slowing before the tachycardia returns."
+        },
+        {
+          "id": "d",
+          "text": "Coach the client to perform a modified Valsalva maneuver",
+          "correct": false,
+          "rationale": "Vagal maneuvers are used to terminate SVT. They do not correct sinus tachycardia, which is driven by a physiologic stressor."
+        }
+      ],
+      "explanation": "Sinus tachycardia has normal intervals and a P wave before every QRS, just at a rate above 100/min. It is almost always compensatory (fever, hypovolemia, pain, anxiety, hypoxia, anemia), so the nurse treats the cause. Rate-controlling drugs can be harmful when the tachycardia is maintaining cardiac output."
+    },
+    {
+      "id": "svt-st-sb-03",
+      "type": "single",
+      "bloom": "remember",
+      "ecg": "sinus_brady",
+      "stem": "The nurse analyzes the rhythm strip shown: regular rhythm, rate 48/min, upright P wave before every QRS, PR interval 0.18 sec, QRS 0.08 sec. How should the nurse interpret this rhythm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sinus bradycardia",
+          "correct": true,
+          "rationale": "Sinus bradycardia has all the features of normal sinus rhythm (one P per QRS, normal PR and QRS), with a rate below 60/min."
+        },
+        {
+          "id": "b",
+          "text": "Normal sinus rhythm",
+          "correct": false,
+          "rationale": "Normal sinus rhythm requires a rate of 60-100/min. At 48/min this is bradycardia."
+        },
+        {
+          "id": "c",
+          "text": "Third-degree heart block",
+          "correct": false,
+          "rationale": "Complete heart block shows P waves marching independently of the QRS complexes with no consistent PR interval. Here every P is followed by a QRS at a constant PR."
+        },
+        {
+          "id": "d",
+          "text": "Junctional rhythm",
+          "correct": false,
+          "rationale": "A junctional rhythm (40-60/min) has absent, inverted, or retrograde P waves. This strip has upright P waves with a normal PR interval."
+        }
+      ],
+      "explanation": "Sinus bradycardia is a sinus rhythm with a rate below 60/min and otherwise normal P waves, PR interval, and QRS. Whether it needs treatment depends entirely on whether the client has symptoms of poor perfusion."
+    },
+    {
+      "id": "svt-st-sb-04",
+      "type": "single",
+      "bloom": "analyze",
+      "ecg": "nsr",
+      "stem": "A client in stable SVT at 192/min received adenosine 6 mg rapid IV push followed by a saline flush. After a brief pause, the monitor shows the strip pictured: regular rhythm, rate 82/min, upright P wave before every QRS, PR 0.16 sec, QRS 0.08 sec. How should the nurse interpret this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The adenosine was ineffective and a 12 mg dose is needed",
+          "correct": false,
+          "rationale": "A second 12 mg dose is given only if the SVT persists. The rhythm has converted, so further doses are not indicated."
+        },
+        {
+          "id": "b",
+          "text": "The client has developed sinus bradycardia from the adenosine",
+          "correct": false,
+          "rationale": "A rate of 82/min is within the normal 60-100/min range, so this is not bradycardia."
+        },
+        {
+          "id": "c",
+          "text": "The rhythm is sinus tachycardia, the expected result of adenosine",
+          "correct": false,
+          "rationale": "Sinus tachycardia requires a rate over 100/min. This rate is 82/min."
+        },
+        {
+          "id": "d",
+          "text": "The client has converted to normal sinus rhythm",
+          "correct": true,
+          "rationale": "A regular rhythm at 60-100/min with a P wave before every QRS and normal intervals is normal sinus rhythm, meaning adenosine terminated the re-entrant circuit."
+        }
+      ],
+      "explanation": "Adenosine briefly blocks conduction through the AV node, which interrupts the re-entry circuit that sustains most SVT. A successful dose is followed by a short pause and then a sinus rhythm. The nurse continues monitoring because SVT can recur."
+    },
+    {
+      "id": "svt-st-sb-05",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing the charts of clients on a medical-surgical unit. Which conditions would the nurse recognize as common causes of sinus tachycardia? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Temperature of 39.2°C (102.6°F)",
+          "correct": true,
+          "rationale": "Fever increases metabolic demand; heart rate rises roughly 10 beats/min for each 1°C of temperature elevation."
+        },
+        {
+          "id": "b",
+          "text": "Postoperative pain rated 8/10",
+          "correct": true,
+          "rationale": "Pain triggers sympathetic stimulation and catecholamine release, which accelerates the SA node."
+        },
+        {
+          "id": "c",
+          "text": "Hypovolemia from GI bleeding",
+          "correct": true,
+          "rationale": "Low circulating volume reduces stroke volume, so heart rate increases to maintain cardiac output (CO = HR × SV)."
+        },
+        {
+          "id": "d",
+          "text": "Hypothermia after prolonged cold exposure",
+          "correct": false,
+          "rationale": "Hypothermia slows the SA node and is a cause of sinus bradycardia, not tachycardia."
+        },
+        {
+          "id": "e",
+          "text": "Anxiety before a procedure",
+          "correct": true,
+          "rationale": "Anxiety activates the sympathetic nervous system and commonly produces sinus tachycardia."
+        },
+        {
+          "id": "f",
+          "text": "Scheduled metoprolol therapy",
+          "correct": false,
+          "rationale": "Beta blockers decrease SA node firing and cause bradycardia. Abrupt withdrawal of a beta blocker could cause rebound tachycardia, but therapy itself does not."
+        }
+      ],
+      "explanation": "Sinus tachycardia is usually a physiologic response to increased demand or decreased output: fever, pain, hypovolemia, anxiety, hypoxia, anemia, hyperthyroidism, and stimulants. Hypothermia and beta blockers slow the heart instead."
+    },
+    {
+      "id": "svt-st-sb-06",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Which client situations would the nurse identify as possible causes of sinus bradycardia? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A marathon runner with a resting heart rate of 46/min",
+          "correct": true,
+          "rationale": "Endurance training increases stroke volume and vagal tone, so well-conditioned athletes often have a resting rate in the 40s-50s without symptoms."
+        },
+        {
+          "id": "b",
+          "text": "A client with untreated hyperthyroidism",
+          "correct": false,
+          "rationale": "Excess thyroid hormone increases metabolic rate and sympathetic sensitivity, causing sinus tachycardia. Hypothyroidism, not hyperthyroidism, causes bradycardia."
+        },
+        {
+          "id": "c",
+          "text": "A client with a head injury and rising intracranial pressure",
+          "correct": true,
+          "rationale": "Increased ICP produces Cushing's triad: bradycardia, widening pulse pressure, and irregular respirations."
+        },
+        {
+          "id": "d",
+          "text": "A client taking atenolol for hypertension",
+          "correct": true,
+          "rationale": "Beta blockers decrease SA node automaticity and AV conduction, a common cause of drug-induced bradycardia."
+        },
+        {
+          "id": "e",
+          "text": "A client with a hemoglobin of 7.1 g/dL",
+          "correct": false,
+          "rationale": "Anemia lowers oxygen-carrying capacity, so the heart rate rises to compensate. It causes tachycardia, not bradycardia."
+        },
+        {
+          "id": "f",
+          "text": "A client with a core temperature of 33°C (91.4°F)",
+          "correct": true,
+          "rationale": "Hypothermia slows SA node depolarization and is a common cause of bradycardia."
+        }
+      ],
+      "explanation": "Sinus bradycardia can be normal (athletes, sleep) or caused by vagal stimulation (straining, vomiting, suctioning), medications (beta blockers, calcium channel blockers, digoxin), hypothermia, hypothyroidism, increased ICP, or inferior MI. Anemia and hyperthyroidism cause tachycardia."
+    },
+    {
+      "id": "svt-st-sb-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 22-year-old college swimmer is admitted for an ankle fracture. Telemetry shows sinus bradycardia at 44/min. BP is 118/72 mm Hg, the client is alert and oriented, skin is warm and dry, and the client denies dizziness or chest pain. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prepare to administer atropine 1 mg IV",
+          "correct": false,
+          "rationale": "Atropine is only for symptomatic bradycardia. This client has no signs of poor perfusion."
+        },
+        {
+          "id": "b",
+          "text": "Apply transcutaneous pacing pads and prepare to pace",
+          "correct": false,
+          "rationale": "Pacing is used for symptomatic bradycardia that does not respond to atropine. It is not needed for an asymptomatic athlete."
+        },
+        {
+          "id": "c",
+          "text": "Document the rhythm and continue to monitor the client",
+          "correct": true,
+          "rationale": "A trained athlete commonly has a resting rate in the 40s. With a normal BP, normal mentation, and no symptoms, no treatment is needed."
+        },
+        {
+          "id": "d",
+          "text": "Notify the rapid response team",
+          "correct": false,
+          "rationale": "The client is hemodynamically stable with no symptoms, so a rapid response is not indicated."
+        }
+      ],
+      "explanation": "Treatment of bradycardia is based on symptoms, not the number. Asymptomatic sinus bradycardia, especially in athletes, is documented and monitored. Signs that would change management include hypotension, altered mental status, chest pain, dyspnea, syncope, or signs of shock."
+    },
+    {
+      "id": "svt-st-sb-08",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "sinus_brady",
+      "stem": "A client becomes dizzy and pale while ambulating. The nurse helps the client back to bed and analyzes the rhythm strip shown: sinus bradycardia at 38/min. BP is 78/44 mm Hg and the client is confused. Oxygen is applied and IV access is in place. Which medication should the nurse anticipate administering first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adenosine 6 mg rapid IV push",
+          "correct": false,
+          "rationale": "Adenosine blocks the AV node and is used for SVT. In bradycardia it could cause further slowing or asystole."
+        },
+        {
+          "id": "b",
+          "text": "Atropine 1 mg IV push",
+          "correct": true,
+          "rationale": "Atropine is the first-line drug for symptomatic bradycardia. It blocks vagal effects on the SA and AV nodes and is given 1 mg IV every 3-5 minutes, up to 3 mg."
+        },
+        {
+          "id": "c",
+          "text": "Metoprolol 5 mg IV push",
+          "correct": false,
+          "rationale": "Metoprolol is a beta blocker that slows the heart rate and lowers BP. It would worsen this client's condition."
+        },
+        {
+          "id": "d",
+          "text": "Amiodarone 150 mg IV over 10 minutes",
+          "correct": false,
+          "rationale": "Amiodarone is an antidysrhythmic for tachydysrhythmias such as stable VT. It can slow the rate further and is not used for bradycardia."
+        }
+      ],
+      "explanation": "Symptomatic bradycardia (hypotension, altered mental status, chest pain, acute HF, shock) is treated with atropine 1 mg IV, repeated every 3-5 minutes to a maximum of 3 mg. If atropine is ineffective, the next steps are transcutaneous pacing or a dopamine or epinephrine infusion."
+    },
+    {
+      "id": "svt-st-sb-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with symptomatic sinus bradycardia has received a total of 3 mg of atropine IV. The heart rate remains 36/min, BP is 74/40 mm Hg, and the client is increasingly lethargic. Transcutaneous pacing pads are being applied. Which medication order would the nurse anticipate as an alternative while pacing is prepared?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An additional 1 mg dose of atropine IV",
+          "correct": false,
+          "rationale": "The maximum total atropine dose for bradycardia is 3 mg. Further doses are not effective and add anticholinergic toxicity."
+        },
+        {
+          "id": "b",
+          "text": "Diltiazem infusion at 5 mg/hr",
+          "correct": false,
+          "rationale": "Diltiazem is a calcium channel blocker that slows AV conduction and lowers BP, which would worsen bradycardia and hypotension."
+        },
+        {
+          "id": "c",
+          "text": "Digoxin 0.25 mg IV",
+          "correct": false,
+          "rationale": "Digoxin slows the heart rate and is used for rate control of atrial fibrillation; it is contraindicated in symptomatic bradycardia."
+        },
+        {
+          "id": "d",
+          "text": "Dopamine infusion at 5-20 mcg/kg/min",
+          "correct": true,
+          "rationale": "When atropine fails, a chronotropic infusion of dopamine (5-20 mcg/kg/min) or epinephrine (2-10 mcg/min) is an alternative or bridge to pacing."
+        }
+      ],
+      "explanation": "For atropine-refractory symptomatic bradycardia, ACLS recommends transcutaneous pacing or a dopamine or epinephrine infusion titrated to response. These are bridges while the cause is treated or a transvenous pacemaker is placed."
+    },
+    {
+      "id": "svt-st-sb-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with symptomatic bradycardia unresponsive to atropine is started on transcutaneous pacing. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer prescribed analgesia or sedation",
+          "correct": true,
+          "rationale": "External pacing causes painful skeletal muscle contraction with each impulse. Analgesia and sedation should be given as the client's condition allows."
+        },
+        {
+          "id": "b",
+          "text": "Confirm mechanical capture by palpating a femoral pulse that matches the paced rate",
+          "correct": true,
+          "rationale": "Electrical capture on the monitor does not guarantee the heart is contracting. A pulse at the paced rate confirms perfusion. The femoral site avoids confusing muscle twitching with a carotid pulse."
+        },
+        {
+          "id": "c",
+          "text": "Increase the milliamperes (mA) until each pacer spike is followed by a wide QRS complex",
+          "correct": true,
+          "rationale": "The output (mA) is increased until consistent electrical capture is seen: a pacer spike followed by a wide QRS and T wave."
+        },
+        {
+          "id": "d",
+          "text": "Place the pads over the client's breast tissue for better contact",
+          "correct": false,
+          "rationale": "Pads are placed anterior-posterior or anterior-lateral on clean, dry skin, not over breast tissue, which increases impedance and reduces current delivery."
+        },
+        {
+          "id": "e",
+          "text": "Set the device to deliver a fixed 200 J shock",
+          "correct": false,
+          "rationale": "Joules are units for defibrillation and cardioversion. Pacing is set by rate (beats/min) and current (mA)."
+        },
+        {
+          "id": "f",
+          "text": "Assess skin under the pads for burns",
+          "correct": true,
+          "rationale": "Prolonged external pacing can cause skin irritation and burns, so the skin is inspected regularly."
+        }
+      ],
+      "explanation": "Transcutaneous pacing is a temporary bridge for symptomatic bradycardia. The nurse sets the rate (often 60-70/min) and increases mA until electrical capture occurs, then verifies mechanical capture with a pulse and improved BP. Because pacing is painful, analgesia and sedation are given, and the skin is checked for burns."
+    },
+    {
+      "id": "svt-st-sb-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with SVT at 176/min is alert and reports palpitations. BP is 124/78 mm Hg, SpO2 97%, and the client denies chest pain or shortness of breath. Which intervention should the nurse anticipate first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synchronized cardioversion at 100 J",
+          "correct": false,
+          "rationale": "Cardioversion is reserved for unstable SVT. This client is hemodynamically stable."
+        },
+        {
+          "id": "b",
+          "text": "Vagal maneuvers such as a modified Valsalva",
+          "correct": true,
+          "rationale": "For stable, regular narrow-complex tachycardia, vagal maneuvers are the first step. They increase vagal tone and slow AV node conduction, which can break the re-entry circuit."
+        },
+        {
+          "id": "c",
+          "text": "Atropine 1 mg IV push",
+          "correct": false,
+          "rationale": "Atropine increases the heart rate and is used for bradycardia. It would worsen SVT."
+        },
+        {
+          "id": "d",
+          "text": "Unsynchronized defibrillation at 200 J",
+          "correct": false,
+          "rationale": "Defibrillation is for pulseless VT and VF. An unsynchronized shock in a client with a pulse could land on the T wave and cause VF."
+        }
+      ],
+      "explanation": "Stable SVT is treated in steps: vagal maneuvers, then adenosine (6 mg, then 12 mg), then calcium channel or beta blockers if needed. Synchronized cardioversion is used when the client is unstable or the drugs fail."
+    },
+    {
+      "id": "svt-st-sb-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The provider prescribes adenosine 6 mg IV for a client with stable SVT. Which technique should the nurse use to administer the medication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dilute in 50 mL NS and infuse over 15 minutes",
+          "correct": false,
+          "rationale": "Adenosine has a half-life of under 10 seconds. A slow infusion would be metabolized before it reached the heart and would not work."
+        },
+        {
+          "id": "b",
+          "text": "Push slowly over 2 minutes through a hand vein",
+          "correct": false,
+          "rationale": "A slow push through a distal vein lets the drug break down before reaching the AV node."
+        },
+        {
+          "id": "c",
+          "text": "Push rapidly over 1-2 seconds through a proximal IV site, then immediately flush with 20 mL NS",
+          "correct": true,
+          "rationale": "A rapid push at an antecubital or more central site, followed by a rapid 20 mL saline flush (often with the arm raised), delivers the drug to the heart before it is metabolized."
+        },
+        {
+          "id": "d",
+          "text": "Give intramuscularly in the deltoid",
+          "correct": false,
+          "rationale": "Adenosine is given IV only. IM absorption is far too slow for a drug with a seconds-long half-life."
+        }
+      ],
+      "explanation": "Adenosine is metabolized within seconds, so it must be given as a rapid IV push at the IV port closest to the heart, followed immediately by a rapid 20 mL normal saline flush. Running continuous ECG during the push captures any conversion and helps diagnose the rhythm."
+    },
+    {
+      "id": "svt-st-sb-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing a client with stable SVT to receive adenosine. Which information should the nurse include when explaining what to expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "You may feel flushed or warm in your face.",
+          "correct": true,
+          "rationale": "Facial flushing from vasodilation is a common, short-lived effect of adenosine."
+        },
+        {
+          "id": "b",
+          "text": "You might feel chest pressure or a sense of impending doom for a few seconds.",
+          "correct": true,
+          "rationale": "Chest discomfort, dyspnea, and a feeling of doom are common and pass within seconds; warning the client reduces fear."
+        },
+        {
+          "id": "c",
+          "text": "Your heart may pause briefly, and the monitor may look flat for a few seconds.",
+          "correct": true,
+          "rationale": "Adenosine commonly causes a brief period of asystole before a sinus rhythm resumes; preparing the client and family prevents alarm."
+        },
+        {
+          "id": "d",
+          "text": "You will be given general anesthesia before the medication.",
+          "correct": false,
+          "rationale": "Adenosine does not require sedation or anesthesia. Sedation is used for synchronized cardioversion, not for adenosine."
+        },
+        {
+          "id": "e",
+          "text": "The effects will last for several hours.",
+          "correct": false,
+          "rationale": "Adenosine's half-life is under 10 seconds, so side effects resolve in less than a minute."
+        }
+      ],
+      "explanation": "Adenosine side effects are dramatic but very brief: flushing, chest pressure, dyspnea, a sense of doom, and a few seconds of asystole on the monitor. Explaining this beforehand lowers anxiety and helps the client stay still for the push."
+    },
+    {
+      "id": "svt-st-sb-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Immediately after a rapid IV push of adenosine 6 mg for SVT, the monitor shows no electrical activity for 4 seconds, followed by sinus rhythm at 88/min. The client reports feeling 'strange' but is alert. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begin chest compressions",
+          "correct": false,
+          "rationale": "The pause was brief and expected, the client is alert, and a perfusing rhythm has returned. CPR is not indicated."
+        },
+        {
+          "id": "b",
+          "text": "Administer atropine 1 mg IV for the asystole",
+          "correct": false,
+          "rationale": "The pause resolved by itself as the adenosine wore off. Atropine is not needed and would cause tachycardia."
+        },
+        {
+          "id": "c",
+          "text": "Give a second dose of adenosine 12 mg",
+          "correct": false,
+          "rationale": "The SVT has converted to sinus rhythm, so a second dose is not indicated."
+        },
+        {
+          "id": "d",
+          "text": "Reassure the client, assess vital signs, and continue to monitor the rhythm",
+          "correct": true,
+          "rationale": "A brief pause is an expected effect of adenosine. The nurse reassures the client, checks vital signs, and keeps monitoring for recurrence of SVT."
+        }
+      ],
+      "explanation": "Transient asystole of a few seconds is an expected effect of adenosine, which briefly blocks the AV node. Because the drug is cleared in seconds, a sinus rhythm usually returns on its own. The nurse reassesses and documents the conversion."
+    },
+    {
+      "id": "svt-st-sb-15",
+      "type": "single",
+      "bloom": "analyze",
+      "ecg": "svt",
+      "stem": "A client's monitor shows the rhythm pictured: regular narrow-complex tachycardia at 210/min. The client is pale and diaphoretic, reports chest pain, and is becoming confused. BP is 76/48 mm Hg. Which intervention should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synchronized cardioversion",
+          "correct": true,
+          "rationale": "SVT with hypotension, chest pain, and altered mental status is unstable and requires immediate synchronized cardioversion."
+        },
+        {
+          "id": "b",
+          "text": "Coaching the client through vagal maneuvers",
+          "correct": false,
+          "rationale": "Vagal maneuvers are for stable SVT. A hypotensive, confused client is unstable and cannot safely wait for a maneuver that may fail."
+        },
+        {
+          "id": "c",
+          "text": "Diltiazem 20 mg IV over 2 minutes",
+          "correct": false,
+          "rationale": "Diltiazem lowers BP through vasodilation and decreased contractility. In an already hypotensive client, it could cause collapse."
+        },
+        {
+          "id": "d",
+          "text": "Unsynchronized defibrillation",
+          "correct": false,
+          "rationale": "This client has a pulse. An unsynchronized shock could land on the T wave (R-on-T) and cause ventricular fibrillation."
+        }
+      ],
+      "explanation": "Instability in a tachycardia is defined by hypotension, acutely altered mental status, signs of shock, ischemic chest pain, or acute heart failure. An unstable client with a pulse and a tachycardia receives synchronized cardioversion, with sedation if it will not delay treatment."
+    },
+    {
+      "id": "svt-st-sb-16",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with unstable SVT is to receive synchronized cardioversion. IV access is in place. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Attach the pads and connect the client to the defibrillator monitor"
+        },
+        {
+          "id": "b",
+          "text": "Administer the prescribed sedation"
+        },
+        {
+          "id": "c",
+          "text": "Turn on the SYNC mode and verify a marker appears on each R wave"
+        },
+        {
+          "id": "d",
+          "text": "Charge to the prescribed energy and call 'All clear'"
+        },
+        {
+          "id": "e",
+          "text": "Press and hold the shock button, then reassess the rhythm and pulse"
+        }
+      ],
+      "explanation": "The client is connected to the monitor first so the rhythm and R waves can be seen. Sedation is given when time permits because the shock is painful. SYNC is turned on and confirmed by markers on each R wave so the shock is not delivered on the T wave. The device is charged, everyone is cleared for safety, and the shock button is held until it fires (there is a brief delay while it syncs). The nurse then reassesses the rhythm and pulse. Many devices default back to unsynchronized mode after each shock, so SYNC must be checked again before any repeat shock."
+    },
+    {
+      "id": "svt-st-sb-17",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nursing student asks why the defibrillator must be set to synchronized mode before cardioverting a client in SVT. Which response by the nurse is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synchronized mode delivers a higher energy so the rhythm converts on the first attempt.",
+          "correct": false,
+          "rationale": "Sync mode changes the timing of the shock, not the energy. Energy is chosen separately and is usually lower for cardioversion than for defibrillation."
+        },
+        {
+          "id": "b",
+          "text": "It times the shock to the R wave so it does not fall on the T wave and trigger ventricular fibrillation.",
+          "correct": true,
+          "rationale": "The T wave is the vulnerable period of repolarization. Synchronizing to the QRS avoids an R-on-T shock that could cause VF."
+        },
+        {
+          "id": "c",
+          "text": "It allows the shock to be delivered without sedation.",
+          "correct": false,
+          "rationale": "Synchronized cardioversion is painful. Sedation is given whenever the client's condition permits."
+        },
+        {
+          "id": "d",
+          "text": "It is required only when the client has no pulse.",
+          "correct": false,
+          "rationale": "Pulseless rhythms (pulseless VT, VF) are treated with unsynchronized defibrillation. Synchronization is for clients who have a pulse."
+        }
+      ],
+      "explanation": "Synchronized cardioversion delivers energy on the R wave of the QRS complex. Shocking during the relative refractory period on the T wave (R-on-T) can trigger VF. Synchronization is used for unstable tachycardias with a pulse."
+    },
+    {
+      "id": "svt-st-sb-18",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client is in a regular narrow-complex tachycardia at 190/min. Which assessment findings indicate the client is hemodynamically unstable? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "BP 72/40 mm Hg",
+          "correct": true,
+          "rationale": "Hypotension shows the rapid rate is not allowing enough ventricular filling to maintain cardiac output."
+        },
+        {
+          "id": "b",
+          "text": "New confusion and difficulty following commands",
+          "correct": true,
+          "rationale": "Acutely altered mental status reflects inadequate cerebral perfusion."
+        },
+        {
+          "id": "c",
+          "text": "Report of palpitations",
+          "correct": false,
+          "rationale": "Palpitations are an expected symptom of tachycardia and do not by themselves indicate poor perfusion."
+        },
+        {
+          "id": "d",
+          "text": "Crushing chest pain",
+          "correct": true,
+          "rationale": "Ischemic chest pain shows myocardial oxygen demand is exceeding supply because of the rapid rate and shortened diastole."
+        },
+        {
+          "id": "e",
+          "text": "Crackles in both lung bases with new dyspnea",
+          "correct": true,
+          "rationale": "Signs of acute heart failure, such as pulmonary congestion, are a criterion for instability."
+        },
+        {
+          "id": "f",
+          "text": "Mild anxiety",
+          "correct": false,
+          "rationale": "Anxiety is common with a racing heart and does not by itself indicate hemodynamic compromise."
+        }
+      ],
+      "explanation": "Per ACLS, signs of instability are hypotension, acutely altered mental status, signs of shock, ischemic chest discomfort, and acute heart failure. Any of these in a client with a tachycardia calls for immediate synchronized cardioversion instead of drugs or vagal maneuvers."
+    },
+    {
+      "id": "svt-st-sb-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client admitted after a fall has a closed head injury. Over 2 hours the heart rate has decreased from 84/min to 50/min, BP has increased from 128/76 to 172/68 mm Hg, and respirations have become irregular. Which action is the nurse's priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer atropine 1 mg IV for the bradycardia",
+          "correct": false,
+          "rationale": "The bradycardia is a sign of a neurologic emergency, not a primary cardiac problem. Atropine does not treat rising ICP."
+        },
+        {
+          "id": "b",
+          "text": "Recheck the BP in 30 minutes",
+          "correct": false,
+          "rationale": "These findings indicate impending brain herniation. Waiting 30 minutes delays urgently needed treatment."
+        },
+        {
+          "id": "c",
+          "text": "Perform a neurologic assessment and notify the provider immediately",
+          "correct": true,
+          "rationale": "Bradycardia, a widening pulse pressure, and irregular respirations make up Cushing's triad, a late sign of increased ICP. The nurse assesses LOC and pupils and reports immediately."
+        },
+        {
+          "id": "d",
+          "text": "Hold the client's scheduled antihypertensive medication",
+          "correct": false,
+          "rationale": "The hypertension is a compensatory response to increased ICP. Adjusting antihypertensives does not address the underlying emergency."
+        }
+      ],
+      "explanation": "Increased ICP is a cause of sinus bradycardia. Cushing's triad (bradycardia, widening pulse pressure, irregular respirations) is a late, ominous sign of herniation. Treatment targets the ICP, not the heart rate."
+    },
+    {
+      "id": "svt-st-sb-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is preparing to give scheduled oral metoprolol to a client with hypertension. The apical pulse is 48/min and the client reports feeling lightheaded when standing. BP is 96/58 mm Hg. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the medication and have the client rise slowly",
+          "correct": false,
+          "rationale": "Giving a beta blocker to a client who is already bradycardic, hypotensive, and lightheaded could worsen perfusion."
+        },
+        {
+          "id": "b",
+          "text": "Hold the medication and notify the provider",
+          "correct": true,
+          "rationale": "Metoprolol slows the heart rate. A rate under 50-60/min with symptoms is a reason to hold the dose and report to the provider."
+        },
+        {
+          "id": "c",
+          "text": "Give half of the prescribed dose",
+          "correct": false,
+          "rationale": "Nurses do not independently change a prescribed dose. Any beta blocker could worsen symptomatic bradycardia."
+        },
+        {
+          "id": "d",
+          "text": "Administer atropine 1 mg IV before the metoprolol",
+          "correct": false,
+          "rationale": "Giving atropine so a beta blocker can be given makes no sense, and it requires a provider order. The right action is to hold the beta blocker."
+        }
+      ],
+      "explanation": "Beta blockers, calcium channel blockers, and digoxin are common causes of sinus bradycardia. The nurse checks the apical pulse and BP before giving them, holds the dose for bradycardia or hypotension (especially with symptoms), and notifies the provider."
+    },
+    {
+      "id": "svt-st-sb-21",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is found outdoors after a winter night and has a core temperature of 31°C (87.8°F). The monitor shows sinus bradycardia at 42/min, and a pulse is palpable. Which intervention is most important to improve the heart rate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begin active rewarming as prescribed",
+          "correct": true,
+          "rationale": "Hypothermia is the cause of the bradycardia. Correcting the temperature is the definitive treatment, and the rate usually rises as the client warms."
+        },
+        {
+          "id": "b",
+          "text": "Start transcutaneous pacing immediately",
+          "correct": false,
+          "rationale": "A cold myocardium responds poorly to pacing, and pacing does not correct the cause. Rewarming comes first."
+        },
+        {
+          "id": "c",
+          "text": "Administer adenosine 6 mg rapid IV push",
+          "correct": false,
+          "rationale": "Adenosine slows AV conduction and is for SVT. It would worsen bradycardia."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the client to bear down as if having a bowel movement",
+          "correct": false,
+          "rationale": "Bearing down is a vagal maneuver that slows the heart, the opposite of what is needed."
+        }
+      ],
+      "explanation": "Hypothermia slows SA node firing, and the bradycardia is a physiologic response to the cold. Management focuses on rewarming and gentle handling, since a cold heart is irritable and prone to VF. Drugs and pacing work poorly until the client is warmed."
+    },
+    {
+      "id": "svt-st-sb-22",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches a client with a history of recurrent stable SVT how to manage episodes at home. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I can try bearing down hard like I'm having a bowel movement for about 15 seconds.",
+          "correct": false,
+          "rationale": "This correctly describes the Valsalva maneuver, which increases vagal tone and can end SVT. It does not indicate a need for more teaching."
+        },
+        {
+          "id": "b",
+          "text": "I can put my face in a bowl of ice water to try to stop it.",
+          "correct": false,
+          "rationale": "Facial immersion in cold water triggers the diving reflex, an accepted vagal maneuver. This statement is correct."
+        },
+        {
+          "id": "c",
+          "text": "I should call 911 if I get chest pain, feel faint, or the episode doesn't stop.",
+          "correct": false,
+          "rationale": "These are signs of instability or failed self-treatment and warrant emergency care. The client understands."
+        },
+        {
+          "id": "d",
+          "text": "I'll press firmly on both sides of my neck at the same time to slow my heart.",
+          "correct": true,
+          "rationale": "This shows a misunderstanding. Carotid sinus massage is done on one side only by a provider with ECG monitoring; pressing both carotids can cut off blood flow to the brain and cause a stroke or asystole."
+        }
+      ],
+      "explanation": "Clients can be taught to perform vagal maneuvers such as Valsalva (bearing down), the modified Valsalva, or facial immersion in ice water. Carotid sinus massage is never done bilaterally, is performed only by a provider, and is avoided in older adults or clients with carotid bruits because it can dislodge plaque."
+    },
+    {
+      "id": "svt-st-sb-23",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client asks the nurse why a fast heart rate makes them feel weak and short of breath. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A fast heart rate causes the heart muscle to weaken permanently within minutes.",
+          "correct": false,
+          "rationale": "Short episodes of tachycardia do not permanently damage the heart muscle. Tachycardia-induced cardiomyopathy develops only after weeks to months of sustained high rates."
+        },
+        {
+          "id": "b",
+          "text": "A fast heart rate increases the oxygen in your blood, which makes you feel short of breath.",
+          "correct": false,
+          "rationale": "Tachycardia does not raise blood oxygen content. Dyspnea comes from reduced cardiac output and pulmonary congestion."
+        },
+        {
+          "id": "c",
+          "text": "When the heart beats very fast, it has less time to fill between beats, so less blood is pumped out with each beat.",
+          "correct": true,
+          "rationale": "Very fast rates shorten diastole, which reduces ventricular filling and stroke volume. Cardiac output falls, and coronary perfusion (which occurs mainly in diastole) also drops."
+        },
+        {
+          "id": "d",
+          "text": "A fast heart rate lowers your oxygen need, so your body slows your breathing.",
+          "correct": false,
+          "rationale": "A faster rate increases myocardial oxygen demand. It does not decrease oxygen need or slow breathing."
+        }
+      ],
+      "explanation": "Very rapid heart rates shorten diastole. That reduces ventricular filling, stroke volume, and coronary artery filling, while myocardial oxygen demand rises. The result can be hypotension, angina, dyspnea, and weakness."
+    },
+    {
+      "id": "svt-st-sb-24",
+      "type": "order",
+      "bloom": "analyze",
+      "stem": "A client's heart rate drops to 36/min. The client is dizzy, BP is 80/46 mm Hg, and an IV is in place. Place the nurse's actions in priority order according to the bradycardia algorithm.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess airway and breathing, apply oxygen if hypoxemic, and obtain a 12-lead ECG"
+        },
+        {
+          "id": "b",
+          "text": "Administer atropine 1 mg IV as prescribed"
+        },
+        {
+          "id": "c",
+          "text": "Repeat atropine every 3-5 minutes up to a total of 3 mg if there is no response"
+        },
+        {
+          "id": "d",
+          "text": "Begin transcutaneous pacing or a dopamine or epinephrine infusion if atropine is ineffective"
+        },
+        {
+          "id": "e",
+          "text": "Prepare for transvenous pacing and expert consultation"
+        }
+      ],
+      "explanation": "The ACLS bradycardia algorithm starts with assessment and support: airway, oxygen if hypoxemic, monitor, IV access, and a 12-lead ECG. A client with symptoms receives atropine 1 mg, repeated every 3-5 minutes to a 3 mg maximum. If atropine fails, transcutaneous pacing or a dopamine or epinephrine infusion follows. Transvenous pacing and expert consultation come last."
+    },
+    {
+      "id": "svt-st-sb-25",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a client who is to receive adenosine for stable SVT. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Run a continuous ECG recording during administration",
+          "correct": true,
+          "rationale": "A recorded strip documents conversion. If the rhythm does not convert, it may reveal underlying flutter waves, aiding diagnosis."
+        },
+        {
+          "id": "b",
+          "text": "Have emergency equipment, including a defibrillator, at the bedside",
+          "correct": true,
+          "rationale": "Adenosine can cause brief asystole, bradycardia, or other dysrhythmias, so resuscitation equipment must be immediately available."
+        },
+        {
+          "id": "c",
+          "text": "Use a 2-syringe setup or stopcock so the saline flush follows the drug immediately",
+          "correct": true,
+          "rationale": "Because the drug is cleared in seconds, the flush must follow the push with no delay."
+        },
+        {
+          "id": "d",
+          "text": "Administer the medication through the most distal IV in the hand",
+          "correct": false,
+          "rationale": "A distal site lengthens the travel time to the heart. The most proximal site, such as the antecubital vein, is preferred."
+        },
+        {
+          "id": "e",
+          "text": "Prepare a 12 mg dose if the first 6 mg dose does not convert the rhythm",
+          "correct": true,
+          "rationale": "If SVT persists 1-2 minutes after 6 mg, a 12 mg rapid push is the standard second dose."
+        },
+        {
+          "id": "f",
+          "text": "Encourage the client to drink a cup of coffee before the dose to reduce side effects",
+          "correct": false,
+          "rationale": "Caffeine and theophylline (methylxanthines) block adenosine receptors and reduce its effectiveness."
+        }
+      ],
+      "explanation": "Safe adenosine use means a proximal IV site, a rapid push with an immediate 20 mL flush, continuous ECG recording, emergency equipment at hand, and 12 mg ready if 6 mg fails. Methylxanthines (caffeine, theophylline) blunt its effect."
+    },
+    {
+      "id": "svt-st-sb-26",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client who is anxious about surgery tomorrow reports a 'pounding heart.' The nurse analyzes the rhythm strip shown: regular rhythm at 112/min with an upright P wave before every QRS and normal intervals. BP is 134/82 mm Hg, SpO2 99%, T 37°C (98.6°F), and the client denies pain. Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Provide information about the procedure and encourage slow, deep breathing",
+          "correct": true,
+          "rationale": "With fever, hypoxia, and pain ruled out, anxiety is the likely cause. Reassurance, education, and relaxation techniques address it directly."
+        },
+        {
+          "id": "b",
+          "text": "Request a prescription for IV adenosine",
+          "correct": false,
+          "rationale": "Adenosine is for re-entrant SVT. It does not terminate sinus tachycardia."
+        },
+        {
+          "id": "c",
+          "text": "Request a prescription for synchronized cardioversion",
+          "correct": false,
+          "rationale": "Sinus tachycardia is never cardioverted. It is a response to a stimulus, and the client is stable."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the client to drink a caffeinated beverage to help them relax",
+          "correct": false,
+          "rationale": "Caffeine is a stimulant that increases heart rate and can worsen anxiety."
+        }
+      ],
+      "explanation": "Management of sinus tachycardia is aimed at the cause. Once physiologic causes (fever, hypoxia, hypovolemia, pain) are ruled out, anxiety is addressed with education, reassurance, and relaxation techniques. Antidysrhythmic drugs and cardioversion are not used for sinus tachycardia.",
+      "ecg": "sinus_tach"
+    }
+  ]
+}

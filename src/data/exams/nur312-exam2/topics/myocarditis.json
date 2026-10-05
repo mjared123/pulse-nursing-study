@@ -1,0 +1,441 @@
+{
+  "slug": "myocarditis",
+  "title": "Myocarditis",
+  "short": "Myocarditis",
+  "icon": "flame",
+  "description": "Inflammation of the heart muscle: viral causes, presentation after a flu-like illness, heart failure and dysrhythmia complications, activity restriction, medication cautions, and client teaching.",
+  "keyPoints": [
+    "Most often viral (coxsackievirus B most common in the U.S.; also adenovirus, influenza, parvovirus B19, SARS-CoV-2).",
+    "Cardiac symptoms (fatigue, dyspnea, palpitations, chest discomfort) typically follow a flu-like or viral illness by days to weeks.",
+    "Elevated troponin reflects myocardial cell injury; coronary arteries are normal, which helps distinguish it from MI.",
+    "Major complications: heart failure (dilated cardiomyopathy) and dysrhythmias, including sudden cardiac death; keep the client on continuous ECG monitoring.",
+    "Rest and activity restriction lower myocardial oxygen demand; avoid competitive sports and strenuous exercise for at least 3 to 6 months.",
+    "The inflamed myocardium is sensitive to digoxin, so use it cautiously and watch closely for toxicity.",
+    "NSAIDs are generally avoided in acute viral myocarditis (may worsen myocardial injury and cause fluid retention), unlike pericarditis, where they are first-line.",
+    "Teach the client to report weight gain, worsening dyspnea, edema, palpitations, or fainting."
+  ],
+  "questions": [
+    {
+      "id": "myocarditis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is reviewing the causes of myocarditis with a group of nursing students. Which organism is the most common cause of myocarditis in the United States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Group A beta-hemolytic Streptococcus",
+          "correct": false,
+          "rationale": "Group A strep causes rheumatic fever, which can lead to rheumatic carditis, but it is not the most common cause of myocarditis."
+        },
+        {
+          "id": "b",
+          "text": "Coxsackievirus B",
+          "correct": true,
+          "rationale": "Viruses are the most common cause of myocarditis in the U.S., and coxsackievirus B (an enterovirus) is the classic and most frequent culprit."
+        },
+        {
+          "id": "c",
+          "text": "Staphylococcus aureus",
+          "correct": false,
+          "rationale": "S. aureus is the leading cause of infective endocarditis, which infects the valves and endocardium, not the myocardium."
+        },
+        {
+          "id": "d",
+          "text": "Candida albicans",
+          "correct": false,
+          "rationale": "Fungal myocarditis can occur in severely immunocompromised clients but is rare."
+        }
+      ],
+      "explanation": "Myocarditis is focal or diffuse inflammation of the myocardium, most often caused by viruses, with coxsackievirus B the classic cause. Other causes include adenovirus, influenza, parvovirus B19, SARS-CoV-2, bacteria, drugs, toxins, and autoimmune disease."
+    },
+    {
+      "id": "myocarditis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 26-year-old client reports increasing fatigue, shortness of breath with exertion, and a 'racing heart' that began 2 weeks after a febrile illness with body aches and sore throat. Which explanation by the nurse best describes the relationship between these events?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The fever likely dehydrated the heart muscle, which is now recovering.",
+          "correct": false,
+          "rationale": "Dehydration does not explain new dyspnea and palpitations 2 weeks later. This statement misrepresents the pathophysiology."
+        },
+        {
+          "id": "b",
+          "text": "The heart symptoms are unrelated because viral infections do not affect the heart.",
+          "correct": false,
+          "rationale": "Viral infections are the most common cause of myocarditis, so this statement is false."
+        },
+        {
+          "id": "c",
+          "text": "A virus can directly invade the heart muscle and trigger an immune response, causing cardiac symptoms days to weeks after the initial illness.",
+          "correct": true,
+          "rationale": "Myocarditis typically follows a viral prodrome. Direct viral injury plus the immune response damages myocytes, producing fatigue, dyspnea, palpitations, and chest discomfort days to weeks later."
+        },
+        {
+          "id": "d",
+          "text": "These symptoms indicate a blocked coronary artery caused by the infection.",
+          "correct": false,
+          "rationale": "Myocarditis damages the heart muscle itself. The coronary arteries are usually normal."
+        }
+      ],
+      "explanation": "Myocarditis classically presents days to weeks after a flu-like illness (fever, myalgias, malaise, pharyngitis, GI upset). Cardiac manifestations range from fatigue and mild dyspnea to heart failure, dysrhythmias, and sudden death."
+    },
+    {
+      "id": "myocarditis-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client admitted with suspected acute myocarditis has blood work drawn. Which laboratory finding should the nurse recognize as evidence of myocardial cell injury?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elevated cardiac troponin",
+          "correct": true,
+          "rationale": "Troponin is released when myocytes are damaged and is commonly elevated in myocarditis, reflecting the degree of myocardial injury."
+        },
+        {
+          "id": "b",
+          "text": "Elevated antistreptolysin O (ASO) titer",
+          "correct": false,
+          "rationale": "An ASO titer shows recent streptococcal infection and supports a diagnosis of rheumatic fever, not myocyte injury."
+        },
+        {
+          "id": "c",
+          "text": "Decreased white blood cell count",
+          "correct": false,
+          "rationale": "WBC count may be normal or elevated with inflammation. A low WBC count does not indicate myocardial damage."
+        },
+        {
+          "id": "d",
+          "text": "Elevated serum amylase",
+          "correct": false,
+          "rationale": "Amylase is a pancreatic enzyme. It does not reflect cardiac injury."
+        }
+      ],
+      "explanation": "Troponin is the most sensitive and specific marker of myocardial cell injury, and it is frequently elevated in myocarditis. Other supportive findings include elevated ESR and CRP, ECG changes, and imaging evidence of inflammation such as cardiac MRI. Definitive diagnosis may require endomyocardial biopsy."
+    },
+    {
+      "id": "myocarditis-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is planning care for a client in the acute phase of viral myocarditis. Which interventions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maintain bed rest or limited activity during the acute phase",
+          "correct": true,
+          "rationale": "Rest reduces cardiac workload and myocardial oxygen demand, which promotes healing and limits further myocardial damage."
+        },
+        {
+          "id": "b",
+          "text": "Provide continuous cardiac (telemetry) monitoring",
+          "correct": true,
+          "rationale": "The inflamed myocardium is irritable, so dysrhythmias, including life-threatening ventricular dysrhythmias and heart blocks, are common and must be detected early."
+        },
+        {
+          "id": "c",
+          "text": "Encourage a brisk 20-minute walk twice daily to prevent deconditioning",
+          "correct": false,
+          "rationale": "Strenuous or aerobic activity during acute myocarditis increases myocardial workload and can worsen injury or trigger dysrhythmias."
+        },
+        {
+          "id": "d",
+          "text": "Assess for crackles, jugular venous distention, S3, and peripheral edema",
+          "correct": true,
+          "rationale": "Heart failure is a major complication of myocarditis, so the nurse monitors for signs of fluid overload and reduced cardiac output."
+        },
+        {
+          "id": "e",
+          "text": "Administer ibuprofen as needed for chest discomfort and myalgias",
+          "correct": false,
+          "rationale": "NSAIDs are generally avoided in acute viral myocarditis because they may increase myocardial damage and promote sodium and water retention, which worsens heart failure."
+        },
+        {
+          "id": "f",
+          "text": "Cluster care to allow uninterrupted rest periods",
+          "correct": true,
+          "rationale": "Clustering care conserves energy and lowers oxygen demand while still meeting the client's needs."
+        }
+      ],
+      "explanation": "Acute myocarditis care focuses on reducing cardiac workload (rest, energy conservation), detecting dysrhythmias with continuous monitoring, and recognizing and treating heart failure. NSAIDs are generally avoided in acute viral myocarditis, unlike pericarditis, where NSAIDs are first-line."
+    },
+    {
+      "id": "myocarditis-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with myocarditis and new heart failure is prescribed digoxin. Which action is most important for the nurse to take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expect a higher-than-usual dose because inflamed myocardium resists digoxin.",
+          "correct": false,
+          "rationale": "The opposite is true. The inflamed myocardium is more sensitive to digoxin, so lower doses and cautious use are indicated."
+        },
+        {
+          "id": "b",
+          "text": "Give the dose with an antacid to reduce gastric irritation.",
+          "correct": false,
+          "rationale": "Antacids decrease digoxin absorption and are not part of routine administration."
+        },
+        {
+          "id": "c",
+          "text": "Hold the dose only if the apical pulse is less than 40/min.",
+          "correct": false,
+          "rationale": "The usual parameter is to hold digoxin and notify the provider for an apical pulse below 60/min (or per prescriber). A cutoff of 40/min is unsafe."
+        },
+        {
+          "id": "d",
+          "text": "Monitor closely for digoxin toxicity, such as dysrhythmias, nausea, and visual changes.",
+          "correct": true,
+          "rationale": "Clients with myocarditis are especially sensitive to digoxin and develop toxicity more readily, so close monitoring of rhythm, potassium, digoxin level, and toxicity symptoms is the priority."
+        }
+      ],
+      "explanation": "Standard texts note that clients with myocarditis are particularly sensitive to digoxin. If it is used for heart failure, the nurse monitors the apical pulse, ECG for new dysrhythmias, serum potassium and digoxin levels, and GI or visual symptoms of toxicity."
+    },
+    {
+      "id": "myocarditis-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing four findings in a client hospitalized with viral myocarditis. Which finding requires immediate follow-up?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Temperature of 37.9° C (100.2° F)",
+          "correct": false,
+          "rationale": "A low-grade fever is expected with the inflammatory and viral process and is not immediately dangerous."
+        },
+        {
+          "id": "b",
+          "text": "Reports of generalized muscle aches",
+          "correct": false,
+          "rationale": "Myalgias are an expected part of the viral syndrome."
+        },
+        {
+          "id": "c",
+          "text": "New S3 heart sound with bibasilar crackles and SpO2 of 89% on room air",
+          "correct": true,
+          "rationale": "An S3, crackles, and hypoxemia indicate developing heart failure and pulmonary congestion, a serious complication that needs prompt intervention."
+        },
+        {
+          "id": "d",
+          "text": "Fatigue after bathing",
+          "correct": false,
+          "rationale": "Fatigue is common in myocarditis and calls for energy conservation, but it is not an acute deterioration."
+        }
+      ],
+      "explanation": "Heart failure from impaired contractility is a leading complication of myocarditis. New extra heart sounds, crackles, worsening dyspnea, and falling oxygen saturation are cues of deterioration that take priority over expected inflammatory symptoms."
+    },
+    {
+      "id": "myocarditis-07",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 22-year-old client presents to the emergency department with chest discomfort. Which findings support a diagnosis of myocarditis rather than acute coronary syndrome? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flu-like illness with fever and myalgias 10 days ago",
+          "correct": true,
+          "rationale": "A preceding viral prodrome is a hallmark cue of viral myocarditis."
+        },
+        {
+          "id": "b",
+          "text": "Elevated troponin with normal coronary arteries on cardiac catheterization",
+          "correct": true,
+          "rationale": "Myocarditis causes myocyte injury (troponin elevation) without coronary occlusion. Normal coronaries help exclude MI as the cause."
+        },
+        {
+          "id": "c",
+          "text": "Painless, flat red macules on the palms and soles",
+          "correct": false,
+          "rationale": "Janeway lesions are an embolic finding in infective endocarditis, not myocarditis."
+        },
+        {
+          "id": "d",
+          "text": "Sinus tachycardia that is disproportionate to the degree of fever",
+          "correct": true,
+          "rationale": "Tachycardia out of proportion to fever is a classic cue of myocardial inflammation."
+        },
+        {
+          "id": "e",
+          "text": "100% occlusion of the left anterior descending artery",
+          "correct": false,
+          "rationale": "Coronary occlusion indicates acute MI, not myocarditis."
+        },
+        {
+          "id": "f",
+          "text": "Chest pain relieved only by sitting up and leaning forward",
+          "correct": false,
+          "rationale": "Positional pain relieved by leaning forward is the classic description of pericarditis."
+        }
+      ],
+      "explanation": "Clues that point to myocarditis include a recent viral illness, young age, tachycardia out of proportion to fever, and elevated troponin with normal coronary arteries. Cardiac MRI and, when needed, endomyocardial biopsy help confirm the diagnosis."
+    },
+    {
+      "id": "myocarditis-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client recovering from viral myocarditis asks when it will be safe to return to playing competitive basketball. Which response by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You can return as soon as your fever is gone.",
+          "correct": false,
+          "rationale": "Myocardial inflammation and dysrhythmia risk persist after the fever resolves. Returning this early risks sudden cardiac death."
+        },
+        {
+          "id": "b",
+          "text": "Light practice is fine next week, as long as you avoid full games.",
+          "correct": false,
+          "rationale": "Even moderate athletic exertion can trigger dysrhythmias while the myocardium is still healing."
+        },
+        {
+          "id": "c",
+          "text": "Exercise will help your heart heal faster, so start whenever you feel ready.",
+          "correct": false,
+          "rationale": "Strenuous exercise increases myocardial workload and is associated with worse injury and sudden death in myocarditis."
+        },
+        {
+          "id": "d",
+          "text": "Competitive sports and strenuous exercise are usually restricted for at least 3 to 6 months, until your provider clears you after testing.",
+          "correct": true,
+          "rationale": "Clients are typically restricted from competitive sports and strenuous activity for 3 to 6 months. Return depends on normalized ventricular function, biomarkers, and the absence of dysrhythmias."
+        }
+      ],
+      "explanation": "Exertion during or soon after myocarditis can provoke fatal ventricular dysrhythmias. Activity is increased gradually, and competitive or strenuous exercise is restricted for at least 3 to 6 months pending provider evaluation (echocardiogram, ECG or Holter, biomarkers)."
+    },
+    {
+      "id": "myocarditis-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse provides discharge teaching to a client recovering from acute viral myocarditis. Which client statement indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will weigh myself every morning and call if I gain 3 pounds in a day.",
+          "correct": false,
+          "rationale": "Daily weights and reporting rapid gain is correct teaching for detecting heart failure."
+        },
+        {
+          "id": "b",
+          "text": "I'll take ibuprofen whenever my muscles ache while my heart is healing.",
+          "correct": true,
+          "rationale": "This statement needs correction. NSAIDs are generally avoided in acute myocarditis because they may worsen myocardial injury and cause fluid retention. The client should ask the provider which analgesic to use."
+        },
+        {
+          "id": "c",
+          "text": "I'll plan rest periods between activities for the next several weeks.",
+          "correct": false,
+          "rationale": "Balancing activity with rest reduces cardiac workload and is appropriate."
+        },
+        {
+          "id": "d",
+          "text": "I'll call my provider if I feel my heart racing or I get lightheaded.",
+          "correct": false,
+          "rationale": "Palpitations or presyncope may signal dysrhythmias, which are an important complication to report."
+        }
+      ],
+      "explanation": "Teaching after myocarditis emphasizes gradual activity, daily weights, heart failure symptoms, dysrhythmia warning signs, and medication safety. Standard texts caution against NSAIDs in acute viral myocarditis, a key contrast with pericarditis, where NSAIDs plus colchicine are first-line."
+    },
+    {
+      "id": "myocarditis-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client with myocarditis and mild heart failure which findings to report to the provider after discharge. Which findings should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight gain of 3 lb (1.4 kg) overnight",
+          "correct": true,
+          "rationale": "A rapid gain of 2 to 3 lb in a day (or 5 lb in a week) suggests fluid retention from worsening heart failure."
+        },
+        {
+          "id": "b",
+          "text": "Swollen ankles and needing more pillows to breathe at night",
+          "correct": true,
+          "rationale": "Edema and orthopnea are signs of fluid overload and worsening ventricular function."
+        },
+        {
+          "id": "c",
+          "text": "Palpitations or a fainting episode",
+          "correct": true,
+          "rationale": "These may indicate dysrhythmias, which can be life-threatening in myocarditis."
+        },
+        {
+          "id": "d",
+          "text": "Needing to rest briefly after showering during the first weeks home",
+          "correct": false,
+          "rationale": "Mild activity intolerance is expected during recovery and is managed with energy conservation. It does not need urgent reporting by itself."
+        },
+        {
+          "id": "e",
+          "text": "Urinating more often after taking the prescribed diuretic",
+          "correct": false,
+          "rationale": "Increased urination is the expected therapeutic effect of a diuretic."
+        }
+      ],
+      "explanation": "Clients recovering from myocarditis should report signs of worsening heart failure (rapid weight gain, edema, orthopnea, increasing dyspnea) and dysrhythmias (palpitations, dizziness, syncope). Expected recovery fatigue and therapeutic drug effects are not emergencies."
+    },
+    {
+      "id": "myocarditis-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with acute myocarditis asks why the provider ordered strict activity restriction even though the client feels 'only a little tired.' Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rest helps the antibiotics kill the bacteria in your heart.",
+          "correct": false,
+          "rationale": "Most myocarditis is viral, and antibiotics are not standard treatment. Rest does not work by enhancing antibiotics."
+        },
+        {
+          "id": "b",
+          "text": "Limiting activity prevents the virus from spreading to other people.",
+          "correct": false,
+          "rationale": "Activity restriction protects the heart. It is not an infection control measure."
+        },
+        {
+          "id": "c",
+          "text": "Rest lowers how hard your heart has to work, which reduces its oxygen needs and allows the inflamed muscle to heal.",
+          "correct": true,
+          "rationale": "Reducing cardiac workload and myocardial oxygen demand limits further injury and lowers the risk of dysrhythmias and progression to dilated cardiomyopathy."
+        },
+        {
+          "id": "d",
+          "text": "Bed rest is needed to prevent blood clots from forming in your legs.",
+          "correct": false,
+          "rationale": "Bed rest actually increases the risk of venous thromboembolism. It is not ordered to prevent clots."
+        }
+      ],
+      "explanation": "Activity restriction is a cornerstone of myocarditis management because exertion increases myocardial oxygen demand and may worsen injury or trigger dysrhythmias. Activity is advanced gradually as ventricular function and symptoms improve."
+    },
+    {
+      "id": "myocarditis-12",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with acute myocarditis suddenly becomes dyspneic. The nurse auscultates crackles throughout both lung fields, and SpO2 is 87%. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Raise the head of the bed to high Fowler's position"
+        },
+        {
+          "id": "b",
+          "text": "Apply supplemental oxygen as prescribed"
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider using SBAR"
+        },
+        {
+          "id": "d",
+          "text": "Administer the prescribed IV furosemide"
+        },
+        {
+          "id": "e",
+          "text": "Reassess lung sounds, SpO2, and urine output"
+        }
+      ],
+      "explanation": "Positioning upright is immediate, takes no equipment, and decreases venous return and work of breathing. Oxygen corrects hypoxemia next. The provider is notified of acute heart failure so treatment can be prescribed or confirmed. The IV loop diuretic reduces preload and pulmonary congestion. Finally, the nurse evaluates the response to the interventions."
+    }
+  ]
+}

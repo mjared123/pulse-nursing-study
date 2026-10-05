@@ -1,0 +1,151 @@
+{
+  "slug": "pericardial-effusion",
+  "title": "Pericardial Effusion",
+  "short": "Pericardial Effusion",
+  "icon": "droplet",
+  "description": "Pericardial effusion and its progression to cardiac tamponade, including Beck's triad, pulsus paradoxus, electrical alternans, echocardiography, and nursing care for pericardiocentesis.",
+  "keyPoints": [
+    "Pericardial effusion is fluid in the pericardial sac. Tamponade occurs when that fluid compresses the heart and impairs filling. Speed of accumulation matters more than volume.",
+    "Beck's triad: hypotension, JVD, and muffled (distant) heart sounds.",
+    "Pulsus paradoxus: systolic BP drops > 10 mm Hg during inspiration. Measure it with a manual cuff.",
+    "Electrical alternans: QRS amplitude alternates beat to beat as the heart swings in the fluid. Low-voltage QRS is also common.",
+    "Echocardiography is the diagnostic test of choice. CXR may show an enlarged 'water bottle' heart.",
+    "Tamponade treatment: pericardiocentesis (or surgical window). Give IV fluids to support preload. Avoid diuretics and nitrates.",
+    "After pericardiocentesis: monitor vital signs, heart sounds, rhythm, and CVP/JVD for re-accumulation, and watch for pneumothorax, dysrhythmias, and coronary or myocardial puncture."
+  ],
+  "questions": [
+    {
+      "id": "pericardial-effusion-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with a known pericardial effusion asks how the effusion differs from cardiac tamponade. Which explanation by the nurse is most accurate?",
+      "options": [
+        { "id": "a", "text": "Tamponade is an infection of the pericardium, while an effusion is not.", "correct": false, "rationale": "Infection describes pericarditis. Tamponade is defined by its effect on heart function, not by its cause." },
+        { "id": "b", "text": "Tamponade occurs when the fluid builds up enough pressure to squeeze the heart and keep it from filling properly.", "correct": true, "rationale": "Tamponade is an effusion that compresses the heart, limiting diastolic filling and reducing stroke volume and cardiac output." },
+        { "id": "c", "text": "Effusion always involves more fluid than tamponade.", "correct": false, "rationale": "A rapid accumulation of as little as 100-200 mL can cause tamponade, while a slow effusion of over 1 L may cause no symptoms because the pericardium stretches." },
+        { "id": "d", "text": "An effusion affects the lungs, and tamponade affects the heart.", "correct": false, "rationale": "Both conditions involve the pericardial sac around the heart. Pleural effusion is the condition that involves the lungs." }
+      ],
+      "explanation": "Pericardial effusion is fluid in the pericardial space. Tamponade is the life-threatening result when pressure in the sac exceeds filling pressures and compresses the heart. How fast the fluid accumulates determines whether the pericardium can stretch to accommodate it."
+    },
+    {
+      "id": "pericardial-effusion-02",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with metastatic lung cancer and a known pericardial effusion is being assessed. Which findings indicate the client may be developing cardiac tamponade? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "BP 84/62 mm Hg, down from 128/78 mm Hg", "correct": true, "rationale": "Falling BP with a narrowing pulse pressure reflects decreased stroke volume as the heart cannot fill." },
+        { "id": "b", "text": "Jugular venous distention with the head of the bed at 45°", "correct": true, "rationale": "JVD reflects elevated venous pressure because blood cannot enter the compressed right heart." },
+        { "id": "c", "text": "Heart sounds that are distant and difficult to hear", "correct": true, "rationale": "Fluid around the heart muffles heart sounds. This completes Beck's triad with hypotension and JVD." },
+        { "id": "d", "text": "Bounding peripheral pulses", "correct": false, "rationale": "Tamponade lowers cardiac output, producing weak, thready pulses, not bounding ones." },
+        { "id": "e", "text": "Systolic BP drops 18 mm Hg during inspiration", "correct": true, "rationale": "A drop of more than 10 mm Hg with inspiration is pulsus paradoxus, a key sign of tamponade." },
+        { "id": "f", "text": "Bradycardia at 48/min", "correct": false, "rationale": "Tamponade produces compensatory tachycardia to maintain cardiac output. Bradycardia is a very late, pre-arrest finding." }
+      ],
+      "explanation": "Signs of tamponade include Beck's triad (hypotension, JVD, muffled heart sounds), pulsus paradoxus over 10 mm Hg, tachycardia, a narrowing pulse pressure, dyspnea, and anxiety. Malignancy is a common cause of a slowly growing effusion that can progress to tamponade."
+    },
+    {
+      "id": "pericardial-effusion-03",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is measuring pulsus paradoxus with a manual BP cuff in a client with a suspected tamponade. Place the steps in the correct order.",
+      "items": [
+        { "id": "a", "text": "Inflate the cuff above the client's known systolic BP" },
+        { "id": "b", "text": "Deflate slowly until the first Korotkoff sounds are heard only during expiration, and note this pressure" },
+        { "id": "c", "text": "Continue deflating until sounds are heard during both inspiration and expiration, and note this pressure" },
+        { "id": "d", "text": "Subtract the second reading from the first" }
+      ],
+      "explanation": "The client breathes normally while the cuff is inflated above the systolic pressure and slowly deflated. The first sounds appear only during expiration; deflation continues until sounds are heard throughout the respiratory cycle. The difference between these 2 pressures is the pulsus paradoxus, and a value over 10 mm Hg suggests tamponade."
+    },
+    {
+      "id": "pericardial-effusion-04",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse reviews the 12-lead ECG of a client with a large pericardial effusion. The QRS height alternates between larger and smaller complexes from beat to beat. Which term describes this finding?",
+      "options": [
+        { "id": "a", "text": "Electrical alternans", "correct": true, "rationale": "Electrical alternans is beat-to-beat variation in QRS amplitude caused by the heart swinging within a large pericardial effusion." },
+        { "id": "b", "text": "Atrial flutter", "correct": false, "rationale": "Atrial flutter produces sawtooth flutter waves, not alternating QRS heights." },
+        { "id": "c", "text": "Bigeminy", "correct": false, "rationale": "Bigeminy is a premature beat after every normal beat. It changes timing and QRS shape, not just amplitude." },
+        { "id": "d", "text": "ST-segment elevation", "correct": false, "rationale": "Diffuse ST elevation is seen in pericarditis or MI and is not described by alternating QRS height." }
+      ],
+      "explanation": "Electrical alternans, alternating QRS amplitude, is a classic ECG finding of a large effusion or tamponade because the heart swings within the fluid-filled sac. Low-voltage QRS complexes are also common because the fluid dampens the electrical signal."
+    },
+    {
+      "id": "pericardial-effusion-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is suspected of having a pericardial effusion. Which diagnostic test should the nurse anticipate to confirm the diagnosis?",
+      "options": [
+        { "id": "a", "text": "Pulmonary function testing", "correct": false, "rationale": "Pulmonary function tests measure lung volumes and airflow and cannot detect pericardial fluid." },
+        { "id": "b", "text": "Serum troponin", "correct": false, "rationale": "Troponin may be elevated in some pericardial conditions but cannot show fluid around the heart." },
+        { "id": "c", "text": "Echocardiogram", "correct": true, "rationale": "Echocardiography is the test of choice. It shows the size of the effusion and signs of tamponade such as right atrial and ventricular diastolic collapse." },
+        { "id": "d", "text": "Holter monitor", "correct": false, "rationale": "A Holter monitor records rhythm over 24-48 hours and is used to detect intermittent dysrhythmias, not effusions." }
+      ],
+      "explanation": "Echocardiography is fast, noninvasive, and can be done at the bedside. It confirms the effusion, estimates its size, and shows chamber collapse in tamponade. A chest x-ray may show an enlarged, 'water bottle' cardiac silhouette, but it cannot confirm the diagnosis."
+    },
+    {
+      "id": "pericardial-effusion-06",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with a pericardial effusion becomes anxious and short of breath. BP is 82/64 mm Hg, HR 128/min, neck veins are distended, and heart sounds are muffled. Which prescription should the nurse question?",
+      "options": [
+        { "id": "a", "text": "Normal saline 500 mL IV bolus", "correct": false, "rationale": "A fluid bolus increases preload and can temporarily support cardiac output until the fluid around the heart is removed. It is appropriate." },
+        { "id": "b", "text": "Prepare for emergency pericardiocentesis", "correct": false, "rationale": "Pericardiocentesis is the definitive emergency treatment for tamponade. It is appropriate." },
+        { "id": "c", "text": "Oxygen to maintain SpO2 ≥ 94%", "correct": false, "rationale": "Supplemental oxygen supports tissue oxygenation in a client in shock. It is appropriate." },
+        { "id": "d", "text": "Furosemide 40 mg IV push", "correct": true, "rationale": "A diuretic reduces preload, and the compressed heart depends on high filling pressures. Furosemide could cause cardiovascular collapse, so the nurse should question it." }
+      ],
+      "explanation": "In tamponade, the heart depends on preload to fill against the pressure in the pericardium. Fluids help temporarily. Diuretics, nitrates, and other preload-reducing drugs can cause severe hypotension or arrest. Definitive treatment is removing the fluid by pericardiocentesis or a surgical pericardial window."
+    },
+    {
+      "id": "pericardial-effusion-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is preparing a client for a bedside pericardiocentesis. In which position should the nurse place the client?",
+      "options": [
+        { "id": "a", "text": "Supine with the head of the bed elevated 45 to 60 degrees", "correct": true, "rationale": "A semi-upright position brings the heart closer to the anterior chest wall and lets fluid pool inferiorly, easing a subxiphoid approach." },
+        { "id": "b", "text": "Flat and prone", "correct": false, "rationale": "Prone positioning blocks access to the subxiphoid area and the anterior chest." },
+        { "id": "c", "text": "Trendelenburg", "correct": false, "rationale": "Head-down positioning moves fluid away from the needle site and worsens dyspnea." },
+        { "id": "d", "text": "Left lateral decubitus", "correct": false, "rationale": "A side-lying position does not give good subxiphoid access for the needle." }
+      ],
+      "explanation": "For pericardiocentesis, the client is positioned with the head of the bed raised 45-60 degrees. The procedure is typically done with echo guidance through a subxiphoid approach. The nurse ensures consent if time permits, IV access, continuous ECG monitoring, and emergency equipment at the bedside."
+    },
+    {
+      "id": "pericardial-effusion-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "During a pericardiocentesis, the nurse observes ST-segment elevation and frequent PVCs on the monitor as the needle advances. What does this finding most likely indicate?",
+      "options": [
+        { "id": "a", "text": "The procedure is successfully draining fluid", "correct": false, "rationale": "Successful drainage is shown by fluid return and improving BP, not by new ST elevation and ectopy." },
+        { "id": "b", "text": "The needle is contacting the ventricular myocardium", "correct": true, "rationale": "New ST elevation and PVCs suggest the needle is touching the epicardium. The provider should be alerted immediately so the needle can be withdrawn slightly." },
+        { "id": "c", "text": "The client is developing a pneumothorax", "correct": false, "rationale": "Pneumothorax would present with dyspnea, decreased breath sounds, and falling SpO2, not acute ST elevation with PVCs." },
+        { "id": "d", "text": "The client is having a vasovagal reaction", "correct": false, "rationale": "A vasovagal reaction causes bradycardia and hypotension, not ST elevation with ventricular ectopy." }
+      ],
+      "explanation": "Continuous ECG monitoring during pericardiocentesis detects needle contact with the heart, which shows as ST elevation or ventricular ectopy. Other complications include myocardial or coronary artery puncture, dysrhythmias, pneumothorax, and bleeding."
+    },
+    {
+      "id": "pericardial-effusion-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client returns to the cardiac unit after a pericardiocentesis with a pericardial drain in place. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Monitor BP, heart rate, and heart sounds frequently", "correct": true, "rationale": "Return of hypotension, tachycardia, or muffled heart sounds suggests the fluid is re-accumulating and tamponade is recurring." },
+        { "id": "b", "text": "Assess breath sounds and SpO2", "correct": true, "rationale": "Pneumothorax is a possible complication of needle insertion. Decreased breath sounds or falling SpO2 must be reported." },
+        { "id": "c", "text": "Measure and record drainage amount and character", "correct": true, "rationale": "Tracking drainage guides when the drain can be removed. A sudden increase in bright red drainage may indicate bleeding." },
+        { "id": "d", "text": "Discontinue cardiac monitoring once the client is stable for 1 hour", "correct": false, "rationale": "Dysrhythmias can occur after the procedure, so continuous monitoring continues per protocol." },
+        { "id": "e", "text": "Assess for recurrent JVD and pulsus paradoxus", "correct": true, "rationale": "These findings signal recurrent tamponade, for example if the drain is clotted, and need immediate reporting." }
+      ],
+      "explanation": "After pericardiocentesis, the nurse monitors for recurrent tamponade (hypotension, JVD, muffled heart sounds, pulsus paradoxus), dysrhythmias, pneumothorax, bleeding, and infection, and records drain output. Continuous ECG monitoring is maintained."
+    },
+    {
+      "id": "pericardial-effusion-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is caring for 4 clients. Which client should the nurse assess first?",
+      "options": [
+        { "id": "a", "text": "A client with a small pericardial effusion who reports mild chest discomfort when lying flat, BP 126/80 mm Hg", "correct": false, "rationale": "This client is hemodynamically stable. Positional chest discomfort is common with pericardial inflammation." },
+        { "id": "b", "text": "A client with a known effusion whose BP fell from 118/76 to 92/78 mm Hg and whose neck veins are now distended", "correct": true, "rationale": "Falling systolic BP, a narrowing pulse pressure (14 mm Hg), and new JVD signal developing tamponade, a life-threatening emergency." },
+        { "id": "c", "text": "A client 2 days after pericardiocentesis with 10 mL of serous drainage in the past 8 hours", "correct": false, "rationale": "Minimal serous drainage is expected and suggests the effusion is resolving." },
+        { "id": "d", "text": "A client with pericarditis who rates pain 4/10 and is requesting the prescribed NSAID", "correct": false, "rationale": "This client needs pain relief soon but is not unstable." }
+      ],
+      "explanation": "Early recognition of tamponade is a priority. A falling systolic BP with a narrowing pulse pressure, new JVD, tachycardia, and muffled heart sounds signal impaired cardiac filling and need immediate assessment and provider notification so pericardiocentesis can be performed."
+    }
+  ]
+}

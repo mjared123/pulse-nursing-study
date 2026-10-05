@@ -1,0 +1,861 @@
+{
+  "slug": "valve-stenosis",
+  "title": "Aortic/Mitral Valve Replacement & Stenosis",
+  "short": "Valve Stenosis & Replacement",
+  "icon": "valve",
+  "description": "Aortic and mitral stenosis, valvuloplasty, TAVR and surgical valve replacement, mechanical vs biological valves, anticoagulation, and post-procedure care and teaching.",
+  "keyPoints": [
+    "Aortic stenosis classic triad: angina, syncope, and dyspnea (exertional/heart failure); onset of symptoms signals poor prognosis without valve replacement.",
+    "AS murmur: harsh crescendo-decrescendo systolic murmur at the right 2nd intercostal space radiating to the carotids.",
+    "AS is preload dependent: use nitrates, vasodilators, and aggressive diuresis with great caution; they can cause severe hypotension and syncope.",
+    "Mitral stenosis is usually from rheumatic heart disease: low-pitched diastolic rumble at the apex, left atrial enlargement, AFib, emboli, hemoptysis, exertional dyspnea.",
+    "Percutaneous balloon valvuloplasty is preferred for suitable mitral stenosis; TAVR is a catheter-based option for severe symptomatic AS, especially in older or high-risk clients.",
+    "Mechanical valves last longest but need lifelong warfarin (INR goal about 2.5 aortic, 3.0 mitral); DOACs are contraindicated. Tissue valves need little long-term anticoagulation but wear out (about 10-15 years).",
+    "After TAVR/valvuloplasty: check access site, distal pulses, neuro status (stroke), and rhythm (heart block).",
+    "Prosthetic valves are highest risk for endocarditis: antibiotic prophylaxis before dental procedures that manipulate gums, plus excellent oral hygiene."
+  ],
+  "questions": [
+    {
+      "id": "valve-stenosis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is reviewing the history of a client with severe aortic stenosis. Which group of symptoms is classically associated with this condition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Angina, syncope, and exertional dyspnea",
+          "correct": true,
+          "rationale": "Correct. Fixed LV outflow obstruction causes the classic triad: angina (increased O2 demand of a hypertrophied LV with reduced coronary perfusion), syncope (cardiac output cannot rise with exertion), and dyspnea from heart failure."
+        },
+        {
+          "id": "b",
+          "text": "Hemoptysis, hoarseness, and dysphagia",
+          "correct": false,
+          "rationale": "These reflect mitral stenosis: pulmonary venous congestion causes hemoptysis, and an enlarged left atrium can compress the recurrent laryngeal nerve and esophagus."
+        },
+        {
+          "id": "c",
+          "text": "Fever, splinter hemorrhages, and new murmur",
+          "correct": false,
+          "rationale": "These suggest infective endocarditis, not the structural outflow obstruction of aortic stenosis."
+        },
+        {
+          "id": "d",
+          "text": "Bounding pulses, widened pulse pressure, and head bobbing",
+          "correct": false,
+          "rationale": "These are signs of aortic regurgitation, in which a large stroke volume leaks back in diastole; AS produces a narrowed pulse pressure and weak, delayed pulses."
+        }
+      ],
+      "explanation": "Aortic stenosis is often silent for years while the LV hypertrophies. Once angina, syncope, or dyspnea/heart failure appear, survival without valve replacement is short, so new symptoms must be reported promptly."
+    },
+    {
+      "id": "valve-stenosis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "While auscultating the heart of a client with aortic stenosis, which finding does the nurse expect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A low-pitched rumbling diastolic murmur at the apex",
+          "correct": false,
+          "rationale": "This describes mitral stenosis, heard best with the bell at the apex in the left lateral position."
+        },
+        {
+          "id": "b",
+          "text": "A blowing holosystolic murmur at the apex radiating to the axilla",
+          "correct": false,
+          "rationale": "This describes mitral regurgitation."
+        },
+        {
+          "id": "c",
+          "text": "A harsh crescendo-decrescendo systolic murmur at the right 2nd intercostal space radiating to the neck",
+          "correct": true,
+          "rationale": "Correct. Turbulent ejection through the narrowed aortic valve produces a systolic ejection murmur at the aortic area that radiates to the carotids."
+        },
+        {
+          "id": "d",
+          "text": "A high-pitched decrescendo diastolic murmur at the left sternal border",
+          "correct": false,
+          "rationale": "This describes aortic regurgitation, with blood flowing back into the LV during diastole."
+        }
+      ],
+      "explanation": "Match murmur timing to valve mechanics: stenotic valves murmur when they should be open (aortic in systole, mitral in diastole), and regurgitant valves murmur when they should be closed. The AS murmur is systolic, crescendo-decrescendo, at the right upper sternal border radiating to the carotids."
+    },
+    {
+      "id": "valve-stenosis-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with severe aortic stenosis is admitted with chest pain. BP is 98/62 mm Hg, HR 88/min. Which prescription should the nurse clarify with the provider before giving it?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atorvastatin 40 mg PO at bedtime",
+          "correct": false,
+          "rationale": "Statins are commonly prescribed for coexisting CAD and do not affect preload or blood pressure acutely."
+        },
+        {
+          "id": "b",
+          "text": "Oxygen at 2 L/min by nasal cannula to keep SpO2 at least 92%",
+          "correct": false,
+          "rationale": "Supplemental oxygen for chest pain with hypoxemia is safe and appropriate."
+        },
+        {
+          "id": "c",
+          "text": "Docusate sodium 100 mg PO daily",
+          "correct": false,
+          "rationale": "A stool softener reduces straining (Valsalva) and is safe."
+        },
+        {
+          "id": "d",
+          "text": "Nitroglycerin 0.4 mg sublingual every 5 minutes PRN chest pain",
+          "correct": true,
+          "rationale": "Correct. Clients with severe AS depend on adequate preload to push blood across the stenotic valve. Nitrates venodilate and can cause profound hypotension and syncope, especially with a BP already near 98/62, so the nurse should clarify before giving it."
+        }
+      ],
+      "explanation": "Severe AS creates a fixed obstruction, so cardiac output is preload dependent. Nitrates, other vasodilators, and aggressive diuresis are used cautiously, if at all. Dehydration and sudden position changes are also dangerous."
+    },
+    {
+      "id": "valve-stenosis-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with severe aortic stenosis received IV furosemide 40 mg one hour ago. The client now reports lightheadedness when sitting up; BP is 84/50 mm Hg (baseline 118/70), HR 108/min. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assist the client to lie flat and recheck the blood pressure",
+          "correct": true,
+          "rationale": "Correct. Diuresis has likely reduced preload, and the obstructed AS ventricle cannot compensate. Lying flat improves venous return and cerebral perfusion and prevents a fall or syncope; then the nurse reassesses and notifies the provider."
+        },
+        {
+          "id": "b",
+          "text": "Administer the next scheduled dose of furosemide",
+          "correct": false,
+          "rationale": "Further diuresis would worsen the volume depletion causing the hypotension."
+        },
+        {
+          "id": "c",
+          "text": "Ambulate the client to the bathroom to void",
+          "correct": false,
+          "rationale": "Standing a hypotensive, preload-dependent client risks syncope and a fall."
+        },
+        {
+          "id": "d",
+          "text": "Apply a nitroglycerin patch for possible ischemia",
+          "correct": false,
+          "rationale": "A vasodilator would drop preload and blood pressure further and could cause collapse."
+        }
+      ],
+      "explanation": "In AS, small reductions in preload can cause large drops in cardiac output. The first priority with symptomatic hypotension is safety and perfusion: position flat, reassess, hold further preload-reducing drugs, and notify the provider."
+    },
+    {
+      "id": "valve-stenosis-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client with severe aortic stenosis who is awaiting valve replacement. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Report any fainting, near-fainting, or new chest pain right away",
+          "correct": true,
+          "rationale": "Correct. Syncope and angina indicate the valve is limiting cardiac output; they signal high risk for sudden death and need urgent evaluation."
+        },
+        {
+          "id": "b",
+          "text": "Avoid heavy lifting and strenuous exertion until the valve is replaced",
+          "correct": true,
+          "rationale": "Correct. With a fixed obstruction, cardiac output cannot rise to meet heavy exertional demand, which can cause syncope, ischemia, or sudden death."
+        },
+        {
+          "id": "c",
+          "text": "Change from lying to standing slowly",
+          "correct": true,
+          "rationale": "Correct. Orthostatic drops in preload can cause dizziness or syncope in a preload-dependent client."
+        },
+        {
+          "id": "d",
+          "text": "Take a nitroglycerin tablet before exercising to prevent angina",
+          "correct": false,
+          "rationale": "Nitrates reduce preload and can cause severe hypotension in AS; they are not used prophylactically before exercise."
+        },
+        {
+          "id": "e",
+          "text": "Begin a high-intensity training program to strengthen your heart",
+          "correct": false,
+          "rationale": "Vigorous exercise is contraindicated in severe symptomatic AS because of the risk of syncope and sudden cardiac death."
+        }
+      ],
+      "explanation": "Teaching for AS before valve replacement focuses on recognizing danger symptoms (syncope, angina, dyspnea), limiting strenuous activity, maintaining adequate fluid intake, and avoiding sudden position changes or vasodilating drugs that drop preload."
+    },
+    {
+      "id": "valve-stenosis-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with mitral stenosis asks why atrial fibrillation developed. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The narrowed mitral valve causes pressure to build up and enlarge the left atrium, which disrupts its electrical conduction.",
+          "correct": true,
+          "rationale": "Correct. Chronic pressure and volume overload stretches and dilates the left atrium, creating the substrate for AFib, one of the most common complications of mitral stenosis."
+        },
+        {
+          "id": "b",
+          "text": "The narrowed valve blocks the SA node's impulse from reaching the ventricles.",
+          "correct": false,
+          "rationale": "Valve leaflets are not part of the conduction pathway; AFib arises from atrial remodeling, not blocked conduction."
+        },
+        {
+          "id": "c",
+          "text": "Blood leaks backward into the right atrium and overstretches it.",
+          "correct": false,
+          "rationale": "Mitral stenosis affects left-sided flow; the left atrium is the chamber that enlarges first."
+        },
+        {
+          "id": "d",
+          "text": "The left ventricle hypertrophies and generates extra impulses.",
+          "correct": false,
+          "rationale": "In pure mitral stenosis the LV is underfilled and usually normal in size; LV hypertrophy is typical of aortic stenosis."
+        }
+      ],
+      "explanation": "Mitral stenosis obstructs LA emptying during diastole. LA pressure rises, the atrium enlarges, and AFib develops. AFib then removes the atrial kick, causes stasis, and raises the risk of LA thrombus and systemic emboli."
+    },
+    {
+      "id": "valve-stenosis-07",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which condition in a client's history is the most common cause of mitral stenosis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Long-standing hypertension",
+          "correct": false,
+          "rationale": "Hypertension increases afterload and contributes to LV hypertrophy but is not a typical cause of mitral stenosis."
+        },
+        {
+          "id": "b",
+          "text": "Rheumatic fever",
+          "correct": true,
+          "rationale": "Correct. Rheumatic heart disease after group A streptococcal infection causes leaflet thickening and commissure fusion and remains the leading cause of mitral stenosis."
+        },
+        {
+          "id": "c",
+          "text": "Inferior wall myocardial infarction",
+          "correct": false,
+          "rationale": "MI can cause papillary muscle dysfunction and mitral regurgitation, not stenosis."
+        },
+        {
+          "id": "d",
+          "text": "Marfan syndrome",
+          "correct": false,
+          "rationale": "Marfan syndrome is associated with mitral valve prolapse and aortic root dilation with aortic regurgitation."
+        }
+      ],
+      "explanation": "Most mitral stenosis is rheumatic in origin, appearing years after an untreated strep infection. Prompt treatment of strep pharyngitis and secondary prophylaxis for people with prior rheumatic fever helps prevent rheumatic valve disease."
+    },
+    {
+      "id": "valve-stenosis-08",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a client with moderate-to-severe mitral stenosis. Which findings are consistent with this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Low-pitched rumbling diastolic murmur at the apex",
+          "correct": true,
+          "rationale": "Correct. Turbulent flow across the narrowed mitral valve during ventricular filling produces a diastolic rumble, best heard with the bell at the apex in the left lateral position."
+        },
+        {
+          "id": "b",
+          "text": "Dyspnea on exertion",
+          "correct": true,
+          "rationale": "Correct. Exertional dyspnea is usually the first symptom, from elevated LA and pulmonary venous pressures causing pulmonary congestion."
+        },
+        {
+          "id": "c",
+          "text": "Hemoptysis",
+          "correct": true,
+          "rationale": "Correct. High pulmonary venous pressure can rupture small bronchial veins, causing hemoptysis."
+        },
+        {
+          "id": "d",
+          "text": "Irregularly irregular pulse",
+          "correct": true,
+          "rationale": "Correct. LA enlargement commonly leads to atrial fibrillation."
+        },
+        {
+          "id": "e",
+          "text": "Crescendo-decrescendo systolic murmur radiating to the carotids",
+          "correct": false,
+          "rationale": "This is the murmur of aortic stenosis."
+        },
+        {
+          "id": "f",
+          "text": "Widened pulse pressure with bounding pulses",
+          "correct": false,
+          "rationale": "These signs reflect aortic regurgitation, not mitral stenosis."
+        }
+      ],
+      "explanation": "Mitral stenosis cues come from back-pressure into the lungs and an enlarged left atrium: exertional dyspnea, orthopnea, hemoptysis, AFib with palpitations, fatigue, and embolic events, along with a diastolic apical rumble."
+    },
+    {
+      "id": "valve-stenosis-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with mitral stenosis and chronic atrial fibrillation suddenly develops right-sided arm weakness and slurred speech. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer the client's scheduled warfarin dose",
+          "correct": false,
+          "rationale": "Giving anticoagulation before imaging excludes hemorrhage could be harmful, and it does not treat the acute event."
+        },
+        {
+          "id": "b",
+          "text": "Activate the stroke response team and note the time the client was last known well",
+          "correct": true,
+          "rationale": "Correct. Mitral stenosis with AFib causes LA stasis and thrombus that can embolize to the brain. Rapid stroke team activation and an accurate last-known-well time determine eligibility for thrombolysis or thrombectomy."
+        },
+        {
+          "id": "c",
+          "text": "Give the client sips of water to assess swallowing",
+          "correct": false,
+          "rationale": "Nothing by mouth until a formal swallow screen is done; slurred speech suggests aspiration risk."
+        },
+        {
+          "id": "d",
+          "text": "Reassess neurological status in 1 hour",
+          "correct": false,
+          "rationale": "Waiting delays time-sensitive stroke treatment; time is brain."
+        }
+      ],
+      "explanation": "Clients with mitral stenosis and AFib are at very high risk for cardioembolic stroke, which is why they are anticoagulated (warfarin is recommended for rheumatic mitral stenosis with AFib). Sudden focal neuro deficits call for immediate stroke protocol activation."
+    },
+    {
+      "id": "valve-stenosis-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with mitral stenosis reports increasing shortness of breath and has coughed up blood-streaked sputum. RR is 28/min, SpO2 89% on room air, and crackles are heard in both lung bases. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obtain a sputum specimen for culture",
+          "correct": false,
+          "rationale": "Culture does not address the immediate problem of pulmonary congestion and hypoxemia."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the client to increase oral fluid intake",
+          "correct": false,
+          "rationale": "Extra fluid would worsen pulmonary congestion."
+        },
+        {
+          "id": "c",
+          "text": "Raise the head of the bed to high Fowler's and apply oxygen",
+          "correct": true,
+          "rationale": "Correct. Hemoptysis, crackles, and hypoxemia indicate pulmonary venous congestion from mitral stenosis. Upright positioning reduces venous return and improves lung expansion, and oxygen treats hypoxemia; then the nurse notifies the provider."
+        },
+        {
+          "id": "d",
+          "text": "Place the client flat with legs elevated",
+          "correct": false,
+          "rationale": "Lying flat increases venous return and worsens pulmonary congestion and dyspnea."
+        }
+      ],
+      "explanation": "In mitral stenosis, back-pressure from the left atrium causes pulmonary congestion and possible hemoptysis. Priorities are airway and breathing: upright position, oxygen, and prompt provider notification for diuretics and rate control."
+    },
+    {
+      "id": "valve-stenosis-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with symptomatic mitral stenosis is scheduled for percutaneous balloon valvuloplasty. The client asks how the procedure works. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'The surgeon opens your chest and replaces the valve with a mechanical valve.'",
+          "correct": false,
+          "rationale": "This describes open surgical valve replacement, not a catheter-based valvuloplasty."
+        },
+        {
+          "id": "b",
+          "text": "'A medication is infused to dissolve the calcium on your valve.'",
+          "correct": false,
+          "rationale": "No drug dissolves valve calcification or fused commissures."
+        },
+        {
+          "id": "c",
+          "text": "'A pacemaker lead is placed to coordinate the valve's opening.'",
+          "correct": false,
+          "rationale": "Pacemakers treat conduction problems, not structural valve narrowing."
+        },
+        {
+          "id": "d",
+          "text": "'A catheter with a balloon is threaded from a vein in your groin to the valve, and the balloon is inflated to separate the fused leaflets and widen the opening.'",
+          "correct": true,
+          "rationale": "Correct. Balloon valvuloplasty uses a catheter, usually from the femoral vein with transseptal puncture, to split fused commissures. It avoids a sternotomy and is the preferred treatment for suitable mitral stenosis."
+        }
+      ],
+      "explanation": "Percutaneous balloon valvuloplasty is preferred for many clients with rheumatic mitral stenosis who have pliable valves without significant regurgitation or LA thrombus. After the procedure, the nurse monitors the access site, distal pulses, rhythm, and signs of new mitral regurgitation or embolism."
+    },
+    {
+      "id": "valve-stenosis-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Two hours after a transcatheter aortic valve replacement (TAVR) through the right femoral artery, the nurse notes a firm, enlarging swelling at the insertion site. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply firm manual pressure just above the insertion site",
+          "correct": true,
+          "rationale": "Correct. An expanding hematoma means active arterial bleeding. Direct manual pressure proximal to the puncture site is the immediate intervention; the nurse then calls for help, assesses vital signs and distal pulses, and notifies the provider."
+        },
+        {
+          "id": "b",
+          "text": "Elevate the head of the bed to 60 degrees",
+          "correct": false,
+          "rationale": "Flexing the hip can worsen bleeding at a femoral puncture; the leg is kept straight and the head of bed low."
+        },
+        {
+          "id": "c",
+          "text": "Apply a warm compress to the groin",
+          "correct": false,
+          "rationale": "Heat causes vasodilation and could increase bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Mark the edges of the swelling and reassess in 1 hour",
+          "correct": false,
+          "rationale": "Marking helps track size, but waiting an hour with an actively enlarging hematoma risks major blood loss."
+        }
+      ],
+      "explanation": "Bleeding and vascular injury at the femoral access site are common TAVR and catheterization complications. Keep the affected leg straight, check the site and distal pulses frequently, and apply firm pressure immediately for bleeding or hematoma."
+    },
+    {
+      "id": "valve-stenosis-13",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is caring for a client 6 hours after TAVR through the femoral artery. Which findings require immediate follow-up? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart rate 38/min with P waves not related to the QRS complexes",
+          "correct": true,
+          "rationale": "Correct. This is complete heart block. The new valve sits next to the AV conduction system, and conduction disturbances needing a pacemaker are a known TAVR complication."
+        },
+        {
+          "id": "b",
+          "text": "New left facial droop and slurred speech",
+          "correct": true,
+          "rationale": "Correct. Stroke from debris dislodged from the calcified valve or aorta is a serious TAVR complication and needs stroke team activation."
+        },
+        {
+          "id": "c",
+          "text": "Cool, pale right foot with absent pedal pulse",
+          "correct": true,
+          "rationale": "Correct. This suggests arterial occlusion or dissection at the access site, a limb-threatening emergency."
+        },
+        {
+          "id": "d",
+          "text": "Mild tenderness at the groin insertion site",
+          "correct": false,
+          "rationale": "Mild tenderness is expected after femoral access and does not suggest a complication if there is no swelling or bleeding."
+        },
+        {
+          "id": "e",
+          "text": "BP 126/74 mm Hg and urine output 55 mL/hr",
+          "correct": false,
+          "rationale": "These are within normal limits and indicate adequate perfusion."
+        }
+      ],
+      "explanation": "Post-TAVR priorities: rhythm (heart block, AFib), neuro status (stroke), access site and limb perfusion (bleeding, hematoma, ischemia), and kidney function (contrast). Any acute change in these needs immediate action."
+    },
+    {
+      "id": "valve-stenosis-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing four clients with severe symptomatic aortic stenosis. Which client is most likely to be offered TAVR rather than open surgical valve replacement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 45-year-old with a bicuspid aortic valve and no other health problems",
+          "correct": false,
+          "rationale": "Younger, low-risk clients are usually treated with surgical replacement, often with a durable mechanical valve; long-term TAVR durability in younger clients is less established."
+        },
+        {
+          "id": "b",
+          "text": "An 84-year-old with severe COPD and prior sternotomy who is at high surgical risk",
+          "correct": true,
+          "rationale": "Correct. TAVR avoids sternotomy and cardiopulmonary bypass and was developed for older and high or prohibitive surgical risk clients. It is now also used in many older clients at lower risk."
+        },
+        {
+          "id": "c",
+          "text": "A 30-year-old woman with rheumatic mitral stenosis",
+          "correct": false,
+          "rationale": "TAVR replaces the aortic valve; rheumatic mitral stenosis is usually treated with balloon valvuloplasty or mitral surgery."
+        },
+        {
+          "id": "d",
+          "text": "A 52-year-old with asymptomatic mild aortic stenosis",
+          "correct": false,
+          "rationale": "Mild asymptomatic AS is monitored with periodic echocardiograms; valve replacement is indicated for severe or symptomatic disease."
+        }
+      ],
+      "explanation": "TAVR delivers a bioprosthetic valve by catheter, usually through the femoral artery, inside the diseased native valve. It is preferred for older adults and those at high surgical risk; surgery remains common for younger clients and those needing other cardiac surgery."
+    },
+    {
+      "id": "valve-stenosis-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is reviewing four clients who need aortic valve replacement. For which client is a biological (tissue) valve the most appropriate choice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 42-year-old marathon runner who wants a valve that will not need to be replaced",
+          "correct": false,
+          "rationale": "Mechanical valves are more durable and are often chosen for younger clients who can safely take lifelong warfarin."
+        },
+        {
+          "id": "b",
+          "text": "A 55-year-old who already takes warfarin for chronic atrial fibrillation and has stable INRs",
+          "correct": false,
+          "rationale": "This client already needs anticoagulation and manages it well, so the main drawback of a mechanical valve does not apply."
+        },
+        {
+          "id": "c",
+          "text": "A 50-year-old who wants to avoid any chance of a repeat procedure",
+          "correct": false,
+          "rationale": "Tissue valves degenerate, often within about 10-15 years, making reoperation or valve-in-valve TAVR more likely."
+        },
+        {
+          "id": "d",
+          "text": "A 78-year-old with recurrent GI bleeding who cannot safely take long-term anticoagulants",
+          "correct": true,
+          "rationale": "Correct. Biological valves usually do not need lifelong warfarin, so they are preferred for older adults and clients with bleeding risk or inability to manage anticoagulation."
+        }
+      ],
+      "explanation": "Mechanical valve: durable but needs lifelong warfarin. Tissue (porcine, bovine, or human) valve: less thrombogenic, so usually no long-term warfarin, but it wears out. Tissue valves fit older adults, clients who cannot take anticoagulants, and women who plan pregnancy (warfarin is teratogenic)."
+    },
+    {
+      "id": "valve-stenosis-16",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client who has a new mechanical mitral valve and will take warfarin. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep your intake of green leafy vegetables consistent from week to week",
+          "correct": true,
+          "rationale": "Correct. Vitamin K reverses warfarin's effect. Consistent intake, not avoidance, keeps the INR stable."
+        },
+        {
+          "id": "b",
+          "text": "Use a soft-bristled toothbrush and an electric razor",
+          "correct": true,
+          "rationale": "Correct. These reduce bleeding from minor trauma."
+        },
+        {
+          "id": "c",
+          "text": "Report black, tarry stools or blood in your urine",
+          "correct": true,
+          "rationale": "Correct. These may indicate GI or urinary bleeding from excessive anticoagulation."
+        },
+        {
+          "id": "d",
+          "text": "Avoid ibuprofen and aspirin unless your provider prescribes them",
+          "correct": true,
+          "rationale": "Correct. NSAIDs and aspirin increase bleeding risk and can cause GI bleeding when combined with warfarin."
+        },
+        {
+          "id": "e",
+          "text": "If you miss a dose, take a double dose the next day",
+          "correct": false,
+          "rationale": "Doubling can raise the INR to dangerous levels. Clients should take a missed dose the same day if remembered, never double, and call the provider for guidance."
+        },
+        {
+          "id": "f",
+          "text": "You may switch to apixaban later because it needs less lab monitoring",
+          "correct": false,
+          "rationale": "DOACs such as apixaban and dabigatran are contraindicated with mechanical heart valves because they increased thrombosis and bleeding; warfarin is required."
+        }
+      ],
+      "explanation": "Mechanical valve clients need lifelong warfarin with regular INR checks. Teaching covers consistent vitamin K intake, bleeding precautions and signs, avoiding interacting drugs and herbs, medical alert identification, and never stopping or doubling doses without guidance."
+    },
+    {
+      "id": "valve-stenosis-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a mechanical mitral valve has an INR of 1.6. The client has no signs of bleeding or embolism. How should the nurse interpret this result?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The INR is therapeutic, and no action is needed.",
+          "correct": false,
+          "rationale": "The usual INR goal for a mechanical mitral valve is about 2.5-3.5 (target 3.0), so 1.6 is too low."
+        },
+        {
+          "id": "b",
+          "text": "The INR is too high, and the next dose should be held.",
+          "correct": false,
+          "rationale": "1.6 is below goal; holding warfarin would further increase clot risk."
+        },
+        {
+          "id": "c",
+          "text": "The INR is subtherapeutic, placing the client at risk for valve thrombosis and stroke; the nurse should notify the provider.",
+          "correct": true,
+          "rationale": "Correct. Mechanical mitral valves carry high thrombotic risk. An INR of 1.6 is below the 2.5-3.5 goal, so the provider should be notified to adjust the dose and consider heparin bridging."
+        },
+        {
+          "id": "d",
+          "text": "The INR is irrelevant because the client takes aspirin.",
+          "correct": false,
+          "rationale": "Aspirin alone does not adequately prevent mechanical valve thrombosis; warfarin with a therapeutic INR is essential."
+        }
+      ],
+      "explanation": "INR goals for mechanical valves depend on position and risk: about 2.5 (2.0-3.0) for a mechanical aortic valve without other risk factors and about 3.0 (2.5-3.5) for a mechanical mitral valve. Low INRs risk valve thrombosis and emboli; high INRs risk bleeding."
+    },
+    {
+      "id": "valve-stenosis-18",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "Place the events in the progression of untreated mitral stenosis in order, from first to last.",
+      "items": [
+        {
+          "id": "a",
+          "text": "The mitral valve orifice narrows and obstructs left atrial emptying"
+        },
+        {
+          "id": "b",
+          "text": "Left atrial pressure rises and the left atrium enlarges"
+        },
+        {
+          "id": "c",
+          "text": "Pressure backs up into the pulmonary veins, causing pulmonary congestion"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary hypertension develops"
+        },
+        {
+          "id": "e",
+          "text": "The right ventricle hypertrophies and eventually fails"
+        }
+      ],
+      "explanation": "Mitral stenosis is a 'back-up' problem. The narrowed valve first raises LA pressure and causes LA dilation (setting up AFib). The pressure is transmitted backward to the pulmonary veins (dyspnea, crackles, hemoptysis), then pulmonary arteries (pulmonary hypertension), and finally the right ventricle, causing right-sided heart failure (JVD, edema, hepatomegaly)."
+    },
+    {
+      "id": "valve-stenosis-19",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a mechanical aortic valve tells the nurse, 'My friend takes rivaroxaban and doesn't need blood tests. Can I switch to that?' Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Yes, newer anticoagulants are safer and work the same for every condition.'",
+          "correct": false,
+          "rationale": "This is inaccurate; DOACs are not interchangeable with warfarin for mechanical valves."
+        },
+        {
+          "id": "b",
+          "text": "'Those medications are not used with mechanical heart valves because they do not prevent valve clots as well; warfarin is the recommended drug for you.'",
+          "correct": true,
+          "rationale": "Correct. DOACs are contraindicated in clients with mechanical valves. Warfarin with INR monitoring remains the standard of care."
+        },
+        {
+          "id": "c",
+          "text": "'You can stop anticoagulants once your valve has healed in about 6 months.'",
+          "correct": false,
+          "rationale": "Mechanical valves require lifelong anticoagulation; stopping creates a high risk of valve thrombosis and stroke."
+        },
+        {
+          "id": "d",
+          "text": "'Take an aspirin instead so you won't need blood tests.'",
+          "correct": false,
+          "rationale": "Aspirin alone is not adequate prevention for a mechanical valve and would put the client at high thrombotic risk."
+        }
+      ],
+      "explanation": "Mechanical valve = warfarin for life. Studies of dabigatran in mechanical valves showed more thromboembolism and bleeding, so DOACs are contraindicated. Clients need regular INR checks and teaching on adherence."
+    },
+    {
+      "id": "valve-stenosis-20",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client with a new prosthetic aortic valve about preventing infective endocarditis. Which statements should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'You will need antibiotics before dental procedures that involve the gums or the root of a tooth.'",
+          "correct": true,
+          "rationale": "Correct. Prosthetic valves are a highest-risk condition, and AHA guidelines recommend prophylaxis (for example, amoxicillin 30-60 minutes before) for dental procedures that manipulate gingival tissue or the periapical region."
+        },
+        {
+          "id": "b",
+          "text": "'Tell every dentist and health care provider that you have a prosthetic valve.'",
+          "correct": true,
+          "rationale": "Correct. Providers need to know so they can give prophylaxis when indicated."
+        },
+        {
+          "id": "c",
+          "text": "'Brush and floss daily and see your dentist every 6 months.'",
+          "correct": true,
+          "rationale": "Correct. Good oral hygiene reduces the frequent bacteremia from daily activities, which is a major source of endocarditis."
+        },
+        {
+          "id": "d",
+          "text": "'Report fever, chills, night sweats, or unusual fatigue to your provider.'",
+          "correct": true,
+          "rationale": "Correct. These may be early signs of endocarditis and need prompt blood cultures and evaluation."
+        },
+        {
+          "id": "e",
+          "text": "'You will need antibiotics before every routine colonoscopy.'",
+          "correct": false,
+          "rationale": "Current guidelines do not recommend routine prophylaxis for GI or GU procedures solely to prevent endocarditis."
+        },
+        {
+          "id": "f",
+          "text": "'Take leftover antibiotics at home whenever you feel a cold coming on.'",
+          "correct": false,
+          "rationale": "Self-treating with leftover antibiotics promotes resistance and can mask endocarditis by making blood cultures falsely negative."
+        }
+      ],
+      "explanation": "Clients with prosthetic valves are at the highest risk for endocarditis. Teaching includes dental prophylaxis when indicated, excellent oral hygiene, informing providers, avoiding body piercing and IV drug use, and reporting infection symptoms promptly."
+    },
+    {
+      "id": "valve-stenosis-21",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is 4 hours post-op from surgical mitral valve replacement. Mediastinal chest tube drainage was 150 mL/hr but has suddenly dropped to 10 mL in the past hour. BP is 82/64 mm Hg, HR 128/min, the neck veins are distended, and heart sounds are muffled. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document the decreased drainage as a sign of resolving bleeding",
+          "correct": false,
+          "rationale": "A sudden drop in drainage with hypotension suggests clotted tubes and blood accumulating around the heart, not improvement."
+        },
+        {
+          "id": "b",
+          "text": "Notify the surgeon immediately of suspected cardiac tamponade",
+          "correct": true,
+          "rationale": "Correct. Hypotension, tachycardia, JVD, muffled heart sounds, and abruptly decreased chest tube output indicate cardiac tamponade, a surgical emergency that may require reopening the chest or pericardiocentesis."
+        },
+        {
+          "id": "c",
+          "text": "Administer the prescribed IV furosemide for elevated neck veins",
+          "correct": false,
+          "rationale": "Diuresis would reduce preload and worsen hypotension in tamponade; JVD here reflects compression of the heart, not fluid overload."
+        },
+        {
+          "id": "d",
+          "text": "Lower the chest drainage system above chest level to improve flow",
+          "correct": false,
+          "rationale": "Raising the drainage system above the chest can cause backflow and does not treat tamponade; it should stay below chest level."
+        }
+      ],
+      "explanation": "After cardiac surgery, the nurse monitors closely for bleeding and tamponade. Beck's triad (hypotension, JVD, muffled heart sounds) plus a sudden decrease in chest tube drainage requires immediate notification of the surgeon."
+    },
+    {
+      "id": "valve-stenosis-22",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse has taught a client being discharged with a mechanical aortic valve on warfarin. Which client statement indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'I'll get my INR checked as often as my provider schedules it.'",
+          "correct": false,
+          "rationale": "This shows correct understanding of required monitoring."
+        },
+        {
+          "id": "b",
+          "text": "'I'll wear a medical alert bracelet that says I take warfarin.'",
+          "correct": false,
+          "rationale": "This is appropriate; it alerts emergency responders to bleeding risk and the prosthetic valve."
+        },
+        {
+          "id": "c",
+          "text": "'I've started taking ginkgo biloba to help my memory.'",
+          "correct": true,
+          "rationale": "Correct. Ginkgo, garlic, ginger, and many other supplements increase bleeding risk or alter warfarin's effect. This statement shows the need for more teaching to check all supplements with the provider."
+        },
+        {
+          "id": "d",
+          "text": "'The clicking sound I hear from my chest is my new valve working.'",
+          "correct": false,
+          "rationale": "A crisp click is normal with a mechanical valve; the client should report if the click becomes muffled or absent."
+        }
+      ],
+      "explanation": "Evaluate warfarin teaching by listening for unsafe practices: unapproved supplements, inconsistent vitamin K intake, stopping or doubling doses, and NSAID use. An audible valve click is expected with mechanical valves."
+    },
+    {
+      "id": "valve-stenosis-23",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is preparing a client for discharge after surgical aortic valve replacement through a median sternotomy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hug a pillow against your chest when you cough",
+          "correct": true,
+          "rationale": "Correct. Splinting supports the sternum and reduces pain during coughing and deep breathing."
+        },
+        {
+          "id": "b",
+          "text": "Avoid lifting more than about 10 lb (4.5 kg) until the surgeon clears you, usually about 6 weeks",
+          "correct": true,
+          "rationale": "Correct. Sternal precautions protect the healing sternum from dehiscence."
+        },
+        {
+          "id": "c",
+          "text": "Report redness, drainage, or a clicking or grinding feeling in your breastbone",
+          "correct": true,
+          "rationale": "Correct. These may signal sternal wound infection or instability."
+        },
+        {
+          "id": "d",
+          "text": "Push up with both arms to get out of bed",
+          "correct": false,
+          "rationale": "Pushing up with both arms stresses the sternum; clients should roll and use their legs or keep the arms close to the body."
+        },
+        {
+          "id": "e",
+          "text": "Resume heavy yard work after 1 week if you feel well",
+          "correct": false,
+          "rationale": "Heavy exertion is restricted for several weeks while the sternum heals."
+        }
+      ],
+      "explanation": "After sternotomy, clients follow sternal precautions for about 6-8 weeks: no heavy lifting, pushing, or pulling; splint when coughing; and report signs of infection or sternal instability. Driving is typically restricted for several weeks."
+    },
+    {
+      "id": "valve-stenosis-24",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse receives report on four clients on a cardiac unit. Which client should the nurse see first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A client with a mechanical aortic valve whose INR is 2.6",
+          "correct": false,
+          "rationale": "An INR of 2.6 is within the usual goal (2.0-3.0) for a mechanical aortic valve."
+        },
+        {
+          "id": "b",
+          "text": "A client with mitral stenosis and AFib whose heart rate is 88/min",
+          "correct": false,
+          "rationale": "A rate below 110/min indicates adequate rate control; this client is stable."
+        },
+        {
+          "id": "c",
+          "text": "A client 2 days after valve surgery who rates incisional pain 4 out of 10",
+          "correct": false,
+          "rationale": "This client needs pain management but is not unstable."
+        },
+        {
+          "id": "d",
+          "text": "A client with severe aortic stenosis who nearly fainted while walking to the bathroom",
+          "correct": true,
+          "rationale": "Correct. Exertional near-syncope in severe AS signals that cardiac output cannot meet demand and indicates high risk for sudden cardiac death. This client needs immediate assessment."
+        }
+      ],
+      "explanation": "When prioritizing, look for new symptoms that signal instability. In aortic stenosis, syncope, angina, or dyspnea with exertion are red flags, while expected or within-goal findings can wait."
+    }
+  ]
+}

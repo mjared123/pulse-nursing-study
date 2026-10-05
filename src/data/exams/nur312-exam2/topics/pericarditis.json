@@ -1,0 +1,507 @@
+{
+  "slug": "pericarditis",
+  "title": "Pericarditis",
+  "short": "Pericarditis",
+  "icon": "layers",
+  "description": "Inflammation of the pericardial sac: positional pleuritic chest pain, friction rub technique, diffuse ST elevation, NSAID and colchicine therapy, Dressler and uremic pericarditis, tamponade monitoring, and distinguishing it from MI.",
+  "keyPoints": [
+    "Pain is sharp and pleuritic, worse lying supine and with deep inspiration, and relieved by sitting up and leaning forward; it may radiate to the trapezius ridge.",
+    "Pericardial friction rub is the hallmark sign: a high-pitched, scratchy sound heard with the diaphragm at the left lower sternal border while the client sits up and leans forward.",
+    "A pericardial rub persists when the client holds their breath; a pleural rub disappears.",
+    "ECG shows diffuse, concave ST elevation (often with PR depression) without reciprocal changes or Q waves, unlike STEMI.",
+    "First-line therapy for acute pericarditis is an NSAID (ibuprofen or high-dose aspirin) plus colchicine; corticosteroids are reserved for refractory or specific cases.",
+    "Early post-MI pericarditis is treated with aspirin; other NSAIDs and corticosteroids are avoided because they may impair myocardial healing.",
+    "Dressler syndrome is an immune-mediated pericarditis weeks after MI or cardiac surgery; uremic pericarditis is treated with intensified dialysis.",
+    "Watch for cardiac tamponade: hypotension, JVD, muffled heart sounds (Beck triad), tachycardia, and pulsus paradoxus over 10 mm Hg."
+  ],
+  "questions": [
+    {
+      "id": "pericarditis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which description of chest pain is most characteristic of acute pericarditis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Crushing substernal pressure radiating to the left arm, relieved by nitroglycerin",
+          "correct": false,
+          "rationale": "This describes myocardial ischemia (angina or MI), not pericarditis."
+        },
+        {
+          "id": "b",
+          "text": "Tearing pain radiating to the back with unequal arm blood pressures",
+          "correct": false,
+          "rationale": "This describes aortic dissection."
+        },
+        {
+          "id": "c",
+          "text": "Burning epigastric pain after meals, relieved by antacids",
+          "correct": false,
+          "rationale": "This suggests GERD or peptic ulcer disease."
+        },
+        {
+          "id": "d",
+          "text": "Sharp pain that worsens with deep inspiration and lying flat, and is relieved by sitting up and leaning forward",
+          "correct": true,
+          "rationale": "Pericardial pain is classically sharp, pleuritic, and positional. It worsens supine and with inspiration and is relieved by sitting up and leaning forward."
+        }
+      ],
+      "explanation": "Pericarditis pain comes from the inflamed pericardial layers rubbing together. It is sharp, pleuritic, and positional, and it may radiate to the trapezius ridge, neck, or shoulder. Positional relief and lack of response to nitroglycerin help distinguish it from ischemic pain."
+    },
+    {
+      "id": "pericarditis-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with acute pericarditis rates chest pain as 7/10 and states, 'It's much worse when I lie back.' Which nursing action is most appropriate to promote comfort?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the client flat with the legs elevated.",
+          "correct": false,
+          "rationale": "Lying supine increases pericardial pain. Elevating the legs is used for hypotension, not pericarditis."
+        },
+        {
+          "id": "b",
+          "text": "Assist the client to sit upright and lean forward over a padded overbed table.",
+          "correct": true,
+          "rationale": "Sitting up and leaning forward reduces pressure on the inflamed pericardium and is the position of greatest comfort."
+        },
+        {
+          "id": "c",
+          "text": "Position the client on the left side in the Sims position.",
+          "correct": false,
+          "rationale": "Side-lying recumbent positions do not relieve pericardial pain and may worsen it."
+        },
+        {
+          "id": "d",
+          "text": "Administer sublingual nitroglycerin.",
+          "correct": false,
+          "rationale": "Pericardial pain is not ischemic, so nitroglycerin will not relieve it and may cause hypotension."
+        }
+      ],
+      "explanation": "Positioning is an important nonpharmacologic intervention in pericarditis. An overbed table with a pillow lets the client lean forward comfortably while resting. Positioning is combined with NSAIDs and colchicine as prescribed."
+    },
+    {
+      "id": "pericarditis-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse auscultates a scratchy, high-pitched sound at the left lower sternal border of a client with chest pain. To determine whether this is a pericardial rather than a pleural friction rub, which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask the client to hold their breath while the nurse continues to listen.",
+          "correct": true,
+          "rationale": "A pericardial rub is caused by heart movement and persists when breathing stops. A pleural rub stops when respiration stops."
+        },
+        {
+          "id": "b",
+          "text": "Switch to the bell of the stethoscope and listen at the apex.",
+          "correct": false,
+          "rationale": "Friction rubs are high-pitched and best heard with the diaphragm. The bell is for low-pitched sounds such as S3 and S4."
+        },
+        {
+          "id": "c",
+          "text": "Have the client lie supine and take several deep breaths.",
+          "correct": false,
+          "rationale": "The supine position makes a pericardial rub harder to hear, and deep breathing does not separate pericardial from pleural sources."
+        },
+        {
+          "id": "d",
+          "text": "Palpate the chest wall for crepitus.",
+          "correct": false,
+          "rationale": "Crepitus indicates subcutaneous emphysema, not the source of a friction rub."
+        }
+      ],
+      "explanation": "A pericardial friction rub is the hallmark sign of pericarditis. Having the client briefly hold their breath helps differentiate it: the pericardial rub continues with each heartbeat, while a pleural rub disappears."
+    },
+    {
+      "id": "pericarditis-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is admitted with chest pain, and the nurse reviews the 12-lead ECG. Which finding supports a diagnosis of acute pericarditis rather than ST-elevation MI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ST elevation in leads II, III, and aVF with ST depression in I and aVL",
+          "correct": false,
+          "rationale": "Localized ST elevation with reciprocal depression is typical of an inferior STEMI."
+        },
+        {
+          "id": "b",
+          "text": "New pathologic Q waves in leads V1 through V4",
+          "correct": false,
+          "rationale": "Pathologic Q waves indicate myocardial necrosis from infarction."
+        },
+        {
+          "id": "c",
+          "text": "Diffuse, concave ST elevation in most leads with PR-segment depression and no reciprocal changes",
+          "correct": true,
+          "rationale": "Pericarditis inflames the epicardium globally, producing widespread concave ST elevation and PR depression without the reciprocal changes or Q waves of STEMI."
+        },
+        {
+          "id": "d",
+          "text": "Peaked T waves with a widened QRS complex",
+          "correct": false,
+          "rationale": "These findings suggest hyperkalemia."
+        }
+      ],
+      "explanation": "Pericarditis causes diffuse ST elevation (not limited to one coronary territory), often with PR depression and without reciprocal ST depression or Q waves. STEMI produces regional ST elevation with reciprocal changes and evolving Q waves."
+    },
+    {
+      "id": "pericarditis-05",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is comparing assessment data to distinguish pericarditis from acute myocardial infarction. Which findings support pericarditis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pain decreases when the client sits up and leans forward",
+          "correct": true,
+          "rationale": "Positional relief is classic for pericarditis. MI pain is not relieved by position."
+        },
+        {
+          "id": "b",
+          "text": "Pain is worse with deep inspiration",
+          "correct": true,
+          "rationale": "Pleuritic pain reflects the inflamed pericardium and adjacent pleura and is typical of pericarditis."
+        },
+        {
+          "id": "c",
+          "text": "Pericardial friction rub at the left lower sternal border",
+          "correct": true,
+          "rationale": "A friction rub is the hallmark sign of pericarditis."
+        },
+        {
+          "id": "d",
+          "text": "Pain relieved within minutes by sublingual nitroglycerin",
+          "correct": false,
+          "rationale": "Relief with nitroglycerin suggests myocardial ischemia."
+        },
+        {
+          "id": "e",
+          "text": "Widespread ST elevation across multiple coronary territories",
+          "correct": true,
+          "rationale": "Diffuse ST elevation reflects global epicardial inflammation rather than a single occluded artery."
+        },
+        {
+          "id": "f",
+          "text": "ST elevation in V2 to V4 with reciprocal ST depression in the inferior leads",
+          "correct": false,
+          "rationale": "Regional ST elevation with reciprocal changes indicates an anterior STEMI."
+        }
+      ],
+      "explanation": "Key differences: pericarditis pain is sharp, pleuritic, and positional, is not relieved by nitroglycerin, comes with a friction rub, and shows diffuse ST elevation. MI pain is pressure-like, unaffected by position, and shows regional ST elevation with reciprocal changes. Troponin can be mildly elevated in pericarditis, so the full clinical picture matters."
+    },
+    {
+      "id": "pericarditis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client develops pericarditis 2 days after an acute myocardial infarction. Which medication should the nurse anticipate the provider will prescribe for the pericarditis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ibuprofen 600 mg every 8 hours",
+          "correct": false,
+          "rationale": "Non-aspirin NSAIDs are generally avoided early after MI because they may impair myocardial scar formation and raise the risk of ventricular rupture and further cardiovascular events."
+        },
+        {
+          "id": "b",
+          "text": "Prednisone 40 mg daily",
+          "correct": false,
+          "rationale": "Corticosteroids are avoided early after MI because they interfere with myocardial healing and increase the risk of ventricular rupture."
+        },
+        {
+          "id": "c",
+          "text": "High-dose aspirin",
+          "correct": true,
+          "rationale": "Aspirin is the preferred anti-inflammatory for early post-MI pericarditis. It relieves pericardial inflammation and provides antiplatelet benefit without impairing healing."
+        },
+        {
+          "id": "d",
+          "text": "Sublingual nitroglycerin as needed",
+          "correct": false,
+          "rationale": "Nitroglycerin does not relieve pericardial inflammation or pain."
+        }
+      ],
+      "explanation": "For acute idiopathic or viral pericarditis, an NSAID plus colchicine is first-line. When pericarditis occurs early after MI, aspirin is preferred, and other NSAIDs and corticosteroids are avoided because they may impair scar formation."
+    },
+    {
+      "id": "pericarditis-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with acute viral pericarditis is prescribed ibuprofen and colchicine. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Take ibuprofen with food and report black, tarry stools.",
+          "correct": true,
+          "rationale": "NSAIDs irritate the gastric mucosa and can cause GI bleeding. Taking them with food (and a prescribed GI-protective agent) and reporting melena are essential."
+        },
+        {
+          "id": "b",
+          "text": "Report severe diarrhea, nausea, or vomiting while taking colchicine.",
+          "correct": true,
+          "rationale": "GI upset, especially diarrhea, is the most common adverse effect of colchicine and may require a dose change."
+        },
+        {
+          "id": "c",
+          "text": "Take colchicine for the full prescribed course, often about 3 months, even after the pain resolves.",
+          "correct": true,
+          "rationale": "Colchicine added to an NSAID reduces the rate of recurrent pericarditis when taken for the full course."
+        },
+        {
+          "id": "d",
+          "text": "Drink grapefruit juice daily to improve absorption of colchicine.",
+          "correct": false,
+          "rationale": "Grapefruit juice inhibits CYP3A4 and can raise colchicine levels to toxic ranges, so it should be avoided."
+        },
+        {
+          "id": "e",
+          "text": "Take a double dose of colchicine if you miss one.",
+          "correct": false,
+          "rationale": "Doubling doses increases the risk of colchicine toxicity. The client should follow the prescriber's or pharmacist's instructions for missed doses."
+        }
+      ],
+      "explanation": "NSAIDs plus colchicine are first-line therapy for acute pericarditis and reduce symptoms and recurrence. Teaching covers GI protection and bleeding signs for NSAIDs, and the full treatment duration, GI adverse effects, and drug interactions such as grapefruit for colchicine."
+    },
+    {
+      "id": "pericarditis-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client who had a myocardial infarction 4 weeks ago presents with fever, malaise, pleuritic chest pain, and a pericardial friction rub. The client asks what is causing these symptoms. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This is a new heart attack caused by another blocked artery.",
+          "correct": false,
+          "rationale": "The pleuritic, positional pain, fever, and rub weeks after MI point to pericardial inflammation, not new ischemia."
+        },
+        {
+          "id": "b",
+          "text": "Your immune system is reacting to the injured heart tissue, which inflames the sac around your heart. This is called Dressler syndrome.",
+          "correct": true,
+          "rationale": "Dressler syndrome (post-cardiac injury syndrome) is an immune-mediated pericarditis that develops weeks to months after MI or cardiac surgery."
+        },
+        {
+          "id": "c",
+          "text": "Bacteria have infected your heart valves from the catheterization.",
+          "correct": false,
+          "rationale": "That would describe infective endocarditis, which presents with a murmur and embolic signs rather than a pericardial rub."
+        },
+        {
+          "id": "d",
+          "text": "Fluid from heart failure is irritating your lungs.",
+          "correct": false,
+          "rationale": "Heart failure causes dyspnea and crackles, not a friction rub with pleuritic, positional pain."
+        }
+      ],
+      "explanation": "Dressler syndrome is a delayed, autoimmune pericarditis (typically 1 to 6 weeks or longer) after MI, cardiac surgery, or trauma. It presents with fever, pleuritic pain, a friction rub, and possibly pericardial or pleural effusions, and it is treated with anti-inflammatory therapy such as aspirin or NSAIDs and colchicine."
+    },
+    {
+      "id": "pericarditis-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with end-stage kidney disease who missed two dialysis sessions has a BUN of 112 mg/dL, pleuritic chest pain, and a pericardial friction rub. Which treatment should the nurse anticipate as the primary intervention for this client's pericarditis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "More intensive (more frequent) hemodialysis",
+          "correct": true,
+          "rationale": "Uremic pericarditis is caused by accumulated nitrogenous wastes. Intensifying dialysis removes the toxins and is the primary treatment."
+        },
+        {
+          "id": "b",
+          "text": "Long-term high-dose ibuprofen",
+          "correct": false,
+          "rationale": "NSAIDs are nephrotoxic and carry bleeding risk in clients with kidney failure, and they do not treat the cause of uremic pericarditis."
+        },
+        {
+          "id": "c",
+          "text": "IV antibiotics for 4 to 6 weeks",
+          "correct": false,
+          "rationale": "Uremic pericarditis is not infectious. Prolonged antibiotics are used for endocarditis."
+        },
+        {
+          "id": "d",
+          "text": "Emergency coronary angioplasty",
+          "correct": false,
+          "rationale": "The cause is uremia, not coronary occlusion."
+        }
+      ],
+      "explanation": "Uremic pericarditis develops in kidney failure when nitrogenous waste products irritate the pericardium. Initiating or intensifying dialysis is the main treatment. The nurse also monitors for pericardial effusion and tamponade."
+    },
+    {
+      "id": "pericarditis-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with pericarditis and a known pericardial effusion becomes anxious and restless. Vital signs: BP 84/70 mm Hg, HR 128/min, RR 28/min. The nurse notes jugular venous distention and muffled heart sounds, and the systolic BP drops 16 mm Hg during inspiration. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer IV furosemide to reduce fluid overload.",
+          "correct": false,
+          "rationale": "Diuresis reduces preload, which is already critically limited in tamponade, and would worsen cardiac output and hypotension."
+        },
+        {
+          "id": "b",
+          "text": "Give the scheduled ibuprofen dose and reassess in 30 minutes.",
+          "correct": false,
+          "rationale": "Anti-inflammatory drugs do not relieve acute tamponade, and delaying intervention is dangerous."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider or rapid response team immediately and prepare for emergency pericardiocentesis.",
+          "correct": true,
+          "rationale": "Beck triad (hypotension, JVD, muffled heart sounds), tachycardia, a narrowed pulse pressure, and pulsus paradoxus over 10 mm Hg indicate cardiac tamponade, which requires urgent pericardiocentesis."
+        },
+        {
+          "id": "d",
+          "text": "Place the client flat in bed to improve venous return.",
+          "correct": false,
+          "rationale": "Positioning will not relieve the compression, and lying flat may increase dyspnea. Definitive treatment is drainage of the fluid."
+        }
+      ],
+      "explanation": "Cardiac tamponade occurs when pericardial fluid compresses the heart and prevents ventricular filling, causing a rapid fall in cardiac output. Recognize Beck triad and pulsus paradoxus, get help immediately, support preload (IV fluids as prescribed), and prepare for pericardiocentesis."
+    },
+    {
+      "id": "pericarditis-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is monitoring a client with acute pericarditis for the development of cardiac tamponade. Which assessments should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measure for pulsus paradoxus",
+          "correct": true,
+          "rationale": "A drop in systolic BP of more than 10 mm Hg during inspiration is a key sign of tamponade."
+        },
+        {
+          "id": "b",
+          "text": "Inspect for jugular venous distention",
+          "correct": true,
+          "rationale": "Impaired right heart filling causes venous congestion and JVD, which is part of Beck triad."
+        },
+        {
+          "id": "c",
+          "text": "Auscultate for muffled or distant heart sounds",
+          "correct": true,
+          "rationale": "Fluid around the heart dampens the transmission of heart sounds."
+        },
+        {
+          "id": "d",
+          "text": "Monitor for a narrowing pulse pressure and falling BP",
+          "correct": true,
+          "rationale": "Decreased stroke volume narrows the pulse pressure and leads to hypotension."
+        },
+        {
+          "id": "e",
+          "text": "Monitor for bradycardia as the earliest compensatory sign",
+          "correct": false,
+          "rationale": "Tachycardia, not bradycardia, is the early compensatory response to falling stroke volume."
+        },
+        {
+          "id": "f",
+          "text": "Assess for a widening pulse pressure",
+          "correct": false,
+          "rationale": "A widening pulse pressure is associated with increased ICP (Cushing triad) or aortic regurgitation, not tamponade."
+        }
+      ],
+      "explanation": "Tamponade monitoring focuses on Beck triad (hypotension, JVD, muffled heart sounds), pulsus paradoxus, tachycardia, narrowing pulse pressure, dyspnea, and anxiety or restlessness. Echocardiography confirms the effusion."
+    },
+    {
+      "id": "pericarditis-12",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A nurse is preparing to auscultate for a pericardial friction rub in a client with suspected pericarditis. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Explain the procedure and assist the client to sit upright and lean forward"
+        },
+        {
+          "id": "b",
+          "text": "Place the diaphragm of the stethoscope at the left lower sternal border (4th to 5th intercostal space)"
+        },
+        {
+          "id": "c",
+          "text": "Listen for a high-pitched, scratchy, grating sound, especially at end-expiration"
+        },
+        {
+          "id": "d",
+          "text": "Ask the client to hold their breath briefly and listen again"
+        },
+        {
+          "id": "e",
+          "text": "Document the findings and report a new rub to the provider"
+        }
+      ],
+      "explanation": "Sitting up and leaning forward brings the heart closer to the chest wall. The rub is high-pitched, so the diaphragm is used at the left lower sternal border, where the rub is loudest. It is often heard best at end-expiration. Having the client hold their breath confirms a pericardial origin, because the rub persists. A new rub is documented and reported."
+    },
+    {
+      "id": "pericarditis-13",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with cardiac tamponade underwent emergency pericardiocentesis. Which assessment finding best indicates that the procedure was effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsus paradoxus decreased from 18 to 6 mm Hg, and BP rose from 82/68 to 114/76 mm Hg",
+          "correct": true,
+          "rationale": "Normalized pulsus paradoxus, improved BP, and a wider pulse pressure show that ventricular filling and cardiac output have been restored."
+        },
+        {
+          "id": "b",
+          "text": "Heart rate increased from 118 to 132/min",
+          "correct": false,
+          "rationale": "Worsening tachycardia suggests continued compensation for low cardiac output, not improvement."
+        },
+        {
+          "id": "c",
+          "text": "Neck veins remain distended at 45 degrees",
+          "correct": false,
+          "rationale": "Persistent JVD suggests continued impaired filling or reaccumulating fluid."
+        },
+        {
+          "id": "d",
+          "text": "Heart sounds remain distant and muffled",
+          "correct": false,
+          "rationale": "Muffled sounds suggest that fluid persists around the heart."
+        }
+      ],
+      "explanation": "After pericardiocentesis, effective drainage is shown by rising BP and pulse pressure, decreasing heart rate, reduced JVD, clearer heart sounds, and resolved pulsus paradoxus. The nurse continues to monitor for reaccumulation and for complications such as dysrhythmias or puncture of the myocardium or coronary arteries."
+    },
+    {
+      "id": "pericarditis-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A student asks why a client with pericarditis is closely monitored for cardiac tamponade. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inflammation weakens the myocardium, causing the ventricles to dilate.",
+          "correct": false,
+          "rationale": "This describes dilated cardiomyopathy or myocarditis rather than the mechanism of tamponade."
+        },
+        {
+          "id": "b",
+          "text": "Pericarditis commonly causes clots that block the coronary arteries.",
+          "correct": false,
+          "rationale": "Pericarditis does not cause coronary thrombosis."
+        },
+        {
+          "id": "c",
+          "text": "The inflamed pericardium releases toxins that slow the heart's conduction system.",
+          "correct": false,
+          "rationale": "This is not the mechanism of tamponade."
+        },
+        {
+          "id": "d",
+          "text": "Inflammation can cause fluid to collect in the pericardial sac, compressing the heart and preventing the ventricles from filling.",
+          "correct": true,
+          "rationale": "Pericardial effusion within the relatively nondistensible sac raises intrapericardial pressure, restricts diastolic filling, and decreases cardiac output."
+        }
+      ],
+      "explanation": "Pericardial inflammation can produce an effusion. If fluid accumulates rapidly, or in large amounts, the stiff pericardium cannot stretch, so pressure compresses the heart (tamponade). Even a small, rapidly forming effusion can cause tamponade."
+    }
+  ]
+}

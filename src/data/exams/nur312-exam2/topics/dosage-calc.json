@@ -1,0 +1,347 @@
+{
+  "slug": "dosage-calc",
+  "title": "Dosage Calculation",
+  "short": "Dosage Calc",
+  "icon": "calculator",
+  "description": "Weight-based and titratable cardiac and respiratory drug calculations, including heparin protocols, vasoactive drips, anticoagulants, and IV gravity drip rates.",
+  "keyPoints": [
+    "Convert pounds to kilograms by dividing by 2.2 before any weight-based calculation.",
+    "1 mg = 1,000 mcg; convert the bag concentration to match the ordered unit before dividing.",
+    "mL/hr = (dose per hour) ÷ (concentration per mL); for mcg/kg/min drips, multiply dose × weight × 60 first.",
+    "To verify a running drip, reverse it: mL/hr × concentration ÷ 60 ÷ kg = mcg/kg/min.",
+    "Heparin protocols adjust by units/kg/hr based on aPTT; recalculate the new mL/hr and recheck aPTT in 6 hours.",
+    "gtt/min = (mL × drop factor) ÷ minutes, always rounded to a whole drop.",
+    "Compare weight-based doses with any stated maximum and give the lower amount.",
+    "Heparin, insulin, and vasoactive drips are high-alert medications: use a pump and an independent double-check."
+  ],
+  "questions": [
+    {
+      "id": "dosage-calc-01",
+      "type": "numeric",
+      "bloom": "remember",
+      "stem": "A client admitted with acute decompensated heart failure weighs 158 lb on the bed scale. The nurse needs the weight in kilograms to calculate weight-based medications. What is the client's weight in kg? (1 kg = 2.2 lb) Round to the nearest tenth.",
+      "answer": 71.8,
+      "tolerance": 0.05,
+      "unit": "kg",
+      "steps": [
+        "Set up: 158 lb × (1 kg / 2.2 lb)",
+        "158 ÷ 2.2 = 71.818... kg",
+        "Round to the nearest tenth: 71.8 kg"
+      ],
+      "explanation": "Divide pounds by 2.2 to get kilograms (the kg number is always smaller than the lb number). Weight-based cardiac drugs such as heparin, enoxaparin, and vasopressors depend on an accurate measured weight, so weigh the client rather than relying on a stated weight, and record it in kg."
+    },
+    {
+      "id": "dosage-calc-02",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with a new pulmonary embolism weighs 198 lb. The provider orders a heparin IV bolus of 80 units/kg per the weight-based protocol. Heparin is available as 5,000 units/mL. How many mL will the nurse draw up for the bolus? Round to the nearest hundredth.",
+      "answer": 1.44,
+      "tolerance": 0.005,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 198 lb ÷ 2.2 lb/kg = 90 kg",
+        "Dose: 90 kg × 80 units/kg = 7,200 units",
+        "Volume: 7,200 units × (1 mL / 5,000 units) = 1.44 mL"
+      ],
+      "explanation": "The bolus is calculated from actual weight in kg, then converted to volume using the vial concentration. Heparin is a high-alert medication: have a second nurse independently verify the dose and concentration, because heparin vials come in several strengths (1,000, 5,000, and 10,000 units/mL)."
+    },
+    {
+      "id": "dosage-calc-03",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "Following the bolus, the same 90-kg client with a pulmonary embolism is started on a heparin infusion at 18 units/kg/hr. The pharmacy supplies heparin 25,000 units in 500 mL D5W. At what rate in mL/hr will the nurse set the infusion pump? Round to the nearest tenth.",
+      "answer": 32.4,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per hour: 90 kg × 18 units/kg/hr = 1,620 units/hr",
+        "Concentration: 25,000 units ÷ 500 mL = 50 units/mL",
+        "Rate: 1,620 units/hr × (1 mL / 50 units) = 32.4 mL/hr"
+      ],
+      "explanation": "Find units/hr first, then divide by the bag concentration to get mL/hr. Always run heparin on an infusion pump with independent double-check of the rate, and monitor aPTT or anti-Xa about 6 hours after starting and after every rate change."
+    },
+    {
+      "id": "dosage-calc-04",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A client weighing 80 kg with deep vein thrombosis is receiving heparin 18 units/kg/hr from a bag of 25,000 units in 500 mL. The 6-hour aPTT is 42 seconds (therapeutic range 60-100 seconds). The protocol states: aPTT 35-59 seconds, rebolus 40 units/kg and increase the infusion by 2 units/kg/hr. What is the new infusion rate in mL/hr? Round to the nearest tenth.",
+      "answer": 32,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "New dose: 18 units/kg/hr + 2 units/kg/hr = 20 units/kg/hr",
+        "Units per hour: 80 kg × 20 units/kg/hr = 1,600 units/hr",
+        "Concentration: 25,000 units ÷ 500 mL = 50 units/mL",
+        "Rate: 1,600 units/hr × (1 mL / 50 units) = 32.0 mL/hr"
+      ],
+      "explanation": "A subtherapeutic aPTT means the client is at risk for clot extension, so the protocol increases the dose. Recalculate from the new units/kg/hr rather than guessing a mL/hr increase, and recheck the aPTT about 6 hours after the change."
+    },
+    {
+      "id": "dosage-calc-05",
+      "type": "numeric",
+      "bloom": "evaluate",
+      "stem": "A client weighing 72 kg is receiving heparin at 16 units/kg/hr from a bag of 25,000 units in 500 mL. The aPTT returns at 110 seconds (therapeutic range 60-100 seconds) and the client has no signs of bleeding. The protocol states: aPTT greater than 100 seconds, hold the infusion for 1 hour, then resume at a rate decreased by 3 units/kg/hr. After the 1-hour hold, at what rate in mL/hr should the nurse restart the infusion? Round to the nearest tenth.",
+      "answer": 18.7,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "New dose: 16 units/kg/hr − 3 units/kg/hr = 13 units/kg/hr",
+        "Units per hour: 72 kg × 13 units/kg/hr = 936 units/hr",
+        "Concentration: 25,000 units ÷ 500 mL = 50 units/mL",
+        "Rate: 936 units/hr × (1 mL / 50 units) = 18.72 mL/hr, rounded to 18.7 mL/hr"
+      ],
+      "explanation": "A supratherapeutic aPTT increases bleeding risk, so the protocol holds then reduces the dose. Assess for bleeding (gums, urine, stool, IV sites, neuro changes), know that protamine sulfate is the antidote, and recheck the aPTT 6 hours after restarting."
+    },
+    {
+      "id": "dosage-calc-06",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 70-kg client in atrial fibrillation with rapid ventricular response (HR 148, BP 128/76) is ordered diltiazem 0.25 mg/kg IV push over 2 minutes. Diltiazem is available as 5 mg/mL. How many mL will the nurse administer? Round to the nearest tenth.",
+      "answer": 3.5,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 70 kg × 0.25 mg/kg = 17.5 mg",
+        "Volume: 17.5 mg × (1 mL / 5 mg) = 3.5 mL"
+      ],
+      "explanation": "Diltiazem is a calcium channel blocker used for rate control in atrial fibrillation and flutter. Give the push slowly over 2 minutes with continuous cardiac monitoring, and check BP before and after because hypotension and bradycardia are the major adverse effects."
+    },
+    {
+      "id": "dosage-calc-07",
+      "type": "numeric",
+      "bloom": "understand",
+      "stem": "After the diltiazem bolus, the provider orders a continuous diltiazem infusion at 10 mg/hr. The bag contains diltiazem 125 mg in a total volume of 125 mL. At what rate in mL/hr will the nurse program the pump? Round to the nearest whole number.",
+      "answer": 10,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Concentration: 125 mg ÷ 125 mL = 1 mg/mL",
+        "Rate: 10 mg/hr × (1 mL / 1 mg) = 10 mL/hr"
+      ],
+      "explanation": "With the standard 1 mg/mL diltiazem concentration, the mg/hr dose equals the mL/hr rate. Hold or reduce the infusion and notify the provider if the client develops a heart rate below 60 or systolic BP below 90 mm Hg."
+    },
+    {
+      "id": "dosage-calc-08",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with stable monomorphic ventricular tachycardia (HR 168, BP 112/70) is ordered an amiodarone loading dose of 150 mg IV over 10 minutes. The premixed bag contains amiodarone 150 mg in 100 mL D5W. At what rate in mL/hr will the nurse set the pump? Round to the nearest whole number.",
+      "answer": 600,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "The whole bag (150 mg = 100 mL) must infuse in 10 minutes",
+        "Rate: (100 mL / 10 min) × (60 min / 1 hr) = 600 mL/hr"
+      ],
+      "explanation": "When the entire bag is the dose, divide volume by time and convert minutes to hours. Amiodarone causes hypotension and bradycardia during rapid infusion, so keep the client on continuous ECG and BP monitoring and use an in-line filter per facility policy."
+    },
+    {
+      "id": "dosage-calc-09",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "Following the loading dose, the client is started on amiodarone 1 mg/min for 6 hours. The bag contains amiodarone 900 mg in 500 mL D5W. At what rate in mL/hr will the nurse run the infusion? Round to the nearest tenth.",
+      "answer": 33.3,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per hour: 1 mg/min × 60 min/hr = 60 mg/hr",
+        "Concentration: 900 mg ÷ 500 mL = 1.8 mg/mL",
+        "Rate: 60 mg/hr × (1 mL / 1.8 mg) = 33.33 mL/hr, rounded to 33.3 mL/hr"
+      ],
+      "explanation": "Convert mg/min to mg/hr before dividing by concentration. Infusions longer than 1 hour at concentrations above 2 mg/mL require a central line; this 1.8 mg/mL bag can run peripherally, but monitor the site closely because amiodarone causes phlebitis."
+    },
+    {
+      "id": "dosage-calc-10",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client in cardiogenic shock weighs 80 kg (BP 82/50, HR 112). The provider orders dopamine at 5 mcg/kg/min. The bag contains dopamine 400 mg in 250 mL D5W. At what rate in mL/hr will the nurse set the pump? Round to the nearest tenth.",
+      "answer": 15,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per minute: 5 mcg/kg/min × 80 kg = 400 mcg/min",
+        "Dose per hour: 400 mcg/min × 60 min/hr = 24,000 mcg/hr",
+        "Concentration: 400 mg × 1,000 mcg/mg = 400,000 mcg ÷ 250 mL = 1,600 mcg/mL",
+        "Rate: 24,000 mcg/hr × (1 mL / 1,600 mcg) = 15.0 mL/hr"
+      ],
+      "explanation": "For mcg/kg/min drips, multiply by weight and by 60, then divide by the concentration in mcg/mL (convert the bag from mg to mcg first). Dopamine is a vesicant: infuse through a central line when possible and know that phentolamine is the antidote for extravasation."
+    },
+    {
+      "id": "dosage-calc-11",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with acute decompensated heart failure and low cardiac output weighs 68 kg. The provider orders dobutamine at 2.5 mcg/kg/min. The premixed bag contains dobutamine 500 mg in 250 mL D5W. At what rate in mL/hr will the nurse set the pump? Round to the nearest tenth.",
+      "answer": 5.1,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per minute: 2.5 mcg/kg/min × 68 kg = 170 mcg/min",
+        "Dose per hour: 170 mcg/min × 60 min/hr = 10,200 mcg/hr",
+        "Concentration: 500 mg × 1,000 mcg/mg = 500,000 mcg ÷ 250 mL = 2,000 mcg/mL",
+        "Rate: 10,200 mcg/hr × (1 mL / 2,000 mcg) = 5.1 mL/hr"
+      ],
+      "explanation": "Dobutamine is a beta-1 agonist (positive inotrope) used to improve contractility in low-output heart failure. Monitor for tachycardia and dysrhythmias, and track urine output, BP, and signs of improved perfusion to judge effectiveness."
+    },
+    {
+      "id": "dosage-calc-12",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client in septic shock with pneumonia weighs 75 kg and has a MAP of 58 mm Hg after fluid resuscitation. The provider orders norepinephrine at 0.1 mcg/kg/min. The bag contains norepinephrine 4 mg in 250 mL. At what rate in mL/hr will the nurse start the infusion? Round to the nearest tenth.",
+      "answer": 28.1,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose per minute: 0.1 mcg/kg/min × 75 kg = 7.5 mcg/min",
+        "Dose per hour: 7.5 mcg/min × 60 min/hr = 450 mcg/hr",
+        "Concentration: 4 mg × 1,000 mcg/mg = 4,000 mcg ÷ 250 mL = 16 mcg/mL",
+        "Rate: 450 mcg/hr × (1 mL / 16 mcg) = 28.125 mL/hr, rounded to 28.1 mL/hr"
+      ],
+      "explanation": "Norepinephrine is titrated to a MAP goal (commonly 65 mm Hg or higher). It is a potent vasoconstrictor and vesicant: use a central line when possible, check the site frequently, and treat extravasation with phentolamine per protocol."
+    },
+    {
+      "id": "dosage-calc-13",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "During shift handoff, the nurse finds a dopamine infusion (400 mg in 250 mL D5W) running at 18 mL/hr for a 90-kg client. The order reads \"dopamine 3-10 mcg/kg/min, titrate to SBP ≥ 90 mm Hg.\" To verify the infusion against the order, how many mcg/kg/min is the client receiving? Round to the nearest tenth.",
+      "answer": 5.3,
+      "tolerance": 0.05,
+      "unit": "mcg/kg/min",
+      "steps": [
+        "Concentration: 400,000 mcg ÷ 250 mL = 1,600 mcg/mL",
+        "Dose per hour: 18 mL/hr × 1,600 mcg/mL = 28,800 mcg/hr",
+        "Dose per minute: 28,800 mcg/hr ÷ 60 min/hr = 480 mcg/min",
+        "Per kg: 480 mcg/min ÷ 90 kg = 5.33 mcg/kg/min, rounded to 5.3 mcg/kg/min"
+      ],
+      "explanation": "Working backward from mL/hr to mcg/kg/min lets the nurse confirm a running drip matches the ordered range. Verify every titratable drip at handoff (drug, concentration, rate, and dose) at the bedside with the oncoming nurse; 5.3 mcg/kg/min falls within the ordered 3-10 range."
+    },
+    {
+      "id": "dosage-calc-14",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with unstable angina has continued chest pain (6/10) after three sublingual nitroglycerin tablets; BP is 146/88. The provider orders a nitroglycerin infusion starting at 10 mcg/min and increased to 25 mcg/min after the first titration. The bag contains nitroglycerin 50 mg in 250 mL D5W. What rate in mL/hr delivers 25 mcg/min? Round to the nearest tenth.",
+      "answer": 7.5,
+      "tolerance": 0.05,
+      "unit": "mL/hr",
+      "steps": [
+        "Concentration: 50 mg × 1,000 mcg/mg = 50,000 mcg ÷ 250 mL = 200 mcg/mL",
+        "Dose per hour: 25 mcg/min × 60 min/hr = 1,500 mcg/hr",
+        "Rate: 1,500 mcg/hr × (1 mL / 200 mcg) = 7.5 mL/hr"
+      ],
+      "explanation": "Nitroglycerin is titrated to chest pain relief while keeping systolic BP above about 90 mm Hg. Use non-PVC tubing, check BP before each titration, and confirm the client has not taken a phosphodiesterase-5 inhibitor (such as sildenafil) recently because of the risk of severe hypotension."
+    },
+    {
+      "id": "dosage-calc-15",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A client with acute coronary syndrome has a nitroglycerin infusion (50 mg in 250 mL D5W) running at 12 mL/hr. The client now reports a headache and has a BP of 98/60. The nurse calculates the current dose before calling the provider. How many mcg/min is the client receiving? Round to the nearest whole number.",
+      "answer": 40,
+      "tolerance": 0.5,
+      "unit": "mcg/min",
+      "steps": [
+        "Concentration: 50,000 mcg ÷ 250 mL = 200 mcg/mL",
+        "Dose per hour: 12 mL/hr × 200 mcg/mL = 2,400 mcg/hr",
+        "Dose per minute: 2,400 mcg/hr ÷ 60 min/hr = 40 mcg/min"
+      ],
+      "explanation": "Multiplying mL/hr by concentration and dividing by 60 converts the pump rate back to mcg/min. Headache is an expected vasodilation effect, but a falling BP near 90 systolic means the nurse should hold further upward titration and report the dose and vital signs to the provider."
+    },
+    {
+      "id": "dosage-calc-16",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with a deep vein thrombosis weighs 165 lb. The provider orders enoxaparin 1 mg/kg subcutaneously every 12 hours. Enoxaparin is supplied in a prefilled syringe of 100 mg/mL. How many mL will the nurse administer? Round to the nearest hundredth.",
+      "answer": 0.75,
+      "tolerance": 0.005,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 165 lb ÷ 2.2 lb/kg = 75 kg",
+        "Dose: 75 kg × 1 mg/kg = 75 mg",
+        "Volume: 75 mg × (1 mL / 100 mg) = 0.75 mL"
+      ],
+      "explanation": "Expel excess drug from the prefilled syringe to the calculated volume before injecting. Do not expel the air bubble in the syringe and do not rub the site after injection into the abdomen (at least 2 inches from the umbilicus); monitor platelets for heparin-induced thrombocytopenia."
+    },
+    {
+      "id": "dosage-calc-17",
+      "type": "numeric",
+      "bloom": "remember",
+      "stem": "A client with heart failure and atrial fibrillation is ordered digoxin 0.25 mg PO daily. The apical pulse is 76 and the most recent serum digoxin level is 1.1 ng/mL. The unit stocks digoxin 125 mcg tablets. How many tablets will the nurse administer? Round to the nearest whole number.",
+      "answer": 2,
+      "tolerance": 0.5,
+      "unit": "tablets",
+      "steps": [
+        "Convert the order to mcg: 0.25 mg × 1,000 mcg/mg = 250 mcg",
+        "Tablets: 250 mcg × (1 tablet / 125 mcg) = 2 tablets"
+      ],
+      "explanation": "Convert so that the order and the supply are in the same unit before calculating (1 mg = 1,000 mcg). Count the apical pulse for a full minute before giving digoxin and hold it if the rate is below 60 in an adult; also monitor potassium, because hypokalemia increases toxicity risk."
+    },
+    {
+      "id": "dosage-calc-18",
+      "type": "numeric",
+      "bloom": "understand",
+      "stem": "A client with an acute myocardial infarction (HR 104, BP 138/84, no signs of heart failure) is ordered metoprolol 2.5 mg IV push. Metoprolol is available as 5 mg/5 mL. How many mL will the nurse administer? Round to the nearest tenth.",
+      "answer": 2.5,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Concentration: 5 mg ÷ 5 mL = 1 mg/mL",
+        "Volume: 2.5 mg × (1 mL / 1 mg) = 2.5 mL"
+      ],
+      "explanation": "Metoprolol IV is given slowly (about 1-2 minutes per dose) with continuous ECG monitoring. Check heart rate and BP before and after each dose and hold for bradycardia, hypotension, heart block, or signs of acute heart failure."
+    },
+    {
+      "id": "dosage-calc-19",
+      "type": "numeric",
+      "bloom": "evaluate",
+      "stem": "A client with an ST-elevation myocardial infarction weighs 70 kg and will receive accelerated-regimen alteplase because PCI is not available within 120 minutes. The order is: 15 mg IV bolus, then 0.75 mg/kg over 30 minutes (not to exceed 50 mg), then 0.5 mg/kg over 60 minutes (not to exceed 35 mg). How many mg should the client receive during the 30-minute phase? Round to the nearest whole number.",
+      "answer": 50,
+      "tolerance": 0.5,
+      "unit": "mg",
+      "steps": [
+        "Calculate weight-based dose: 70 kg × 0.75 mg/kg = 52.5 mg",
+        "Compare to the maximum: 52.5 mg is greater than the 50 mg cap",
+        "Give the maximum: 50 mg over 30 minutes"
+      ],
+      "explanation": "Weight-based thrombolytic doses have maximums; always compare the calculated dose against the cap and give the lower value. Before alteplase, screen for contraindications (recent surgery, active bleeding, history of hemorrhagic stroke), and afterward monitor closely for bleeding and neurologic changes."
+    },
+    {
+      "id": "dosage-calc-20",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with a massive pulmonary embolism (BP 84/52, SpO2 86% on a nonrebreather) is ordered alteplase 100 mg IV over 2 hours. The alteplase is reconstituted to 1 mg/mL. At what rate in mL/hr will the nurse set the pump? Round to the nearest whole number.",
+      "answer": 50,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Volume: 100 mg × (1 mL / 1 mg) = 100 mL",
+        "Rate: 100 mL ÷ 2 hr = 50 mL/hr"
+      ],
+      "explanation": "Divide the total volume by the infusion time in hours. During and after thrombolytic therapy, avoid new punctures and IM injections, apply prolonged pressure to sites, and monitor for internal bleeding (neuro changes, hematuria, back pain, dropping hemoglobin)."
+    },
+    {
+      "id": "dosage-calc-21",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A client with atrial fibrillation has an INR of 1.6 (goal 2.0-3.0). The provider increases the warfarin dose to 7.5 mg PO this evening. Warfarin is available as 5 mg scored tablets. How many tablets will the nurse administer? Round to the nearest tenth.",
+      "answer": 1.5,
+      "tolerance": 0.05,
+      "unit": "tablets",
+      "steps": [
+        "Tablets: 7.5 mg × (1 tablet / 5 mg) = 1.5 tablets"
+      ],
+      "explanation": "Only split tablets that are scored. Teach the client to keep vitamin K intake (leafy greens) consistent rather than avoiding it, to report signs of bleeding, and that vitamin K is the antidote for warfarin."
+    },
+    {
+      "id": "dosage-calc-22",
+      "type": "numeric",
+      "bloom": "understand",
+      "stem": "A client with community-acquired pneumonia is ordered 1,000 mL of 0.9% sodium chloride IV over 8 hours. No infusion pump is available, so the nurse will regulate the infusion by gravity using tubing with a drop factor of 15 gtt/mL. How many drops per minute should the nurse count? Round to the nearest whole number.",
+      "answer": 31,
+      "tolerance": 0.5,
+      "unit": "gtt/min",
+      "steps": [
+        "Convert time to minutes: 8 hr × 60 min/hr = 480 min",
+        "Formula: (volume in mL × drop factor) ÷ time in minutes",
+        "(1,000 mL × 15 gtt/mL) ÷ 480 min = 31.25 gtt/min, rounded to 31 gtt/min"
+      ],
+      "explanation": "Gravity drip rates are always whole drops, so round to the nearest whole number. Count drops for a full minute, recheck the rate often because gravity flow changes with client position, and monitor lung sounds and edema for fluid overload in clients with cardiac or respiratory disease."
+    }
+  ]
+}

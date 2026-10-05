@@ -1,0 +1,550 @@
+{
+  "slug": "chest-tubes",
+  "title": "Chest Tubes",
+  "short": "Chest Tubes",
+  "icon": "tube",
+  "description": "Chest tube drainage systems: the three chambers, tidaling and bubbling, wet and dry suction, safe positioning and handling, emergencies (disconnection, accidental removal), drainage limits, removal, and ongoing assessment.",
+  "keyPoints": [
+    "Three chambers: collection (drainage), water seal (one-way valve, about 2 cm water), and suction control (wet: height of the water column, often 20 cm; dry: regulator dial).",
+    "Tidaling (water seal rises on inspiration and falls on expiration with spontaneous breathing) is expected; it stops when the lung re-expands or the tubing is obstructed.",
+    "Continuous bubbling in the water seal chamber means an air leak; intermittent bubbling with exhalation or coughing is expected while a pneumothorax is evacuating.",
+    "Gentle continuous bubbling in a wet suction control chamber is normal; dry suction has no bubbling, so check the suction indicator.",
+    "Keep the drainage unit upright and below chest level, with tubing coiled on the bed and no dependent loops; do not routinely clamp or strip the tubing.",
+    "If disconnected, submerge the end of the chest tube 2 to 4 cm (about 1 inch) in sterile water or saline; if dislodged, cover the site with a sterile occlusive dressing taped on three sides.",
+    "Report drainage over 100 mL/hr, bright red drainage, a new air leak, spreading subcutaneous emphysema, or signs of tension pneumothorax.",
+    "Removal: premedicate for pain, have the client perform a Valsalva maneuver or exhale and hold while the tube is pulled, apply an occlusive dressing, and obtain a chest x-ray."
+  ],
+  "questions": [
+    {
+      "id": "chest-tubes-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the primary purpose of the water seal chamber in a chest drainage system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To collect blood and fluid draining from the pleural space",
+          "correct": false,
+          "rationale": "Drainage collects in the collection chamber, not the water seal chamber."
+        },
+        {
+          "id": "b",
+          "text": "To act as a one-way valve that lets air exit the pleural space and prevents it from re-entering",
+          "correct": true,
+          "rationale": "The water seal (about 2 cm of sterile water) allows air to bubble out on exhalation while blocking backflow of atmospheric air into the chest."
+        },
+        {
+          "id": "c",
+          "text": "To regulate the amount of suction applied to the pleural space",
+          "correct": false,
+          "rationale": "Suction is regulated by the suction control chamber: the height of the water column (wet) or the regulator dial (dry)."
+        },
+        {
+          "id": "d",
+          "text": "To measure the client's central venous pressure",
+          "correct": false,
+          "rationale": "Chest tube systems do not measure CVP."
+        }
+      ],
+      "explanation": "Traditional chest drainage systems have three chambers: collection, water seal, and suction control. The water seal is the one-way valve that keeps air from being drawn back into the pleural space and allows the lung to re-expand."
+    },
+    {
+      "id": "chest-tubes-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse observes that the water level in the water seal chamber rises with each inspiration and falls with each expiration in a client who is breathing spontaneously. How should the nurse interpret this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is an air leak in the system that must be located.",
+          "correct": false,
+          "rationale": "An air leak causes continuous bubbling in the water seal chamber, not rhythmic fluctuation."
+        },
+        {
+          "id": "b",
+          "text": "The suction is set too high and should be reduced.",
+          "correct": false,
+          "rationale": "Tidaling reflects intrapleural pressure changes, not excessive suction."
+        },
+        {
+          "id": "c",
+          "text": "This is tidaling, an expected finding that shows the system is patent and reflects pleural pressure changes.",
+          "correct": true,
+          "rationale": "Tidaling mirrors changes in intrathoracic pressure during breathing and indicates that the tubing is patent and connected to the pleural space."
+        },
+        {
+          "id": "d",
+          "text": "The chest tube is obstructed and needs to be stripped.",
+          "correct": false,
+          "rationale": "Obstruction causes tidaling to stop. Fluctuation shows that the tube is patent."
+        }
+      ],
+      "explanation": "Tidaling is expected: the water seal rises with inspiration and falls with expiration in spontaneously breathing clients (the pattern reverses with positive-pressure ventilation). Absent tidaling means either the lung has re-expanded or the system is obstructed by a kink, clot, or dependent loop."
+    },
+    {
+      "id": "chest-tubes-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client has a chest tube to wet suction for a hemothorax. The nurse notes new continuous bubbling in the water seal chamber. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document the bubbling as an expected finding.",
+          "correct": false,
+          "rationale": "A hemothorax should not cause an ongoing air leak, so continuous water seal bubbling is not expected and needs investigation."
+        },
+        {
+          "id": "b",
+          "text": "Add sterile water to the suction control chamber.",
+          "correct": false,
+          "rationale": "The suction control chamber's water level does not cause or fix water seal bubbling."
+        },
+        {
+          "id": "c",
+          "text": "Clamp the chest tube near the insertion site for 1 hour.",
+          "correct": false,
+          "rationale": "Prolonged clamping can cause a tension pneumothorax. Brief clamping is used only to locate a leak, per protocol."
+        },
+        {
+          "id": "d",
+          "text": "Check the tubing and connections from the insertion site to the drainage unit for a loose connection.",
+          "correct": true,
+          "rationale": "Continuous bubbling indicates an air leak. The nurse first checks the dressing, the insertion site, and all connections, then tightens or tapes any loose connection."
+        }
+      ],
+      "explanation": "Continuous bubbling in the water seal chamber indicates an air leak, either from the client (a bronchopleural fistula or a leaking lung) or in the system. The nurse checks the dressing and connections. Brief, momentary clamping per agency protocol, moving down the tubing, can help locate a system leak. A new leak that is not found should be reported."
+    },
+    {
+      "id": "chest-tubes-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a chest tube for a spontaneous pneumothorax has had tidaling in the water seal chamber for 2 days. Today the nurse notes that tidaling has stopped. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Check the tubing for kinks or dependent loops and auscultate breath sounds.",
+          "correct": true,
+          "rationale": "Tidaling stops when the lung re-expands or the tubing is obstructed. Checking for obstruction and assessing breath sounds and respiratory status helps determine which is occurring."
+        },
+        {
+          "id": "b",
+          "text": "Increase the suction to restore tidaling.",
+          "correct": false,
+          "rationale": "Changing suction is not a nursing action to restore tidaling and does not address the cause."
+        },
+        {
+          "id": "c",
+          "text": "Clamp the tube and prepare for its removal.",
+          "correct": false,
+          "rationale": "Clamping without an order can cause a tension pneumothorax, and removal requires a provider's evaluation, usually including a chest x-ray."
+        },
+        {
+          "id": "d",
+          "text": "Milk the tubing vigorously from the chest toward the drainage unit.",
+          "correct": false,
+          "rationale": "Routine stripping or milking is not recommended because it creates high negative pressure that can damage tissue. Gentle milking is done only per protocol for visible clots."
+        }
+      ],
+      "explanation": "Loss of tidaling has two main causes: lung re-expansion (expected; confirmed by breath sounds and chest x-ray) or obstruction (kinks, dependent loops, clots). The nurse assesses the system and the client before concluding that the lung has re-expanded."
+    },
+    {
+      "id": "chest-tubes-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "While a client is being repositioned, the chest tube becomes disconnected from the drainage system tubing. Which action should the nurse take immediately?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clamp the chest tube with a hemostat until a new drainage system is set up.",
+          "correct": false,
+          "rationale": "Clamping prevents air from escaping and risks a tension pneumothorax. Submersion creates a temporary water seal."
+        },
+        {
+          "id": "b",
+          "text": "Remove the chest tube and apply a petroleum gauze dressing.",
+          "correct": false,
+          "rationale": "Removing the tube is not indicated for a disconnection and is a provider-level intervention."
+        },
+        {
+          "id": "c",
+          "text": "Submerge the end of the chest tube 2 to 4 cm (about 1 inch) below the surface of a bottle of sterile water or saline.",
+          "correct": true,
+          "rationale": "Submersion creates an immediate water seal that lets air escape but prevents air from entering the pleural space until the system can be reconnected or replaced."
+        },
+        {
+          "id": "d",
+          "text": "Cover the open end of the tube with sterile gauze and notify the provider.",
+          "correct": false,
+          "rationale": "Gauze does not create a seal, so atmospheric air can enter the pleural space and collapse the lung."
+        }
+      ],
+      "explanation": "If the chest tube disconnects from the drainage system, the nurse immediately submerges the distal end of the tube in sterile water to re-create a water seal, then reconnects or replaces the system, assesses the client, and notifies the provider. Keep a bottle of sterile water at the bedside."
+    },
+    {
+      "id": "chest-tubes-06",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client's chest tube is accidentally pulled out of the chest during ambulation. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Immediately cover the insertion site with a sterile occlusive dressing taped on three sides"
+        },
+        {
+          "id": "b",
+          "text": "Assess respiratory status, breath sounds, and oxygen saturation"
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider of the dislodgement"
+        },
+        {
+          "id": "d",
+          "text": "Prepare for a chest x-ray and possible reinsertion of a chest tube"
+        }
+      ],
+      "explanation": "Covering the site immediately prevents air from entering the pleural space. Taping on three sides lets trapped air escape on exhalation (a flutter-valve effect), reducing the risk of tension pneumothorax. The nurse then assesses for respiratory compromise, notifies the provider, and prepares for a chest x-ray and possible reinsertion. If signs of tension pneumothorax develop, the dressing is lifted to release air."
+    },
+    {
+      "id": "chest-tubes-07",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A provider is about to remove a client's chest tube. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Administer the prescribed analgesic about 30 minutes before removal"
+        },
+        {
+          "id": "b",
+          "text": "Position the client upright in semi-Fowler's or high Fowler's position"
+        },
+        {
+          "id": "c",
+          "text": "Instruct the client to take a deep breath, exhale, and bear down (Valsalva maneuver) as the tube is removed"
+        },
+        {
+          "id": "d",
+          "text": "Apply an occlusive petroleum gauze dressing over the site"
+        },
+        {
+          "id": "e",
+          "text": "Obtain the prescribed chest x-ray and monitor for respiratory distress"
+        }
+      ],
+      "explanation": "Chest tube removal is painful, so premedicate. Upright positioning eases breathing. A Valsalva maneuver or breath-hold at the moment of removal raises intrathoracic pressure and prevents air from entering the pleural space. An airtight dressing seals the site. A follow-up chest x-ray and assessment detect a recurrent pneumothorax."
+    },
+    {
+      "id": "chest-tubes-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is assessing a client 2 hours after a thoracotomy. Which chest tube finding should the nurse report to the provider immediately?",
+      "options": [
+        {
+          "id": "a",
+          "text": "50 mL of serosanguineous drainage in the past hour",
+          "correct": false,
+          "rationale": "Moderate serosanguineous drainage is expected after thoracic surgery."
+        },
+        {
+          "id": "b",
+          "text": "180 mL of bright red drainage in the past hour",
+          "correct": true,
+          "rationale": "Drainage over 100 mL/hr, especially bright red, suggests active bleeding or hemorrhage and must be reported immediately."
+        },
+        {
+          "id": "c",
+          "text": "Drainage that changed from bloody to serosanguineous",
+          "correct": false,
+          "rationale": "A change from bloody to serosanguineous drainage is the expected progression."
+        },
+        {
+          "id": "d",
+          "text": "Water seal level rising on inspiration and falling on expiration",
+          "correct": false,
+          "rationale": "This is tidaling, an expected finding that indicates the system is patent."
+        }
+      ],
+      "explanation": "Mark the drainage level and time on the collection chamber at the frequency prescribed. Report drainage over 100 mL/hr (or per agency or provider parameters), sudden increases, or bright red drainage, along with signs of hypovolemia such as tachycardia and hypotension."
+    },
+    {
+      "id": "chest-tubes-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a client with a chest tube connected to a drainage system. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the drainage system upright and below the level of the chest",
+          "correct": true,
+          "rationale": "Keeping the system below the chest promotes gravity drainage and prevents backflow of drainage into the pleural space."
+        },
+        {
+          "id": "b",
+          "text": "Coil the excess tubing flat on the bed, avoiding dependent loops",
+          "correct": true,
+          "rationale": "Dependent loops trap fluid, which increases resistance to drainage and can impede lung re-expansion."
+        },
+        {
+          "id": "c",
+          "text": "Encourage deep breathing, coughing, and incentive spirometry",
+          "correct": true,
+          "rationale": "These measures help expand the lung and promote drainage of air and fluid from the pleural space."
+        },
+        {
+          "id": "d",
+          "text": "Mark the drainage level on the collection chamber at regular intervals",
+          "correct": true,
+          "rationale": "Marking allows accurate trending of the amount and character of drainage."
+        },
+        {
+          "id": "e",
+          "text": "Strip the tubing every hour to keep it patent",
+          "correct": false,
+          "rationale": "Routine stripping creates excessive negative pressure that can damage lung tissue and is not recommended."
+        },
+        {
+          "id": "f",
+          "text": "Clamp the chest tube whenever the client gets out of bed",
+          "correct": false,
+          "rationale": "Clamping during movement prevents air and fluid from escaping and can cause a tension pneumothorax."
+        }
+      ],
+      "explanation": "Routine chest tube care includes keeping the unit upright and below chest level, maintaining patent tubing without dependent loops, monitoring and marking drainage, and promoting lung expansion. Avoid routine clamping or stripping."
+    },
+    {
+      "id": "chest-tubes-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is performing a focused assessment on a client with a chest tube. Which assessments should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palpate the skin around the insertion site for crepitus",
+          "correct": true,
+          "rationale": "Crepitus indicates subcutaneous emphysema from air leaking into the tissues. The nurse marks its borders and reports any spread."
+        },
+        {
+          "id": "b",
+          "text": "Auscultate breath sounds bilaterally",
+          "correct": true,
+          "rationale": "Breath sounds help evaluate lung re-expansion and detect complications such as recurrent pneumothorax."
+        },
+        {
+          "id": "c",
+          "text": "Inspect the dressing and insertion site for drainage and signs of infection",
+          "correct": true,
+          "rationale": "The site should be clean, dry, and intact. Redness, purulent drainage, or fever suggests infection."
+        },
+        {
+          "id": "d",
+          "text": "Note the color, consistency, and amount of drainage",
+          "correct": true,
+          "rationale": "Changes in drainage, such as sudden bright red blood or cloudy fluid, may indicate hemorrhage or infection."
+        },
+        {
+          "id": "e",
+          "text": "Expect no bubbling at all in a wet suction control chamber",
+          "correct": false,
+          "rationale": "Gentle, continuous bubbling in a wet suction control chamber is expected and shows that suction is applied."
+        },
+        {
+          "id": "f",
+          "text": "Clamp the tube briefly every shift to check for lung re-expansion",
+          "correct": false,
+          "rationale": "Clamping to check for re-expansion is done only on a provider's order, not as routine nursing assessment."
+        }
+      ],
+      "explanation": "Chest tube assessment covers the client (respiratory status, breath sounds, SpO2, pain, crepitus, insertion site) and the system (drainage, tidaling, bubbling, suction, tubing). Findings are compared with prior assessments to identify trends."
+    },
+    {
+      "id": "chest-tubes-11",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a chest tube is returned from radiology, where the tube was clamped by transport staff. The client is now dyspneic, with tracheal deviation to the opposite side, absent breath sounds on the affected side, HR 136/min, and BP 86/50 mm Hg. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Remove the clamp from the chest tube.",
+          "correct": true,
+          "rationale": "The findings indicate a tension pneumothorax from air trapped by the clamp. Unclamping immediately allows air to escape through the water seal."
+        },
+        {
+          "id": "b",
+          "text": "Increase the oxygen flow and recheck vital signs in 15 minutes.",
+          "correct": false,
+          "rationale": "Oxygen is supportive but does not relieve the trapped air. Delay could lead to cardiovascular collapse."
+        },
+        {
+          "id": "c",
+          "text": "Obtain a stat chest x-ray.",
+          "correct": false,
+          "rationale": "Tension pneumothorax is a clinical diagnosis requiring immediate action, so imaging should not delay treatment."
+        },
+        {
+          "id": "d",
+          "text": "Position the client flat to improve blood pressure.",
+          "correct": false,
+          "rationale": "The supine position does not address the cause and may worsen dyspnea."
+        }
+      ],
+      "explanation": "A chest tube should not be clamped routinely. Clamping prevents air from escaping, so air accumulates under pressure (tension pneumothorax), shifting the mediastinum and impairing venous return. The nurse unclamps the tube immediately, notifies the provider or rapid response, and reassesses."
+    },
+    {
+      "id": "chest-tubes-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client has a chest tube connected to a dry suction control system set at -20 cm H2O. The nurse notes that there is no bubbling in the suction control area. How should the nurse interpret this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The suction is not working, and the wall suction should be turned off.",
+          "correct": false,
+          "rationale": "Dry suction does not produce bubbling. The suction indicator, not bubbling, shows whether suction is working."
+        },
+        {
+          "id": "b",
+          "text": "This is expected; the nurse should verify that the suction indicator (for example, a float or bellows) shows that the prescribed suction is applied.",
+          "correct": true,
+          "rationale": "Dry suction systems use a regulator dial instead of a water column. A visual indicator confirms that suction is adequate, and no bubbling is expected."
+        },
+        {
+          "id": "c",
+          "text": "Sterile water should be added to the suction chamber until it bubbles.",
+          "correct": false,
+          "rationale": "Dry suction systems do not require water in the suction control chamber. Adding water does not apply."
+        },
+        {
+          "id": "d",
+          "text": "There is an air leak, and the tube should be clamped.",
+          "correct": false,
+          "rationale": "Air leaks show up as continuous bubbling in the water seal chamber, and routine clamping is unsafe."
+        }
+      ],
+      "explanation": "In wet suction systems, the height of the water column sets the suction, and gentle continuous bubbling is expected. In dry suction systems, a regulator dial sets the suction and an indicator confirms it; there is no bubbling. In both, increasing wall suction does not increase suction to the pleural space beyond the set level."
+    },
+    {
+      "id": "chest-tubes-13",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client had a chest tube placed 4 days ago for a pneumothorax. Which finding best indicates that the client's lung has re-expanded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continuous bubbling in the water seal chamber",
+          "correct": false,
+          "rationale": "Continuous bubbling indicates an ongoing air leak, not resolution."
+        },
+        {
+          "id": "b",
+          "text": "Increasing amount of bloody drainage",
+          "correct": false,
+          "rationale": "Increased bloody drainage suggests bleeding, not resolution of a pneumothorax."
+        },
+        {
+          "id": "c",
+          "text": "Crepitus spreading along the chest wall",
+          "correct": false,
+          "rationale": "Spreading subcutaneous emphysema suggests an air leak into the tissues, a complication."
+        },
+        {
+          "id": "d",
+          "text": "Breath sounds audible bilaterally, tidaling has stopped with no kinks found, and the chest x-ray shows lung re-expansion",
+          "correct": true,
+          "rationale": "Absent tidaling without obstruction, restored breath sounds, and radiographic confirmation together indicate that the pneumothorax has resolved."
+        }
+      ],
+      "explanation": "Lung re-expansion is shown by equal bilateral breath sounds, improved SpO2 and work of breathing, cessation of air leak and tidaling (after ruling out obstruction), and chest x-ray confirmation. The provider then considers chest tube removal."
+    },
+    {
+      "id": "chest-tubes-14",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a chest tube has a prescription to ambulate in the hallway. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the drainage unit upright and below chest level during ambulation",
+          "correct": true,
+          "rationale": "This maintains gravity drainage and the water seal, and it prevents backflow."
+        },
+        {
+          "id": "b",
+          "text": "Disconnect the drainage unit from wall suction only if prescribed, leaving the system to water seal",
+          "correct": true,
+          "rationale": "If the prescriber allows ambulation off suction, the system stays open to water seal. The suction port is left open to air, never clamped."
+        },
+        {
+          "id": "c",
+          "text": "Clamp the chest tube to prevent fluid from flowing back during the walk",
+          "correct": false,
+          "rationale": "Clamping can cause a tension pneumothorax and is not done for ambulation."
+        },
+        {
+          "id": "d",
+          "text": "Assess respiratory status and tolerance during and after ambulation",
+          "correct": true,
+          "rationale": "Activity may increase respiratory demand. Monitoring helps detect intolerance or complications."
+        },
+        {
+          "id": "e",
+          "text": "Lift the drainage unit to chest height so the tubing does not drag",
+          "correct": false,
+          "rationale": "Raising the unit to or above chest level may allow drainage to flow back into the pleural space."
+        },
+        {
+          "id": "f",
+          "text": "Empty the collection chamber before the client leaves the room",
+          "correct": false,
+          "rationale": "The collection chamber is not opened or emptied. Drainage is marked, and the unit is replaced when full."
+        }
+      ],
+      "explanation": "Early ambulation is encouraged for clients with chest tubes. Keep the unit upright and below the chest, avoid clamping, follow prescriber orders about suction, and monitor the client's respiratory response."
+    },
+    {
+      "id": "chest-tubes-15",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing several clients who have chest tubes. Which findings require immediate action? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tracheal deviation with a sudden drop in SpO2 to 85%",
+          "correct": true,
+          "rationale": "These are signs of a tension pneumothorax, a life-threatening emergency."
+        },
+        {
+          "id": "b",
+          "text": "250 mL of bright red drainage in the past hour",
+          "correct": true,
+          "rationale": "Drainage well above 100 mL/hr of bright red blood suggests hemorrhage and requires immediate notification."
+        },
+        {
+          "id": "c",
+          "text": "Subcutaneous emphysema spreading from the chest wall to the neck and face",
+          "correct": true,
+          "rationale": "Rapidly spreading subcutaneous emphysema suggests a significant air leak and potential airway compromise."
+        },
+        {
+          "id": "d",
+          "text": "Intermittent bubbling in the water seal chamber when a client with a pneumothorax coughs",
+          "correct": false,
+          "rationale": "Intermittent bubbling with coughing or exhalation is expected while air is being evacuated from the pleural space."
+        },
+        {
+          "id": "e",
+          "text": "Gentle continuous bubbling in a wet suction control chamber",
+          "correct": false,
+          "rationale": "Gentle bubbling in a wet suction control chamber shows that suction is functioning and is expected."
+        },
+        {
+          "id": "f",
+          "text": "Rise and fall of the water seal level with respirations",
+          "correct": false,
+          "rationale": "Tidaling is expected and indicates patent tubing."
+        }
+      ],
+      "explanation": "Recognizing cues is central to chest tube safety. Tension pneumothorax, hemorrhage, and spreading subcutaneous emphysema are emergencies. Tidaling, intermittent bubbling with a pneumothorax, and gentle suction chamber bubbling are expected findings."
+    }
+  ]
+}

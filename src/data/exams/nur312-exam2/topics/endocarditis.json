@@ -1,0 +1,441 @@
+{
+  "slug": "endocarditis",
+  "title": "Endocarditis",
+  "short": "Endocarditis",
+  "icon": "bug",
+  "description": "Infective endocarditis: risk factors, classic vascular and immunologic signs, blood cultures before antibiotics, long-term IV therapy, embolic complications, and prophylaxis and oral hygiene teaching.",
+  "keyPoints": [
+    "Major risk factors: injection drug use, prosthetic valves, prior endocarditis, structural or congenital heart disease, indwelling catheters, hemodialysis, and poor dentition or dental procedures.",
+    "Staphylococcus aureus is now the most common cause; viridans streptococci are linked to oral and dental sources.",
+    "Classic signs: fever, new or changed regurgitant murmur, Osler nodes (painful, fingertips), Janeway lesions (painless, palms and soles), splinter hemorrhages (nail beds), and Roth spots (retina).",
+    "Obtain at least 2 to 3 sets of blood cultures from separate venipuncture sites before starting antibiotics.",
+    "Treatment is prolonged IV antibiotics (usually 4 to 6 weeks), often at home through a PICC line.",
+    "Vegetations can embolize: brain (stroke), spleen (LUQ pain radiating to left shoulder), kidney (flank pain, hematuria), and lungs with right-sided (tricuspid) disease.",
+    "Antibiotic prophylaxis is reserved for highest-risk clients (prosthetic valve, prior IE, certain congenital heart disease, transplant valvulopathy) before dental procedures that manipulate gingival tissue.",
+    "Good oral hygiene and regular dental care are the most important ongoing prevention."
+  ],
+  "questions": [
+    {
+      "id": "endocarditis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "While assessing a client with suspected infective endocarditis, the nurse notes lesions consistent with Janeway lesions. Which description matches this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Painful, tender, red or purple nodules on the pads of the fingers and toes",
+          "correct": false,
+          "rationale": "This describes Osler nodes, which are immunologic lesions that are typically painful."
+        },
+        {
+          "id": "b",
+          "text": "Thin, reddish-brown lines in the nail beds",
+          "correct": false,
+          "rationale": "This describes splinter hemorrhages, which are caused by microemboli in the nail bed capillaries."
+        },
+        {
+          "id": "c",
+          "text": "Painless, flat, red or hemorrhagic macules on the palms and soles",
+          "correct": true,
+          "rationale": "Janeway lesions are painless embolic lesions on the palms and soles. Remember 'Janeway = painless.'"
+        },
+        {
+          "id": "d",
+          "text": "Retinal hemorrhages with pale centers seen on fundoscopic exam",
+          "correct": false,
+          "rationale": "This describes Roth spots, which are retinal hemorrhages seen in endocarditis."
+        }
+      ],
+      "explanation": "Peripheral signs of infective endocarditis come from microemboli and immune complex deposition. Osler nodes are painful and found on the finger and toe pads. Janeway lesions are painless and found on the palms and soles. Splinter hemorrhages appear in the nail beds, and Roth spots appear in the retina."
+    },
+    {
+      "id": "endocarditis-02",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is reviewing the health history of a client admitted with fever and a new murmur. Which findings increase the client's risk for infective endocarditis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Injects heroin intravenously",
+          "correct": true,
+          "rationale": "Injection drug use introduces skin organisms (often S. aureus) directly into the bloodstream and is a leading risk factor, especially for right-sided (tricuspid) endocarditis."
+        },
+        {
+          "id": "b",
+          "text": "Prosthetic aortic valve placed 3 years ago",
+          "correct": true,
+          "rationale": "Prosthetic valves are a high-risk site for bacterial colonization and vegetation formation."
+        },
+        {
+          "id": "c",
+          "text": "Tooth extraction 3 weeks ago with poor dentition",
+          "correct": true,
+          "rationale": "Dental procedures that manipulate gingival tissue and poor oral hygiene can cause bacteremia with oral streptococci."
+        },
+        {
+          "id": "d",
+          "text": "Well-controlled primary hypertension",
+          "correct": false,
+          "rationale": "Controlled hypertension is not a recognized risk factor for infective endocarditis."
+        },
+        {
+          "id": "e",
+          "text": "Appendectomy 10 years ago",
+          "correct": false,
+          "rationale": "A remote, uncomplicated abdominal surgery does not increase current risk."
+        },
+        {
+          "id": "f",
+          "text": "Long-term tunneled central venous catheter for hemodialysis",
+          "correct": true,
+          "rationale": "Indwelling intravascular devices and hemodialysis provide a portal for bacteremia and are associated with health care-associated endocarditis."
+        }
+      ],
+      "explanation": "Infective endocarditis requires a source of bacteremia plus a susceptible endocardial surface. Key risks include injection drug use, prosthetic valves, prior endocarditis, structural heart disease, intravascular devices and hemodialysis, and dental sources."
+    },
+    {
+      "id": "endocarditis-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with suspected infective endocarditis has a temperature of 39.2° C (102.6° F). The provider prescribes IV vancomycin, blood cultures x2, a transthoracic echocardiogram, and a CBC. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Start the IV vancomycin infusion.",
+          "correct": false,
+          "rationale": "Starting antibiotics before cultures are drawn may sterilize the blood and prevent identification of the causative organism."
+        },
+        {
+          "id": "b",
+          "text": "Obtain blood cultures from two separate venipuncture sites.",
+          "correct": true,
+          "rationale": "Blood cultures must be drawn before the first antibiotic dose to identify the organism and guide targeted, prolonged therapy."
+        },
+        {
+          "id": "c",
+          "text": "Send the client for the echocardiogram.",
+          "correct": false,
+          "rationale": "The echocardiogram is important for identifying vegetations, but it does not need to precede cultures or antibiotics, and leaving the unit would delay both."
+        },
+        {
+          "id": "d",
+          "text": "Administer acetaminophen and recheck the temperature in 1 hour.",
+          "correct": false,
+          "rationale": "Treating the fever is appropriate but does not take priority over obtaining cultures and starting antibiotics promptly."
+        }
+      ],
+      "explanation": "In suspected endocarditis, obtain at least 2 to 3 sets of blood cultures from different sites (per protocol, ideally spaced apart) before giving antibiotics. Accurate organism identification is essential because treatment lasts weeks and must be targeted."
+    },
+    {
+      "id": "endocarditis-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client receiving IV antibiotics for mitral valve endocarditis suddenly reports sharp left upper quadrant abdominal pain that radiates to the left shoulder. The nurse understands that this finding most likely indicates which complication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acute cholecystitis",
+          "correct": false,
+          "rationale": "Cholecystitis causes right upper quadrant pain that may radiate to the right shoulder or scapula."
+        },
+        {
+          "id": "b",
+          "text": "Renal artery embolism",
+          "correct": false,
+          "rationale": "Renal emboli cause flank pain and hematuria rather than LUQ pain radiating to the left shoulder."
+        },
+        {
+          "id": "c",
+          "text": "Antibiotic-associated colitis",
+          "correct": false,
+          "rationale": "C. difficile colitis causes diarrhea and diffuse cramping, not sudden LUQ pain radiating to the shoulder."
+        },
+        {
+          "id": "d",
+          "text": "Splenic infarction from an embolized vegetation",
+          "correct": true,
+          "rationale": "Fragments of left-sided vegetations travel through the systemic circulation. Splenic infarction classically causes sudden LUQ pain radiating to the left shoulder (Kehr sign)."
+        }
+      ],
+      "explanation": "Vegetations on left-sided valves can embolize anywhere in the systemic circulation, including the brain, spleen, kidneys, mesentery, and extremities. Sudden LUQ pain radiating to the left shoulder suggests splenic infarction and should be reported promptly."
+    },
+    {
+      "id": "endocarditis-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is caring for four clients with infective endocarditis. Which client finding requires the nurse's immediate action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "New right-sided facial droop and difficulty finding words",
+          "correct": true,
+          "rationale": "These are signs of an acute stroke from a cerebral embolus. This is a time-sensitive emergency that requires immediate stroke protocol activation."
+        },
+        {
+          "id": "b",
+          "text": "Splinter hemorrhages noted in several fingernails",
+          "correct": false,
+          "rationale": "Splinter hemorrhages are a known manifestation of IE and do not need emergency action."
+        },
+        {
+          "id": "c",
+          "text": "Temperature of 38.1° C (100.6° F) on day 3 of antibiotics",
+          "correct": false,
+          "rationale": "Low-grade fever may persist during the first days of effective therapy. It should be monitored and trended."
+        },
+        {
+          "id": "d",
+          "text": "A grade III/VI systolic murmur documented on admission",
+          "correct": false,
+          "rationale": "A known murmur that has not changed is expected with valve involvement and does not indicate new deterioration."
+        }
+      ],
+      "explanation": "Embolic stroke is one of the most serious complications of left-sided endocarditis. New neurologic deficits such as facial droop, aphasia, weakness, or confusion require immediate action. Expected findings such as known murmurs, peripheral lesions, or a slowly resolving fever can be addressed afterward."
+    },
+    {
+      "id": "endocarditis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with endocarditis is being discharged with a peripherally inserted central catheter (PICC) to complete 6 weeks of IV antibiotics at home. Which instruction should the nurse include?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flush the catheter with tap water if it seems sluggish.",
+          "correct": false,
+          "rationale": "Only sterile saline (and heparin if prescribed) is used for flushing. Tap water is not sterile and could cause a bloodstream infection."
+        },
+        {
+          "id": "b",
+          "text": "Remove the dressing daily to let the site air out.",
+          "correct": false,
+          "rationale": "The transparent dressing is changed on a set schedule (often every 7 days) or when soiled or loose, using sterile technique. Removing it daily increases infection risk."
+        },
+        {
+          "id": "c",
+          "text": "Cover the PICC dressing with plastic when showering, and do not submerge the arm in water.",
+          "correct": true,
+          "rationale": "Keeping the dressing dry and avoiding submersion (baths, swimming) reduces the risk of catheter-related infection."
+        },
+        {
+          "id": "d",
+          "text": "Have blood pressure taken on the PICC arm so the catheter stays in place.",
+          "correct": false,
+          "rationale": "Blood pressure should not be taken on the arm with a PICC because cuff pressure can damage or occlude the catheter."
+        }
+      ],
+      "explanation": "Home IV antibiotic therapy through a PICC is common because endocarditis requires 4 to 6 weeks of treatment. Teaching covers keeping the dressing clean and dry, aseptic flushing, avoiding BP and venipuncture in that arm, and reporting fever, redness, drainage, swelling, or arm pain."
+    },
+    {
+      "id": "endocarditis-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with streptococcal endocarditis asks why the antibiotics must continue for 6 weeks when the fever went away in 3 days. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Long courses prevent the bacteria from spreading to family members.",
+          "correct": false,
+          "rationale": "The duration of therapy is determined by eradicating infection in the vegetations, not by preventing transmission."
+        },
+        {
+          "id": "b",
+          "text": "The antibiotic must build up in the bloodstream for several weeks before it begins to work.",
+          "correct": false,
+          "rationale": "Antibiotics act right away. Resolution of the fever shows that they are working."
+        },
+        {
+          "id": "c",
+          "text": "Six weeks of therapy prevents the heart valve from ever becoming infected again.",
+          "correct": false,
+          "rationale": "Completing therapy treats the current infection but does not prevent future endocarditis. Prior IE actually increases future risk."
+        },
+        {
+          "id": "d",
+          "text": "Bacteria are embedded deep in the vegetations on the valve, where blood flow and immune cells reach poorly, so prolonged treatment is needed to eradicate them.",
+          "correct": true,
+          "rationale": "Vegetations are avascular fibrin and platelet masses that shield dense bacterial colonies. Prolonged, high-dose IV therapy is required to sterilize them."
+        }
+      ],
+      "explanation": "Endocarditis vegetations protect bacteria from host defenses and antibiotics, so IV therapy usually continues for 4 to 6 weeks (longer for prosthetic valves). Stopping early, even when symptoms improve, risks relapse."
+    },
+    {
+      "id": "endocarditis-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a prosthetic mitral valve and a history of infective endocarditis is preparing for discharge. Which statements should the nurse include in the teaching? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tell every dentist and health care provider that you have a prosthetic valve and a history of endocarditis.",
+          "correct": true,
+          "rationale": "Providers need this information to determine when prophylaxis is indicated and to recognize early infection."
+        },
+        {
+          "id": "b",
+          "text": "Take the prescribed antibiotic before dental procedures that involve the gums or the root of a tooth, such as cleanings and extractions.",
+          "correct": true,
+          "rationale": "Per AHA guidance, clients with a prosthetic valve or prior IE are highest risk and receive prophylaxis (for example, amoxicillin 30 to 60 minutes before) for procedures that manipulate gingival tissue."
+        },
+        {
+          "id": "c",
+          "text": "Brush your teeth at least twice a day and see your dentist for regular checkups.",
+          "correct": true,
+          "rationale": "Daily oral hygiene and routine dental care reduce the frequent low-grade bacteremia from the mouth and are the most important ongoing prevention."
+        },
+        {
+          "id": "d",
+          "text": "Take antibiotics before any routine colonoscopy.",
+          "correct": false,
+          "rationale": "Current AHA guidelines do not recommend routine endocarditis prophylaxis for GI or GU procedures."
+        },
+        {
+          "id": "e",
+          "text": "Stop brushing your teeth if your gums bleed, to avoid letting bacteria into the blood.",
+          "correct": false,
+          "rationale": "Bleeding gums signal gingival disease. Stopping oral care worsens oral bacterial load and risk, so the client should continue gentle brushing and see a dentist."
+        }
+      ],
+      "explanation": "Prophylaxis is limited to highest-risk clients (prosthetic valves, prior IE, certain congenital heart disease, cardiac transplant with valvulopathy) before dental procedures involving manipulation of gingival tissue, the periapical region, or perforation of oral mucosa. Excellent oral hygiene and regular dental visits remain essential."
+    },
+    {
+      "id": "endocarditis-09",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "After teaching a client who is completing home antibiotic therapy for endocarditis, the nurse evaluates understanding. Which client statement indicates the teaching was effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I can stop the antibiotic once I feel back to normal.",
+          "correct": false,
+          "rationale": "Stopping therapy early risks relapse because bacteria in vegetations may not be fully eradicated."
+        },
+        {
+          "id": "b",
+          "text": "I will check my temperature daily and call if I have a fever, chills, or night sweats.",
+          "correct": true,
+          "rationale": "Recurrent fever can signal relapse or treatment failure, so daily temperature monitoring and reporting fever is correct."
+        },
+        {
+          "id": "c",
+          "text": "If I get short of breath, I'll just rest until it passes.",
+          "correct": false,
+          "rationale": "New dyspnea may indicate heart failure from valve damage, which is a serious complication that must be reported."
+        },
+        {
+          "id": "d",
+          "text": "I can keep a few leftover pills in case I get sick again.",
+          "correct": false,
+          "rationale": "Self-treatment with leftover antibiotics can mask infection and promote resistance. The full course should be completed as prescribed."
+        }
+      ],
+      "explanation": "Clients completing therapy for endocarditis need to finish the full antibiotic course, monitor their temperature, and report fever, chills, dyspnea, weight gain, or neurologic changes, which can signal relapse, heart failure, or embolization."
+    },
+    {
+      "id": "endocarditis-10",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a client with suspected infective endocarditis. Which findings are consistent with this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Painful red nodules on the pads of the fingers",
+          "correct": true,
+          "rationale": "Osler nodes are immunologic lesions seen in endocarditis."
+        },
+        {
+          "id": "b",
+          "text": "Reddish-brown linear streaks under the fingernails",
+          "correct": true,
+          "rationale": "Splinter hemorrhages result from microemboli to nail bed capillaries."
+        },
+        {
+          "id": "c",
+          "text": "Pale-centered retinal hemorrhages on fundoscopic exam",
+          "correct": true,
+          "rationale": "Roth spots are retinal hemorrhages associated with endocarditis."
+        },
+        {
+          "id": "d",
+          "text": "A new regurgitant murmur",
+          "correct": true,
+          "rationale": "Vegetations damage valve leaflets, causing regurgitation and a new or changed murmur."
+        },
+        {
+          "id": "e",
+          "text": "Chest pain relieved by sitting up and leaning forward",
+          "correct": false,
+          "rationale": "Positional pain relief is characteristic of pericarditis, not endocarditis."
+        },
+        {
+          "id": "f",
+          "text": "Chest pain relieved by sublingual nitroglycerin",
+          "correct": false,
+          "rationale": "Relief with nitroglycerin suggests myocardial ischemia (angina) rather than endocarditis."
+        }
+      ],
+      "explanation": "Infective endocarditis often presents with fever plus a new or changed murmur. Peripheral manifestations include Osler nodes, Janeway lesions, splinter hemorrhages, and Roth spots. Diagnosis is confirmed by positive blood cultures and echocardiography (the modified Duke criteria)."
+    },
+    {
+      "id": "endocarditis-11",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with suspected infective endocarditis has prescriptions for two sets of blood cultures and IV antibiotics. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Perform hand hygiene and verify the client's identity with two identifiers"
+        },
+        {
+          "id": "b",
+          "text": "Draw the first set of blood cultures by venipuncture using aseptic technique"
+        },
+        {
+          "id": "c",
+          "text": "Draw the second set of blood cultures from a separate venipuncture site"
+        },
+        {
+          "id": "d",
+          "text": "Begin the first dose of the prescribed IV antibiotic"
+        },
+        {
+          "id": "e",
+          "text": "Monitor the client for adverse or allergic reactions during the infusion"
+        }
+      ],
+      "explanation": "Safety starts with hand hygiene and client identification. Cultures from two separate sites improve accuracy and help distinguish true bacteremia from skin contamination, and they must be drawn before antibiotics so the organism can be identified. The antibiotic is started promptly afterward, and the client is monitored for reactions such as vancomycin infusion reaction or anaphylaxis."
+    },
+    {
+      "id": "endocarditis-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with tricuspid valve endocarditis related to injection drug use suddenly develops dyspnea, pleuritic chest pain, and hemoptysis. SpO2 drops from 95% to 88%. Which complication should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Embolic stroke",
+          "correct": false,
+          "rationale": "Right-sided vegetations travel to the lungs, not the brain, unless an intracardiac shunt exists. The symptoms are respiratory, not neurologic."
+        },
+        {
+          "id": "b",
+          "text": "Acute pericarditis",
+          "correct": false,
+          "rationale": "Pericarditis causes positional chest pain and a friction rub but not hemoptysis or sudden hypoxemia."
+        },
+        {
+          "id": "c",
+          "text": "Septic pulmonary embolism",
+          "correct": true,
+          "rationale": "Vegetations on the tricuspid valve embolize into the pulmonary circulation, causing sudden dyspnea, pleuritic pain, hemoptysis, and hypoxemia."
+        },
+        {
+          "id": "d",
+          "text": "Splenic infarction",
+          "correct": false,
+          "rationale": "Splenic emboli come from left-sided vegetations entering the systemic circulation and cause LUQ pain, not respiratory symptoms."
+        }
+      ],
+      "explanation": "Emboli follow the direction of blood flow. Right-sided (tricuspid) vegetations, common with injection drug use, embolize to the lungs. Left-sided (mitral or aortic) vegetations embolize systemically to the brain, spleen, kidneys, and extremities."
+    }
+  ]
+}

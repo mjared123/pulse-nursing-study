@@ -1,0 +1,1079 @@
+{
+  "slug": "dvt-pe",
+  "title": "DVT / PE",
+  "short": "DVT & PE",
+  "icon": "vein",
+  "description": "Venous thromboembolism from Virchow's triad through prevention, anticoagulant therapy, and recognizing and managing pulmonary embolism, including thrombolytics, IVC filters, and client teaching.",
+  "keyPoints": [
+    "Virchow's triad is venous stasis, endothelial injury, and hypercoagulability. Prevent VTE with early ambulation, leg exercises, SCDs, and LMWH. Never massage a leg with a suspected DVT.",
+    "Heparin: monitor aPTT (about 1.5-2.5 times control) or anti-Xa. The antidote is protamine sulfate. HIT means platelets fall more than 50% at 5-14 days: stop all heparin and switch to argatroban.",
+    "Enoxaparin: deep subQ in the abdomen at least 2 inches from the umbilicus. Do not expel the air bubble and do not rub the site. Check platelets and creatinine clearance.",
+    "Warfarin: INR goal 2-3 for VTE. The antidote is vitamin K. Keep vitamin K intake consistent. Overlap with heparin for at least 5 days and until INR is 2 or higher for 24 hr.",
+    "DOACs (apixaban, rivaroxaban, dabigatran) need no routine INR. Reversal agents are andexanet alfa for factor Xa inhibitors and idarucizumab for dabigatran.",
+    "PE: sudden dyspnea, tachypnea, tachycardia, pleuritic pain, anxiety, and hypoxemia. Early ABGs show respiratory alkalosis. PE creates dead space (high V/Q).",
+    "Suspected PE: high-Fowler's position, oxygen, call for help, anticoagulate. CTPA confirms it. D-dimer can rule out VTE but cannot confirm it.",
+    "Alteplase is for massive PE. Use bleeding precautions and frequent neuro checks, and stop the infusion for neuro changes. An IVC filter is used when anticoagulation is contraindicated."
+  ],
+  "questions": [
+    {
+      "id": "dvt-pe-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse is teaching about how venous thrombosis develops. Which three factors make up Virchow's triad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypertension, hyperlipidemia, and smoking",
+          "correct": false,
+          "rationale": "These are risk factors for arterial atherosclerosis, not the three conditions that promote venous clot formation."
+        },
+        {
+          "id": "b",
+          "text": "Venous stasis, endothelial (vessel wall) injury, and hypercoagulability",
+          "correct": true,
+          "rationale": "Virchow's triad is venous stasis, damage to the vessel wall, and hypercoagulability of the blood. Most clients who develop VTE have at least two of these."
+        },
+        {
+          "id": "c",
+          "text": "Anemia, thrombocytopenia, and leukocytosis",
+          "correct": false,
+          "rationale": "Low hemoglobin and low platelets do not promote clotting; these are not components of Virchow's triad."
+        },
+        {
+          "id": "d",
+          "text": "Tachycardia, hypoxemia, and dyspnea",
+          "correct": false,
+          "rationale": "These are signs of pulmonary embolism, which is a complication of venous thrombosis, not its cause."
+        }
+      ],
+      "explanation": "Virchow's triad explains venous thrombus formation: venous stasis (immobility, heart failure, long travel), endothelial injury (surgery, trauma, IV catheters), and hypercoagulability (cancer, estrogen, pregnancy, dehydration, inherited clotting disorders). Identifying these factors guides VTE prevention."
+    },
+    {
+      "id": "dvt-pe-02",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is screening clients for venous thromboembolism (VTE) risk. Which clients have factors that increase their risk? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 34-year-old who smokes and takes combined oral contraceptives",
+          "correct": true,
+          "rationale": "Estrogen increases clotting factor production (hypercoagulability), and smoking further raises the risk."
+        },
+        {
+          "id": "b",
+          "text": "A 70-year-old on postoperative day 1 after total hip arthroplasty",
+          "correct": true,
+          "rationale": "Major orthopedic surgery of the hip or knee is among the highest VTE risks because of vessel injury, immobility, and hypercoagulability after surgery."
+        },
+        {
+          "id": "c",
+          "text": "A 58-year-old receiving chemotherapy for pancreatic cancer",
+          "correct": true,
+          "rationale": "Cancer and chemotherapy create a hypercoagulable state; malignancy is a major VTE risk factor."
+        },
+        {
+          "id": "d",
+          "text": "A 25-year-old who runs 5 miles three times a week",
+          "correct": false,
+          "rationale": "Regular exercise promotes venous return and does not increase VTE risk."
+        },
+        {
+          "id": "e",
+          "text": "A 46-year-old who just completed a 12-hour international flight",
+          "correct": true,
+          "rationale": "Prolonged sitting during long travel causes venous stasis in the legs."
+        }
+      ],
+      "explanation": "VTE risk factors map to Virchow's triad: immobility and long travel (stasis), surgery and trauma (vessel injury), and estrogen, pregnancy, cancer, dehydration, and smoking (hypercoagulability). Orthopedic surgery of the hip and knee carries some of the highest risk. Screening lets the nurse start prevention early."
+    },
+    {
+      "id": "dvt-pe-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "On postoperative day 3 after abdominal surgery, a client reports aching in the left calf. The left calf is warm, red, tender, and 4 cm larger in circumference than the right. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Massage the calf gently to relieve the cramping",
+          "correct": false,
+          "rationale": "Massaging a leg with a suspected DVT could dislodge the clot and cause a pulmonary embolism."
+        },
+        {
+          "id": "b",
+          "text": "Apply a sequential compression device to the left leg",
+          "correct": false,
+          "rationale": "SCDs are for prevention. Compressing a leg with a possible existing clot could dislodge it."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider and anticipate a venous duplex ultrasound",
+          "correct": true,
+          "rationale": "Unilateral swelling, warmth, redness, and tenderness are classic DVT signs. The provider should be notified, and a venous duplex ultrasound is the usual test to confirm the diagnosis."
+        },
+        {
+          "id": "d",
+          "text": "Help the client walk in the hallway to improve circulation",
+          "correct": false,
+          "rationale": "The suspected DVT should be evaluated, and anticoagulation started, before the client is encouraged to walk; ambulating is not the first action for a new, unconfirmed clot."
+        }
+      ],
+      "explanation": "Classic DVT signs are swelling of one leg, warmth, redness, tenderness, and pain; many clients have no symptoms. The nurse does not massage the leg or apply compression, reports findings promptly, and anticipates duplex ultrasound and anticoagulation. Homans' sign is unreliable and is no longer recommended."
+    },
+    {
+      "id": "dvt-pe-04",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which diagnostic test should the nurse expect the provider to order first to confirm a suspected deep vein thrombosis in the leg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venous duplex ultrasound",
+          "correct": true,
+          "rationale": "Venous duplex ultrasound is noninvasive, widely available, and the most common first test to confirm DVT."
+        },
+        {
+          "id": "b",
+          "text": "Ventilation-perfusion (V/Q) scan",
+          "correct": false,
+          "rationale": "A V/Q scan evaluates for pulmonary embolism, not clots in the leg veins."
+        },
+        {
+          "id": "c",
+          "text": "Contrast venography",
+          "correct": false,
+          "rationale": "Venography is invasive and uses contrast; it has largely been replaced by ultrasound."
+        },
+        {
+          "id": "d",
+          "text": "12-lead electrocardiogram",
+          "correct": false,
+          "rationale": "An ECG evaluates cardiac rhythm and ischemia and cannot detect a venous clot."
+        }
+      ],
+      "explanation": "Venous duplex ultrasound is the first-line test for DVT. A D-dimer can help rule out DVT when clinical probability is low, but a positive D-dimer does not confirm a clot. CT pulmonary angiography or a V/Q scan is used when PE is suspected."
+    },
+    {
+      "id": "dvt-pe-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is on postoperative day 1 after a total knee arthroplasty. Which nursing actions help prevent venous thromboembolism? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assist the client to walk as soon as prescribed",
+          "correct": true,
+          "rationale": "Early ambulation activates the calf muscle pump and reduces venous stasis."
+        },
+        {
+          "id": "b",
+          "text": "Apply sequential compression devices while the client is in bed",
+          "correct": true,
+          "rationale": "SCDs compress the legs intermittently to promote venous return and reduce stasis."
+        },
+        {
+          "id": "c",
+          "text": "Administer enoxaparin subcutaneously as prescribed",
+          "correct": true,
+          "rationale": "Prophylactic low-molecular-weight heparin reduces clot formation after major orthopedic surgery."
+        },
+        {
+          "id": "d",
+          "text": "Place a pillow under the client's knees for comfort",
+          "correct": false,
+          "rationale": "A pillow under the knees compresses the popliteal vessels and slows venous return, promoting stasis."
+        },
+        {
+          "id": "e",
+          "text": "Teach the client to do ankle pumps and leg exercises every hour while awake",
+          "correct": true,
+          "rationale": "Ankle flexion and extension contract the calf muscles and push venous blood toward the heart."
+        },
+        {
+          "id": "f",
+          "text": "Encourage the client to sit with legs crossed when in the chair",
+          "correct": false,
+          "rationale": "Crossing the legs compresses veins and impairs venous return."
+        }
+      ],
+      "explanation": "VTE prevention combines mechanical measures (early ambulation, leg exercises, SCDs, compression stockings) with drug prophylaxis (LMWH, low-dose heparin, or a DOAC) in high-risk clients. Clients should avoid anything that compresses leg veins, such as pillows under the knees, crossed legs, or tight clothing."
+    },
+    {
+      "id": "dvt-pe-06",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client was admitted yesterday with a confirmed DVT in the right femoral vein and is on a heparin infusion. Which prescription should the nurse question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elevate the right leg when the client is in bed",
+          "correct": false,
+          "rationale": "Elevation reduces swelling and promotes venous return; it is appropriate."
+        },
+        {
+          "id": "b",
+          "text": "Apply sequential compression devices to both legs",
+          "correct": true,
+          "rationale": "SCDs should not be placed on a leg with a known DVT because compression could dislodge the clot. The nurse should clarify this prescription."
+        },
+        {
+          "id": "c",
+          "text": "Monitor aPTT 6 hours after each rate change",
+          "correct": false,
+          "rationale": "Checking aPTT about 6 hours after starting or changing the heparin rate is standard monitoring."
+        },
+        {
+          "id": "d",
+          "text": "Monitor platelet count every 2-3 days",
+          "correct": false,
+          "rationale": "Regular platelet monitoring detects heparin-induced thrombocytopenia (HIT) and is appropriate."
+        }
+      ],
+      "explanation": "Mechanical compression is used for prevention, not on a leg with an existing DVT. Treatment of DVT focuses on anticoagulation, elevation for edema, and monitoring for PE and bleeding. When a prescription could cause harm, the nurse clarifies it before carrying it out."
+    },
+    {
+      "id": "dvt-pe-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client receiving a continuous heparin infusion for a DVT has an aPTT of 112 seconds (control 30 seconds; therapeutic range per protocol 46-70 seconds). Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continue the infusion at the current rate and recheck the aPTT in the morning",
+          "correct": false,
+          "rationale": "The aPTT is well above the therapeutic range, which increases the risk of bleeding. Continuing without changes is unsafe."
+        },
+        {
+          "id": "b",
+          "text": "Administer vitamin K as prescribed",
+          "correct": false,
+          "rationale": "Vitamin K reverses warfarin, not heparin."
+        },
+        {
+          "id": "c",
+          "text": "Increase the infusion rate per protocol",
+          "correct": false,
+          "rationale": "Increasing the rate would further prolong the aPTT and increase bleeding risk."
+        },
+        {
+          "id": "d",
+          "text": "Hold or reduce the infusion per protocol, assess for bleeding, and notify the provider",
+          "correct": true,
+          "rationale": "An aPTT of 112 seconds is far above range. Heparin protocols usually hold the infusion briefly and reduce the rate. The nurse also assesses for bleeding and reports the result."
+        }
+      ],
+      "explanation": "Unfractionated heparin is monitored with aPTT (therapeutic is about 1.5-2.5 times control) or an anti-Xa level (about 0.3-0.7 units/mL), checked about 6 hours after each change. Results above the range require holding or reducing the dose per protocol and a bleeding assessment. Protamine sulfate is the antidote for serious bleeding."
+    },
+    {
+      "id": "dvt-pe-08",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A client receiving IV heparin develops frank hematuria and black, tarry stools. Which medication should the nurse anticipate the provider will prescribe to reverse the heparin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin K (phytonadione)",
+          "correct": false,
+          "rationale": "Vitamin K reverses warfarin by restoring vitamin K-dependent clotting factors; it does not reverse heparin."
+        },
+        {
+          "id": "b",
+          "text": "Idarucizumab",
+          "correct": false,
+          "rationale": "Idarucizumab reverses dabigatran, a direct thrombin inhibitor."
+        },
+        {
+          "id": "c",
+          "text": "Protamine sulfate",
+          "correct": true,
+          "rationale": "Protamine sulfate binds heparin and neutralizes its anticoagulant effect. It is the antidote for unfractionated heparin and partly reverses LMWH."
+        },
+        {
+          "id": "d",
+          "text": "Andexanet alfa",
+          "correct": false,
+          "rationale": "Andexanet alfa reverses the factor Xa inhibitors apixaban and rivaroxaban."
+        }
+      ],
+      "explanation": "Match each anticoagulant to its reversal agent: heparin uses protamine sulfate (partial for LMWH), warfarin uses vitamin K (plus prothrombin complex concentrate for serious bleeding), dabigatran uses idarucizumab, and apixaban or rivaroxaban uses andexanet alfa. The heparin infusion is stopped first."
+    },
+    {
+      "id": "dvt-pe-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client has been on a heparin infusion for 7 days. The platelet count has fallen from 230,000/mm3 at admission to 92,000/mm3, and the client's left arm is now swollen and painful. Which action should the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Switch the heparin infusion to enoxaparin injections",
+          "correct": false,
+          "rationale": "LMWH cross-reacts with the antibodies that cause HIT and must also be avoided."
+        },
+        {
+          "id": "b",
+          "text": "Stop all heparin, including heparin flushes, and anticipate a non-heparin anticoagulant such as argatroban",
+          "correct": true,
+          "rationale": "A platelet drop of more than 50% 5-14 days after starting heparin, with a new clot, suggests heparin-induced thrombocytopenia. All heparin is stopped, and a direct thrombin inhibitor such as argatroban is started because the client is at high risk of further clots."
+        },
+        {
+          "id": "c",
+          "text": "Administer protamine sulfate to reverse the heparin",
+          "correct": false,
+          "rationale": "HIT is an immune clotting disorder, not excessive anticoagulation; protamine does not treat it."
+        },
+        {
+          "id": "d",
+          "text": "Prepare to transfuse platelets",
+          "correct": false,
+          "rationale": "Platelet transfusions are generally avoided in HIT unless there is serious bleeding because they can fuel more clotting."
+        }
+      ],
+      "explanation": "HIT is an immune reaction that usually appears 5-14 days after heparin is started. Platelets fall by more than 50%, and paradoxical arterial and venous clots form. Treatment is stopping all heparin products, including flushes and LMWH, and starting a non-heparin anticoagulant such as argatroban. The allergy is documented."
+    },
+    {
+      "id": "dvt-pe-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is about to administer enoxaparin 40 mg subcutaneously from a prefilled syringe. Place the steps in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Verify the prescription and review the client's recent platelet count and renal function"
+        },
+        {
+          "id": "b",
+          "text": "Perform hand hygiene and identify the client using two identifiers"
+        },
+        {
+          "id": "c",
+          "text": "Select a site on the abdomen at least 2 inches from the umbilicus and cleanse it"
+        },
+        {
+          "id": "d",
+          "text": "Pinch a fold of skin and insert the full length of the needle at 90 degrees without expelling the air bubble"
+        },
+        {
+          "id": "e",
+          "text": "Inject the medication, withdraw the needle, release the skin fold, and do not rub the site"
+        }
+      ],
+      "explanation": "Safe LMWH administration starts with checking the order and labs (platelets for HIT, creatinine clearance for dose adjustment), then hand hygiene and client identification. The injection goes into abdominal subcutaneous tissue at least 2 inches from the umbilicus. The air bubble in the prefilled syringe is not expelled because it ensures the full dose is delivered. The site is not rubbed, to reduce bruising."
+    },
+    {
+      "id": "dvt-pe-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a client to self-inject enoxaparin at home after discharge for a DVT. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do not push out the small air bubble in the prefilled syringe",
+          "correct": true,
+          "rationale": "The air bubble ensures that all of the medication is given and helps seal it into the tissue."
+        },
+        {
+          "id": "b",
+          "text": "Inject into the abdomen at least 2 inches from the navel",
+          "correct": true,
+          "rationale": "Subcutaneous abdominal tissue gives reliable absorption; staying 2 inches from the umbilicus avoids its vessels."
+        },
+        {
+          "id": "c",
+          "text": "Pull back on the plunger to check for blood before injecting",
+          "correct": false,
+          "rationale": "Aspirating is not done with LMWH because it can damage tissue and increase bruising."
+        },
+        {
+          "id": "d",
+          "text": "Do not rub the site after the injection",
+          "correct": true,
+          "rationale": "Rubbing increases bruising and hematoma formation at the site."
+        },
+        {
+          "id": "e",
+          "text": "Rotate injection sites between the left and right sides of the abdomen",
+          "correct": true,
+          "rationale": "Rotating sites reduces bruising and tissue damage from repeated injections."
+        },
+        {
+          "id": "f",
+          "text": "Inject into the deltoid muscle if the abdomen is bruised",
+          "correct": false,
+          "rationale": "Enoxaparin is given subcutaneously, never intramuscularly; IM injection of an anticoagulant can cause a large hematoma."
+        }
+      ],
+      "explanation": "Enoxaparin is given deep subcutaneously, usually in the abdomen, rotating sides. Clients do not expel the air bubble, do not aspirate, and do not rub the site. They are also taught to watch for bleeding and bruising and to keep follow-up for platelet counts."
+    },
+    {
+      "id": "dvt-pe-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is prescribed enoxaparin 1 mg/kg subcutaneously every 12 hours for a DVT. Which finding should the nurse report to the provider before giving the first dose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hemoglobin 13.2 g/dL",
+          "correct": false,
+          "rationale": "This hemoglobin is within normal limits and does not suggest bleeding."
+        },
+        {
+          "id": "b",
+          "text": "Platelet count 245,000/mm3",
+          "correct": false,
+          "rationale": "This is a normal baseline platelet count; it does not contraindicate enoxaparin."
+        },
+        {
+          "id": "c",
+          "text": "aPTT 32 seconds",
+          "correct": false,
+          "rationale": "aPTT is not used to monitor LMWH, and a normal baseline aPTT is not a reason to hold the dose."
+        },
+        {
+          "id": "d",
+          "text": "Creatinine clearance 24 mL/min",
+          "correct": true,
+          "rationale": "Enoxaparin is cleared by the kidneys. A creatinine clearance below 30 mL/min causes it to accumulate and increases bleeding risk, so the dose must be adjusted. Anti-Xa levels may be used for monitoring."
+        }
+      ],
+      "explanation": "LMWH has predictable effects and usually needs no routine coagulation monitoring, but it is cleared by the kidneys. Severe renal impairment (CrCl below 30 mL/min) requires dose reduction or a different anticoagulant. Anti-Xa levels are used when monitoring is needed, such as in renal impairment, obesity, or pregnancy."
+    },
+    {
+      "id": "dvt-pe-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client taking warfarin for a recent DVT has an INR of 2.4 this morning and no signs of bleeding. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer the scheduled warfarin dose as prescribed",
+          "correct": true,
+          "rationale": "The usual therapeutic INR for VTE treatment is 2.0-3.0; 2.4 is in range, so the scheduled dose is given."
+        },
+        {
+          "id": "b",
+          "text": "Hold the dose and notify the provider",
+          "correct": false,
+          "rationale": "There is no reason to hold the dose; the INR is therapeutic and the client is not bleeding."
+        },
+        {
+          "id": "c",
+          "text": "Administer vitamin K as prescribed",
+          "correct": false,
+          "rationale": "Vitamin K reverses warfarin and is only used for a high INR or bleeding; giving it would put the client at risk for new clots."
+        },
+        {
+          "id": "d",
+          "text": "Request an order to increase the warfarin dose",
+          "correct": false,
+          "rationale": "The INR is already in the target range; increasing the dose would raise the bleeding risk."
+        }
+      ],
+      "explanation": "Warfarin is monitored with the PT/INR. For DVT and PE, the target INR is usually 2.0-3.0. An INR below range increases clot risk, and an INR above range increases bleeding risk. Vitamin K is the reversal agent for warfarin."
+    },
+    {
+      "id": "dvt-pe-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a PE has been on a heparin infusion for 3 days. Warfarin was started yesterday, and today's INR is 1.4. The client asks, \"Why do I still need the heparin drip if I'm on warfarin?\" Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The heparin will be stopped today now that you are on warfarin.\"",
+          "correct": false,
+          "rationale": "Stopping heparin before warfarin is therapeutic would leave the client unprotected against new clots."
+        },
+        {
+          "id": "b",
+          "text": "\"Warfarin takes several days to reach its full effect, so heparin continues until your INR is in the target range.\"",
+          "correct": true,
+          "rationale": "Warfarin's full effect takes several days because existing clotting factors must clear. Heparin overlaps with warfarin for at least 5 days and until the INR is 2.0 or higher for at least 24 hours."
+        },
+        {
+          "id": "c",
+          "text": "\"The heparin dissolves the clot while the warfarin prevents a new one.\"",
+          "correct": false,
+          "rationale": "Heparin does not dissolve existing clots; it prevents clot growth while the body breaks down the clot. Only thrombolytics actively dissolve clots."
+        },
+        {
+          "id": "d",
+          "text": "\"The warfarin will be held until the heparin is stopped.\"",
+          "correct": false,
+          "rationale": "Warfarin is started while heparin is still running so the two overlap; holding it would delay effective long-term anticoagulation."
+        }
+      ],
+      "explanation": "Warfarin inhibits production of vitamin K-dependent clotting factors, so its effect is delayed and can be briefly procoagulant at first. Heparin or LMWH is overlapped with warfarin for at least 5 days and until the INR is therapeutic (2.0 or higher) for at least 24 hours. Neither drug dissolves existing clots."
+    },
+    {
+      "id": "dvt-pe-15",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a client who will take warfarin after discharge. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eat about the same amount of vitamin K-rich foods each week",
+          "correct": true,
+          "rationale": "Warfarin is dosed around the client's usual vitamin K intake; keeping intake consistent keeps the INR stable."
+        },
+        {
+          "id": "b",
+          "text": "Stop eating all green leafy vegetables",
+          "correct": false,
+          "rationale": "Eliminating these foods is unnecessary and makes the INR harder to control if they are later reintroduced. Consistency, not avoidance, is the goal."
+        },
+        {
+          "id": "c",
+          "text": "Check with your provider before taking any herbal supplements, such as ginkgo or garlic",
+          "correct": true,
+          "rationale": "Many supplements (ginkgo, garlic, ginseng, St. John's wort) change warfarin's effect or increase bleeding risk."
+        },
+        {
+          "id": "d",
+          "text": "Use aspirin or ibuprofen for headaches",
+          "correct": false,
+          "rationale": "Aspirin and NSAIDs impair platelet function and irritate the GI tract, increasing bleeding risk with warfarin. Acetaminophen is usually preferred."
+        },
+        {
+          "id": "e",
+          "text": "Limit alcohol intake",
+          "correct": true,
+          "rationale": "Alcohol alters warfarin metabolism and can raise the INR and the risk of bleeding."
+        },
+        {
+          "id": "f",
+          "text": "Keep all scheduled INR blood tests",
+          "correct": true,
+          "rationale": "Regular INR monitoring is required to keep the dose in the therapeutic range."
+        }
+      ],
+      "explanation": "Warfarin teaching includes consistent vitamin K intake, regular INR checks, avoiding aspirin, NSAIDs, and unapproved supplements, limiting alcohol, recognizing bleeding, and telling every provider and dentist about the medication. Many drug interactions occur, so new medications should be reviewed first."
+    },
+    {
+      "id": "dvt-pe-16",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with a DVT is discharged on apixaban. Which statement by the client indicates correct understanding of this medication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll need to get my INR checked every week.\"",
+          "correct": false,
+          "rationale": "Apixaban does not require routine INR or other coagulation monitoring; INR is used for warfarin."
+        },
+        {
+          "id": "b",
+          "text": "\"I won't need regular blood tests to check my INR, but I still need to watch for bleeding.\"",
+          "correct": true,
+          "rationale": "DOACs such as apixaban have predictable effects and do not need routine INR monitoring, but bleeding is still the main risk."
+        },
+        {
+          "id": "c",
+          "text": "\"I have to avoid green leafy vegetables while taking this drug.\"",
+          "correct": false,
+          "rationale": "Vitamin K intake does not affect DOACs; this restriction applies to warfarin consistency."
+        },
+        {
+          "id": "d",
+          "text": "\"If I miss a few doses, it's fine because the drug stays in my body for weeks.\"",
+          "correct": false,
+          "rationale": "DOACs have short half-lives, so missed doses quickly leave the client unprotected against clots."
+        }
+      ],
+      "explanation": "Direct oral anticoagulants (apixaban, rivaroxaban, dabigatran, edoxaban) do not need routine INR monitoring and have no dietary vitamin K restrictions. Their short half-life means adherence is critical. Reversal agents are andexanet alfa for factor Xa inhibitors and idarucizumab for dabigatran. Doses are adjusted for renal function."
+    },
+    {
+      "id": "dvt-pe-17",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing the presentation of pulmonary embolism. Which manifestations are expected? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden onset of dyspnea",
+          "correct": true,
+          "rationale": "Sudden, unexplained shortness of breath is the most common symptom of PE."
+        },
+        {
+          "id": "b",
+          "text": "Tachypnea",
+          "correct": true,
+          "rationale": "Rapid breathing is the most common sign as the body tries to correct hypoxemia."
+        },
+        {
+          "id": "c",
+          "text": "Sharp chest pain that worsens with deep breathing",
+          "correct": true,
+          "rationale": "Pleuritic chest pain occurs when the embolus causes inflammation or infarction near the pleura."
+        },
+        {
+          "id": "d",
+          "text": "Bradycardia",
+          "correct": false,
+          "rationale": "PE typically causes tachycardia as the heart compensates for hypoxemia and strain."
+        },
+        {
+          "id": "e",
+          "text": "Anxiety and a feeling of impending doom",
+          "correct": true,
+          "rationale": "Hypoxemia and the sudden onset cause marked anxiety and apprehension."
+        },
+        {
+          "id": "f",
+          "text": "Temperature of 40.2°C (104.4°F) with shaking chills",
+          "correct": false,
+          "rationale": "A low-grade fever may occur with PE, but a high fever with rigors suggests infection such as pneumonia."
+        }
+      ],
+      "explanation": "PE often presents suddenly with dyspnea, tachypnea, tachycardia, pleuritic chest pain, anxiety, cough, and sometimes hemoptysis, crackles, or low-grade fever. Large PEs can cause hypotension, JVD, and syncope from right ventricular failure. Symptoms are often vague, so the nurse must recognize risk factors and act quickly."
+    },
+    {
+      "id": "dvt-pe-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "On postoperative day 2 after hip arthroplasty, a client suddenly becomes restless and says, \"I can't catch my breath.\" Findings: HR 124/min, RR 32/min, SpO2 87% on room air, BP 112/70 mm Hg, lungs clear. The client has not received enoxaparin because of a missed order. Which condition is the nurse most concerned about?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulmonary embolism",
+          "correct": true,
+          "rationale": "Sudden dyspnea, tachycardia, tachypnea, hypoxemia, and anxiety with clear lungs in a postoperative orthopedic client who did not receive VTE prophylaxis strongly suggests PE."
+        },
+        {
+          "id": "b",
+          "text": "Postoperative atelectasis",
+          "correct": false,
+          "rationale": "Atelectasis develops more gradually, often with fever and diminished breath sounds at the bases, not this sudden severe hypoxemia."
+        },
+        {
+          "id": "c",
+          "text": "Anxiety reaction to pain",
+          "correct": false,
+          "rationale": "Anxiety does not explain an SpO2 of 87%. Treating it as anxiety could delay care for a life-threatening problem."
+        },
+        {
+          "id": "d",
+          "text": "Hospital-acquired pneumonia",
+          "correct": false,
+          "rationale": "Pneumonia usually develops over days with fever, productive cough, and crackles; this client's lungs are clear and the onset was sudden."
+        }
+      ],
+      "explanation": "PE should be suspected whenever a client at risk for VTE has sudden dyspnea, tachycardia, tachypnea, and hypoxemia that cannot otherwise be explained. Clear lung sounds with significant hypoxemia is a classic clue because the problem is perfusion, not ventilation. Missed prophylaxis after orthopedic surgery greatly increases the risk."
+    },
+    {
+      "id": "dvt-pe-19",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client on a medical unit develops sudden dyspnea, pleuritic chest pain, HR 128/min, and SpO2 86%. The nurse suspects a pulmonary embolism. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Raise the head of the bed to high-Fowler's position"
+        },
+        {
+          "id": "b",
+          "text": "Apply supplemental oxygen and titrate to the prescribed SpO2 target"
+        },
+        {
+          "id": "c",
+          "text": "Call the rapid response team and report the findings to the provider"
+        },
+        {
+          "id": "d",
+          "text": "Obtain baseline aPTT, PT/INR, and CBC as prescribed"
+        },
+        {
+          "id": "e",
+          "text": "Start the heparin infusion as prescribed"
+        }
+      ],
+      "explanation": "High-Fowler's position is the quickest action to ease the work of breathing, followed immediately by oxygen to treat hypoxemia. The nurse then gets help and reports the change. Baseline coagulation studies and a CBC are drawn before anticoagulation so later results can be compared, and then the prescribed heparin is started. Diagnostic imaging such as CT pulmonary angiography follows when the client is stable."
+    },
+    {
+      "id": "dvt-pe-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with suspected PE is scheduled for a CT pulmonary angiography (CTPA). Which finding should the nurse report to the provider before the test?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SpO2 93% on 2 L/min nasal cannula",
+          "correct": false,
+          "rationale": "Mild hypoxemia that improves with oxygen is expected with PE and does not affect whether the test can be done."
+        },
+        {
+          "id": "b",
+          "text": "Serum creatinine 2.6 mg/dL",
+          "correct": true,
+          "rationale": "CTPA uses IV iodinated contrast, which can worsen kidney injury. An elevated creatinine must be reported; the provider may choose a V/Q scan or add kidney-protective measures."
+        },
+        {
+          "id": "c",
+          "text": "Heart rate 108/min",
+          "correct": false,
+          "rationale": "Tachycardia is a common finding with PE and is not a reason to delay imaging."
+        },
+        {
+          "id": "d",
+          "text": "Potassium 4.2 mEq/L",
+          "correct": false,
+          "rationale": "This potassium is normal and has no bearing on contrast safety."
+        }
+      ],
+      "explanation": "CT pulmonary angiography is the most common test used to diagnose PE. It requires IV contrast, so the nurse checks renal function and contrast allergy beforehand. A V/Q scan is an alternative when contrast is contraindicated."
+    },
+    {
+      "id": "dvt-pe-21",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "On postoperative day 1 after a colectomy, a client has an elevated D-dimer result. The client asks whether this means a blood clot is present. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Yes, an elevated D-dimer confirms that you have a blood clot.\"",
+          "correct": false,
+          "rationale": "D-dimer is sensitive but not specific; it cannot confirm a clot by itself."
+        },
+        {
+          "id": "b",
+          "text": "\"No, D-dimer is only used to monitor heparin therapy.\"",
+          "correct": false,
+          "rationale": "D-dimer is a marker of clot breakdown, not a test for monitoring heparin; aPTT or anti-Xa is used for that."
+        },
+        {
+          "id": "c",
+          "text": "\"D-dimer rises after surgery for many reasons, so imaging is needed to find out if there is a clot.\"",
+          "correct": true,
+          "rationale": "D-dimer is a fibrin breakdown product that rises after surgery, trauma, infection, cancer, and pregnancy. A positive result is nonspecific, so imaging is required. A normal D-dimer is most useful for ruling out VTE when the probability is low."
+        },
+        {
+          "id": "d",
+          "text": "\"An elevated D-dimer means the clot is already dissolving, so no treatment is needed.\"",
+          "correct": false,
+          "rationale": "An elevated D-dimer does not mean a clot is safely resolving, and it does not rule out the need for treatment."
+        }
+      ],
+      "explanation": "D-dimer is highly sensitive but not specific for VTE. A normal D-dimer with low clinical probability makes DVT or PE unlikely. An elevated level, which is common after surgery, requires imaging (duplex ultrasound or CTPA) to confirm or exclude a clot."
+    },
+    {
+      "id": "dvt-pe-22",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nursing student asks how a pulmonary embolism affects gas exchange. Which explanation by the nurse is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alveoli continue to be ventilated, but blood flow to them is blocked, creating dead space",
+          "correct": true,
+          "rationale": "An embolus blocks blood flow to ventilated alveoli, so V/Q is high and the area becomes dead space where no gas exchange occurs. Blood is diverted to other areas, worsening V/Q mismatch and causing hypoxemia."
+        },
+        {
+          "id": "b",
+          "text": "Alveoli collapse and are no longer ventilated, creating a shunt",
+          "correct": false,
+          "rationale": "Ventilation without blood flow is the problem in PE; a shunt (perfusion without ventilation) is the main problem in atelectasis or pneumothorax."
+        },
+        {
+          "id": "c",
+          "text": "The embolus thickens the alveolar membrane, slowing diffusion",
+          "correct": false,
+          "rationale": "The clot is in the pulmonary artery, not in the alveolar-capillary membrane."
+        },
+        {
+          "id": "d",
+          "text": "The embolus depresses the respiratory center, reducing ventilation",
+          "correct": false,
+          "rationale": "PE causes rapid breathing, not central hypoventilation; early ABGs often show a low PaCO2."
+        }
+      ],
+      "explanation": "Normal V/Q is about 0.8. PE creates high V/Q (dead space): air reaches the alveoli but no blood flows past them. The remaining lung is overperfused, worsening V/Q mismatch and causing hypoxemia. Hyperventilation usually causes early respiratory alkalosis."
+    },
+    {
+      "id": "dvt-pe-23",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with sudden dyspnea and pleuritic chest pain has these arterial blood gas results on room air: pH 7.49, PaCO2 30 mm Hg, HCO3- 24 mEq/L, PaO2 61 mm Hg. How should the nurse interpret these results?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Metabolic alkalosis with normal oxygenation",
+          "correct": false,
+          "rationale": "The HCO3- is normal and the PaO2 is low, so this is not metabolic alkalosis with normal oxygenation."
+        },
+        {
+          "id": "b",
+          "text": "Respiratory acidosis with hypoxemia",
+          "correct": false,
+          "rationale": "The pH is above 7.45 and the PaCO2 is low, which is alkalosis, not acidosis."
+        },
+        {
+          "id": "c",
+          "text": "Respiratory alkalosis with hypoxemia, consistent with early PE",
+          "correct": true,
+          "rationale": "A high pH with a low PaCO2 and normal HCO3- is uncompensated respiratory alkalosis from hyperventilation. A PaO2 of 61 mm Hg shows hypoxemia. This pattern is typical of early PE."
+        },
+        {
+          "id": "d",
+          "text": "Metabolic acidosis with respiratory compensation",
+          "correct": false,
+          "rationale": "Metabolic acidosis would have a low pH and low HCO3-; this client's pH is high and HCO3- is normal."
+        }
+      ],
+      "explanation": "Early PE commonly causes hypoxemia and respiratory alkalosis because the client hyperventilates. A rising PaCO2 later can signal fatigue or a massive PE and impending respiratory failure. ABGs support the diagnosis but do not confirm PE; imaging is still required."
+    },
+    {
+      "id": "dvt-pe-24",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with a massive pulmonary embolism and hypotension is receiving alteplase. Which bleeding precautions should the nurse implement? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid intramuscular injections",
+          "correct": true,
+          "rationale": "IM injections can cause large hematomas during thrombolytic therapy."
+        },
+        {
+          "id": "b",
+          "text": "Minimize venipunctures and use existing IV access for blood draws when possible",
+          "correct": true,
+          "rationale": "Every new puncture is a potential bleeding site; limiting them reduces bleeding."
+        },
+        {
+          "id": "c",
+          "text": "Check neurologic status frequently and report any change immediately",
+          "correct": true,
+          "rationale": "Intracranial hemorrhage is the most serious complication of thrombolytics; a sudden headache or change in level of consciousness must be reported right away."
+        },
+        {
+          "id": "d",
+          "text": "Insert a nasogastric tube to check for GI bleeding",
+          "correct": false,
+          "rationale": "Invasive procedures such as NG tube insertion can cause bleeding and should be avoided during thrombolytic therapy unless essential."
+        },
+        {
+          "id": "e",
+          "text": "Apply prolonged pressure to any puncture sites",
+          "correct": true,
+          "rationale": "Pressure for longer than usual is needed because clotting is impaired."
+        },
+        {
+          "id": "f",
+          "text": "Administer aspirin for the client's chest pain",
+          "correct": false,
+          "rationale": "Aspirin adds antiplatelet effects and increases bleeding risk during thrombolytic therapy."
+        }
+      ],
+      "explanation": "Thrombolytics such as alteplase dissolve clots and are generally reserved for massive (hemodynamically unstable) PE. Bleeding is the major risk, especially intracranial hemorrhage. The nurse limits invasive procedures, avoids IM injections and antiplatelet drugs, holds pressure longer on puncture sites, and monitors neurologic status, vital signs, and all sites for bleeding."
+    },
+    {
+      "id": "dvt-pe-25",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The provider is considering alteplase for a client with a massive pulmonary embolism. Which finding in the client's history is an absolute contraindication that the nurse should report?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Age 72 years",
+          "correct": false,
+          "rationale": "Older age increases bleeding risk somewhat but is not an absolute contraindication to thrombolytics."
+        },
+        {
+          "id": "b",
+          "text": "Hemorrhagic stroke 2 years ago",
+          "correct": true,
+          "rationale": "Any prior intracranial hemorrhage is an absolute contraindication to thrombolytic therapy because of the high risk of another brain bleed."
+        },
+        {
+          "id": "c",
+          "text": "Appendectomy 3 years ago",
+          "correct": false,
+          "rationale": "A remote surgery that has healed does not affect eligibility; recent major surgery (within about 3 weeks) is a relative contraindication."
+        },
+        {
+          "id": "d",
+          "text": "Hypertension controlled with lisinopril, current BP 132/78 mm Hg",
+          "correct": false,
+          "rationale": "Controlled hypertension is not a contraindication; uncontrolled, severe hypertension (about 180/110 mm Hg or higher) is."
+        }
+      ],
+      "explanation": "Absolute contraindications to thrombolytics include any prior intracranial hemorrhage, ischemic stroke within 3 months, known intracranial tumor or vascular malformation, active internal bleeding, recent brain or spinal surgery or head trauma, and suspected aortic dissection. Relative contraindications include recent major surgery, uncontrolled hypertension, and current anticoagulation. The nurse screens and reports these before the drug is given."
+    },
+    {
+      "id": "dvt-pe-26",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "Forty minutes into an alteplase infusion for a massive PE, the client suddenly reports a severe headache. BP has risen to 192/104 mm Hg, and the client is newly confused. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Slow the infusion rate and recheck the neurologic status in 30 minutes",
+          "correct": false,
+          "rationale": "Slowing the infusion still delivers the drug; a suspected brain bleed requires stopping it immediately."
+        },
+        {
+          "id": "b",
+          "text": "Administer acetaminophen for the headache",
+          "correct": false,
+          "rationale": "Treating the headache as minor ignores signs of intracranial hemorrhage and delays emergency care."
+        },
+        {
+          "id": "c",
+          "text": "Stop the alteplase infusion and notify the provider immediately",
+          "correct": true,
+          "rationale": "A sudden severe headache, rising BP, and new confusion suggest intracranial hemorrhage. The infusion is stopped right away and the provider notified; an emergency head CT is expected."
+        },
+        {
+          "id": "d",
+          "text": "Continue the infusion because the clot must be dissolved",
+          "correct": false,
+          "rationale": "The risk of a fatal intracranial bleed outweighs the benefit of continuing the drug."
+        }
+      ],
+      "explanation": "During thrombolytic therapy, any acute neurologic change, such as a severe headache, confusion, or decreased level of consciousness, or a sudden rise in BP, suggests intracranial hemorrhage. The nurse stops the infusion immediately, notifies the provider, and prepares for a stat CT scan. Frequent neuro checks are essential throughout the infusion and afterward."
+    },
+    {
+      "id": "dvt-pe-27",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client diagnosed with a DVT and a small PE had a major GI bleed last week. Which treatment should the nurse anticipate to prevent another embolism?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thrombolytic therapy with alteplase",
+          "correct": false,
+          "rationale": "Recent major bleeding contraindicates thrombolytics, and a small, stable PE is not an indication for them."
+        },
+        {
+          "id": "b",
+          "text": "A full-dose heparin infusion",
+          "correct": false,
+          "rationale": "Full anticoagulation is unsafe so soon after a major GI hemorrhage."
+        },
+        {
+          "id": "c",
+          "text": "Sequential compression device on the leg with the clot",
+          "correct": false,
+          "rationale": "Compressing a leg with a known DVT may dislodge the clot; SCDs do not treat existing clots."
+        },
+        {
+          "id": "d",
+          "text": "Insertion of an inferior vena cava (IVC) filter",
+          "correct": true,
+          "rationale": "An IVC filter traps clots traveling from the legs before they reach the lungs. It is used when anticoagulation is contraindicated or when PE recurs despite adequate anticoagulation."
+        }
+      ],
+      "explanation": "Anticoagulation is the main treatment for DVT and PE. When it is contraindicated (active or recent major bleeding) or fails, an IVC filter may be placed to catch emboli. Filters do not treat the existing clot, and anticoagulation is usually started once the bleeding risk resolves."
+    },
+    {
+      "id": "dvt-pe-28",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating a client's understanding of discharge teaching after treatment for a DVT. Which statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"On long flights, I'll walk in the aisle and flex my ankles every 1 to 2 hours.\"",
+          "correct": true,
+          "rationale": "Moving and doing calf exercises during long travel reduces venous stasis and the risk of a new clot."
+        },
+        {
+          "id": "b",
+          "text": "\"If my calf aches, I'll massage it to loosen the muscle.\"",
+          "correct": false,
+          "rationale": "Massaging a leg that may contain a clot can dislodge it and cause a PE. The client needs more teaching."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll use an electric razor and a soft toothbrush.\"",
+          "correct": true,
+          "rationale": "These reduce the risk of cuts and gum bleeding while the client is on an anticoagulant."
+        },
+        {
+          "id": "d",
+          "text": "\"I'll avoid crossing my legs when I sit.\"",
+          "correct": true,
+          "rationale": "Crossing the legs compresses veins and slows venous return."
+        },
+        {
+          "id": "e",
+          "text": "\"I'll cut back on fluids when I travel so I don't have to use the restroom as often.\"",
+          "correct": false,
+          "rationale": "Dehydration increases blood viscosity and VTE risk; the client should stay well hydrated. More teaching is needed."
+        }
+      ],
+      "explanation": "DVT discharge teaching covers taking anticoagulants exactly as prescribed, bleeding precautions, avoiding leg massage, staying hydrated, avoiding crossed legs and tight clothing, and moving during long travel. Clients should seek emergency care for sudden dyspnea or chest pain, which could mean PE."
+    },
+    {
+      "id": "dvt-pe-29",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is going home on warfarin. Which findings should the nurse teach the client to report to the provider promptly? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Black, tarry stools",
+          "correct": true,
+          "rationale": "Melena indicates upper GI bleeding and needs prompt evaluation."
+        },
+        {
+          "id": "b",
+          "text": "Pink, red, or brown urine",
+          "correct": true,
+          "rationale": "Discolored urine may indicate bleeding in the urinary tract."
+        },
+        {
+          "id": "c",
+          "text": "Gums that bleed when brushing teeth",
+          "correct": true,
+          "rationale": "Gum bleeding can be an early sign that anticoagulation is excessive."
+        },
+        {
+          "id": "d",
+          "text": "Large bruises that appear without a known injury",
+          "correct": true,
+          "rationale": "Unexplained bruising suggests the INR may be too high."
+        },
+        {
+          "id": "e",
+          "text": "Mild, occasional constipation",
+          "correct": false,
+          "rationale": "Constipation is not a sign of bleeding or excessive anticoagulation."
+        }
+      ],
+      "explanation": "Clients on anticoagulants should report signs of bleeding: black or bloody stools, pink, red, or brown urine, bleeding gums, nosebleeds, unusual bruising, heavy menstrual bleeding, or vomit that looks like coffee grounds. A sudden severe headache or a fall with head injury needs emergency care. These signs may mean the INR is above range."
+    },
+    {
+      "id": "dvt-pe-30",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse receives a shift report on four clients. Which client should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A client on a heparin infusion whose aPTT is 64 seconds (therapeutic range 46-70 seconds)",
+          "correct": false,
+          "rationale": "This aPTT is therapeutic and requires routine monitoring only."
+        },
+        {
+          "id": "b",
+          "text": "A client with a known left-leg DVT who reports calf pain of 4/10",
+          "correct": false,
+          "rationale": "Calf pain is an expected symptom of a known DVT that is being treated; it is not a new or unstable finding."
+        },
+        {
+          "id": "c",
+          "text": "A client on warfarin with an INR of 2.7 who has questions about diet",
+          "correct": false,
+          "rationale": "This INR is therapeutic, and diet teaching can wait until unstable clients are assessed."
+        },
+        {
+          "id": "d",
+          "text": "A client on postoperative day 1 who has new sudden chest pain, HR 118/min, and SpO2 89%",
+          "correct": true,
+          "rationale": "New sudden chest pain with tachycardia and hypoxemia after surgery suggests a possible PE, which is life-threatening and needs immediate assessment."
+        }
+      ],
+      "explanation": "When prioritizing, the nurse looks for new, unexpected changes that threaten airway, breathing, or circulation. A postoperative client with sudden chest pain, tachycardia, and hypoxemia may have a PE and is the most unstable. Therapeutic lab values and expected symptoms of a known, treated condition are lower priority."
+    }
+  ]
+}

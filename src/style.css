@@ -1,0 +1,139 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --color-maroon-50: #fdf2f3;
+  --color-maroon-100: #fbe5e7;
+  --color-maroon-200: #f5c6cb;
+  --color-maroon-300: #ec9aa2;
+  --color-maroon-400: #df6170;
+  --color-maroon-500: #c93246;
+  --color-maroon-600: #a61c31;
+  --color-maroon-700: #861425;
+  --color-maroon-800: #5e0009;
+  --color-maroon-900: #44000a;
+  --color-maroon-950: #2a0006;
+
+  --animate-rise: rise 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  --animate-pop: pop 0.35s cubic-bezier(0.3, 1.6, 0.5, 1) both;
+  --animate-shake: shake 0.4s ease both;
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes pop {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes shake {
+    0%, 100% { transform: none; }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+  }
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-stone-50 text-stone-900 antialiased dark:bg-[#0d0a0b] dark:text-stone-100;
+    font-feature-settings: 'ss01', 'cv11';
+  }
+  ::selection {
+    @apply bg-maroon-200 text-maroon-900;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@utility card {
+  @apply rounded-3xl border border-stone-200/80 bg-white/80 shadow-[0_1px_2px_rgb(0_0_0/0.04),0_8px_24px_-12px_rgb(0_0_0/0.08)] backdrop-blur-xl dark:border-white/[0.07] dark:bg-white/[0.035] dark:shadow-none;
+}
+
+@utility card-hover {
+  @apply transition duration-300 hover:-translate-y-0.5 hover:border-maroon-300/70 hover:shadow-[0_18px_40px_-18px_rgb(94_0_9/0.35)] dark:hover:border-maroon-400/30;
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-sm font-semibold transition duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-maroon-500 focus-visible:ring-offset-2 active:scale-[0.98] disabled:opacity-40 dark:focus-visible:ring-offset-[#0d0a0b];
+}
+
+@utility btn-primary {
+  @apply btn bg-gradient-to-br from-maroon-600 to-maroon-800 text-white shadow-lg shadow-maroon-900/25 hover:from-maroon-500 hover:to-maroon-700 hover:shadow-maroon-900/40;
+}
+
+@utility btn-ghost {
+  @apply btn border border-stone-200 bg-white/70 text-stone-700 hover:border-stone-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-stone-200 dark:hover:bg-white/10;
+}
+
+@utility chip {
+  @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[11px] font-semibold tracking-wide uppercase;
+}
+
+@utility eyebrow {
+  @apply text-xs font-bold tracking-[0.18em] text-maroon-600 uppercase dark:text-maroon-300;
+}
+
+@utility kbd {
+  @apply rounded-md border border-stone-300 bg-stone-100 px-1.5 py-0.5 font-mono text-[10px] text-stone-500 dark:border-white/15 dark:bg-white/5 dark:text-stone-400;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(to right, rgb(120 113 108 / 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(120 113 108 / 0.08) 1px, transparent 1px);
+  background-size: 32px 32px;
+  mask-image: radial-gradient(ellipse at top, black 30%, transparent 75%);
+}
+
+.ecg-draw {
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: var(--len);
+  animation: ecg-draw 2.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+@keyframes ecg-draw {
+  to { stroke-dashoffset: 0; }
+}
+
+.hero-trace {
+  stroke-dasharray: 1400;
+  stroke-dashoffset: 1400;
+  animation: trace 4.5s linear infinite;
+}
+@keyframes trace {
+  0% { stroke-dashoffset: 1400; opacity: 1; }
+  70% { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0; }
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.fade-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.fade-leave-to {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

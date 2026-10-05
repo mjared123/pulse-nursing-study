@@ -1,0 +1,794 @@
+{
+  "slug": "mitral-regurgitation",
+  "title": "Mitral Valve Regurgitation",
+  "short": "Mitral Regurgitation",
+  "icon": "regurg",
+  "description": "Acute and chronic mitral regurgitation, papillary muscle rupture after MI, mitral valve prolapse, heart failure signs, afterload reduction, repair options, and client teaching.",
+  "keyPoints": [
+    "MR murmur: blowing holosystolic (pansystolic) murmur at the apex radiating to the left axilla; an S3 may be present.",
+    "Acute MR (papillary muscle or chordae rupture after MI, endocarditis) causes sudden pulmonary edema and cardiogenic shock; it is a surgical emergency.",
+    "Papillary muscle rupture typically occurs within the first week after MI, most often with inferior MI.",
+    "Chronic MR develops slowly: LA and LV dilate, causing fatigue, exertional dyspnea, palpitations, and AFib.",
+    "Afterload reduction (nitroprusside, IABP acutely; ACE inhibitors/ARBs in HF) increases forward flow and decreases the regurgitant volume.",
+    "Mitral valve repair is preferred over replacement when feasible; transcatheter edge-to-edge repair (MitraClip) is an option for high-risk clients.",
+    "Mitral valve prolapse: midsystolic click with or without late systolic murmur; often benign. Teach limiting caffeine and stimulants and reporting syncope or worsening palpitations."
+  ],
+  "questions": [
+    {
+      "id": "mitral-regurgitation-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which murmur does the nurse expect when auscultating the heart of a client with mitral regurgitation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A low-pitched diastolic rumble at the apex",
+          "correct": false,
+          "rationale": "This is the murmur of mitral stenosis."
+        },
+        {
+          "id": "b",
+          "text": "A crescendo-decrescendo systolic murmur at the right 2nd intercostal space",
+          "correct": false,
+          "rationale": "This is the murmur of aortic stenosis, which radiates to the carotids."
+        },
+        {
+          "id": "c",
+          "text": "A high-pitched, blowing holosystolic murmur at the apex radiating to the left axilla",
+          "correct": true,
+          "rationale": "Correct. Blood leaks from the LV back into the LA throughout systole, producing a holosystolic murmur heard best at the apex and radiating toward the axilla."
+        },
+        {
+          "id": "d",
+          "text": "A harsh holosystolic murmur at the left lower sternal border with a palpable thrill",
+          "correct": false,
+          "rationale": "This is typical of a ventricular septal defect."
+        }
+      ],
+      "explanation": "The MR murmur occupies all of systole because the LV pushes blood back into the LA from the moment the mitral valve should close until the end of ejection. Location (apex) and radiation (axilla) distinguish it from a VSD."
+    },
+    {
+      "id": "mitral-regurgitation-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with chronic mitral regurgitation asks what is wrong with the heart valve. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'The valve does not close completely, so some blood flows backward into the upper left chamber each time the heart pumps.'",
+          "correct": true,
+          "rationale": "Correct. An incompetent mitral valve lets blood flow from the LV back into the LA during systole, causing volume overload of both the LA and LV."
+        },
+        {
+          "id": "b",
+          "text": "'The valve opening is too narrow, so blood cannot easily fill the lower chamber.'",
+          "correct": false,
+          "rationale": "This describes mitral stenosis."
+        },
+        {
+          "id": "c",
+          "text": "'There is a hole between the two lower chambers of your heart.'",
+          "correct": false,
+          "rationale": "This describes a ventricular septal defect."
+        },
+        {
+          "id": "d",
+          "text": "'The valve that lets blood out to your body is stiff and narrowed.'",
+          "correct": false,
+          "rationale": "This describes aortic stenosis."
+        }
+      ],
+      "explanation": "Regurgitation = leaky valve. In chronic MR, the LA and LV gradually dilate to handle the extra volume, so clients may stay asymptomatic for years before fatigue, dyspnea, AFib, and heart failure develop."
+    },
+    {
+      "id": "mitral-regurgitation-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client is 3 days post inferior wall MI. The client suddenly develops severe dyspnea and pink, frothy sputum. BP is 78/50 mm Hg, HR 124/min, and a new loud holosystolic murmur is heard at the apex radiating to the axilla. Which complication does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pericarditis",
+          "correct": false,
+          "rationale": "Post-MI pericarditis causes pleuritic chest pain relieved by leaning forward and a pericardial friction rub, not sudden pulmonary edema with a holosystolic apical murmur."
+        },
+        {
+          "id": "b",
+          "text": "Right ventricular infarction",
+          "correct": false,
+          "rationale": "RV infarction causes hypotension with JVD and clear lungs, not pulmonary edema with a new apical murmur."
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary embolism",
+          "correct": false,
+          "rationale": "PE causes sudden dyspnea and tachycardia but does not produce a new holosystolic murmur at the apex."
+        },
+        {
+          "id": "d",
+          "text": "Papillary muscle rupture causing acute mitral regurgitation",
+          "correct": true,
+          "rationale": "Correct. Papillary muscle rupture, most often after inferior MI and typically within the first week, makes the mitral valve suddenly incompetent. The unprepared LA cannot accommodate the volume, causing acute pulmonary edema and cardiogenic shock."
+        }
+      ],
+      "explanation": "Acute MR is poorly tolerated because the left atrium has not had time to dilate. Pressure is transmitted directly to the lungs, producing flash pulmonary edema, while forward output drops, causing shock. A new murmur plus sudden decompensation after MI requires emergency action."
+    },
+    {
+      "id": "mitral-regurgitation-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with suspected acute mitral regurgitation from papillary muscle rupture is in respiratory distress with SpO2 84%. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obtain a 12-lead ECG",
+          "correct": false,
+          "rationale": "An ECG is useful but does not address life-threatening hypoxemia first."
+        },
+        {
+          "id": "b",
+          "text": "Prepare the client for transthoracic echocardiography",
+          "correct": false,
+          "rationale": "Echo confirms the diagnosis but should follow immediate stabilization of breathing."
+        },
+        {
+          "id": "c",
+          "text": "Place the client in high Fowler's position and apply high-flow oxygen",
+          "correct": true,
+          "rationale": "Correct. Breathing is the priority. Sitting upright reduces venous return and work of breathing, and oxygen treats hypoxemia while the rapid response team and provider are called."
+        },
+        {
+          "id": "d",
+          "text": "Administer the scheduled oral metoprolol",
+          "correct": false,
+          "rationale": "A beta-blocker could worsen hypotension and cardiogenic shock in acute MR."
+        }
+      ],
+      "explanation": "Use ABCs: an acute MR client with pulmonary edema needs immediate positioning and oxygen, possibly noninvasive ventilation or intubation, then rapid stabilization (afterload reduction, IABP) and emergency surgical repair."
+    },
+    {
+      "id": "mitral-regurgitation-05",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is assessing a client with acute mitral regurgitation from chordae tendineae rupture. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bilateral crackles throughout the lung fields",
+          "correct": true,
+          "rationale": "Correct. Sudden regurgitant volume raises LA and pulmonary venous pressure, causing pulmonary edema."
+        },
+        {
+          "id": "b",
+          "text": "Hypotension",
+          "correct": true,
+          "rationale": "Correct. Forward stroke volume falls because much of each beat goes backward into the LA."
+        },
+        {
+          "id": "c",
+          "text": "Tachycardia",
+          "correct": true,
+          "rationale": "Correct. Heart rate rises as a compensatory response to low cardiac output."
+        },
+        {
+          "id": "d",
+          "text": "New holosystolic murmur at the apex",
+          "correct": true,
+          "rationale": "Correct. Regurgitant flow during systole produces the characteristic murmur, though it may be softer or shorter in severe acute MR."
+        },
+        {
+          "id": "e",
+          "text": "Bradycardia with warm, flushed skin",
+          "correct": false,
+          "rationale": "Low-output states cause compensatory tachycardia and vasoconstriction with cool, clammy skin."
+        },
+        {
+          "id": "f",
+          "text": "Low-pitched diastolic rumble at the apex",
+          "correct": false,
+          "rationale": "A diastolic rumble indicates mitral stenosis, not regurgitation."
+        }
+      ],
+      "explanation": "Acute MR presents as sudden left-sided heart failure and shock: pulmonary edema, hypotension, tachycardia, and cool, clammy skin, with a new systolic murmur. Causes include papillary muscle rupture after MI, chordae rupture, and infective endocarditis."
+    },
+    {
+      "id": "mitral-regurgitation-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with acute mitral regurgitation is started on IV nitroprusside. The client's spouse asks why a medication that lowers blood pressure is being used. Which explanation by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'It strengthens each heartbeat so the valve closes more tightly.'",
+          "correct": false,
+          "rationale": "Nitroprusside is a vasodilator, not an inotrope, and it cannot repair a structurally incompetent valve."
+        },
+        {
+          "id": "b",
+          "text": "'It relaxes the blood vessels so the heart can pump blood forward more easily, which decreases the amount that leaks backward.'",
+          "correct": true,
+          "rationale": "Correct. Reducing afterload (systemic vascular resistance) lowers resistance to forward ejection into the aorta, so more blood goes forward and less regurgitates into the LA, reducing pulmonary congestion."
+        },
+        {
+          "id": "c",
+          "text": "'It slows the heart rate so the valve has more time to close.'",
+          "correct": false,
+          "rationale": "Nitroprusside does not slow the heart rate; it may cause reflex tachycardia."
+        },
+        {
+          "id": "d",
+          "text": "'It dissolves the clot that caused the valve to leak.'",
+          "correct": false,
+          "rationale": "Nitroprusside is not a thrombolytic, and a clot did not cause the leak."
+        }
+      ],
+      "explanation": "Afterload reduction is a key strategy in MR: blood follows the path of least resistance. Lowering SVR with nitroprusside (acute) or ACE inhibitors/ARBs (chronic HF) increases forward output and decreases regurgitant flow, provided blood pressure can tolerate it."
+    },
+    {
+      "id": "mitral-regurgitation-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is caring for a client with acute mitral regurgitation receiving a nitroprusside infusion. Which nursing action is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continuously monitor blood pressure, usually with an arterial line",
+          "correct": true,
+          "rationale": "Correct. Nitroprusside is a potent, rapid-acting vasodilator that can cause sudden severe hypotension, so continuous BP monitoring and careful titration are essential."
+        },
+        {
+          "id": "b",
+          "text": "Check the client's blood glucose every 2 hours",
+          "correct": false,
+          "rationale": "Nitroprusside does not significantly affect blood glucose."
+        },
+        {
+          "id": "c",
+          "text": "Expose the infusion bag to light so the solution can be inspected",
+          "correct": false,
+          "rationale": "Nitroprusside degrades in light; the bag should be covered with an opaque wrapper."
+        },
+        {
+          "id": "d",
+          "text": "Administer the infusion by gravity without a pump",
+          "correct": false,
+          "rationale": "Nitroprusside must be given by an infusion pump for precise titration."
+        }
+      ],
+      "explanation": "Nitroprusside nursing care: infusion pump, continuous arterial BP monitoring, protect from light, and monitor for cyanide or thiocyanate toxicity with prolonged or high-dose use or renal impairment (metabolic acidosis, confusion)."
+    },
+    {
+      "id": "mitral-regurgitation-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with acute mitral regurgitation and cardiogenic shock has an intra-aortic balloon pump (IABP) placed while awaiting surgery. Which statement best explains how the IABP helps this client?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The balloon inflates during systole to push blood out of the left ventricle.",
+          "correct": false,
+          "rationale": "Inflating during systole would block ejection; the balloon is timed to deflate before systole."
+        },
+        {
+          "id": "b",
+          "text": "The balloon seals the leaking mitral valve.",
+          "correct": false,
+          "rationale": "The IABP sits in the descending thoracic aorta and does not touch the mitral valve."
+        },
+        {
+          "id": "c",
+          "text": "The balloon inflates during diastole to improve coronary perfusion and deflates just before systole to reduce afterload.",
+          "correct": true,
+          "rationale": "Correct. Diastolic inflation increases coronary perfusion, and deflation just before systole lowers aortic pressure, decreasing afterload so more blood is ejected forward and less regurgitates."
+        },
+        {
+          "id": "d",
+          "text": "The balloon removes excess fluid from the circulation.",
+          "correct": false,
+          "rationale": "The IABP does not remove fluid; diuretics or ultrafiltration do that."
+        }
+      ],
+      "explanation": "The IABP is temporary mechanical support that stabilizes clients with acute MR, post-MI VSD, or cardiogenic shock until definitive surgery. Nurses monitor timing, distal limb perfusion, left radial pulse (balloon migration), and bleeding."
+    },
+    {
+      "id": "mitral-regurgitation-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client with chronic mitral regurgitation and heart failure about symptoms to report to the provider. Which symptoms should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight gain of more than 2-3 lb (1 kg) in a day or 5 lb (2 kg) in a week",
+          "correct": true,
+          "rationale": "Correct. Rapid weight gain reflects fluid retention and often precedes worsening heart failure."
+        },
+        {
+          "id": "b",
+          "text": "Needing more pillows to breathe comfortably at night",
+          "correct": true,
+          "rationale": "Correct. Increasing orthopnea indicates worsening pulmonary congestion."
+        },
+        {
+          "id": "c",
+          "text": "New swelling in the ankles or feet",
+          "correct": true,
+          "rationale": "Correct. Peripheral edema indicates fluid overload and worsening heart failure."
+        },
+        {
+          "id": "d",
+          "text": "A new irregular, fluttering heartbeat",
+          "correct": true,
+          "rationale": "Correct. Atrial fibrillation is common with LA enlargement from MR and needs evaluation for rate control and anticoagulation."
+        },
+        {
+          "id": "e",
+          "text": "Urinating more often after taking furosemide",
+          "correct": false,
+          "rationale": "Increased urination is the expected effect of a loop diuretic."
+        },
+        {
+          "id": "f",
+          "text": "Mild tiredness after a full day of activity that resolves with rest",
+          "correct": false,
+          "rationale": "Tiredness after a long day that resolves with rest is expected and is not a sign of decompensation."
+        }
+      ],
+      "explanation": "HF self-monitoring teaching includes daily weights, recognizing worsening dyspnea, orthopnea, edema, and palpitations, and calling the provider early so treatment can be adjusted before hospitalization is needed."
+    },
+    {
+      "id": "mitral-regurgitation-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with chronic mitral regurgitation has a new irregularly irregular pulse of 112/min, and the ECG shows atrial fibrillation. In addition to rate control, which prescription does the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An anticoagulant to reduce the risk of stroke",
+          "correct": true,
+          "rationale": "Correct. AFib with an enlarged left atrium causes blood stasis and thrombus formation. Anticoagulation is indicated to prevent cardioembolic stroke."
+        },
+        {
+          "id": "b",
+          "text": "Adenosine 6 mg rapid IV push",
+          "correct": false,
+          "rationale": "Adenosine is used for SVT; it does not convert AFib and is not a treatment for it."
+        },
+        {
+          "id": "c",
+          "text": "Immediate unsynchronized defibrillation",
+          "correct": false,
+          "rationale": "Defibrillation is for pulseless VT or VF; this client has a pulse."
+        },
+        {
+          "id": "d",
+          "text": "Atropine 1 mg IV",
+          "correct": false,
+          "rationale": "Atropine treats symptomatic bradycardia; this client's heart rate is already fast."
+        }
+      ],
+      "explanation": "AFib is a common complication of chronic MR because of LA dilation. Management includes rate or rhythm control and anticoagulation based on stroke risk to prevent LA thrombus and emboli."
+    },
+    {
+      "id": "mitral-regurgitation-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with severe chronic mitral regurgitation asks why the surgeon prefers to repair the valve rather than replace it. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Repair is done without anesthesia.'",
+          "correct": false,
+          "rationale": "Surgical mitral repair requires general anesthesia and usually cardiopulmonary bypass."
+        },
+        {
+          "id": "b",
+          "text": "'Repair keeps your own valve and its supporting structures, which helps preserve heart function, and usually avoids lifelong warfarin.'",
+          "correct": true,
+          "rationale": "Correct. Mitral valve repair preserves the leaflets, chordae, and papillary muscles that support LV function, has lower operative risk, and avoids the lifelong anticoagulation needed with mechanical valves."
+        },
+        {
+          "id": "c",
+          "text": "'A repaired valve never needs to be checked again.'",
+          "correct": false,
+          "rationale": "Clients need ongoing follow-up with echocardiography because repairs can fail over time."
+        },
+        {
+          "id": "d",
+          "text": "'Repair eliminates your risk for atrial fibrillation.'",
+          "correct": false,
+          "rationale": "Clients with MR may still have or develop AFib after repair, especially if the left atrium is enlarged."
+        }
+      ],
+      "explanation": "When feasible, mitral valve repair (for example, annuloplasty ring or leaflet repair) is preferred over replacement because it preserves LV geometry and function, has better long-term outcomes, and avoids anticoagulation-related risks."
+    },
+    {
+      "id": "mitral-regurgitation-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client returns to the unit after a transcatheter edge-to-edge mitral valve repair (MitraClip) performed through the right femoral vein. Which assessment is the nurse's priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assessing the client's appetite",
+          "correct": false,
+          "rationale": "Nutrition matters but is not the priority immediately after a catheter procedure."
+        },
+        {
+          "id": "b",
+          "text": "Assessing the femoral access site for bleeding and the right leg for distal pulses and color",
+          "correct": true,
+          "rationale": "Correct. Bleeding or hematoma at the large-bore access site and vascular compromise are major early complications, so frequent site and circulation checks are the priority."
+        },
+        {
+          "id": "c",
+          "text": "Teaching the client about a low-sodium diet",
+          "correct": false,
+          "rationale": "Teaching is important before discharge but is not the immediate post-procedure priority."
+        },
+        {
+          "id": "d",
+          "text": "Encouraging the client to ambulate in the hall right away",
+          "correct": false,
+          "rationale": "Clients remain on bed rest with the affected leg straight for a prescribed period to prevent access-site bleeding."
+        }
+      ],
+      "explanation": "MitraClip clips the anterior and posterior mitral leaflets together via a transseptal femoral-vein approach. Post-procedure nursing care resembles cardiac catheterization care: site, pulses, vital signs, rhythm, and signs of tamponade or clip complications."
+    },
+    {
+      "id": "mitral-regurgitation-13",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which auscultation finding is characteristic of mitral valve prolapse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pericardial friction rub",
+          "correct": false,
+          "rationale": "A friction rub indicates pericarditis."
+        },
+        {
+          "id": "b",
+          "text": "An S4 gallop heard at the apex",
+          "correct": false,
+          "rationale": "An S4 reflects a stiff ventricle, such as with hypertension or ischemia, and is not the hallmark of MVP."
+        },
+        {
+          "id": "c",
+          "text": "A diastolic rumble at the apex",
+          "correct": false,
+          "rationale": "This indicates mitral stenosis."
+        },
+        {
+          "id": "d",
+          "text": "A midsystolic click, possibly followed by a late systolic murmur",
+          "correct": true,
+          "rationale": "Correct. The click occurs when the prolapsing leaflet snaps into the left atrium during systole; a late systolic murmur means some regurgitation is present."
+        }
+      ],
+      "explanation": "Mitral valve prolapse is a common, often benign condition in which leaflets billow into the LA during systole. The midsystolic click is its hallmark; progression to significant MR is possible and is followed with echocardiograms."
+    },
+    {
+      "id": "mitral-regurgitation-14",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching a client with symptomatic mitral valve prolapse who reports occasional palpitations. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Limit caffeine intake",
+          "correct": true,
+          "rationale": "Correct. Caffeine is a stimulant that can trigger palpitations and dysrhythmias."
+        },
+        {
+          "id": "b",
+          "text": "Avoid stimulant medications such as decongestants and diet pills",
+          "correct": true,
+          "rationale": "Correct. Sympathomimetic drugs can worsen palpitations."
+        },
+        {
+          "id": "c",
+          "text": "Stay well hydrated",
+          "correct": true,
+          "rationale": "Correct. Adequate fluid volume can reduce symptoms such as palpitations and lightheadedness associated with MVP."
+        },
+        {
+          "id": "d",
+          "text": "Report fainting or a fast, pounding heartbeat that does not stop",
+          "correct": true,
+          "rationale": "Correct. These may signal a significant dysrhythmia that needs evaluation."
+        },
+        {
+          "id": "e",
+          "text": "Take antibiotics before every dental cleaning",
+          "correct": false,
+          "rationale": "Current AHA guidelines do not recommend antibiotic prophylaxis for MVP unless the client has a prosthetic valve, prior endocarditis, or another highest-risk condition."
+        },
+        {
+          "id": "f",
+          "text": "Stay on bed rest whenever palpitations occur",
+          "correct": false,
+          "rationale": "Bed rest is not needed; regular exercise is encouraged for most clients with MVP."
+        }
+      ],
+      "explanation": "Most clients with MVP need only reassurance, healthy lifestyle habits, and limiting stimulants. Beta-blockers may be prescribed for troublesome palpitations, and clients should report syncope, chest pain, or worsening dyspnea."
+    },
+    {
+      "id": "mitral-regurgitation-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with chronic mitral regurgitation and heart failure takes furosemide 40 mg twice daily. Morning labs: K+ 3.0 mEq/L, Na+ 138 mEq/L. The cardiac monitor now shows frequent PVCs. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the scheduled furosemide and recheck K+ tomorrow",
+          "correct": false,
+          "rationale": "Giving more loop diuretic without addressing hypokalemia will lower potassium further and increase dysrhythmia risk."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the client to drink more water",
+          "correct": false,
+          "rationale": "Free water does not correct hypokalemia and may worsen fluid overload."
+        },
+        {
+          "id": "c",
+          "text": "Notify the provider of the low potassium and new ectopy and anticipate potassium replacement",
+          "correct": true,
+          "rationale": "Correct. Hypokalemia from loop diuretics increases ventricular irritability, and the new PVCs show the effect. The provider should be notified for replacement and possible diuretic adjustment."
+        },
+        {
+          "id": "d",
+          "text": "Document the PVCs as an expected finding in heart failure",
+          "correct": false,
+          "rationale": "New frequent ectopy with a K+ of 3.0 is a correctable danger sign that requires action, not just documentation."
+        }
+      ],
+      "explanation": "Loop diuretics cause potassium loss. Normal K+ is about 3.5-5.0 mEq/L. Hypokalemia increases risk of PVCs, VT, and digoxin toxicity, so monitor electrolytes and the rhythm in clients with HF from valve disease."
+    },
+    {
+      "id": "mitral-regurgitation-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with chronic mitral regurgitation and reduced ejection fraction is started on lisinopril. Which instruction is most important for the nurse to include?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Take this medication with grapefruit juice to increase absorption.'",
+          "correct": false,
+          "rationale": "Grapefruit juice is not a recommended interaction instruction for lisinopril."
+        },
+        {
+          "id": "b",
+          "text": "'Use a salt substitute to season your food.'",
+          "correct": false,
+          "rationale": "Most salt substitutes contain potassium, and ACE inhibitors raise potassium, increasing the risk of hyperkalemia."
+        },
+        {
+          "id": "c",
+          "text": "'Stop the medication if you develop a mild headache.'",
+          "correct": false,
+          "rationale": "Clients should not stop prescribed cardiac medications without consulting the provider."
+        },
+        {
+          "id": "d",
+          "text": "'Call 911 if your lips, tongue, or face swell.'",
+          "correct": true,
+          "rationale": "Correct. Angioedema is a rare but life-threatening ACE inhibitor reaction that can obstruct the airway."
+        }
+      ],
+      "explanation": "ACE inhibitors reduce afterload and slow ventricular remodeling. Teaching includes rising slowly (hypotension), reporting persistent dry cough, avoiding potassium supplements and salt substitutes unless prescribed, and seeking emergency care for angioedema."
+    },
+    {
+      "id": "mitral-regurgitation-17",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with chronic mitral regurgitation develops acute pulmonary edema: severe dyspnea, crackles throughout both lungs, SpO2 86%. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Position the client upright in high Fowler's with legs dependent"
+        },
+        {
+          "id": "b",
+          "text": "Apply oxygen and titrate to the prescribed saturation"
+        },
+        {
+          "id": "c",
+          "text": "Call the rapid response team and notify the provider"
+        },
+        {
+          "id": "d",
+          "text": "Administer IV furosemide as prescribed"
+        },
+        {
+          "id": "e",
+          "text": "Monitor urine output and reassess breath sounds and SpO2"
+        }
+      ],
+      "explanation": "Start with immediate, independent actions that improve breathing: upright positioning reduces venous return, and oxygen corrects hypoxemia. Then get help and orders, give the prescribed diuretic to reduce preload, and evaluate the response through urine output, breath sounds, and oxygenation."
+    },
+    {
+      "id": "mitral-regurgitation-18",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A nurse has taught a client with chronic mitral regurgitation about heart failure self-management. Which statements indicate that teaching was effective? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'I'll weigh myself every morning after I urinate and before breakfast.'",
+          "correct": true,
+          "rationale": "Correct. Weighing at the same time, in similar clothing, after voiding gives accurate trends in fluid status."
+        },
+        {
+          "id": "b",
+          "text": "'I'll keep my sodium to about 2 grams a day as my provider recommended.'",
+          "correct": true,
+          "rationale": "Correct. Sodium restriction limits fluid retention."
+        },
+        {
+          "id": "c",
+          "text": "'I'll call my provider if I gain 3 pounds in 2 days.'",
+          "correct": true,
+          "rationale": "Correct. Rapid weight gain indicates fluid retention and should be reported early."
+        },
+        {
+          "id": "d",
+          "text": "'I'll skip my furosemide on days when my ankles look normal.'",
+          "correct": false,
+          "rationale": "Diuretics must be taken as prescribed; skipping doses leads to fluid reaccumulation and decompensation."
+        },
+        {
+          "id": "e",
+          "text": "'I'll take ibuprofen for my arthritis pain.'",
+          "correct": false,
+          "rationale": "NSAIDs cause sodium and water retention and can worsen heart failure and kidney function."
+        }
+      ],
+      "explanation": "Effective HF teaching shows up as daily weights, sodium and fluid limits as prescribed, medication adherence, avoiding NSAIDs, and early reporting of weight gain or worsening symptoms."
+    },
+    {
+      "id": "mitral-regurgitation-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A client with mitral valve prolapse who reports anxiety and occasional palpitations",
+          "correct": false,
+          "rationale": "These are common, usually benign MVP symptoms in a stable client."
+        },
+        {
+          "id": "b",
+          "text": "A client with chronic mitral regurgitation who has stable 2-pillow orthopnea",
+          "correct": false,
+          "rationale": "This is a chronic, unchanged finding."
+        },
+        {
+          "id": "c",
+          "text": "A client 4 days post MI with sudden shortness of breath and a newly heard loud apical systolic murmur",
+          "correct": true,
+          "rationale": "Correct. Sudden dyspnea with a new murmur after MI suggests papillary muscle rupture with acute MR (or a septal rupture), a life-threatening emergency."
+        },
+        {
+          "id": "d",
+          "text": "A client 1 day after MitraClip with HR 92/min in sinus rhythm and a dry groin dressing",
+          "correct": false,
+          "rationale": "These findings are stable and expected after the procedure."
+        }
+      ],
+      "explanation": "Prioritize acute changes over chronic, stable findings. A new murmur with sudden respiratory distress after MI is a mechanical complication that can rapidly cause cardiogenic shock and death without emergency intervention."
+    },
+    {
+      "id": "mitral-regurgitation-20",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse is reviewing the health histories of several clients. Which conditions place a client at risk for developing mitral regurgitation? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Myocardial infarction",
+          "correct": true,
+          "rationale": "Correct. Ischemia or rupture of a papillary muscle and LV remodeling after MI can prevent normal leaflet closure."
+        },
+        {
+          "id": "b",
+          "text": "Infective endocarditis",
+          "correct": true,
+          "rationale": "Correct. Vegetations can destroy leaflets or rupture chordae, causing acute or chronic MR."
+        },
+        {
+          "id": "c",
+          "text": "Rheumatic heart disease",
+          "correct": true,
+          "rationale": "Correct. Rheumatic scarring can make the mitral valve both stenotic and regurgitant."
+        },
+        {
+          "id": "d",
+          "text": "Mitral valve prolapse",
+          "correct": true,
+          "rationale": "Correct. MVP is a common cause of primary MR in developed countries."
+        },
+        {
+          "id": "e",
+          "text": "Iron-deficiency anemia",
+          "correct": false,
+          "rationale": "Anemia may cause a flow murmur but does not damage the mitral valve apparatus."
+        },
+        {
+          "id": "f",
+          "text": "Pulmonary embolism",
+          "correct": false,
+          "rationale": "PE strains the right side of the heart and does not cause mitral regurgitation."
+        }
+      ],
+      "explanation": "MR results from problems with any part of the mitral apparatus: leaflets (MVP, rheumatic disease, endocarditis), chordae or papillary muscles (MI, rupture), or annulus and LV dilation (dilated cardiomyopathy, ischemic heart disease)."
+    },
+    {
+      "id": "mitral-regurgitation-21",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "On postoperative day 2 after mitral valve repair, a client's monitor shows new atrial fibrillation with a ventricular rate of 134/min. BP is 106/68 mm Hg, and the client reports mild palpitations but is alert. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prepare for immediate unsynchronized defibrillation",
+          "correct": false,
+          "rationale": "Defibrillation is for pulseless VT or VF; this client is stable with a pulse."
+        },
+        {
+          "id": "b",
+          "text": "Notify the provider and anticipate a rate- or rhythm-control medication such as a beta-blocker or amiodarone",
+          "correct": true,
+          "rationale": "Correct. Postoperative AFib is common after cardiac surgery. In a stable client, the provider is notified and rate or rhythm control is started, with anticoagulation considered if AFib persists."
+        },
+        {
+          "id": "c",
+          "text": "Instruct the client to bear down as if having a bowel movement",
+          "correct": false,
+          "rationale": "Vagal maneuvers may help some SVTs but do not convert AFib."
+        },
+        {
+          "id": "d",
+          "text": "Document the rhythm and reassess at the next scheduled vital signs",
+          "correct": false,
+          "rationale": "A rate of 134/min reduces cardiac output and needs timely treatment, not delayed reassessment."
+        }
+      ],
+      "explanation": "Atrial fibrillation occurs in a large share of clients after valve surgery. Stable clients receive rate or rhythm control; unstable clients (hypotension, altered mental status, chest pain) may need synchronized cardioversion."
+    },
+    {
+      "id": "mitral-regurgitation-22",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with chronic mitral regurgitation reports increasing fatigue and now needs 3 pillows to sleep. The nurse notes a 5-lb (2.3-kg) weight gain over 4 days, bibasilar crackles, and an S3 heart sound. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The client is dehydrated from diuretic therapy.",
+          "correct": false,
+          "rationale": "Weight gain, crackles, and orthopnea indicate fluid excess, not dehydration."
+        },
+        {
+          "id": "b",
+          "text": "These findings are expected with chronic MR and need no action.",
+          "correct": false,
+          "rationale": "These are new and worsening findings that show decompensation; they are not baseline."
+        },
+        {
+          "id": "c",
+          "text": "The client most likely has pneumonia.",
+          "correct": false,
+          "rationale": "Pneumonia can cause crackles, but rapid weight gain, orthopnea, and an S3 point to heart failure."
+        },
+        {
+          "id": "d",
+          "text": "The client is showing signs of worsening left-sided heart failure and the provider should be notified.",
+          "correct": true,
+          "rationale": "Correct. Orthopnea, crackles, an S3, fatigue, and rapid weight gain indicate fluid overload and worsening LV failure from progressive MR, which may require diuretic adjustment and evaluation for valve intervention."
+        }
+      ],
+      "explanation": "Chronic MR eventually overwhelms LV compensation. Cues of progression include worsening exertional dyspnea, orthopnea, PND, crackles, S3, fatigue, and weight gain. Worsening symptoms may also mean the client should be evaluated for surgical or transcatheter repair."
+    }
+  ]
+}

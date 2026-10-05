@@ -1,0 +1,176 @@
+{
+  "id": "nur312-exam2",
+  "course": "NUR 312",
+  "title": "Exam 2",
+  "subtitle": "Cardiovascular Function, Perfusion & Gas Exchange",
+  "term": "Fall 2026",
+  "order": 2,
+  "format": {
+    "totalQuestions": 75,
+    "minutes": 77,
+    "alternateFormat": 9,
+    "dosageCalculation": 6
+  },
+  "groups": [
+    {
+      "id": "structure",
+      "title": "Structural & Inflammatory Heart Disease",
+      "color": "rose"
+    },
+    {
+      "id": "rhythm",
+      "title": "Dysrhythmias & ECG",
+      "color": "amber"
+    },
+    {
+      "id": "gas",
+      "title": "Gas Exchange & Perfusion",
+      "color": "sky"
+    },
+    {
+      "id": "math",
+      "title": "Dosage Calculation",
+      "color": "emerald"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "cardiac-injury",
+      "group": "structure",
+      "blueprint": 1
+    },
+    {
+      "slug": "valve-stenosis",
+      "group": "structure",
+      "blueprint": 4
+    },
+    {
+      "slug": "mitral-regurgitation",
+      "group": "structure",
+      "blueprint": 4
+    },
+    {
+      "slug": "myocarditis",
+      "group": "structure",
+      "blueprint": 2
+    },
+    {
+      "slug": "endocarditis",
+      "group": "structure",
+      "blueprint": 1
+    },
+    {
+      "slug": "vsd",
+      "group": "structure",
+      "blueprint": 1
+    },
+    {
+      "slug": "pericarditis",
+      "group": "structure",
+      "blueprint": 2
+    },
+    {
+      "slug": "pericardial-effusion",
+      "group": "structure",
+      "blueprint": 1
+    },
+    {
+      "slug": "afib-aflutter",
+      "group": "rhythm",
+      "blueprint": 8
+    },
+    {
+      "slug": "svt-st-sb",
+      "group": "rhythm",
+      "blueprint": 5
+    },
+    {
+      "slug": "ecg-basics",
+      "group": "rhythm",
+      "blueprint": 1
+    },
+    {
+      "slug": "chest-tubes",
+      "group": "gas",
+      "blueprint": 2
+    },
+    {
+      "slug": "chest-trauma",
+      "group": "gas",
+      "blueprint": 4
+    },
+    {
+      "slug": "dvt-pe",
+      "group": "gas",
+      "blueprint": 6
+    },
+    {
+      "slug": "dosage-calc",
+      "group": "math",
+      "blueprint": 6
+    }
+  ],
+  "quizLength": 20,
+  "practiceExams": {
+    "count": 3,
+    "note": "The blueprint's topic table lists 42 questions plus 6 dosage calculation out of 75 total. The remaining questions are spread across the Exam 2 topics in the same proportions as the blueprint.",
+    "distribution": {
+      "cardiac-injury": 2,
+      "valve-stenosis": 7,
+      "mitral-regurgitation": 7,
+      "myocarditis": 3,
+      "endocarditis": 2,
+      "vsd": 2,
+      "pericarditis": 3,
+      "pericardial-effusion": 2,
+      "afib-aflutter": 12,
+      "svt-st-sb": 8,
+      "ecg-basics": 2,
+      "chest-tubes": 3,
+      "chest-trauma": 7,
+      "dvt-pe": 9,
+      "dosage-calc": 6
+    }
+  },
+  "bloom": {
+    "remember": 6,
+    "understand": 11,
+    "apply": 33,
+    "analyze": 19,
+    "evaluate": 6,
+    "create": 0
+  },
+  "outcomes": [
+    "Perform focused assessment of cardiac and respiratory systems",
+    "Recognize common disease processes, pathophysiology, and evidence-based nursing care",
+    "Prioritize client care: ABCs, perfusion, risk for deterioration, medications",
+    "Recognize and respond to a deteriorating patient; evaluate teaching",
+    "Promote patient safety; recognize cues and filter key findings from noise",
+    "Provide patient-centered communication and education; analyze cues",
+    "Generate solutions: select interventions and plan safe, evidence-based care",
+    "Collaborate with interdisciplinary teams: procedures, provider communication, diagnostics"
+  ],
+  "objectives": [
+    {
+      "title": "Gas Exchange",
+      "items": [
+        "Explain the structure, function, and physiology of ventilation and perfusion",
+        "Examine assessment findings related to cardiopulmonary function",
+        "Discuss clinical outcomes related to alterations in ventilation and perfusion",
+        "Explore oxygen therapies and related potential complications",
+        "Explore nursing actions used to improve oxygenation"
+      ]
+    },
+    {
+      "title": "Cardiovascular Function & Perfusion",
+      "items": [
+        "Explain the pathophysiology for alterations in cardiovascular function and perfusion",
+        "Explore epidemiological and etiological risk factors",
+        "Describe the impact on a client's overall health",
+        "Differentiate the clinical presentation of these alterations",
+        "Explore the role of the nurse when caring for these clients",
+        "Apply the nursing process through clinical judgment functions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "ecg-basics",
+  "title": "ECG: P Waves & QRS",
+  "short": "ECG Basics",
+  "icon": "wave",
+  "description": "Core ECG waveforms and intervals, graph-paper timing, heart rate calculation methods, electrode placement, and recognizing artifact.",
+  "keyPoints": [
+    "P wave = atrial depolarization; QRS = ventricular depolarization; T wave = ventricular repolarization (atrial repolarization is hidden in the QRS).",
+    "Normal PR interval is 0.12-0.20 seconds (3-5 small boxes).",
+    "Normal QRS is 0.06-0.10 seconds; a QRS of 0.12 seconds or longer is wide (bundle branch block, ventricular origin, hyperkalemia, some drugs).",
+    "One small box = 0.04 s (1 mm); one large box = 0.20 s; five large boxes = 1 second.",
+    "6-second method: count QRS complexes on a 6-second strip and multiply by 10 (works for irregular rhythms).",
+    "1500 method: 1500 divided by the number of small boxes between two R waves (regular rhythms only); 300 divided by large boxes is a quick estimate.",
+    "5-lead: white on the right, smoke (black) over fire (red), snow (white) over grass (green); brown V1 at the 4th ICS right sternal border.",
+    "Always assess the client before treating the monitor: artifact can mimic lethal rhythms."
+  ],
+  "questions": [
+    {
+      "id": "ecg-basics-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nursing student asks what the P wave on a cardiac monitor represents. Which response by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "Ventricular repolarization", "correct": false, "rationale": "Ventricular repolarization is represented by the T wave, which follows the QRS complex." },
+        { "id": "b", "text": "Atrial depolarization", "correct": true, "rationale": "The P wave reflects the electrical impulse spreading through both atria (atrial depolarization), which normally originates in the SA node." },
+        { "id": "c", "text": "Atrial repolarization", "correct": false, "rationale": "Atrial repolarization occurs during ventricular depolarization and is hidden within the QRS complex, so it is not usually seen." },
+        { "id": "d", "text": "Conduction delay through the AV node", "correct": false, "rationale": "The AV nodal delay is reflected in the PR interval (and segment), not the P wave itself." }
+      ],
+      "explanation": "The P wave represents atrial depolarization, the QRS complex represents ventricular depolarization, and the T wave represents ventricular repolarization. Atrial repolarization is buried in the QRS. A normal P wave before each QRS suggests the impulse originates in the SA node."
+    },
+    {
+      "id": "ecg-basics-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse is measuring intervals on ECG graph paper running at the standard speed of 25 mm/sec. How much time does one small box represent horizontally?",
+      "options": [
+        { "id": "a", "text": "0.02 seconds", "correct": false, "rationale": "This is half the correct value; at 25 mm/sec each 1-mm box equals 1/25 of a second, which is 0.04 seconds." },
+        { "id": "b", "text": "0.20 seconds", "correct": false, "rationale": "0.20 seconds is the duration of one large box, which contains five small boxes." },
+        { "id": "c", "text": "0.04 seconds", "correct": true, "rationale": "Each small (1-mm) box equals 0.04 seconds at standard paper speed; five small boxes make one large box of 0.20 seconds." },
+        { "id": "d", "text": "1.0 second", "correct": false, "rationale": "One second equals five large boxes (25 small boxes), not one small box." }
+      ],
+      "explanation": "At 25 mm/sec, one small box is 0.04 seconds and one large box (5 small boxes) is 0.20 seconds. Five large boxes equal 1 second, so 30 large boxes equal a 6-second strip. These values are the basis for measuring PR, QRS, and QT intervals."
+    },
+    {
+      "id": "ecg-basics-03",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "nsr",
+      "stem": "The nurse analyzes the rhythm strip shown for a client admitted for observation. The PR interval measures 4 small boxes and the QRS complex measures 2 small boxes. How should the nurse interpret these measurements?",
+      "options": [
+        { "id": "a", "text": "PR 0.16 s and QRS 0.08 s; both are within normal limits", "correct": true, "rationale": "4 small boxes x 0.04 s = 0.16 s (normal PR 0.12-0.20 s) and 2 small boxes x 0.04 s = 0.08 s (normal QRS 0.06-0.10 s)." },
+        { "id": "b", "text": "PR 0.80 s, indicating a prolonged AV conduction delay", "correct": false, "rationale": "This incorrectly uses the large-box value (0.20 s) for small boxes; 4 small boxes equal 0.16 s, which is normal." },
+        { "id": "c", "text": "PR 0.16 s is normal, but QRS 0.08 s is too narrow and suggests an atrial rhythm", "correct": false, "rationale": "A QRS of 0.08 s is normal; a narrow QRS indicates normal conduction through the His-Purkinje system, not an abnormality." },
+        { "id": "d", "text": "QRS 0.40 s, indicating a wide QRS of ventricular origin", "correct": false, "rationale": "This uses the wrong box value; 2 small boxes equal 0.08 s, not 0.40 s." }
+      ],
+      "explanation": "Multiply the number of small boxes by 0.04 seconds to measure intervals. A normal PR interval is 0.12-0.20 s (3-5 small boxes) and a normal QRS is 0.06-0.10 s (under 3 small boxes). This strip shows normal AV and ventricular conduction."
+    },
+    {
+      "id": "ecg-basics-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse notes that a client's QRS complexes now measure 0.16 seconds. Which conditions could explain this finding? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Bundle branch block", "correct": true, "rationale": "A block in the right or left bundle branch delays depolarization of one ventricle, widening the QRS to 0.12 s or more." },
+        { "id": "b", "text": "Hyperkalemia", "correct": true, "rationale": "Elevated potassium slows intraventricular conduction and can widen the QRS; severe hyperkalemia can progress to a sine-wave pattern and arrest." },
+        { "id": "c", "text": "Sinus tachycardia with normal conduction", "correct": false, "rationale": "Sinus tachycardia increases rate but conducts through the normal pathway, so the QRS remains narrow (under 0.12 s)." },
+        { "id": "d", "text": "An impulse originating in the ventricles", "correct": true, "rationale": "Ventricular beats (PVCs, ventricular tachycardia, idioventricular rhythm) spread cell to cell outside the conduction system, producing a wide, bizarre QRS." },
+        { "id": "e", "text": "Increased vagal tone", "correct": false, "rationale": "Vagal stimulation slows the SA node and AV node (slower rate, possibly longer PR) but does not widen the QRS." }
+      ],
+      "explanation": "A normal QRS is 0.06-0.10 s; 0.12 s or longer is wide and means ventricular depolarization is taking longer than normal. Common causes include bundle branch block, ventricular origin of the impulse, hyperkalemia, and drugs that slow conduction. A new wide QRS should prompt assessment of the client and electrolytes and notification of the provider."
+    },
+    {
+      "id": "ecg-basics-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client's rhythm is irregular. The nurse counts 8 QRS complexes on a 6-second rhythm strip. What heart rate should the nurse document?",
+      "options": [
+        { "id": "a", "text": "48 beats/min", "correct": false, "rationale": "This would result from multiplying by 6; the 6-second method multiplies the count by 10 to convert to one minute." },
+        { "id": "b", "text": "60 beats/min", "correct": false, "rationale": "This does not match the count; 8 complexes in 6 seconds equals 80 per minute." },
+        { "id": "c", "text": "188 beats/min", "correct": false, "rationale": "This applies the 1500 method incorrectly (1500 / 8); the 1500 method uses small boxes between R waves and is not accurate for irregular rhythms." },
+        { "id": "d", "text": "80 beats/min", "correct": true, "rationale": "6 seconds x 10 = 60 seconds, so 8 QRS complexes x 10 = 80 beats/min." }
+      ],
+      "explanation": "The 6-second method counts QRS complexes on a 6-second strip (30 large boxes) and multiplies by 10. It is the preferred quick method for irregular rhythms such as atrial fibrillation. Atrial rate can be estimated the same way by counting P waves."
+    },
+    {
+      "id": "ecg-basics-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client's rhythm is regular. The nurse counts 20 small boxes between two consecutive R waves. Using the 1500 method, what is the heart rate?",
+      "options": [
+        { "id": "a", "text": "75 beats/min", "correct": true, "rationale": "1500 / 20 small boxes = 75 beats/min. The 1500 method is accurate for regular rhythms." },
+        { "id": "b", "text": "60 beats/min", "correct": false, "rationale": "60 beats/min would require 25 small boxes (5 large boxes) between R waves." },
+        { "id": "c", "text": "100 beats/min", "correct": false, "rationale": "100 beats/min would require 15 small boxes between R waves." },
+        { "id": "d", "text": "150 beats/min", "correct": false, "rationale": "150 beats/min would require only 10 small boxes (2 large boxes) between R waves." }
+      ],
+      "explanation": "There are 1500 small boxes in one minute at standard paper speed, so dividing 1500 by the small boxes in one R-R interval gives the rate. Dividing 300 by the number of large boxes (here 4) gives a quick estimate of 75. Both methods require a regular rhythm."
+    },
+    {
+      "id": "ecg-basics-07",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing normal ECG components with a group of students. Which statements are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "A normal PR interval is 0.12 to 0.20 seconds.", "correct": true, "rationale": "The PR interval (start of P to start of QRS) normally measures 0.12-0.20 s, reflecting conduction from the atria through the AV node." },
+        { "id": "b", "text": "The QRS complex represents atrial depolarization.", "correct": false, "rationale": "The QRS represents ventricular depolarization; the P wave represents atrial depolarization." },
+        { "id": "c", "text": "A normal QRS duration is less than 0.12 seconds.", "correct": true, "rationale": "A normal QRS is about 0.06-0.10 s; 0.12 s or more is considered wide." },
+        { "id": "d", "text": "The T wave represents ventricular repolarization.", "correct": true, "rationale": "The T wave reflects ventricular repolarization (recovery) after the QRS." },
+        { "id": "e", "text": "Atrial repolarization appears as a separate wave just after the P wave.", "correct": false, "rationale": "Atrial repolarization occurs at the same time as the QRS and is obscured by it, so it is not seen as a separate wave." }
+      ],
+      "explanation": "Each waveform matches an electrical event: P = atrial depolarization, QRS = ventricular depolarization, T = ventricular repolarization. Normal PR is 0.12-0.20 s and normal QRS is under 0.12 s. Prolonged PR suggests AV conduction delay; a wide QRS suggests delayed ventricular conduction."
+    },
+    {
+      "id": "ecg-basics-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is placing a client on continuous cardiac monitoring. Place the nurse's actions in the correct order.",
+      "items": [
+        { "id": "a", "text": "Identify the client and explain the purpose of the monitor" },
+        { "id": "b", "text": "Clip excess hair at the electrode sites" },
+        { "id": "c", "text": "Clean the skin with soap and water and dry it thoroughly" },
+        { "id": "d", "text": "Apply the electrodes to the correct anatomic locations and connect the lead wires" },
+        { "id": "e", "text": "Verify a clear tracing with identifiable P waves, QRS complexes, and T waves" }
+      ],
+      "explanation": "Identify the client and explain the procedure first. Good skin preparation (clipping rather than shaving hair, then cleaning and drying the skin) improves electrode contact and reduces artifact, so it must happen before the electrodes are applied. After the electrodes are placed and connected, the nurse confirms a clean, interpretable tracing."
+    },
+    {
+      "id": "ecg-basics-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is applying a 5-lead cardiac monitoring system. Where should the nurse place the white (right arm) electrode?",
+      "options": [
+        { "id": "a", "text": "Fourth intercostal space at the right sternal border", "correct": false, "rationale": "This is the V1 position, where the brown chest electrode is placed in a 5-lead system." },
+        { "id": "b", "text": "Below the left clavicle", "correct": false, "rationale": "The black (left arm) electrode goes below the left clavicle." },
+        { "id": "c", "text": "Lower right abdomen or rib cage", "correct": false, "rationale": "The green (right leg) ground electrode goes on the lower right torso." },
+        { "id": "d", "text": "Below the right clavicle", "correct": true, "rationale": "'White on the right': the white RA electrode goes just below the right clavicle, near the shoulder." }
+      ],
+      "explanation": "Standard 5-lead placement: white below the right clavicle, black below the left clavicle, green on the lower right torso, red on the lower left torso, and brown at V1 (4th ICS, right sternal border). Memory aids: 'white on right,' 'smoke over fire' (black above red), and 'snow over grass' (white above green). Incorrect placement can change waveform appearance and lead to misinterpretation."
+    },
+    {
+      "id": "ecg-basics-10",
+      "type": "sata",
+      "bloom": "analyze",
+      "ecg": "vfib",
+      "stem": "The cardiac monitor alarms and displays the chaotic rhythm shown. On entering the room, the nurse finds the client sitting up, talking, and brushing their teeth. The client's skin is warm and the radial pulse is strong and regular. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Recognize the tracing as probable artifact based on the client's presentation", "correct": true, "rationale": "A client in true ventricular fibrillation is pulseless and unresponsive within seconds; an alert, talking client with a strong pulse indicates artifact." },
+        { "id": "b", "text": "Check that the electrodes are adhered and the lead wires are securely connected", "correct": true, "rationale": "Loose electrodes, dried gel, or disconnected leads are common causes of artifact and should be corrected." },
+        { "id": "c", "text": "Call a code and defibrillate immediately", "correct": false, "rationale": "Defibrillating a conscious client with a pulse is dangerous and could induce a lethal rhythm; always treat the client, not the monitor." },
+        { "id": "d", "text": "Ask the client to rest quietly and re-examine the tracing", "correct": true, "rationale": "Muscle movement (brushing teeth, shivering, scratching) causes artifact; a tracing during rest helps confirm the true underlying rhythm." },
+        { "id": "e", "text": "Prepare to administer IV amiodarone", "correct": false, "rationale": "Antidysrhythmic therapy is not indicated for artifact; the client's assessment shows adequate perfusion." }
+      ],
+      "explanation": "Artifact is interference on the tracing from movement, shivering, loose electrodes, or electrical equipment, and it can look like VF or VT. The first step is always to assess the client: responsiveness, pulse, and perfusion. If the client is stable, troubleshoot electrodes and leads and obtain a tracing while the client is still."
+    },
+    {
+      "id": "ecg-basics-11",
+      "type": "single",
+      "bloom": "understand",
+      "ecg": "nsr",
+      "stem": "The nurse reviews the rhythm strip shown. The rate is 78 beats/min and regular, each P wave is upright and followed by a QRS, the PR interval is 0.16 seconds, and the QRS is 0.08 seconds. How should the nurse interpret this rhythm?",
+      "options": [
+        { "id": "a", "text": "Sinus bradycardia", "correct": false, "rationale": "Sinus bradycardia has the same sinus features but a rate below 60 beats/min; this rate is 78." },
+        { "id": "b", "text": "Atrial fibrillation", "correct": false, "rationale": "Atrial fibrillation has no identifiable P waves and an irregularly irregular rhythm; this strip has regular P waves before each QRS." },
+        { "id": "c", "text": "Normal sinus rhythm", "correct": true, "rationale": "A regular rate of 60-100, an upright P before every QRS, PR 0.12-0.20 s, and QRS under 0.12 s meet all criteria for normal sinus rhythm." },
+        { "id": "d", "text": "First-degree AV block", "correct": false, "rationale": "First-degree AV block requires a PR interval longer than 0.20 s; this PR is 0.16 s." }
+      ],
+      "explanation": "Use a systematic approach: rate, regularity, P waves, PR interval, and QRS width. Normal sinus rhythm has a rate of 60-100, regular rhythm, one upright P wave before each QRS, PR 0.12-0.20 s, and QRS under 0.12 s. Changing just one feature (rate, PR, P waves) changes the interpretation."
+    },
+    {
+      "id": "ecg-basics-12",
+      "type": "single",
+      "bloom": "evaluate",
+      "ecg": "sinus_brady",
+      "stem": "A newly hired nurse is interpreting the strip shown. The rate is 48 beats/min and regular, each P wave is followed by a QRS, the PR interval is 0.16 seconds, and the QRS is 0.08 seconds. Which statement by the new nurse requires the preceptor to intervene?",
+      "options": [
+        { "id": "a", "text": "'The rate is below 60, so this is a bradycardia.'", "correct": false, "rationale": "This is accurate; a rate below 60 beats/min is bradycardia." },
+        { "id": "b", "text": "'The QRS is wide, so this rhythm is coming from the ventricles.'", "correct": true, "rationale": "This is incorrect and needs correction: a QRS of 0.08 s (2 small boxes) is narrow and normal, indicating normal ventricular conduction, not a ventricular origin." },
+        { "id": "c", "text": "'There is a P wave before every QRS, so the impulse starts in the SA node.'", "correct": false, "rationale": "This is accurate; a consistent upright P wave before each QRS with a normal PR indicates a sinus origin." },
+        { "id": "d", "text": "'I will check the client's blood pressure and ask about dizziness.'", "correct": false, "rationale": "This is appropriate; the significance of bradycardia depends on whether the client has signs of poor perfusion." }
+      ],
+      "explanation": "This strip is sinus bradycardia: sinus features (P before each QRS, normal PR) with a rate under 60. A QRS under 0.12 s is narrow and means the ventricles are depolarizing through the normal conduction system. The nurse should then assess the client for symptoms such as hypotension, dizziness, or altered mental status."
+    }
+  ]
+}

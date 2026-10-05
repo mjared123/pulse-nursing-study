@@ -1,0 +1,512 @@
+{
+  "slug": "afib-aflutter",
+  "title": "A-Flutter / A-Fib / Meds / ECG",
+  "short": "A-Fib & A-Flutter",
+  "icon": "heart-pulse",
+  "description": "Recognition and nursing management of atrial fibrillation and atrial flutter, including ECG interpretation, rate and rhythm control drugs, anticoagulation, cardioversion, and ablation.",
+  "keyPoints": [
+    "A-fib: irregularly irregular rhythm, no identifiable P waves, wavy fibrillatory baseline; atrial rate 350-600, ventricular rate varies.",
+    "A-flutter: sawtooth flutter waves (atrial rate about 250-350) with a usually regular ventricular response in a fixed ratio such as 2:1 or 4:1.",
+    "Unstable (hypotension, altered mental status, chest pain, acute heart failure) = synchronized cardioversion now; stable = rate control (diltiazem, metoprolol, digoxin) and anticoagulation decisions.",
+    "Digoxin: count apical pulse for 1 full minute, hold if under 60 and notify; hypokalemia increases toxicity (nausea, anorexia, visual halos, bradycardia, dysrhythmias); antidote is digoxin immune fab.",
+    "Amiodarone: monitor for pulmonary toxicity (cough, dyspnea), thyroid dysfunction, liver injury, photosensitivity; it raises warfarin and digoxin levels.",
+    "Warfarin goal INR 2-3 (reverse with vitamin K or 4-factor PCC). Dabigatran is reversed with idarucizumab; apixaban and rivaroxaban with andexanet alfa. DOACs are not used with mechanical valves.",
+    "CHA2DS2-VASc estimates stroke risk to guide anticoagulation. A-fib over 48 hours or of unknown duration needs 3 weeks of anticoagulation or a TEE before cardioversion, and anticoagulation for at least 4 weeks after.",
+    "Synchronized cardioversion times the shock to the R wave to avoid the T wave; if the rhythm becomes VF, turn sync off and defibrillate."
+  ],
+  "questions": [
+    {
+      "id": "afib-aflutter-01",
+      "type": "single",
+      "bloom": "remember",
+      "ecg": "afib",
+      "stem": "A client reports palpitations. The nurse obtains the rhythm strip shown. How should the nurse interpret this rhythm?",
+      "options": [
+        { "id": "a", "text": "Atrial flutter", "correct": false, "rationale": "Atrial flutter shows organized, regular sawtooth flutter waves, usually with a regular ventricular response; this strip has a chaotic baseline and irregular R-R intervals." },
+        { "id": "b", "text": "Sinus tachycardia", "correct": false, "rationale": "Sinus tachycardia is regular with an upright P wave before every QRS; this strip has no identifiable P waves." },
+        { "id": "c", "text": "Atrial fibrillation", "correct": true, "rationale": "An irregularly irregular rhythm with no identifiable P waves and a wavy fibrillatory baseline is the hallmark of atrial fibrillation." },
+        { "id": "d", "text": "Ventricular tachycardia", "correct": false, "rationale": "Ventricular tachycardia has wide, bizarre QRS complexes in a fairly regular pattern; atrial fibrillation usually has narrow QRS complexes." }
+      ],
+      "explanation": "Atrial fibrillation results from chaotic electrical activity in the atria (350-600 impulses/min), so there are no true P waves. The AV node conducts only some impulses, producing an irregularly irregular ventricular response. The QRS is usually narrow because ventricular conduction is normal."
+    },
+    {
+      "id": "afib-aflutter-02",
+      "type": "single",
+      "bloom": "understand",
+      "ecg": "afib",
+      "stem": "The nurse is teaching a new graduate about the rhythm shown. Which feature best distinguishes this rhythm from other supraventricular rhythms?",
+      "options": [
+        { "id": "a", "text": "A prolonged PR interval greater than 0.20 seconds", "correct": false, "rationale": "A prolonged PR interval describes first-degree AV block; in atrial fibrillation there are no P waves, so a PR interval cannot be measured." },
+        { "id": "b", "text": "Absent P waves with irregularly irregular R-R intervals", "correct": true, "rationale": "No measurable P waves plus R-R intervals that vary without any pattern is the defining combination for atrial fibrillation." },
+        { "id": "c", "text": "Wide QRS complexes greater than 0.12 seconds", "correct": false, "rationale": "Atrial fibrillation usually has a narrow QRS because ventricular conduction is normal; a wide QRS suggests a ventricular origin or bundle branch block." },
+        { "id": "d", "text": "Uniform sawtooth waves between QRS complexes", "correct": false, "rationale": "Sawtooth flutter waves are characteristic of atrial flutter, not fibrillation." }
+      ],
+      "explanation": "In atrial fibrillation the PR interval is not measurable because there are no organized P waves. The fibrillatory baseline and irregularly irregular R-R intervals separate it from atrial flutter (sawtooth waves, usually regular), SVT (regular), and sinus rhythms (P before every QRS)."
+    },
+    {
+      "id": "afib-aflutter-03",
+      "type": "single",
+      "bloom": "remember",
+      "ecg": "aflutter",
+      "stem": "The nurse reviews the rhythm strip shown. Which finding is characteristic of this rhythm?",
+      "options": [
+        { "id": "a", "text": "Sawtooth-shaped flutter waves between the QRS complexes", "correct": true, "rationale": "Atrial flutter produces regular, sawtooth flutter (F) waves from a rapid reentry circuit in the right atrium at about 250-350/min." },
+        { "id": "b", "text": "A chaotic, wavy baseline with no organized atrial activity", "correct": false, "rationale": "A chaotic fibrillatory baseline describes atrial fibrillation, not flutter." },
+        { "id": "c", "text": "One upright P wave before each QRS with a constant PR interval", "correct": false, "rationale": "This describes a sinus rhythm; in flutter, multiple flutter waves occur for each QRS." },
+        { "id": "d", "text": "Wide, bizarre QRS complexes with no P waves", "correct": false, "rationale": "This describes ventricular tachycardia; flutter typically has narrow QRS complexes." }
+      ],
+      "explanation": "Atrial flutter is a macro-reentrant atrial rhythm that produces organized sawtooth flutter waves, best seen in leads II, III, aVF, and V1. Because the AV node cannot conduct every flutter wave, ventricular conduction occurs in ratios such as 2:1, 3:1, or 4:1."
+    },
+    {
+      "id": "afib-aflutter-04",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "aflutter",
+      "stem": "A client's rhythm is shown. The atrial rate is 300/min and the ventricular rate is 75 beats/min and regular. How should the nurse describe the conduction ratio?",
+      "options": [
+        { "id": "a", "text": "2:1 conduction", "correct": false, "rationale": "With 2:1 conduction an atrial rate of 300 would produce a ventricular rate of 150, not 75." },
+        { "id": "b", "text": "3:1 conduction", "correct": false, "rationale": "With 3:1 conduction an atrial rate of 300 would produce a ventricular rate of 100." },
+        { "id": "c", "text": "1:1 conduction", "correct": false, "rationale": "1:1 conduction would produce a ventricular rate of 300, a dangerous rate that is rare and poorly tolerated." },
+        { "id": "d", "text": "4:1 conduction", "correct": true, "rationale": "300 atrial / 75 ventricular = 4 flutter waves for each QRS, or 4:1 conduction." }
+      ],
+      "explanation": "Divide the atrial (flutter) rate by the ventricular rate to find the conduction ratio. Higher ratios such as 4:1 produce slower, usually well-tolerated ventricular rates; 2:1 flutter with a ventricular rate near 150 is common and may need rate control. A regular ventricular rate of exactly 150 should make the nurse suspect 2:1 flutter."
+    },
+    {
+      "id": "afib-aflutter-05",
+      "type": "single",
+      "bloom": "analyze",
+      "ecg": "afib",
+      "stem": "A client's monitor shows the rhythm displayed with a ventricular rate of 156 beats/min. BP is 76/48 mm Hg, the client is newly confused, and the skin is cool and clammy. Which action should the nurse anticipate first?",
+      "options": [
+        { "id": "a", "text": "Administer oral metoprolol 25 mg", "correct": false, "rationale": "Oral beta blockers act too slowly for an unstable client and can worsen hypotension." },
+        { "id": "b", "text": "Prepare for immediate synchronized cardioversion", "correct": true, "rationale": "Hypotension, acute altered mental status, and signs of shock indicate an unstable tachydysrhythmia; ACLS guidelines call for immediate synchronized cardioversion." },
+        { "id": "c", "text": "Start a heparin infusion and schedule a TEE", "correct": false, "rationale": "Anticoagulation and TEE are part of planned cardioversion for stable clients; an unstable client should not have treatment delayed." },
+        { "id": "d", "text": "Teach the client to perform the Valsalva maneuver", "correct": false, "rationale": "Vagal maneuvers are used for stable regular narrow-complex SVT, not unstable atrial fibrillation, and a confused client cannot perform them reliably." }
+      ],
+      "explanation": "The first question with any tachydysrhythmia is whether the client is stable. Signs of instability include hypotension, acutely altered mental status, signs of shock, ischemic chest pain, and acute heart failure. Unstable atrial fibrillation with rapid ventricular response is treated with synchronized cardioversion, with sedation if time and condition allow."
+    },
+    {
+      "id": "afib-aflutter-06",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "nsr",
+      "stem": "A client with atrial fibrillation has just undergone synchronized cardioversion. The post-procedure rhythm is shown, with a regular rate of 82 beats/min and a P wave before each QRS. How should the nurse interpret this result?",
+      "options": [
+        { "id": "a", "text": "Atrial flutter with 4:1 conduction; the cardioversion was partially effective", "correct": false, "rationale": "Flutter shows sawtooth waves between QRS complexes; this strip has a single upright P wave before each QRS." },
+        { "id": "b", "text": "Persistent atrial fibrillation with controlled ventricular rate", "correct": false, "rationale": "Atrial fibrillation would be irregularly irregular without P waves; this rhythm is regular with P waves." },
+        { "id": "c", "text": "Normal sinus rhythm; the cardioversion was successful", "correct": true, "rationale": "A regular rate of 60-100 with a P wave before each QRS indicates sinus rhythm has been restored." },
+        { "id": "d", "text": "Sinus bradycardia requiring atropine", "correct": false, "rationale": "A rate of 82 is within the normal range; this is not bradycardia." }
+      ],
+      "explanation": "Successful cardioversion restores normal sinus rhythm, returning organized P waves and the atrial kick. After the procedure, the nurse monitors airway and level of consciousness as sedation wears off, checks vital signs and the rhythm, inspects the skin under the pads for burns, and continues anticoagulation as ordered."
+    },
+    {
+      "id": "afib-aflutter-07",
+      "type": "sata",
+      "bloom": "analyze",
+      "ecg": "afib",
+      "stem": "The nurse reviews the rhythm strip shown for a client with a history of hypertension. Which findings support the interpretation of atrial fibrillation? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "R-R intervals that vary with no repeating pattern", "correct": true, "rationale": "An irregularly irregular ventricular response is a key feature of atrial fibrillation." },
+        { "id": "b", "text": "No identifiable P waves", "correct": true, "rationale": "Disorganized atrial activity means there are no true P waves." },
+        { "id": "c", "text": "A wavy, fibrillatory baseline", "correct": true, "rationale": "Fine or coarse fibrillatory (f) waves reflect chaotic atrial electrical activity." },
+        { "id": "d", "text": "Regular sawtooth waves", "correct": false, "rationale": "Sawtooth flutter waves indicate atrial flutter, which is organized atrial activity." },
+        { "id": "e", "text": "A constant PR interval of 0.16 seconds", "correct": false, "rationale": "A PR interval cannot be measured in atrial fibrillation because there are no P waves." }
+      ],
+      "explanation": "Atrial fibrillation is identified by three linked findings: no P waves, a fibrillatory baseline, and an irregularly irregular ventricular response. Hypertension is one of the most common risk factors, along with heart failure, valvular disease, older age, obesity, sleep apnea, alcohol use, and hyperthyroidism."
+    },
+    {
+      "id": "afib-aflutter-08",
+      "type": "single",
+      "bloom": "apply",
+      "ecg": "afib",
+      "stem": "A client is admitted with the rhythm shown and reports palpitations and fatigue. HR is 128 beats/min, BP 124/78 mm Hg, SpO2 97% on room air. The client is alert and denies chest pain. Lungs are clear. Which prescription should the nurse anticipate first?",
+      "options": [
+        { "id": "a", "text": "Synchronized cardioversion at 200 J", "correct": false, "rationale": "Immediate cardioversion is for unstable clients; this client is stable, and cardioversion without anticoagulation planning carries a risk of stroke if the duration is unknown." },
+        { "id": "b", "text": "Adenosine 6 mg rapid IV push", "correct": false, "rationale": "Adenosine is used for stable regular narrow-complex SVT; it does not convert atrial fibrillation." },
+        { "id": "c", "text": "Epinephrine 1 mg IV push", "correct": false, "rationale": "Epinephrine is used in cardiac arrest and would further increase heart rate." },
+        { "id": "d", "text": "IV diltiazem to control the ventricular rate", "correct": true, "rationale": "For a stable client with rapid ventricular response, rate control with an IV calcium channel blocker (diltiazem) or beta blocker slows AV nodal conduction." }
+      ],
+      "explanation": "For stable atrial fibrillation with rapid ventricular response, the initial goal is rate control with diltiazem, a beta blocker such as metoprolol, or digoxin (especially with heart failure). Stroke risk is then assessed to guide anticoagulation, and rhythm control may be considered later."
+    },
+    {
+      "id": "afib-aflutter-09",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with atrial fibrillation and a ventricular rate of 150 beats/min is being monitored. Which findings indicate the client is hemodynamically unstable? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "BP 82/50 mm Hg", "correct": true, "rationale": "Hypotension shows that cardiac output is insufficient at this rate and is a sign of instability." },
+        { "id": "b", "text": "New confusion and difficulty following commands", "correct": true, "rationale": "Acutely altered mental status indicates inadequate cerebral perfusion." },
+        { "id": "c", "text": "Report of palpitations and feeling anxious", "correct": false, "rationale": "Palpitations and anxiety are common symptoms of atrial fibrillation but do not by themselves indicate instability." },
+        { "id": "d", "text": "Crushing substernal chest pain", "correct": true, "rationale": "Ischemic chest pain shows the fast rate is causing myocardial oxygen demand to exceed supply." },
+        { "id": "e", "text": "New bilateral crackles and SpO2 of 86%", "correct": true, "rationale": "Acute pulmonary edema means acute heart failure, a sign of instability." },
+        { "id": "f", "text": "Irregular radial pulse", "correct": false, "rationale": "An irregular pulse is expected with atrial fibrillation and is not a sign of instability." }
+      ],
+      "explanation": "Instability in a tachydysrhythmia is defined by signs of poor perfusion: hypotension, acute altered mental status, signs of shock, ischemic chest discomfort, and acute heart failure. Any of these in a client with atrial fibrillation with rapid ventricular response calls for synchronized cardioversion. Symptoms such as palpitations alone do not."
+    },
+    {
+      "id": "afib-aflutter-10",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with atrial fibrillation asks why the condition increases the risk of stroke. Which explanation by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "'The fast heart rate raises your blood pressure and causes blood vessels in the brain to rupture.'", "correct": false, "rationale": "The main stroke risk in atrial fibrillation is embolic (ischemic), not hemorrhagic from high blood pressure." },
+        { "id": "b", "text": "'Atrial fibrillation thickens the blood by increasing the number of red blood cells.'", "correct": false, "rationale": "Atrial fibrillation does not cause polycythemia; clots form because of blood stasis." },
+        { "id": "c", "text": "'Because the upper chambers quiver instead of contracting, blood pools and can form clots that travel to the brain.'", "correct": true, "rationale": "Loss of effective atrial contraction causes stasis, especially in the left atrial appendage; clots form and can embolize to the brain, causing an ischemic stroke." },
+        { "id": "d", "text": "'The irregular rhythm damages the arteries in your neck and forms plaque.'", "correct": false, "rationale": "Atherosclerotic plaque is caused by other risk factors; atrial fibrillation causes cardioembolic, not atherosclerotic, stroke." }
+      ],
+      "explanation": "In atrial fibrillation the atria quiver rather than contract, causing blood stasis, particularly in the left atrial appendage. Thrombi can form and embolize to the brain. Anticoagulation based on a stroke risk score such as CHA2DS2-VASc reduces this risk."
+    },
+    {
+      "id": "afib-aflutter-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with atrial fibrillation is receiving a continuous diltiazem infusion. The nurse notes HR 52 beats/min and BP 84/50 mm Hg, and the client reports feeling lightheaded. Which action should the nurse take first?",
+      "options": [
+        { "id": "a", "text": "Increase the infusion rate to stabilize the rhythm", "correct": false, "rationale": "Increasing diltiazem would further slow the heart and lower BP, worsening the client's condition." },
+        { "id": "b", "text": "Stop the infusion and notify the provider", "correct": true, "rationale": "Bradycardia and hypotension are expected toxic effects of calcium channel blockers; stopping the drug and notifying the provider protects perfusion." },
+        { "id": "c", "text": "Administer a scheduled dose of oral metoprolol", "correct": false, "rationale": "A beta blocker adds to the negative chronotropic and hypotensive effects and would worsen bradycardia." },
+        { "id": "d", "text": "Document the findings and recheck vital signs in 1 hour", "correct": false, "rationale": "The client is symptomatic, so waiting delays needed intervention." }
+      ],
+      "explanation": "Diltiazem slows AV nodal conduction and dilates blood vessels, so the main adverse effects are bradycardia, hypotension, and heart block. Hold or stop it for symptomatic bradycardia or hypotension per protocol and notify the provider. It should be used with caution in heart failure with reduced ejection fraction."
+    },
+    {
+      "id": "afib-aflutter-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing to administer oral digoxin 0.125 mg to a client with atrial fibrillation and heart failure. Which actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Count the apical pulse for 1 full minute", "correct": true, "rationale": "Atrial fibrillation is irregular, so a full minute of apical counting is needed for accuracy, and radial counts may miss beats (pulse deficit)." },
+        { "id": "b", "text": "Review the most recent serum potassium level", "correct": true, "rationale": "Hypokalemia increases the risk of digoxin toxicity, so potassium must be checked before administration." },
+        { "id": "c", "text": "Hold the dose and notify the provider if the apical pulse is below 60 beats/min", "correct": true, "rationale": "Digoxin slows AV conduction; an apical rate below 60 in an adult is the usual parameter to hold the drug and notify the provider." },
+        { "id": "d", "text": "Count the radial pulse for 15 seconds and multiply by 4", "correct": false, "rationale": "Short radial counts are inaccurate in an irregular rhythm and can miss beats that do not perfuse to the periphery." },
+        { "id": "e", "text": "Give the dose with an antacid to prevent nausea", "correct": false, "rationale": "Antacids reduce digoxin absorption, and new nausea may be an early sign of toxicity that needs evaluation." },
+        { "id": "f", "text": "Review the serum digoxin level if one was drawn", "correct": true, "rationale": "A level above the therapeutic range (about 0.5-2.0 ng/mL, with a lower target in heart failure) suggests toxicity and the dose should be held." }
+      ],
+      "explanation": "Before giving digoxin, the nurse counts the apical pulse for 1 full minute, checks potassium (and magnesium and renal function if available), and reviews the digoxin level. Hold the dose for an apical rate below 60 or signs of toxicity and notify the provider. Low potassium, low magnesium, high calcium, and renal impairment all increase toxicity risk."
+    },
+    {
+      "id": "afib-aflutter-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 78-year-old client taking digoxin and furosemide reports 2 days of nausea and poor appetite and says lights look like they have yellow-green halos. Apical pulse is 54 beats/min and irregular. Labs: K+ 3.1 mEq/L, digoxin 2.6 ng/mL. Which action should the nurse take first?",
+      "options": [
+        { "id": "a", "text": "Give the digoxin with food to reduce nausea", "correct": false, "rationale": "These findings indicate toxicity; giving another dose would worsen it." },
+        { "id": "b", "text": "Administer an antiemetic and recheck the apical pulse in 4 hours", "correct": false, "rationale": "Treating the nausea masks a sign of toxicity and delays notifying the provider." },
+        { "id": "c", "text": "Encourage foods high in vitamin K", "correct": false, "rationale": "Vitamin K is unrelated to digoxin; it affects warfarin." },
+        { "id": "d", "text": "Hold the digoxin and notify the provider of the findings", "correct": true, "rationale": "GI symptoms, visual halos, bradycardia, an elevated level, and hypokalemia from the loop diuretic all point to digoxin toxicity; hold the drug and report the findings." }
+      ],
+      "explanation": "Early digoxin toxicity often begins with anorexia, nausea, and vomiting, followed by visual disturbances (yellow-green halos, blurred vision), confusion, bradycardia, and dysrhythmias. Older adults and clients on loop or thiazide diuretics (hypokalemia) are at higher risk. Treatment includes holding the drug, correcting potassium, and digoxin immune fab for life-threatening toxicity."
+    },
+    {
+      "id": "afib-aflutter-14",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client with atrial fibrillation suddenly becomes hypotensive (BP 74/42 mm Hg) and diaphoretic, with a ventricular rate of 170 beats/min. Place the nurse's actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Assess responsiveness, airway, breathing, and pulse" },
+        { "id": "b", "text": "Call the rapid response team and bring the defibrillator to the bedside" },
+        { "id": "c", "text": "Apply oxygen and place the defibrillator pads on the client" },
+        { "id": "d", "text": "Administer the prescribed sedation if the client is conscious and time allows" },
+        { "id": "e", "text": "Assist with synchronized cardioversion" }
+      ],
+      "explanation": "The nurse first confirms the client's responsiveness and has a pulse, then activates help and gets the defibrillator. Oxygen and pads are applied so the device is ready. Sedation is given when possible for comfort, but it should not delay cardioversion in a deteriorating client. Synchronized cardioversion is the definitive treatment for unstable atrial fibrillation."
+    },
+    {
+      "id": "afib-aflutter-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with severe digoxin toxicity has an apical rate of 36 beats/min with episodes of ventricular ectopy and a potassium of 5.9 mEq/L. Which medication should the nurse anticipate?",
+      "options": [
+        { "id": "a", "text": "Protamine sulfate", "correct": false, "rationale": "Protamine reverses heparin, not digoxin." },
+        { "id": "b", "text": "Vitamin K (phytonadione)", "correct": false, "rationale": "Vitamin K reverses warfarin, not digoxin." },
+        { "id": "c", "text": "Digoxin immune fab", "correct": true, "rationale": "Digoxin immune fab binds digoxin and is indicated for life-threatening toxicity such as severe bradycardia, ventricular dysrhythmias, or hyperkalemia." },
+        { "id": "d", "text": "Oral potassium chloride", "correct": false, "rationale": "This client is already hyperkalemic; extra potassium could cause a fatal dysrhythmia. Hyperkalemia can occur in acute toxicity because Na+/K+-ATPase is inhibited." }
+      ],
+      "explanation": "Digoxin immune fab is the specific antidote for life-threatening digoxin toxicity. Although hypokalemia raises the risk of toxicity, severe acute toxicity can cause hyperkalemia because the Na+/K+ pump is blocked. After the antidote, monitor potassium closely, because it can drop quickly."
+    },
+    {
+      "id": "afib-aflutter-16",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a client who is being discharged on oral amiodarone for atrial fibrillation. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Report a new dry cough or shortness of breath right away", "correct": true, "rationale": "Pulmonary toxicity (pneumonitis, fibrosis) is a serious adverse effect and presents with cough and dyspnea." },
+        { "id": "b", "text": "Keep appointments for thyroid function blood tests", "correct": true, "rationale": "Amiodarone contains iodine and can cause hypothyroidism or hyperthyroidism, so TSH is monitored." },
+        { "id": "c", "text": "Take the tablets with grapefruit juice to improve absorption", "correct": false, "rationale": "Grapefruit juice inhibits amiodarone metabolism and can raise drug levels and toxicity; it should be avoided." },
+        { "id": "d", "text": "Use sunscreen and protective clothing outdoors", "correct": true, "rationale": "Amiodarone causes photosensitivity and can cause a blue-gray skin discoloration with sun exposure." },
+        { "id": "e", "text": "Expect your provider to increase your digoxin dose", "correct": false, "rationale": "Amiodarone raises digoxin levels, so the digoxin dose is usually reduced, not increased." },
+        { "id": "f", "text": "Have regular eye examinations and report vision changes", "correct": true, "rationale": "Corneal microdeposits are common and optic neuropathy can occur, so periodic eye exams are recommended." }
+      ],
+      "explanation": "Amiodarone is effective for rhythm control but has many toxicities: pulmonary, thyroid, liver, eye, and skin (photosensitivity, blue-gray discoloration). It prolongs the QT interval and interacts with warfarin (raises INR) and digoxin (raises levels). Baseline and periodic chest x-ray, PFTs, thyroid tests, and LFTs are recommended."
+    },
+    {
+      "id": "afib-aflutter-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client has taken amiodarone for 9 months. At a follow-up visit, which finding should the nurse report to the provider as the highest priority?",
+      "options": [
+        { "id": "a", "text": "Bluish-gray discoloration of the skin on the face", "correct": false, "rationale": "Skin discoloration is a cosmetic effect of long-term use and is not life-threatening." },
+        { "id": "b", "text": "Increasing shortness of breath with a dry, nonproductive cough", "correct": true, "rationale": "These symptoms suggest amiodarone pulmonary toxicity, which can progress to fibrosis and be fatal; it needs prompt evaluation." },
+        { "id": "c", "text": "Sunburn after 20 minutes outdoors", "correct": false, "rationale": "Photosensitivity is an expected effect managed with sun protection, not a priority over a respiratory problem." },
+        { "id": "d", "text": "Eye exam showing small corneal deposits with no vision loss", "correct": false, "rationale": "Corneal microdeposits occur in most long-term users and rarely affect vision." }
+      ],
+      "explanation": "Pulmonary toxicity is the most serious adverse effect of amiodarone and may present gradually with dyspnea, dry cough, crackles, and hypoxemia. It requires prompt reporting, chest imaging, and usually stopping the drug. Skin, sun, and corneal effects are common but not life-threatening."
+    },
+    {
+      "id": "afib-aflutter-18",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client who has taken amiodarone for 6 months reports fatigue, a 5-kg weight gain, constipation, and always feeling cold. Which laboratory test should the nurse anticipate?",
+      "options": [
+        { "id": "a", "text": "Serum digoxin level", "correct": false, "rationale": "The client is not described as taking digoxin, and these symptoms are not typical of digoxin toxicity." },
+        { "id": "b", "text": "Serum troponin", "correct": false, "rationale": "Troponin evaluates myocardial injury; these symptoms do not suggest acute coronary syndrome." },
+        { "id": "c", "text": "Thyroid-stimulating hormone (TSH)", "correct": true, "rationale": "Weight gain, cold intolerance, fatigue, and constipation suggest hypothyroidism, a known effect of the iodine-rich drug amiodarone." },
+        { "id": "d", "text": "Serum amylase", "correct": false, "rationale": "Amylase evaluates the pancreas and is not related to these symptoms." }
+      ],
+      "explanation": "Amiodarone is about 37% iodine by weight and can cause hypothyroidism (more common) or hyperthyroidism. Hyperthyroidism can worsen atrial fibrillation. Thyroid function is checked at baseline and periodically during therapy."
+    },
+    {
+      "id": "afib-aflutter-19",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with chronic atrial fibrillation is prescribed warfarin 5 mg daily. Today's INR is 2.4. Which action should the nurse take?",
+      "options": [
+        { "id": "a", "text": "Hold the dose and notify the provider of a subtherapeutic INR", "correct": false, "rationale": "An INR of 2.4 is within the therapeutic range of 2.0-3.0, so it is not subtherapeutic." },
+        { "id": "b", "text": "Request a prescription for vitamin K", "correct": false, "rationale": "Vitamin K reverses warfarin and is used for supratherapeutic INR with bleeding risk, not for a therapeutic INR." },
+        { "id": "c", "text": "Request an increase in the dose to reach an INR of 4.0", "correct": false, "rationale": "An INR above 3.0 increases bleeding risk without added benefit in nonvalvular atrial fibrillation." },
+        { "id": "d", "text": "Administer the warfarin as prescribed", "correct": true, "rationale": "The INR goal for atrial fibrillation is 2.0-3.0; 2.4 is therapeutic, so the dose is given as prescribed." }
+      ],
+      "explanation": "Warfarin is monitored with the INR. The target for atrial fibrillation is 2.0-3.0. Below 2.0 increases stroke risk, and above 3.0 increases bleeding risk. A dose is given when the INR is therapeutic and no signs of bleeding are present."
+    },
+    {
+      "id": "afib-aflutter-20",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client taking warfarin for atrial fibrillation has bleeding gums, scattered bruises, and pink-tinged urine. INR is 6.8. Vital signs are stable. Which action should the nurse take first?",
+      "options": [
+        { "id": "a", "text": "Administer protamine sulfate", "correct": false, "rationale": "Protamine reverses heparin, not warfarin." },
+        { "id": "b", "text": "Hold the warfarin and notify the provider; anticipate vitamin K", "correct": true, "rationale": "A markedly elevated INR with signs of bleeding requires holding warfarin and notifying the provider; vitamin K (and 4-factor PCC for major bleeding) reverses warfarin." },
+        { "id": "c", "text": "Give the evening dose and recheck the INR in 1 week", "correct": false, "rationale": "Giving more warfarin with an INR of 6.8 and active bleeding is unsafe." },
+        { "id": "d", "text": "Administer idarucizumab", "correct": false, "rationale": "Idarucizumab reverses dabigatran, not warfarin." }
+      ],
+      "explanation": "Warfarin toxicity is shown by a high INR and bleeding (gums, bruising, hematuria, melena). The nurse holds the drug, notifies the provider, monitors for further bleeding and hemodynamic changes, and anticipates vitamin K. For major or life-threatening bleeding, 4-factor prothrombin complex concentrate gives faster reversal."
+    },
+    {
+      "id": "afib-aflutter-21",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a client who is starting warfarin for atrial fibrillation. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Keep your intake of green leafy vegetables consistent from week to week", "correct": true, "rationale": "Vitamin K counteracts warfarin; consistent intake keeps the INR stable, and avoiding these foods is not necessary." },
+        { "id": "b", "text": "Use a soft toothbrush and an electric razor", "correct": true, "rationale": "These reduce minor bleeding from gums and skin cuts." },
+        { "id": "c", "text": "If you miss a dose, take a double dose the next day", "correct": false, "rationale": "Doubling doses can cause a dangerous rise in INR; the client should follow the provider's instructions for missed doses." },
+        { "id": "d", "text": "Report black, tarry stools or blood in the urine", "correct": true, "rationale": "These are signs of GI or urinary bleeding and need prompt evaluation." },
+        { "id": "e", "text": "Avoid aspirin and NSAIDs unless your provider approves them", "correct": true, "rationale": "Aspirin and NSAIDs increase bleeding risk; acetaminophen is usually preferred for minor pain." },
+        { "id": "f", "text": "Stop eating all foods that contain vitamin K", "correct": false, "rationale": "Eliminating vitamin K causes unstable INR values; consistency, not avoidance, is the goal." }
+      ],
+      "explanation": "Warfarin teaching focuses on bleeding precautions, regular INR checks, consistent vitamin K intake, and avoiding interacting drugs and supplements (aspirin, NSAIDs, ginkgo, garlic, many antibiotics). Clients should wear medical alert identification and tell all providers, including dentists, that they take warfarin."
+    },
+    {
+      "id": "afib-aflutter-22",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A client taking dabigatran for atrial fibrillation is admitted with an active gastrointestinal bleed. Which reversal agent should the nurse anticipate?",
+      "options": [
+        { "id": "a", "text": "Idarucizumab", "correct": true, "rationale": "Idarucizumab is a monoclonal antibody fragment that binds and specifically reverses dabigatran, a direct thrombin inhibitor." },
+        { "id": "b", "text": "Vitamin K", "correct": false, "rationale": "Vitamin K reverses warfarin; it has no effect on dabigatran." },
+        { "id": "c", "text": "Protamine sulfate", "correct": false, "rationale": "Protamine reverses heparin (and partially enoxaparin), not dabigatran." },
+        { "id": "d", "text": "Andexanet alfa", "correct": false, "rationale": "Andexanet alfa reverses factor Xa inhibitors such as apixaban and rivaroxaban, not direct thrombin inhibitors." }
+      ],
+      "explanation": "Match each anticoagulant to its reversal agent: warfarin with vitamin K or 4-factor PCC; heparin with protamine; dabigatran (direct thrombin inhibitor) with idarucizumab; apixaban and rivaroxaban (factor Xa inhibitors) with andexanet alfa (4-factor PCC is an alternative)."
+    },
+    {
+      "id": "afib-aflutter-23",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client taking apixaban for atrial fibrillation falls at home and is diagnosed with an intracranial hemorrhage. Which medication should the nurse anticipate to reverse the anticoagulant?",
+      "options": [
+        { "id": "a", "text": "Idarucizumab", "correct": false, "rationale": "Idarucizumab reverses dabigatran only; it does not bind factor Xa inhibitors." },
+        { "id": "b", "text": "Protamine sulfate", "correct": false, "rationale": "Protamine reverses heparin and does not reverse apixaban." },
+        { "id": "c", "text": "Andexanet alfa", "correct": true, "rationale": "Andexanet alfa is a decoy factor Xa that binds apixaban and rivaroxaban, reversing their effect in life-threatening bleeding." },
+        { "id": "d", "text": "Vitamin K", "correct": false, "rationale": "Apixaban does not act through vitamin K-dependent factors, so vitamin K does not reverse it." }
+      ],
+      "explanation": "Apixaban and rivaroxaban are direct factor Xa inhibitors. For life-threatening bleeding such as intracranial hemorrhage, andexanet alfa (or 4-factor PCC where andexanet is not available) is used. The nurse also monitors neurologic status closely, since the hematoma can expand."
+    },
+    {
+      "id": "afib-aflutter-24",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with atrial fibrillation and a mechanical mitral valve replacement takes warfarin. The client says, 'My neighbor takes apixaban and doesn't need blood tests. Can I switch?' Which response by the nurse is best?",
+      "options": [
+        { "id": "a", "text": "'Yes, apixaban works the same as warfarin and is safer for everyone.'", "correct": false, "rationale": "DOACs are contraindicated with mechanical heart valves because of higher rates of valve thrombosis and stroke." },
+        { "id": "b", "text": "'Newer anticoagulants such as apixaban are not recommended with a mechanical heart valve, so warfarin is still needed.'", "correct": true, "rationale": "Warfarin is the anticoagulant of choice for mechanical valves; DOACs are approved for nonvalvular atrial fibrillation." },
+        { "id": "c", "text": "'You can switch as long as you stop warfarin today and start apixaban tomorrow.'", "correct": false, "rationale": "Switching is not appropriate here, and any anticoagulant change must be directed by the provider with proper timing." },
+        { "id": "d", "text": "'With a mechanical valve, you don't need an anticoagulant at all.'", "correct": false, "rationale": "Mechanical valves carry a high clot risk and require lifelong anticoagulation." }
+      ],
+      "explanation": "DOACs (apixaban, rivaroxaban, edoxaban, dabigatran) are preferred over warfarin for most clients with nonvalvular atrial fibrillation. They are not recommended for clients with mechanical heart valves or moderate-to-severe mitral stenosis, who need warfarin with INR monitoring."
+    },
+    {
+      "id": "afib-aflutter-25",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a client who is starting rivaroxaban for nonvalvular atrial fibrillation. Which statements should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "'You will not need routine INR blood tests with this medication.'", "correct": true, "rationale": "DOACs have predictable effects and do not require routine INR monitoring, although kidney function is checked periodically." },
+        { "id": "b", "text": "'Do not stop taking this medicine unless your provider tells you to.'", "correct": true, "rationale": "Stopping a DOAC suddenly raises the risk of stroke, because its effect wears off within about a day." },
+        { "id": "c", "text": "'Tell your dentist and any surgeon that you take this medication.'", "correct": true, "rationale": "Procedures may require the drug to be held temporarily to reduce bleeding risk." },
+        { "id": "d", "text": "'Take ibuprofen for headaches, since it does not affect this drug.'", "correct": false, "rationale": "NSAIDs increase bleeding risk with any anticoagulant and should be avoided unless approved." },
+        { "id": "e", "text": "'If bleeding occurs, vitamin K will quickly reverse this drug.'", "correct": false, "rationale": "Vitamin K does not reverse factor Xa inhibitors; andexanet alfa or 4-factor PCC is used." }
+      ],
+      "explanation": "DOAC teaching includes taking the drug consistently as prescribed (rivaroxaban 15 and 20 mg doses with the evening meal), not stopping it without provider direction, bleeding precautions, avoiding NSAIDs and aspirin unless approved, and telling all providers. Kidney function is monitored because several DOACs are renally cleared."
+    },
+    {
+      "id": "afib-aflutter-26",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing the history of a 72-year-old man with newly diagnosed atrial fibrillation to help the provider estimate stroke risk using the CHA2DS2-VASc score. Which findings add points to his score? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Hypertension treated with lisinopril", "correct": true, "rationale": "Hypertension is the 'H' in CHA2DS2-VASc and adds 1 point." },
+        { "id": "b", "text": "Hyperlipidemia", "correct": false, "rationale": "Hyperlipidemia is a cardiovascular risk factor but is not part of the CHA2DS2-VASc score." },
+        { "id": "c", "text": "Type 2 diabetes mellitus", "correct": true, "rationale": "Diabetes is the 'D' and adds 1 point." },
+        { "id": "d", "text": "Transient ischemic attack 2 years ago", "correct": true, "rationale": "Prior stroke, TIA, or thromboembolism is the 'S2' and adds 2 points, the strongest predictor of future stroke." },
+        { "id": "e", "text": "Age 72 years", "correct": true, "rationale": "Age 65-74 adds 1 point (age 75 or older adds 2)." },
+        { "id": "f", "text": "Smoking 1 pack per day", "correct": false, "rationale": "Smoking increases cardiovascular risk overall but is not a component of the score." }
+      ],
+      "explanation": "CHA2DS2-VASc: Congestive heart failure (1), Hypertension (1), Age 75 or older (2), Diabetes (1), Stroke/TIA/thromboembolism (2), Vascular disease such as prior MI or PAD (1), Age 65-74 (1), and female Sex category (1). A higher score means a higher annual stroke risk. Anticoagulation is generally recommended at a score of 2 or more in men and 3 or more in women."
+    },
+    {
+      "id": "afib-aflutter-27",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client with atrial fibrillation asks why the provider calculated a 'CHA2DS2-VASc score.' Which response by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "'It measures how fast your heart is beating to choose the right rate-control drug.'", "correct": false, "rationale": "The score does not use heart rate; rate control drugs are chosen based on heart rate, BP, and other conditions such as heart failure." },
+        { "id": "b", "text": "'It predicts whether cardioversion will keep you in a normal rhythm.'", "correct": false, "rationale": "The score does not predict success of rhythm control." },
+        { "id": "c", "text": "'It determines your risk of bleeding from blood thinners.'", "correct": false, "rationale": "Bleeding risk is estimated with other tools such as HAS-BLED; CHA2DS2-VASc estimates stroke risk." },
+        { "id": "d", "text": "'It estimates your risk of stroke so the provider can decide whether you need a blood thinner.'", "correct": true, "rationale": "CHA2DS2-VASc estimates annual thromboembolic stroke risk in nonvalvular atrial fibrillation and guides anticoagulation decisions." }
+      ],
+      "explanation": "The CHA2DS2-VASc score estimates stroke risk in nonvalvular atrial fibrillation. Providers weigh this against bleeding risk when deciding on anticoagulation. Points come from heart failure, hypertension, age, diabetes, prior stroke or TIA, vascular disease, and female sex."
+    },
+    {
+      "id": "afib-aflutter-28",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A hemodynamically stable client has atrial fibrillation of unknown duration and is not taking an anticoagulant. Elective cardioversion is planned for tomorrow. Which procedure should the nurse anticipate before the cardioversion?",
+      "options": [
+        { "id": "a", "text": "Transesophageal echocardiogram (TEE)", "correct": true, "rationale": "When atrial fibrillation has lasted 48 hours or longer, or the duration is unknown, a TEE (with anticoagulation started) can rule out a left atrial thrombus before early cardioversion." },
+        { "id": "b", "text": "Cardiac catheterization", "correct": false, "rationale": "Catheterization evaluates coronary arteries and is not required to clear a client for cardioversion." },
+        { "id": "c", "text": "Exercise stress test", "correct": false, "rationale": "A stress test evaluates ischemia and is not used to look for an atrial thrombus." },
+        { "id": "d", "text": "Pulmonary function tests", "correct": false, "rationale": "PFTs are baseline tests for amiodarone therapy, not a requirement for cardioversion." }
+      ],
+      "explanation": "Restoring organized atrial contraction can dislodge an existing left atrial clot and cause a stroke. If atrial fibrillation has lasted 48 hours or longer or the duration is unknown, the client needs either 3 weeks of therapeutic anticoagulation or a TEE showing no thrombus before cardioversion. Anticoagulation continues for at least 4 weeks afterward."
+    },
+    {
+      "id": "afib-aflutter-29",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is assisting with an elective synchronized cardioversion for a client with atrial fibrillation. The client has signed consent, has been NPO, and has a patent IV. Place the remaining steps in the correct order.",
+      "items": [
+        { "id": "a", "text": "Apply the defibrillator pads and connect the monitor leads" },
+        { "id": "b", "text": "Administer the prescribed IV sedation" },
+        { "id": "c", "text": "Turn on the sync mode and confirm that sync markers appear on each R wave" },
+        { "id": "d", "text": "Select the prescribed energy level and charge the device" },
+        { "id": "e", "text": "Call 'All clear,' confirm no one is touching the client or bed, and deliver the shock" }
+      ],
+      "explanation": "Pads and leads are placed first so the device can monitor and sense the rhythm. Sedation is given before the shock for comfort and amnesia, with airway equipment ready. Sync mode is turned on and checked for markers on the R waves, then energy is selected and the device charged. The final step is to clear everyone for safety and deliver the shock, holding the button until it discharges because there is a short delay to match the R wave."
+    },
+    {
+      "id": "afib-aflutter-30",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During synchronized cardioversion for atrial fibrillation, the client's rhythm changes to ventricular fibrillation and the client becomes pulseless. Which action should the nurse take immediately?",
+      "options": [
+        { "id": "a", "text": "Keep the device in sync mode and deliver another shock", "correct": false, "rationale": "In VF there are no organized R waves for the device to sense, so a synchronized shock may never discharge." },
+        { "id": "b", "text": "Administer adenosine 6 mg rapid IV push", "correct": false, "rationale": "Adenosine is used for stable SVT and has no role in VF." },
+        { "id": "c", "text": "Turn off the sync mode and defibrillate", "correct": true, "rationale": "Pulseless VF requires immediate unsynchronized defibrillation followed by CPR per ACLS." },
+        { "id": "d", "text": "Give 2 rescue breaths and recheck the pulse in 2 minutes", "correct": false, "rationale": "Delaying defibrillation in witnessed VF lowers survival; the shock is the priority, followed by CPR." }
+      ],
+      "explanation": "Synchronized cardioversion is for rhythms with a pulse and identifiable R waves. If the client develops pulseless VF, the nurse must turn off sync and defibrillate right away, then start CPR. Many defibrillators return to unsynchronized mode after each shock, so sync must be re-selected for any repeat cardioversion."
+    },
+    {
+      "id": "afib-aflutter-31",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nursing student asks why the sync button must be turned on before cardioversion for atrial fibrillation. Which explanation by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "'It increases the energy delivered so fewer shocks are needed.'", "correct": false, "rationale": "Sync mode does not change the energy level; energy is selected separately." },
+        { "id": "b", "text": "'It times the shock to the R wave so it does not fall on the T wave and trigger ventricular fibrillation.'", "correct": true, "rationale": "A shock during the vulnerable relative refractory period (T wave) can cause an R-on-T phenomenon and VF; syncing to the R wave avoids this." },
+        { "id": "c", "text": "'It allows the shock to be delivered without sedation.'", "correct": false, "rationale": "Sync mode has nothing to do with sedation; conscious clients should receive sedation whenever possible." },
+        { "id": "d", "text": "'It prevents a clot from moving out of the atrium during the shock.'", "correct": false, "rationale": "Sync mode does not prevent embolization; stroke risk is managed with anticoagulation and TEE." }
+      ],
+      "explanation": "During synchronized cardioversion, the defibrillator senses the QRS complex and delivers the shock on the R wave. This avoids the T wave, when the ventricles are vulnerable and a shock could cause VF. Synchronized cardioversion is used for unstable tachycardias with a pulse and elective rhythm conversion."
+    },
+    {
+      "id": "afib-aflutter-32",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is preparing a client with atrial fibrillation for elective synchronized cardioversion. Which actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Confirm the client has had nothing by mouth as prescribed", "correct": true, "rationale": "The client receives procedural sedation, so NPO status reduces aspiration risk." },
+        { "id": "b", "text": "Verify therapeutic anticoagulation or a TEE showing no atrial thrombus", "correct": true, "rationale": "This reduces the risk of stroke from a dislodged clot when the atria begin contracting again." },
+        { "id": "c", "text": "Have suction, oxygen, and airway equipment at the bedside", "correct": true, "rationale": "Sedation can depress respirations, and the shock can cause dysrhythmias, so emergency equipment must be ready." },
+        { "id": "d", "text": "Leave the transdermal nitroglycerin patch under the pad site", "correct": false, "rationale": "Medication patches should be removed from pad sites because they can cause burns or arcing and impede current delivery." },
+        { "id": "e", "text": "Instruct the client to stop the anticoagulant the morning after the procedure", "correct": false, "rationale": "Anticoagulation continues for at least 4 weeks after cardioversion because atrial function recovers slowly and clot risk remains." },
+        { "id": "f", "text": "Leave the sync mode off until after the shock is charged", "correct": false, "rationale": "Sync mode should be turned on and checked for markers on the R waves before charging and delivering the shock." }
+      ],
+      "explanation": "Elective cardioversion preparation includes informed consent, NPO status, IV access, confirming anticoagulation or TEE results, removing medication patches, and having emergency and airway equipment ready. Anticoagulation continues for at least 4 weeks afterward. After the procedure, monitor airway, LOC, vital signs, rhythm, and skin under the pads."
+    },
+    {
+      "id": "afib-aflutter-33",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Two hours after catheter ablation for atrial flutter through the right femoral vein, a client reports warmth and wetness in the groin. The nurse finds blood on the dressing and a growing swelling at the site. Which action should the nurse take first?",
+      "options": [
+        { "id": "a", "text": "Raise the head of the bed to 90 degrees", "correct": false, "rationale": "Flexing the hip can worsen bleeding at a femoral site; the leg is usually kept straight with limited head elevation per protocol." },
+        { "id": "b", "text": "Remove the dressing and apply a new, larger dressing", "correct": false, "rationale": "Changing the dressing does not control bleeding and delays applying pressure." },
+        { "id": "c", "text": "Document the findings and recheck the site in 30 minutes", "correct": false, "rationale": "Active bleeding with an expanding hematoma requires immediate intervention." },
+        { "id": "d", "text": "Apply firm manual pressure just above the puncture site", "correct": true, "rationale": "Direct pressure is the first step to control bleeding or an expanding hematoma; the nurse then calls for help, checks distal pulses and vital signs, and notifies the provider." }
+      ],
+      "explanation": "Catheter ablation uses radiofrequency or cryoenergy to destroy tissue that causes the dysrhythmia; for typical flutter, the cavotricuspid isthmus is ablated and the procedure is often curative. After the procedure, the nurse monitors the access site for bleeding and hematoma, checks distal pulses, keeps the leg straight for the prescribed time, and monitors the rhythm."
+    },
+    {
+      "id": "afib-aflutter-34",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is evaluating a client's understanding of discharge teaching after a catheter ablation for atrial fibrillation. Which client statements indicate the teaching was effective? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "'The procedure destroyed small areas of heart tissue that were sending out the abnormal signals.'", "correct": true, "rationale": "This accurately describes ablation, which scars tissue (often around the pulmonary veins in atrial fibrillation) to block abnormal impulses." },
+        { "id": "b", "text": "'I will avoid heavy lifting and strenuous exercise for the next several days.'", "correct": true, "rationale": "Activity limits protect the femoral access site from bleeding during early healing." },
+        { "id": "c", "text": "'I will call my provider if I notice bleeding, swelling, or pain at the groin site.'", "correct": true, "rationale": "These may signal bleeding, hematoma, or pseudoaneurysm and need prompt evaluation." },
+        { "id": "d", "text": "'Now that I've had the ablation, I can stop my blood thinner right away.'", "correct": false, "rationale": "Anticoagulation is continued for at least several weeks after ablation, and long-term need is based on stroke risk, not the procedure." },
+        { "id": "e", "text": "'If I feel palpitations again, it means the procedure failed and nothing more can be done.'", "correct": false, "rationale": "Palpitations can occur during healing and should be reported; recurrences can often be treated with medication or a repeat ablation." }
+      ],
+      "explanation": "Clients should understand the purpose of ablation, how to care for the access site, activity limits, and which symptoms to report. Anticoagulation is not stopped just because ablation was done; the decision depends on stroke risk. Early recurrences of atrial dysrhythmia can happen during healing."
+    },
+    {
+      "id": "afib-aflutter-35",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with persistent atrial fibrillation was started on metoprolol for rate control 3 days ago. Which finding best indicates that the therapy is effective?",
+      "options": [
+        { "id": "a", "text": "Resting apical heart rate of 78 beats/min, irregular, with no palpitations", "correct": true, "rationale": "The goal of rate control is a controlled ventricular rate (generally under 110 at rest, often under 80 if symptomatic) with symptom relief. The rhythm is expected to stay irregular." },
+        { "id": "b", "text": "ECG shows normal sinus rhythm", "correct": false, "rationale": "Conversion to sinus rhythm is the goal of rhythm control; metoprolol is given to slow the ventricular rate, not to convert the rhythm." },
+        { "id": "c", "text": "Heart rate of 46 beats/min with dizziness when standing", "correct": false, "rationale": "Symptomatic bradycardia is an adverse effect of beta blockade, not a therapeutic outcome." },
+        { "id": "d", "text": "INR of 2.5", "correct": false, "rationale": "INR reflects warfarin anticoagulation, not the effect of metoprolol on heart rate." }
+      ],
+      "explanation": "Rate control slows conduction through the AV node so the ventricles fill better and symptoms improve, even though atrial fibrillation continues. Beta blockers such as metoprolol can cause bradycardia, hypotension, fatigue, and bronchospasm, and can mask hypoglycemia in clients with diabetes. Outcomes are judged by resting heart rate, symptoms, and tolerance."
+    },
+    {
+      "id": "afib-aflutter-36",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse receives report on four clients on a telemetry unit. Which client should the nurse assess first?",
+      "options": [
+        { "id": "a", "text": "Client with atrial flutter with 4:1 conduction, HR 74, awaiting ablation tomorrow", "correct": false, "rationale": "This client has a controlled ventricular rate and is stable while awaiting a planned procedure." },
+        { "id": "b", "text": "Client with chronic atrial fibrillation taking warfarin, INR 2.7", "correct": false, "rationale": "An INR of 2.7 is therapeutic for atrial fibrillation and needs no urgent action." },
+        { "id": "c", "text": "Client with new-onset atrial fibrillation, HR 146, reporting chest pressure, BP 88/54 mm Hg", "correct": true, "rationale": "Rapid ventricular response with chest pain and hypotension are signs of instability that may require immediate synchronized cardioversion." },
+        { "id": "d", "text": "Client taking amiodarone who asks about wearing sunscreen", "correct": false, "rationale": "This is a teaching need that can wait until unstable clients are assessed." }
+      ],
+      "explanation": "When prioritizing, look for clients with signs of hemodynamic instability. Atrial fibrillation with rapid ventricular response causing chest pain and hypotension means cardiac output is not adequate and the client may need emergency cardioversion. Clients who are stable with therapeutic values or teaching needs come later."
+    }
+  ]
+}
