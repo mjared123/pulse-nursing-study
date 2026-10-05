@@ -1,0 +1,322 @@
+{
+  "slug": "dosage-calc",
+  "title": "Pediatric Dosage Calculation",
+  "short": "Dosage Calc",
+  "icon": "calculator",
+  "description": "Pediatric weight-based dosage calculations: pound-to-kilogram conversion, mg/kg/dose and mg/kg/day orders, oral and IV volumes, safe-range and maximum-dose checks, maintenance fluids, and infusion rates.",
+  "keyPoints": [
+    "Convert pounds to kilograms by dividing by 2.2; all pediatric doses are based on weight in kg.",
+    "For mg/kg/day orders, find the total daily dose, then divide by doses per day: q12h = 2, q8h = 3, q6h = 4.",
+    "Volume to give = dose needed ÷ concentration (for example, mg ÷ mg/mL, or × 5 mL per amount in 5 mL).",
+    "Safe-range check: calculate the minimum and maximum for the child's weight and compare with the order; if the order is outside the range, hold and clarify.",
+    "When a weight-based dose exceeds a stated maximum, give the maximum dose.",
+    "Holliday-Segar daily maintenance: 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, 20 mL/kg for each kg over 20.",
+    "Hourly 4-2-1 rule: 4 mL/kg/hr for the first 10 kg, 2 mL/kg/hr for the next 10 kg, 1 mL/kg/hr for each kg over 20.",
+    "mL/hr = total mL ÷ hours (or mL ÷ minutes × 60); run all pediatric IV fluids and medications on a pump."
+  ],
+  "questions": [
+    {
+      "id": "dosage-calc-01",
+      "type": "numeric",
+      "bloom": "remember",
+      "stem": "A 4-year-old child is admitted with dehydration and weighs 37 lb on the clinic scale. What is the child's weight in kilograms? (1 kg = 2.2 lb) Round to the nearest tenth.",
+      "answer": 16.8,
+      "tolerance": 0.05,
+      "unit": "kg",
+      "steps": [
+        "Set up: 37 lb × (1 kg / 2.2 lb)",
+        "37 ÷ 2.2 = 16.818... kg",
+        "Round to the nearest tenth: 16.8 kg"
+      ],
+      "explanation": "Divide pounds by 2.2 to convert to kilograms; the kg number is always smaller. Nearly all pediatric doses are weight-based, so weigh the child (in kg) on admission and use the measured weight, not a parent's estimate."
+    },
+    {
+      "id": "dosage-calc-02",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 5-year-old weighing 18 kg is prescribed amoxicillin 50 mg/kg/day PO divided every 12 hours. Amoxicillin oral suspension is available as 250 mg/5 mL. How many mL should the nurse give per dose? Round to the nearest tenth.",
+      "answer": 9,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Daily dose: 18 kg × 50 mg/kg/day = 900 mg/day",
+        "Divided q12h = 2 doses/day: 900 mg ÷ 2 = 450 mg per dose",
+        "Volume: 450 mg × (5 mL / 250 mg) = 9 mL"
+      ],
+      "explanation": "For mg/kg/day orders, calculate the total daily dose first, then divide by the number of doses per day (q12h = 2, q8h = 3, q6h = 4). Then convert the single dose to volume using the concentration. Use an oral syringe, not a household spoon, to measure liquid medication."
+    },
+    {
+      "id": "dosage-calc-03",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 3-year-old weighing 44 lb has a temperature of 39.2 °C (102.6 °F). The prescription is acetaminophen 15 mg/kg/dose PO every 6 hours as needed. Acetaminophen oral suspension is 160 mg/5 mL. How many mL should the nurse give? Round to the nearest tenth.",
+      "answer": 9.4,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 44 lb ÷ 2.2 = 20 kg",
+        "Dose: 20 kg × 15 mg/kg = 300 mg",
+        "Volume: 300 mg × (5 mL / 160 mg) = 9.375 mL",
+        "Round to the nearest tenth: 9.4 mL"
+      ],
+      "explanation": "Acetaminophen is dosed at 10-15 mg/kg every 4-6 hours, not exceeding 5 doses in 24 hours. Teach parents to use the dosing device that comes with the product and to check other medicines for hidden acetaminophen to avoid overdose and liver injury."
+    },
+    {
+      "id": "dosage-calc-04",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 2-year-old weighing 13.6 kg with fever is prescribed ibuprofen 10 mg/kg/dose PO every 6 hours as needed. Ibuprofen oral suspension is 100 mg/5 mL. How many mL should the nurse give? Round to the nearest tenth.",
+      "answer": 6.8,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 13.6 kg × 10 mg/kg = 136 mg",
+        "Volume: 136 mg × (5 mL / 100 mg) = 6.8 mL"
+      ],
+      "explanation": "Ibuprofen is dosed at 5-10 mg/kg every 6-8 hours for children 6 months and older. Give it with food or milk to reduce GI upset and make sure the child is well hydrated, since NSAIDs can affect kidney function in a dehydrated child."
+    },
+    {
+      "id": "dosage-calc-05",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 6-year-old weighing 16 kg is prescribed cephalexin 250 mg PO every 6 hours. The safe dose range for cephalexin is 25-50 mg/kg/day divided every 6 hours. What is the maximum safe single dose in mg for this child?",
+      "answer": 200,
+      "tolerance": 0.5,
+      "unit": "mg",
+      "steps": [
+        "Maximum daily dose: 16 kg × 50 mg/kg/day = 800 mg/day",
+        "Divided q6h = 4 doses/day: 800 mg ÷ 4 = 200 mg per dose",
+        "Maximum safe single dose = 200 mg",
+        "Compare: the ordered 250 mg exceeds 200 mg, so the nurse holds the dose and clarifies the order with the provider."
+      ],
+      "explanation": "To check a safe range, calculate both the minimum and maximum doses for the child's weight, convert daily amounts to single doses, and compare with the order. If the ordered dose falls outside the range, hold it and contact the prescriber before giving it."
+    },
+    {
+      "id": "dosage-calc-06",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 9-year-old weighing 30 kg with croup is prescribed dexamethasone 0.6 mg/kg IV once, with a maximum dose of 16 mg. Dexamethasone injection is available as 4 mg/mL. How many mL should the nurse give? Round to the nearest tenth.",
+      "answer": 4,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Weight-based dose: 30 kg × 0.6 mg/kg = 18 mg",
+        "Compare with the maximum: 18 mg exceeds the 16 mg maximum, so give 16 mg",
+        "Volume: 16 mg × (1 mL / 4 mg) = 4 mL"
+      ],
+      "explanation": "When a weight-based calculation exceeds a stated maximum dose, the maximum is given. Dexamethasone reduces airway edema in croup; a single dose is effective, and the oral route is preferred when the child can swallow."
+    },
+    {
+      "id": "dosage-calc-07",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "An infant weighing 8 kg is NPO before surgery. Using the Holliday-Segar method (100 mL/kg/day for the first 10 kg, 50 mL/kg/day for the next 10 kg, 20 mL/kg/day for each kg over 20), what is the infant's maintenance fluid requirement in mL/day?",
+      "answer": 800,
+      "tolerance": 0.5,
+      "unit": "mL/day",
+      "steps": [
+        "The infant weighs less than 10 kg, so only the first tier applies",
+        "8 kg × 100 mL/kg/day = 800 mL/day"
+      ],
+      "explanation": "The Holliday-Segar method estimates daily maintenance fluid from weight: 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg, and 20 mL/kg for each kg above 20. Infants have a higher proportion of body water and a higher metabolic rate, so they dehydrate quickly when NPO."
+    },
+    {
+      "id": "dosage-calc-08",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 3-year-old weighing 15 kg is receiving maintenance IV fluids. Using the Holliday-Segar method (100 mL/kg/day for the first 10 kg, 50 mL/kg/day for the next 10 kg, 20 mL/kg/day for each kg over 20), what is the child's daily maintenance fluid requirement in mL/day?",
+      "answer": 1250,
+      "tolerance": 0.5,
+      "unit": "mL/day",
+      "steps": [
+        "First 10 kg: 10 × 100 mL = 1,000 mL",
+        "Remaining 5 kg: 5 × 50 mL = 250 mL",
+        "Total: 1,000 + 250 = 1,250 mL/day"
+      ],
+      "explanation": "Break the weight into tiers and add them. A 15-kg child gets 1,000 mL for the first 10 kg plus 50 mL/kg for the remaining 5 kg. Monitor intake and output, daily weight, and urine output (about 1 mL/kg/hr in children) to evaluate fluid status."
+    },
+    {
+      "id": "dosage-calc-09",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 10-year-old weighing 32 kg is NPO after an appendectomy. Using the Holliday-Segar method (100 mL/kg/day for the first 10 kg, 50 mL/kg/day for the next 10 kg, 20 mL/kg/day for each kg over 20), what is the child's daily maintenance fluid requirement in mL/day?",
+      "answer": 1740,
+      "tolerance": 0.5,
+      "unit": "mL/day",
+      "steps": [
+        "First 10 kg: 10 × 100 mL = 1,000 mL",
+        "Next 10 kg: 10 × 50 mL = 500 mL",
+        "Remaining 12 kg: 12 × 20 mL = 240 mL",
+        "Total: 1,000 + 500 + 240 = 1,740 mL/day"
+      ],
+      "explanation": "For children over 20 kg, the formula is 1,500 mL plus 20 mL/kg for each kg above 20. Dividing the daily total by 24 gives an hourly rate (about 72.5 mL/hr here), which is close to the 4-2-1 hourly method result."
+    },
+    {
+      "id": "dosage-calc-10",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 6-year-old weighing 24 kg needs maintenance IV fluids. Using the 4-2-1 rule (4 mL/kg/hr for the first 10 kg, 2 mL/kg/hr for the next 10 kg, 1 mL/kg/hr for each kg over 20), at what rate in mL/hr should the nurse set the pump?",
+      "answer": 64,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "First 10 kg: 10 × 4 mL/hr = 40 mL/hr",
+        "Next 10 kg: 10 × 2 mL/hr = 20 mL/hr",
+        "Remaining 4 kg: 4 × 1 mL/hr = 4 mL/hr",
+        "Total: 40 + 20 + 4 = 64 mL/hr"
+      ],
+      "explanation": "The 4-2-1 rule is the hourly version of Holliday-Segar. Pediatric IV fluids are always run on an infusion pump, and the nurse checks the site and the volume infused every hour to prevent fluid overload and infiltration."
+    },
+    {
+      "id": "dosage-calc-11",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "An infant weighing 9 kg with bronchiolitis is unable to feed well and is started on maintenance IV fluids. Using the 4-2-1 rule (4 mL/kg/hr for the first 10 kg), at what rate in mL/hr should the nurse set the pump?",
+      "answer": 36,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "The infant weighs less than 10 kg, so only the first tier applies",
+        "9 kg × 4 mL/kg/hr = 36 mL/hr"
+      ],
+      "explanation": "For children under 10 kg, maintenance is 4 mL/kg/hr (equivalent to 100 mL/kg/day). Infants with respiratory illness may be unable to feed safely because of tachypnea, so IV fluids prevent dehydration while the airway is supported."
+    },
+    {
+      "id": "dosage-calc-12",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 7-year-old weighing 55 lb is admitted with vomiting and needs maintenance IV fluids. Using the 4-2-1 rule (4 mL/kg/hr for the first 10 kg, 2 mL/kg/hr for the next 10 kg, 1 mL/kg/hr for each kg over 20), at what rate in mL/hr should the nurse set the pump?",
+      "answer": 65,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Convert weight: 55 lb ÷ 2.2 = 25 kg",
+        "First 10 kg: 10 × 4 = 40 mL/hr",
+        "Next 10 kg: 10 × 2 = 20 mL/hr",
+        "Remaining 5 kg: 5 × 1 = 5 mL/hr",
+        "Total: 40 + 20 + 5 = 65 mL/hr"
+      ],
+      "explanation": "Always convert pounds to kilograms before applying the fluid formula. Monitor for signs of adequate hydration: moist mucous membranes, urine output of at least 1 mL/kg/hr, normal capillary refill, and stable weight."
+    },
+    {
+      "id": "dosage-calc-13",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 2-month-old infant weighing 6 kg is prescribed ampicillin 100 mg/kg/day IV divided every 6 hours. The reconstituted vial contains 100 mg/mL. How many mL should the nurse draw up for each dose? Round to the nearest tenth.",
+      "answer": 1.5,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Daily dose: 6 kg × 100 mg/kg/day = 600 mg/day",
+        "Divided q6h = 4 doses/day: 600 mg ÷ 4 = 150 mg per dose",
+        "Volume: 150 mg × (1 mL / 100 mg) = 1.5 mL"
+      ],
+      "explanation": "IV antibiotics for infants are calculated per kg and divided by the dosing interval. Small volumes should be drawn up in an appropriately sized syringe, and a second nurse check is good practice for pediatric IV medications because small errors are proportionally large."
+    },
+    {
+      "id": "dosage-calc-14",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 5-year-old weighing 18 kg is prescribed clindamycin 10 mg/kg IV every 8 hours. Pharmacy sends the dose diluted in 50 mL to infuse over 30 minutes. At what rate in mL/hr should the nurse set the infusion pump?",
+      "answer": 100,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Dose check: 18 kg × 10 mg/kg = 180 mg (in 50 mL)",
+        "Rate: 50 mL ÷ 30 min = 1.667 mL/min",
+        "Convert to mL/hr: 1.667 mL/min × 60 min/hr = 100 mL/hr"
+      ],
+      "explanation": "To find mL/hr for an intermittent infusion, divide the volume by the infusion time in minutes and multiply by 60 (or divide volume by time in hours: 50 mL ÷ 0.5 hr). Verify the dose is weight-appropriate before hanging the infusion."
+    },
+    {
+      "id": "dosage-calc-15",
+      "type": "numeric",
+      "bloom": "analyze",
+      "stem": "A 7-year-old weighing 22 kg with postoperative nausea is prescribed ondansetron 0.15 mg/kg IV, maximum 4 mg per dose. Ondansetron is available as 2 mg/mL. How many mL should the nurse give? Round to the nearest hundredth.",
+      "answer": 1.65,
+      "tolerance": 0.005,
+      "unit": "mL",
+      "steps": [
+        "Weight-based dose: 22 kg × 0.15 mg/kg = 3.3 mg",
+        "Compare with the maximum: 3.3 mg is less than 4 mg, so give 3.3 mg",
+        "Volume: 3.3 mg × (1 mL / 2 mg) = 1.65 mL"
+      ],
+      "explanation": "Always compare the calculated dose with the maximum. Here the weight-based dose is below the 4 mg cap, so the calculated dose is given. Small volumes are rounded to the hundredth and measured in a 1-mL or 3-mL syringe."
+    },
+    {
+      "id": "dosage-calc-16",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "An 18-month-old weighing 26 lb has acute otitis media and is prescribed high-dose amoxicillin 90 mg/kg/day PO divided every 12 hours. The suspension is 400 mg/5 mL. Convert the weight to kg and round to the nearest tenth before calculating. How many mL should the nurse give per dose? Round to the nearest tenth.",
+      "answer": 6.6,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Convert weight: 26 lb ÷ 2.2 = 11.818 kg, rounded to 11.8 kg",
+        "Daily dose: 11.8 kg × 90 mg/kg/day = 1,062 mg/day",
+        "Divided q12h: 1,062 mg ÷ 2 = 531 mg per dose",
+        "Volume: 531 mg × (5 mL / 400 mg) = 6.6375 mL",
+        "Round to the nearest tenth: 6.6 mL"
+      ],
+      "explanation": "High-dose amoxicillin (80-90 mg/kg/day divided twice daily) is the first-line treatment for acute otitis media. Teach parents to finish the full course, shake the suspension, refrigerate it if the label directs, and measure with an oral syringe."
+    },
+    {
+      "id": "dosage-calc-17",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 10-year-old weighing 28 kg is prescribed morphine 0.1 mg/kg IV every 3 hours as needed for postoperative pain. Morphine is available as 4 mg/mL. How many mL should the nurse give? Round to the nearest tenth.",
+      "answer": 0.7,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 28 kg × 0.1 mg/kg = 2.8 mg",
+        "Volume: 2.8 mg × (1 mL / 4 mg) = 0.7 mL"
+      ],
+      "explanation": "Opioids are high-alert medications in children. Verify the dose against weight, use a second nurse check per policy, and monitor respiratory rate, oxygen saturation, sedation level, and pain score with an age-appropriate scale. Have naloxone available."
+    },
+    {
+      "id": "dosage-calc-18",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 2-year-old weighing 14 kg with moderate dehydration is prescribed a normal saline bolus of 20 mL/kg IV to infuse over 1 hour. At what rate in mL/hr should the nurse set the pump?",
+      "answer": 280,
+      "tolerance": 0.5,
+      "unit": "mL/hr",
+      "steps": [
+        "Bolus volume: 14 kg × 20 mL/kg = 280 mL",
+        "Rate: 280 mL ÷ 1 hr = 280 mL/hr"
+      ],
+      "explanation": "Isotonic fluid boluses for children are 10-20 mL/kg. After the bolus, reassess heart rate, capillary refill, mental status, and urine output to decide whether another bolus or maintenance fluid is needed. Dextrose-containing fluids are not used for boluses."
+    },
+    {
+      "id": "dosage-calc-19",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 6-year-old weighing 19 kg with an asthma exacerbation is prescribed prednisolone 2 mg/kg/day PO once daily, maximum 60 mg/day. Prednisolone oral solution is 15 mg/5 mL. How many mL should the nurse give? Round to the nearest tenth.",
+      "answer": 12.7,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Dose: 19 kg × 2 mg/kg/day = 38 mg (below the 60 mg maximum)",
+        "Volume: 38 mg × (5 mL / 15 mg) = 12.666... mL",
+        "Round to the nearest tenth: 12.7 mL"
+      ],
+      "explanation": "Systemic corticosteroids given early in an asthma exacerbation reduce airway inflammation and hospitalization. Give with food to reduce GI upset. Confirm the calculated dose is below the stated maximum before giving it."
+    },
+    {
+      "id": "dosage-calc-20",
+      "type": "numeric",
+      "bloom": "apply",
+      "stem": "A 3-year-old weighing 12 kg is prescribed gentamicin 7.5 mg/kg/day IV divided every 8 hours. Gentamicin is available as 10 mg/mL. How many mL should the nurse draw up for each dose? Round to the nearest tenth.",
+      "answer": 3,
+      "tolerance": 0.05,
+      "unit": "mL",
+      "steps": [
+        "Daily dose: 12 kg × 7.5 mg/kg/day = 90 mg/day",
+        "Divided q8h = 3 doses/day: 90 mg ÷ 3 = 30 mg per dose",
+        "Volume: 30 mg × (1 mL / 10 mg) = 3 mL"
+      ],
+      "explanation": "Aminoglycosides such as gentamicin can cause nephrotoxicity and ototoxicity. The nurse monitors peak and trough levels, urine output, BUN and creatinine, and hearing. Every 8 hours means 3 doses per day."
+    }
+  ]
+}

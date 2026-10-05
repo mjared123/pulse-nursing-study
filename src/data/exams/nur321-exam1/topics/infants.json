@@ -1,0 +1,711 @@
+{
+  "slug": "infants",
+  "title": "Health Promotion of Infants",
+  "short": "Infants",
+  "icon": "sparkles",
+  "description": "Infant vital signs and assessment technique, safe sleep and injury prevention, motor and growth milestones, fontanels and developmental red flags, trust versus mistrust, and first-year nutrition.",
+  "keyPoints": [
+    "Infant normal ranges: heart rate about 100-160 beats/min and respiratory rate about 30-60 breaths/min; count respirations first while the infant is quiet, then the apical pulse, both for a full 60 seconds.",
+    "Safe sleep: always on the back, alone, in a crib or bassinet with a firm, flat mattress and fitted sheet; no pillows, bumpers, blankets, or toys; room-share without bed-sharing.",
+    "Car seat: rear-facing in the back seat until the child reaches the highest weight or height allowed by the seat's manufacturer; never in front of an active airbag.",
+    "Injury prevention: hand on the infant on any raised surface once rolling begins, water heater at 120°F (49°C) or lower, never leave the infant alone in water, no walkers, and keep small objects and round firm foods away.",
+    "Milestones: head lag gone by about 4-6 months, rolls about 4-6 months, sits unsupported about 7-8 months, crawls about 9 months, pincer grasp about 9-10 months; birth weight doubles by 5-6 months and triples by 12 months.",
+    "Posterior fontanel closes by 6-8 weeks and anterior by 12-18 months; a bulging fontanel in a calm, upright infant suggests increased intracranial pressure, and a sunken one suggests dehydration.",
+    "Red flags: no social smile by 3-4 months, persistent primitive reflexes such as the Moro beyond 6 months, head lag after 6 months, and no response to sound.",
+    "Erikson trust vs mistrust: meet needs promptly and consistently. Nutrition: breast milk or iron-fortified formula all year, solids around 6 months one single-ingredient food at a time, no honey, cow's milk, or juice before 12 months, and never prop a bottle."
+  ],
+  "questions": [
+    {
+      "id": "infants-01",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is performing a well-child assessment on a 4-month-old (6.5 kg) who is awake and quiet in the parent's arms. Which finding should the nurse report to the health care provider?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiratory rate of 72 breaths/min",
+          "correct": true,
+          "rationale": "A respiratory rate of 72 breaths/min is tachypnea for a quiet infant (expected about 30-60 breaths/min) and may be an early sign of respiratory or cardiac illness, so it needs follow-up."
+        },
+        {
+          "id": "b",
+          "text": "Apical heart rate of 142 beats/min",
+          "correct": false,
+          "rationale": "A heart rate of 142 beats/min is within the expected infant range of about 100-160 beats/min."
+        },
+        {
+          "id": "c",
+          "text": "Axillary temperature of 37.1°C (98.8°F)",
+          "correct": false,
+          "rationale": "This axillary temperature is normal and does not require follow-up."
+        },
+        {
+          "id": "d",
+          "text": "Irregular, abdominal breathing pattern",
+          "correct": false,
+          "rationale": "Infants are abdominal (diaphragmatic) breathers, and brief irregularity in rhythm is expected at this age."
+        }
+      ],
+      "explanation": "Normal infant ranges are about 100-160 beats/min for heart rate and 30-60 breaths/min for respirations, measured while the infant is quiet. Tachypnea above the expected range in a calm infant is an early cue of respiratory distress and should be reported. Abdominal, slightly irregular breathing is normal in infancy."
+    },
+    {
+      "id": "infants-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse needs to obtain the heart rate of a 2-month-old. Which technique is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palpate the radial pulse for 30 seconds and multiply by 2",
+          "correct": false,
+          "rationale": "Radial pulses are difficult to palpate accurately in infants, and a 30-second count can miss irregularities."
+        },
+        {
+          "id": "b",
+          "text": "Auscultate the apical pulse for 1 full minute while the infant is quiet",
+          "correct": true,
+          "rationale": "The apical pulse is the most reliable site in infants. Counting for a full 60 seconds accounts for normal rate and rhythm irregularity such as sinus arrhythmia."
+        },
+        {
+          "id": "c",
+          "text": "Palpate the brachial pulse for 15 seconds and multiply by 4",
+          "correct": false,
+          "rationale": "The brachial site is used to check for a pulse during infant CPR, not for an accurate routine rate; a 15-second count is too short."
+        },
+        {
+          "id": "d",
+          "text": "Auscultate the apical pulse right after measuring the rectal temperature",
+          "correct": false,
+          "rationale": "Taking the temperature first usually upsets the infant and raises the heart rate. Count respirations and pulse first while the infant is calm."
+        }
+      ],
+      "explanation": "In infants and children younger than 2 years, the apical pulse is auscultated near the apex of the heart (about the fourth intercostal space, left of the sternum) for a full minute. Assess respirations and heart rate first while the infant is quiet, and save intrusive measurements such as temperature for last."
+    },
+    {
+      "id": "infants-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing safe sleep with the parents of a 1-month-old. Which statement by a parent indicates the need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We'll lay her on her back for every nap and at night.\"",
+          "correct": false,
+          "rationale": "Back to sleep for every sleep is the cornerstone of SIDS prevention. This statement is correct."
+        },
+        {
+          "id": "b",
+          "text": "\"Her crib will be in our room, but she'll sleep in her own crib, not our bed.\"",
+          "correct": false,
+          "rationale": "Room-sharing without bed-sharing is recommended and lowers SIDS risk. This statement is correct."
+        },
+        {
+          "id": "c",
+          "text": "\"We'll use soft crib bumper pads so she doesn't bump her head on the slats.\"",
+          "correct": true,
+          "rationale": "Bumper pads, like pillows and loose blankets, increase the risk of suffocation, entrapment, and SIDS and should not be used. This parent needs more teaching."
+        },
+        {
+          "id": "d",
+          "text": "\"We'll put her in a wearable blanket instead of covering her with a loose one.\"",
+          "correct": false,
+          "rationale": "A wearable blanket (sleep sack) keeps the infant warm without loose bedding. This statement is correct."
+        }
+      ],
+      "explanation": "Safe sleep teaching includes placing the infant on the back for every sleep, on a firm, flat surface with only a fitted sheet, and in the parents' room but not in the parents' bed. Soft objects such as bumpers, pillows, blankets, and stuffed toys are kept out of the sleep space. Avoid overheating."
+    },
+    {
+      "id": "infants-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching the parents of a newborn how to reduce the risk of sudden infant death syndrome (SIDS). Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the infant on the back for naps and at night.",
+          "correct": true,
+          "rationale": "Supine sleep for every sleep greatly reduces SIDS risk."
+        },
+        {
+          "id": "b",
+          "text": "Use a firm, flat crib mattress covered only with a fitted sheet.",
+          "correct": true,
+          "rationale": "A firm, flat surface without soft bedding prevents suffocation and rebreathing."
+        },
+        {
+          "id": "c",
+          "text": "Keep the crib in the parents' room, but do not bring the infant into the adult bed to sleep.",
+          "correct": true,
+          "rationale": "Room-sharing without bed-sharing is protective; bed-sharing increases the risk of suffocation."
+        },
+        {
+          "id": "d",
+          "text": "Position the infant on the side with a rolled blanket behind the back.",
+          "correct": false,
+          "rationale": "Side-lying is unstable because the infant can roll prone, and rolled blankets are soft bedding. Neither is recommended."
+        },
+        {
+          "id": "e",
+          "text": "If the infant falls asleep in the car seat or swing, let the infant finish the nap there.",
+          "correct": false,
+          "rationale": "Sitting devices are not for routine sleep. The infant's head can fall forward and obstruct the airway, so move the infant to a firm, flat surface."
+        },
+        {
+          "id": "f",
+          "text": "Place a small stuffed toy in the crib for comfort.",
+          "correct": false,
+          "rationale": "Soft objects in the sleep space increase the risk of suffocation and SIDS."
+        }
+      ],
+      "explanation": "Safe sleep practices are back to sleep, a firm and flat sleep surface, nothing soft in the crib, and room-sharing without bed-sharing. Inclined or sitting devices such as car seats, swings, and inclined sleepers are not safe for routine sleep."
+    },
+    {
+      "id": "infants-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 10-month-old who weighs 9 kg asks, \"When can I turn his car seat to face forward? He'll be 1 next month.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"You can turn it forward on his first birthday, since he weighs more than 20 lb.\"",
+          "correct": false,
+          "rationale": "The old \"1 year and 20 lb\" rule is outdated and would remove protection early."
+        },
+        {
+          "id": "b",
+          "text": "\"Once he can sit without support, a forward-facing seat is safe.\"",
+          "correct": false,
+          "rationale": "Sitting ability does not mean the neck and spine can tolerate crash forces in a forward-facing seat."
+        },
+        {
+          "id": "c",
+          "text": "\"He can stay rear-facing, but put him in the front seat so you can watch him.\"",
+          "correct": false,
+          "rationale": "A rear-facing seat must never be placed in front of an active airbag. Children should ride in the back seat."
+        },
+        {
+          "id": "d",
+          "text": "\"Keep him rear-facing until he reaches the highest weight or height your seat's manufacturer allows.\"",
+          "correct": true,
+          "rationale": "Current AAP guidance is to keep children rear-facing as long as possible, until they reach the seat's rear-facing limits. Rear-facing seats protect the head, neck, and spine best."
+        }
+      ],
+      "explanation": "Infants and toddlers ride rear-facing in the back seat in a properly installed seat until they reach the maximum rear-facing weight or height for that seat. A rear-facing seat spreads crash forces across the child's back and supports the relatively large head and weak neck."
+    },
+    {
+      "id": "infants-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 4-month-old reports that the infant rolled over from the abdomen to the back for the first time today. Which teaching is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Keep a hand on her whenever she is on a changing table, bed, or couch.\"",
+          "correct": true,
+          "rationale": "Once an infant can roll, falls from raised surfaces become a major risk. Never leave the infant unattended on a raised surface, even for a moment."
+        },
+        {
+          "id": "b",
+          "text": "\"A baby walker will help her practice moving safely.\"",
+          "correct": false,
+          "rationale": "Walkers do not promote development, and they cause falls down stairs and give access to hazards. The AAP recommends against them."
+        },
+        {
+          "id": "c",
+          "text": "\"You can set her in her bouncy seat on the counter while you cook.\"",
+          "correct": false,
+          "rationale": "Infant seats can move or tip off raised surfaces, and the kitchen adds burn risk. Place seats on the floor."
+        },
+        {
+          "id": "d",
+          "text": "\"You can wait to install stair gates until she starts walking.\"",
+          "correct": false,
+          "rationale": "Gates are needed before the infant becomes mobile by crawling, not after walking begins."
+        }
+      ],
+      "explanation": "Falls are a leading cause of injury in infants, especially once rolling begins at about 4-6 months. Teach parents to keep a hand on the infant on raised surfaces, keep crib rails up, put seats on the floor, avoid walkers, and use gates before crawling begins."
+    },
+    {
+      "id": "infants-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse observes several caregiving practices during a home visit for a 3-month-old. Which action requires the nurse to intervene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The parent tests the bath water with an elbow before placing the infant in it.",
+          "correct": false,
+          "rationale": "Testing water with the elbow or wrist is an appropriate way to prevent scald burns."
+        },
+        {
+          "id": "b",
+          "text": "The parent heats a bottle of formula in the microwave for 1 minute.",
+          "correct": true,
+          "rationale": "Microwaving heats unevenly and creates hot spots that can scald the infant's mouth. Warm bottles in a bowl of warm water and test a few drops on the wrist."
+        },
+        {
+          "id": "c",
+          "text": "The parent says the water heater is set to 120°F (49°C).",
+          "correct": false,
+          "rationale": "Setting the water heater to 120°F (49°C) or lower reduces the risk of tap-water scalds."
+        },
+        {
+          "id": "d",
+          "text": "The parent sets down a hot cup of coffee before picking up the infant.",
+          "correct": false,
+          "rationale": "Not holding hot liquids while holding the infant prevents spill burns. This is safe."
+        }
+      ],
+      "explanation": "Infant burn prevention focuses on scalds: keep the water heater at 120°F (49°C) or lower, test bath water, never microwave bottles, and never hold hot drinks while holding the infant. Infants' thin skin burns more deeply and at lower temperatures than adults' skin."
+    },
+    {
+      "id": "infants-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 9-month-old who has just developed a pincer grasp asks which finger foods are safe. Which food should the nurse recommend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Whole grapes",
+          "correct": false,
+          "rationale": "Round, firm foods such as whole grapes can completely block an infant's small airway. Grapes must be cut into small pieces before this age."
+        },
+        {
+          "id": "b",
+          "text": "Popcorn",
+          "correct": false,
+          "rationale": "Popcorn is a choking hazard for infants and toddlers and can be aspirated into the lungs."
+        },
+        {
+          "id": "c",
+          "text": "Small pieces of soft-cooked carrot",
+          "correct": true,
+          "rationale": "Soft, small pieces that dissolve or mash easily are appropriate for an infant who is learning to self-feed."
+        },
+        {
+          "id": "d",
+          "text": "Hot dog slices cut into rounds",
+          "correct": false,
+          "rationale": "Hot dog rounds are the size and shape of the child's airway and are a leading cause of fatal food choking."
+        }
+      ],
+      "explanation": "The pincer grasp at about 9-10 months lets infants pick up small items, which increases choking risk. Offer soft, small, easily mashed finger foods, and avoid nuts, popcorn, hard candy, whole grapes, and hot dog rounds. Keep any object that fits through a toilet paper tube out of reach."
+    },
+    {
+      "id": "infants-09",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 7-month-old is choking on a piece of food. The infant is conscious but cannot cry or cough. Place the nurse's actions in the correct order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Confirm severe airway obstruction by observing that the infant cannot cry, cough, or breathe"
+        },
+        {
+          "id": "b",
+          "text": "Hold the infant face down along the forearm with the head lower than the chest, supporting the jaw"
+        },
+        {
+          "id": "c",
+          "text": "Give up to 5 firm back blows between the shoulder blades"
+        },
+        {
+          "id": "d",
+          "text": "Turn the infant face up and give up to 5 chest thrusts just below the nipple line"
+        },
+        {
+          "id": "e",
+          "text": "Repeat back blows and chest thrusts until the object is expelled or the infant becomes unresponsive"
+        }
+      ],
+      "explanation": "For a responsive infant younger than 1 year, first confirm that the obstruction is severe. Position the infant face down with the head lower than the chest, give up to 5 back blows, then turn the infant over and give up to 5 chest thrusts. Repeat the cycle until the object comes out or the infant becomes unresponsive, then start CPR. Abdominal thrusts are not used in infants because they can injure the liver."
+    },
+    {
+      "id": "infants-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing a healthy-appearing 7-month-old at a well-child visit. Which finding warrants further developmental evaluation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The infant sits leaning forward on both hands",
+          "correct": false,
+          "rationale": "Sitting with support from the hands (tripod sitting) is expected around 6-7 months, before unsupported sitting at 7-8 months."
+        },
+        {
+          "id": "b",
+          "text": "The infant passes a block from one hand to the other",
+          "correct": false,
+          "rationale": "Transferring objects from hand to hand is an expected fine motor skill at about 7 months."
+        },
+        {
+          "id": "c",
+          "text": "The infant cries when the nurse, a stranger, picks her up",
+          "correct": false,
+          "rationale": "Stranger anxiety begins at about 6-8 months and shows healthy attachment to caregivers."
+        },
+        {
+          "id": "d",
+          "text": "The head lags behind the body when the infant is pulled to a sitting position",
+          "correct": true,
+          "rationale": "Head lag should be gone by about 4-6 months. Persistent head lag at 7 months suggests poor muscle tone or a neuromotor problem."
+        }
+      ],
+      "explanation": "Gross motor development proceeds head to toe: head control, then rolling, sitting, crawling, and pulling to stand. Head lag that persists beyond about 6 months is an unexpected finding that warrants referral. Stranger anxiety and hand-to-hand transfer are expected at this age."
+    },
+    {
+      "id": "infants-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An infant weighed 3.2 kg at birth. At the 12-month well-child visit, which weight would the nurse expect if growth is on track?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9.6 kg",
+          "correct": true,
+          "rationale": "Birth weight typically triples by 12 months: 3.2 kg × 3 = 9.6 kg."
+        },
+        {
+          "id": "b",
+          "text": "6.4 kg",
+          "correct": false,
+          "rationale": "6.4 kg is double the birth weight. That is expected at about 5-6 months and would show poor growth at 12 months."
+        },
+        {
+          "id": "c",
+          "text": "12.8 kg",
+          "correct": false,
+          "rationale": "12.8 kg is quadruple the birth weight, which is expected at about 2.5 years, not at 1 year."
+        },
+        {
+          "id": "d",
+          "text": "16 kg",
+          "correct": false,
+          "rationale": "16 kg is five times the birth weight and would be far above expected growth at 12 months."
+        }
+      ],
+      "explanation": "Infants usually double their birth weight by about 5-6 months and triple it by 12 months. Weight, length, and head circumference are plotted on growth charts at each visit. Crossing percentile lines downward can signal failure to thrive."
+    },
+    {
+      "id": "infants-12",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 8-month-old is brought to the clinic for irritability and vomiting. With the infant held upright and calm, the nurse palpates a tense, bulging anterior fontanel. How should the nurse interpret this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is expected because the anterior fontanel does not close until 12-18 months.",
+          "correct": false,
+          "rationale": "An open anterior fontanel is expected at this age, but it should feel soft and flat, not tense and bulging."
+        },
+        {
+          "id": "b",
+          "text": "It may indicate increased intracranial pressure and should be reported immediately.",
+          "correct": true,
+          "rationale": "A tense, bulging fontanel in a calm, upright infant is an unexpected finding that suggests increased ICP, such as from meningitis or hydrocephalus. It needs urgent evaluation."
+        },
+        {
+          "id": "c",
+          "text": "It indicates dehydration from the vomiting.",
+          "correct": false,
+          "rationale": "Dehydration causes a sunken fontanel, not a bulging one."
+        },
+        {
+          "id": "d",
+          "text": "It is a normal result of the infant's irritability.",
+          "correct": false,
+          "rationale": "A fontanel can bulge briefly with crying, but this infant is calm and upright, so the bulging is abnormal."
+        }
+      ],
+      "explanation": "The posterior fontanel closes by about 6-8 weeks, and the anterior fontanel closes by about 12-18 months. Assess the fontanel with the infant upright and quiet: it should be soft and flat. Bulging suggests increased intracranial pressure, and a sunken fontanel suggests dehydration."
+    },
+    {
+      "id": "infants-13",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing developmental screening findings for several infants. Which findings should the nurse identify as warranting further evaluation? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 4-month-old who does not smile in response to the parent's face or voice",
+          "correct": true,
+          "rationale": "A social smile normally appears by about 2 months. Its absence at 4 months is a red flag for vision, hearing, or social-communication problems."
+        },
+        {
+          "id": "b",
+          "text": "An 8-month-old with a persistent Moro (startle) reflex",
+          "correct": true,
+          "rationale": "The Moro reflex should fade by about 4-6 months. Persistence suggests a neurologic problem such as cerebral palsy."
+        },
+        {
+          "id": "c",
+          "text": "A 9-month-old with a positive Babinski reflex",
+          "correct": false,
+          "rationale": "A positive Babinski (fanning of the toes) is normal until about 12 months or walking age."
+        },
+        {
+          "id": "d",
+          "text": "A 6-month-old who does not turn toward voices or sounds",
+          "correct": true,
+          "rationale": "Infants localize sound by about 6 months. No response suggests hearing loss and needs a referral."
+        },
+        {
+          "id": "e",
+          "text": "An 8-month-old who cries when the parent leaves the room",
+          "correct": false,
+          "rationale": "Separation anxiety at 8 months is expected and shows attachment."
+        },
+        {
+          "id": "f",
+          "text": "A 10-month-old with an open, soft, flat anterior fontanel",
+          "correct": false,
+          "rationale": "The anterior fontanel normally stays open until 12-18 months."
+        }
+      ],
+      "explanation": "Recognizing unexpected findings is a key nursing role in well-child care. Red flags include no social smile by 3-4 months, primitive reflexes that persist past their expected age, persistent head lag, and no response to sound. Babinski until about 1 year, separation anxiety, and an open anterior fontanel before 12-18 months are expected."
+    },
+    {
+      "id": "infants-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of a 6-week-old says, \"My mother told me that if I pick her up every time she cries, I'll spoil her.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Let her cry for 15 minutes before picking her up so she learns patience.\"",
+          "correct": false,
+          "rationale": "Young infants cannot learn patience this way. Delayed, inconsistent responses promote mistrust."
+        },
+        {
+          "id": "b",
+          "text": "\"Your mother is right; it's important to start teaching her to self-soothe now.\"",
+          "correct": false,
+          "rationale": "A 6-week-old is not developmentally ready for this. Meeting needs consistently is the priority in early infancy."
+        },
+        {
+          "id": "c",
+          "text": "\"Responding to her cries quickly and consistently helps her learn to trust that her needs will be met.\"",
+          "correct": true,
+          "rationale": "According to Erikson, the infant's task is trust vs mistrust. Prompt, consistent responses to needs build trust and do not spoil young infants."
+        },
+        {
+          "id": "d",
+          "text": "\"Feed her every time she cries, since crying always means she is hungry.\"",
+          "correct": false,
+          "rationale": "Crying can mean hunger, discomfort, a wet diaper, or a need for closeness. Caregivers should assess the cause rather than always feeding."
+        }
+      ],
+      "explanation": "Erikson's first stage (birth to 1 year) is trust vs mistrust. Trust develops when caregivers meet the infant's needs for feeding, comfort, and closeness promptly and consistently. Inconsistent or neglectful care fosters mistrust."
+    },
+    {
+      "id": "infants-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 8-month-old is admitted to the pediatric unit for several days. Which nursing intervention best supports the infant's psychosocial development?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rotate nursing assignments so the infant gets used to many caregivers",
+          "correct": false,
+          "rationale": "Changing caregivers increases stranger and separation anxiety and undermines trust."
+        },
+        {
+          "id": "b",
+          "text": "Keep the infant in the crib and limit handling to reduce stress",
+          "correct": false,
+          "rationale": "Infants need holding, touch, and stimulation. Limiting contact does not meet the infant's needs for comfort."
+        },
+        {
+          "id": "c",
+          "text": "Suggest that the parents go home to rest so the infant can adjust to the unit",
+          "correct": false,
+          "rationale": "Separation from parents is the major stressor for hospitalized infants and older babies."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the parents to room in and take part in the infant's care, with consistent nurses assigned",
+          "correct": true,
+          "rationale": "The infant's task is trust. Parental presence and consistent caregivers reduce separation anxiety, which peaks at this age, and maintain trust."
+        }
+      ],
+      "explanation": "Hospitalized infants are most affected by separation from their primary caregivers, especially from about 6 months on, when stranger and separation anxiety appear. Rooming-in, family-centered care, consistent nurses, and keeping home routines support trust."
+    },
+    {
+      "id": "infants-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 6-month-old is ready to begin solid foods. Which statement by the parent indicates understanding of the teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I'll offer one new single-ingredient food and wait a few days before trying another.\"",
+          "correct": true,
+          "rationale": "Introducing one new food at a time, 3-5 days apart, makes it possible to identify a food that causes an allergic reaction or intolerance."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll mix rice cereal into her bottle so she sleeps through the night.\"",
+          "correct": false,
+          "rationale": "Cereal in a bottle increases the risk of choking and aspiration, does not teach spoon feeding, and does not reliably improve sleep."
+        },
+        {
+          "id": "c",
+          "text": "\"I'll start with fruit juice and then move to mixed dinners.\"",
+          "correct": false,
+          "rationale": "Juice is not recommended before 12 months. Mixed foods make it hard to identify a food the infant reacts to."
+        },
+        {
+          "id": "d",
+          "text": "\"Once she's eating solids well, I'll stop breastfeeding.\"",
+          "correct": false,
+          "rationale": "Breast milk or iron-fortified formula remains the main source of nutrition throughout the first year. Solids are a complement."
+        }
+      ],
+      "explanation": "Solids are introduced at about 6 months, when the infant shows readiness (good head control, sitting with support, and loss of the tongue-thrust reflex). Iron-rich foods such as iron-fortified cereal or pureed meats are good early choices because the iron stores from before birth run low by about 6 months. Single-ingredient foods are offered one at a time."
+    },
+    {
+      "id": "infants-17",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The nurse teaches the parent of a 4-month-old not to give honey, including on a pacifier. Which complication is the nurse trying to prevent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron-deficiency anemia",
+          "correct": false,
+          "rationale": "Iron-deficiency anemia is linked to early cow's milk and poor iron intake, not honey."
+        },
+        {
+          "id": "b",
+          "text": "Infant botulism",
+          "correct": true,
+          "rationale": "Honey can contain Clostridium botulinum spores, which can germinate in the immature infant gut. Avoid honey until after 12 months."
+        },
+        {
+          "id": "c",
+          "text": "Hypoglycemia",
+          "correct": false,
+          "rationale": "Honey is a sugar and does not cause hypoglycemia."
+        },
+        {
+          "id": "d",
+          "text": "Lactose intolerance",
+          "correct": false,
+          "rationale": "Honey contains no lactose and is unrelated to lactose intolerance."
+        }
+      ],
+      "explanation": "Honey in any form, raw or baked into foods, should not be given before 12 months because of the risk of infant botulism. Signs include constipation, weak suck and cry, poor feeding, and descending flaccid paralysis (\"floppy infant\")."
+    },
+    {
+      "id": "infants-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The parent of an 8-month-old says, \"Formula is so expensive. I'm going to switch him to whole cow's milk now.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Whole milk is fine if you also give iron-fortified cereal.\"",
+          "correct": false,
+          "rationale": "Cereal does not offset the problems cow's milk causes in infancy, including GI blood loss and kidney solute load."
+        },
+        {
+          "id": "b",
+          "text": "\"Try skim milk instead so he doesn't gain too much weight.\"",
+          "correct": false,
+          "rationale": "Skim milk lacks the fat and calories infants need for brain growth and is never appropriate in infancy."
+        },
+        {
+          "id": "c",
+          "text": "\"Continue breast milk or iron-fortified formula until he is 12 months old. Cow's milk before then can cause iron-deficiency anemia.\"",
+          "correct": true,
+          "rationale": "Cow's milk is low in iron, makes iron harder to absorb, can cause hidden intestinal blood loss, and puts a heavy protein and solute load on immature kidneys. It is not given before 12 months."
+        },
+        {
+          "id": "d",
+          "text": "\"You can make formula last longer by adding extra water.\"",
+          "correct": false,
+          "rationale": "Over-diluting formula can cause water intoxication (hyponatremia and seizures) and poor growth. The nurse can refer the family to WIC for formula assistance."
+        }
+      ],
+      "explanation": "Infants receive breast milk or iron-fortified formula for the first 12 months. Cow's milk is delayed because of iron deficiency, occult GI bleeding, and renal solute load. Families with financial barriers can be referred to WIC. Formula should always be mixed exactly as directed."
+    },
+    {
+      "id": "infants-19",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse observes a parent propping a bottle of formula on a rolled blanket in the crib so a 5-month-old can feed alone at naptime. Which explanation should the nurse give?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Propping is fine as long as the bottle has juice instead of formula.\"",
+          "correct": false,
+          "rationale": "Juice is not recommended before 12 months, and sugary liquids pooling in the mouth increase caries."
+        },
+        {
+          "id": "b",
+          "text": "\"Propping is safe if you check on her every 15 minutes.\"",
+          "correct": false,
+          "rationale": "Aspiration can happen within seconds, so intermittent checks do not make propping safe."
+        },
+        {
+          "id": "c",
+          "text": "\"Put only water in the bottle so she doesn't spit up.\"",
+          "correct": false,
+          "rationale": "Plain water is not needed by young infants and can cause hyponatremia. It does not address the aspiration risk."
+        },
+        {
+          "id": "d",
+          "text": "\"Propping the bottle raises the risk of choking, ear infections, and tooth decay, so hold her during feedings.\"",
+          "correct": true,
+          "rationale": "Propped bottles allow milk to flow when the infant cannot control it, causing aspiration. Milk pooling also promotes otitis media and early childhood caries, and the infant misses holding and interaction."
+        }
+      ],
+      "explanation": "Infants should be held during bottle feedings. Bottle propping and putting an infant to bed with a bottle lead to aspiration, otitis media from milk pooling near the eustachian tubes, and early childhood caries. Holding during feeding also supports bonding and trust."
+    },
+    {
+      "id": "infants-20",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is providing anticipatory guidance to the parents of an 8-month-old who has started crawling. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Set the home water heater to 120°F (49°C) or lower.",
+          "correct": true,
+          "rationale": "Lower water temperature prevents severe tap-water scalds."
+        },
+        {
+          "id": "b",
+          "text": "Stay within arm's reach every moment the infant is in the bathtub.",
+          "correct": true,
+          "rationale": "Infants can drown in a few inches of water within seconds, so constant touch supervision is required."
+        },
+        {
+          "id": "c",
+          "text": "Install safety gates at the top and bottom of stairs.",
+          "correct": true,
+          "rationale": "Crawling infants are at high risk of falls down stairs."
+        },
+        {
+          "id": "d",
+          "text": "Keep small objects that fit through a toilet paper tube off the floor.",
+          "correct": true,
+          "rationale": "Crawling infants put everything in their mouths, and small objects are choking and aspiration hazards."
+        },
+        {
+          "id": "e",
+          "text": "Use an infant walker to strengthen the legs for walking.",
+          "correct": false,
+          "rationale": "Walkers do not promote walking and cause serious falls, especially down stairs. The AAP recommends against them."
+        },
+        {
+          "id": "f",
+          "text": "Use a bath seat so you can step away briefly to grab a towel.",
+          "correct": false,
+          "rationale": "Bath seats are not safety devices. Infants can slip out or tip over and drown, so never leave the infant even briefly."
+        }
+      ],
+      "explanation": "As infants become mobile, injury prevention focuses on falls, burns, drowning, and choking. Teaching includes stair gates, a water heater at 120°F (49°C) or lower, constant touch supervision near water, and removing small objects from reach. Walkers and bath seats give false security and are not recommended."
+    }
+  ]
+}

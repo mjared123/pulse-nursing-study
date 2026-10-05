@@ -1,0 +1,474 @@
+{
+  "slug": "epiglottitis",
+  "title": "Epiglottitis",
+  "short": "Epiglottitis",
+  "icon": "alert",
+  "description": "Bacterial epiglottitis as an airway emergency: Hib and vaccination, abrupt onset, the 4 Ds, tripod positioning, thumb sign, avoiding throat examination, controlled intubation, IV antibiotics, droplet precautions, and rifampin prophylaxis.",
+  "keyPoints": [
+    "Epiglottitis is a bacterial infection historically caused by Hib; routine Hib vaccination has made it rare.",
+    "Onset is abrupt, with high fever, toxic appearance, and rapid progression to airway obstruction.",
+    "The 4 Ds: drooling, dysphagia, dysphonia (muffled voice), and distressed inspiratory effort. Spontaneous cough is usually absent.",
+    "Children sit in the tripod or sniffing position; never force them to lie flat.",
+    "The thumb sign on a lateral neck x-ray indicates a swollen epiglottis.",
+    "Never examine the throat or use a tongue blade until the airway is secured; keep the child calm with the parent and airway equipment at the bedside.",
+    "Intubation is done in a controlled setting; IV antibiotics and cultures follow airway control.",
+    "Use droplet precautions for 24 hours of antibiotic therapy; rifampin prophylaxis is given to qualifying close contacts."
+  ],
+  "questions": [
+    {
+      "id": "epiglottitis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which organism has historically been the most common cause of acute epiglottitis in children?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parainfluenza virus",
+          "correct": false,
+          "rationale": "Parainfluenza virus causes croup, not epiglottitis."
+        },
+        {
+          "id": "b",
+          "text": "Respiratory syncytial virus",
+          "correct": false,
+          "rationale": "RSV is the leading cause of bronchiolitis."
+        },
+        {
+          "id": "c",
+          "text": "Haemophilus influenzae type b (Hib)",
+          "correct": true,
+          "rationale": "Hib was the leading cause of epiglottitis; routine Hib vaccination has made it rare."
+        },
+        {
+          "id": "d",
+          "text": "Bordetella pertussis",
+          "correct": false,
+          "rationale": "B. pertussis causes whooping cough."
+        }
+      ],
+      "explanation": "Epiglottitis is a bacterial infection, historically caused mainly by Hib. Widespread Hib vaccination has dramatically reduced its incidence; other bacteria such as streptococci and staphylococci now account for many cases."
+    },
+    {
+      "id": "epiglottitis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nursing student asks why epiglottitis is now rarely seen in pediatric units. Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Routine Hib vaccination in infancy has greatly decreased the number of cases.\"",
+          "correct": true,
+          "rationale": "The Hib conjugate vaccine series beginning at 2 months of age caused a dramatic decline in epiglottitis."
+        },
+        {
+          "id": "b",
+          "text": "\"Antiviral medications now prevent the infection.\"",
+          "correct": false,
+          "rationale": "Epiglottitis is bacterial, and antivirals do not prevent it."
+        },
+        {
+          "id": "c",
+          "text": "\"Children now outgrow the risk by age 6 months.\"",
+          "correct": false,
+          "rationale": "Epiglottitis can occur at any age; the decline is from vaccination, not age."
+        },
+        {
+          "id": "d",
+          "text": "\"Universal tonsillectomy has removed the source of infection.\"",
+          "correct": false,
+          "rationale": "Tonsillectomy is not universal and does not prevent epiglottitis."
+        }
+      ],
+      "explanation": "Hib vaccination is the reason epiglottitis declined. Nurses should check immunization status, because an unvaccinated or under-vaccinated child is at higher risk."
+    },
+    {
+      "id": "epiglottitis-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 4-year-old is brought to the emergency department. The parent states, \"He was fine at bedtime, then woke up with a high fever and now he won't swallow.\" T 40.1°C, HR 150 beats/min. The child is drooling, has a muffled voice, and is sitting upright leaning forward on his hands. Which condition do these findings most suggest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Croup",
+          "correct": false,
+          "rationale": "Croup has gradual onset with low-grade fever and a barky cough, and usually no drooling."
+        },
+        {
+          "id": "b",
+          "text": "Spasmodic croup",
+          "correct": false,
+          "rationale": "Spasmodic croup occurs suddenly at night but usually without fever, drooling, or toxic appearance."
+        },
+        {
+          "id": "c",
+          "text": "Bronchiolitis",
+          "correct": false,
+          "rationale": "Bronchiolitis affects infants, with wheezing and crackles from lower airway involvement."
+        },
+        {
+          "id": "d",
+          "text": "Epiglottitis",
+          "correct": true,
+          "rationale": "Abrupt onset, high fever, drooling, dysphagia, muffled voice, and tripod positioning are classic for epiglottitis."
+        }
+      ],
+      "explanation": "The 4 Ds of epiglottitis are drooling, dysphagia, dysphonia (muffled voice), and distressed inspiratory effort. Children look toxic, have high fever, and assume a tripod or sniffing position to maximize airway opening."
+    },
+    {
+      "id": "epiglottitis-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A child with suspected epiglottitis is sitting upright, leaning forward with the chin thrust out and mouth open. The health care provider is on the way. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the child supine to obtain a lateral neck x-ray.",
+          "correct": false,
+          "rationale": "Lying the child flat can cause the swollen epiglottis to fall back and obstruct the airway."
+        },
+        {
+          "id": "b",
+          "text": "Allow the child to remain in this position on the parent's lap and keep the child calm.",
+          "correct": true,
+          "rationale": "The tripod or sniffing position maximizes airway opening. Keeping the child upright and calm with the parent helps prevent complete obstruction."
+        },
+        {
+          "id": "c",
+          "text": "Use a tongue blade to look at the throat.",
+          "correct": false,
+          "rationale": "Throat examination can provoke laryngospasm and complete obstruction."
+        },
+        {
+          "id": "d",
+          "text": "Insert a peripheral IV immediately to start antibiotics.",
+          "correct": false,
+          "rationale": "Painful procedures cause agitation and may precipitate obstruction; IV access and antibiotics follow airway stabilization."
+        }
+      ],
+      "explanation": "Do not change the child's position, examine the throat, or perform upsetting procedures until the airway is secured. Let the child stay in a position of comfort with the parent while the team prepares for controlled intubation."
+    },
+    {
+      "id": "epiglottitis-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Which finding helps the nurse distinguish epiglottitis from croup?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inspiratory stridor",
+          "correct": false,
+          "rationale": "Stridor can occur in both conditions."
+        },
+        {
+          "id": "b",
+          "text": "Absence of a spontaneous cough",
+          "correct": true,
+          "rationale": "Children with epiglottitis typically have no spontaneous cough, whereas croup is defined by a barky cough."
+        },
+        {
+          "id": "c",
+          "text": "Tachypnea",
+          "correct": false,
+          "rationale": "Tachypnea occurs in both conditions."
+        },
+        {
+          "id": "d",
+          "text": "Age of 3 years",
+          "correct": false,
+          "rationale": "Both conditions can occur in a 3-year-old, so age alone does not distinguish them."
+        }
+      ],
+      "explanation": "Absence of spontaneous cough, drooling, high fever, and abrupt onset favor epiglottitis. A barky cough with gradual onset favors croup."
+    },
+    {
+      "id": "epiglottitis-06",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A lateral neck x-ray is obtained for a child with suspected epiglottitis in a setting with airway personnel present. Which finding confirms the diagnosis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steeple sign",
+          "correct": false,
+          "rationale": "The steeple sign indicates subglottic narrowing in croup."
+        },
+        {
+          "id": "b",
+          "text": "Hyperinflated lung on one side",
+          "correct": false,
+          "rationale": "Unilateral hyperinflation suggests a foreign body."
+        },
+        {
+          "id": "c",
+          "text": "Diffuse patchy infiltrates",
+          "correct": false,
+          "rationale": "Patchy infiltrates suggest bronchiolitis or atypical pneumonia."
+        },
+        {
+          "id": "d",
+          "text": "Thumb sign",
+          "correct": true,
+          "rationale": "The thumb sign is the swollen, rounded epiglottis seen on a lateral neck x-ray."
+        }
+      ],
+      "explanation": "The thumb sign on lateral neck radiograph supports epiglottitis. Imaging should never delay airway management, and the child must be accompanied by staff who can manage the airway."
+    },
+    {
+      "id": "epiglottitis-07",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A child with suspected epiglottitis is in the emergency department. Which prescription should the nurse question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obtain a throat culture now",
+          "correct": true,
+          "rationale": "Swabbing or examining the throat can trigger laryngospasm and complete airway obstruction; cultures are obtained only after the airway is secured."
+        },
+        {
+          "id": "b",
+          "text": "Keep the child with the parent in a position of comfort",
+          "correct": false,
+          "rationale": "This is appropriate and reduces agitation."
+        },
+        {
+          "id": "c",
+          "text": "Have intubation and tracheostomy equipment at the bedside",
+          "correct": false,
+          "rationale": "Emergency airway equipment must be immediately available."
+        },
+        {
+          "id": "d",
+          "text": "Administer IV antibiotics after the airway is secured",
+          "correct": false,
+          "rationale": "IV antibiotics such as a third-generation cephalosporin are given once the airway is protected."
+        }
+      ],
+      "explanation": "Throat examination, tongue blades, and throat cultures are avoided until a controlled airway is established, usually in the operating room. The nurse must question any prescription that endangers the airway."
+    },
+    {
+      "id": "epiglottitis-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A child is admitted to the pediatric ICU after intubation for Hib epiglottitis. Which type of transmission-based precautions should the nurse implement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airborne precautions",
+          "correct": false,
+          "rationale": "Airborne precautions are for diseases such as tuberculosis, measles, and varicella."
+        },
+        {
+          "id": "b",
+          "text": "Contact precautions only",
+          "correct": false,
+          "rationale": "Contact precautions alone do not address droplet spread of Hib."
+        },
+        {
+          "id": "c",
+          "text": "Droplet precautions",
+          "correct": true,
+          "rationale": "Hib is spread by respiratory droplets; droplet precautions are maintained until 24 hours of effective antibiotic therapy."
+        },
+        {
+          "id": "d",
+          "text": "Standard precautions only",
+          "correct": false,
+          "rationale": "Hib disease requires droplet precautions in addition to standard precautions."
+        }
+      ],
+      "explanation": "Invasive Hib disease requires droplet precautions for the first 24 hours of effective antibiotic therapy. Close household contacts may need rifampin prophylaxis."
+    },
+    {
+      "id": "epiglottitis-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a child hospitalized with Hib epiglottitis has a 10-month-old at home who is not fully immunized. Which medication does the nurse anticipate for the household contacts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acyclovir",
+          "correct": false,
+          "rationale": "Acyclovir is an antiviral for herpes viruses and has no role in Hib prophylaxis."
+        },
+        {
+          "id": "b",
+          "text": "Oseltamivir",
+          "correct": false,
+          "rationale": "Oseltamivir is an antiviral for influenza."
+        },
+        {
+          "id": "c",
+          "text": "Palivizumab",
+          "correct": false,
+          "rationale": "Palivizumab is a monoclonal antibody for RSV prevention."
+        },
+        {
+          "id": "d",
+          "text": "Rifampin",
+          "correct": true,
+          "rationale": "Rifampin is used as chemoprophylaxis for close contacts of invasive Hib disease, especially in households with incompletely immunized young children."
+        }
+      ],
+      "explanation": "Rifampin prophylaxis is recommended for household contacts of invasive Hib disease when a household includes an under-immunized child younger than 4 years or an immunocompromised child. Teach that rifampin turns urine, tears, and sweat orange-red."
+    },
+    {
+      "id": "epiglottitis-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is caring for a child with suspected epiglottitis. Which actions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep emergency intubation and tracheostomy equipment at the bedside",
+          "correct": true,
+          "rationale": "Complete obstruction can occur suddenly, so airway equipment must be immediately available."
+        },
+        {
+          "id": "b",
+          "text": "Allow the child to remain upright with the parent",
+          "correct": true,
+          "rationale": "An upright position of comfort and parental presence keep the child calm and the airway open."
+        },
+        {
+          "id": "c",
+          "text": "Examine the throat with a tongue blade to assess swelling",
+          "correct": false,
+          "rationale": "A tongue blade can cause laryngospasm and total obstruction."
+        },
+        {
+          "id": "d",
+          "text": "Place the child supine for comfort",
+          "correct": false,
+          "rationale": "Lying flat can allow the swollen epiglottis to obstruct the airway."
+        },
+        {
+          "id": "e",
+          "text": "Prepare for intubation in a controlled setting such as the operating room",
+          "correct": true,
+          "rationale": "Intubation by skilled personnel in a controlled setting is the standard of care."
+        },
+        {
+          "id": "f",
+          "text": "Avoid anxiety-producing procedures until the airway is secured",
+          "correct": true,
+          "rationale": "Agitation and crying can precipitate complete obstruction; IV starts and blood draws are deferred."
+        }
+      ],
+      "explanation": "Epiglottitis is an airway emergency. Priorities are keeping the child calm and upright, not examining the throat, having airway equipment ready, and arranging controlled intubation. IV antibiotics and cultures follow once the airway is secured."
+    },
+    {
+      "id": "epiglottitis-11",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "Which assessment findings in a 3-year-old are consistent with epiglottitis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drooling",
+          "correct": true,
+          "rationale": "Pain and dysphagia prevent swallowing saliva."
+        },
+        {
+          "id": "b",
+          "text": "Muffled, froglike voice",
+          "correct": true,
+          "rationale": "Dysphonia results from supraglottic swelling."
+        },
+        {
+          "id": "c",
+          "text": "Barking, seal-like cough",
+          "correct": false,
+          "rationale": "A barking cough is characteristic of croup; children with epiglottitis typically have no spontaneous cough."
+        },
+        {
+          "id": "d",
+          "text": "High fever with toxic appearance",
+          "correct": true,
+          "rationale": "Bacterial infection causes high fever and an ill, toxic appearance."
+        },
+        {
+          "id": "e",
+          "text": "Gradual onset over several days after a cold",
+          "correct": false,
+          "rationale": "Gradual onset after a URI describes croup; epiglottitis is abrupt."
+        },
+        {
+          "id": "f",
+          "text": "Tripod positioning with chin thrust forward",
+          "correct": true,
+          "rationale": "Children assume the tripod or sniffing position to open the airway."
+        }
+      ],
+      "explanation": "Epiglottitis presents abruptly with high fever, toxic appearance, the 4 Ds (drooling, dysphagia, dysphonia, distressed inspiratory effort), tripod positioning, and absence of cough."
+    },
+    {
+      "id": "epiglottitis-12",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "After the airway is secured in a child with epiglottitis, which interventions should the nurse anticipate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer IV antibiotics such as ceftriaxone",
+          "correct": true,
+          "rationale": "IV antibiotics treat the bacterial infection once the airway is protected."
+        },
+        {
+          "id": "b",
+          "text": "Obtain blood and epiglottal cultures",
+          "correct": true,
+          "rationale": "Cultures are collected after the airway is secured to identify the organism."
+        },
+        {
+          "id": "c",
+          "text": "Maintain droplet precautions for the first 24 hours of antibiotics",
+          "correct": true,
+          "rationale": "Hib is spread by droplets; precautions continue until 24 hours of effective therapy."
+        },
+        {
+          "id": "d",
+          "text": "Discontinue airway monitoring because the child is intubated",
+          "correct": false,
+          "rationale": "Intubated children require continuous monitoring, including tube security and sedation, to prevent accidental extubation."
+        },
+        {
+          "id": "e",
+          "text": "Administer the Hib vaccine as treatment for the infection",
+          "correct": false,
+          "rationale": "The vaccine prevents disease but is not a treatment for active infection."
+        }
+      ],
+      "explanation": "Once intubated, the child receives IV antibiotics, cultures, droplet precautions, sedation, and close monitoring to prevent accidental extubation. Intubation usually lasts a few days until the epiglottic swelling resolves."
+    },
+    {
+      "id": "epiglottitis-13",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 4-year-old arrives with high fever, drooling, muffled voice, and tripod positioning. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Keep the child upright on the parent's lap and avoid examining the throat"
+        },
+        {
+          "id": "b",
+          "text": "Notify the provider and anesthesia, and bring emergency airway equipment to the bedside"
+        },
+        {
+          "id": "c",
+          "text": "Accompany the child to a controlled setting for intubation"
+        },
+        {
+          "id": "d",
+          "text": "Administer IV antibiotics and obtain cultures after the airway is secured"
+        },
+        {
+          "id": "e",
+          "text": "Teach the family about Hib vaccination and rifampin prophylaxis for contacts"
+        }
+      ],
+      "explanation": "The first priority is protecting the airway by keeping the child calm and avoiding throat manipulation. Next, mobilize the airway team and equipment, and secure the airway in a controlled setting. Antibiotics and cultures follow airway control, and family teaching about prevention comes last."
+    }
+  ]
+}

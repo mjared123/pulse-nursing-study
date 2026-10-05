@@ -1,0 +1,221 @@
+{
+  "slug": "school-age-adolescents",
+  "title": "School-Age Children & Adolescents",
+  "short": "School-Age & Teens",
+  "icon": "grad",
+  "description": "School-age development (industry vs inferiority, concrete operations, peers and rules) and adolescent identity formation and safety, including driving, firearms, suicide risk, substance use, sports and online safety, and confidential HEADSSS screening.",
+  "keyPoints": [
+    "School-age (6 to 12 years): Erikson industry vs inferiority. Children want to accomplish real tasks, earn recognition, and master skills; repeated failure or comparison leads to inferiority.",
+    "School-age children use concrete operational thinking (conservation, classification, reversibility), play cooperative games with rules, form same-sex peer groups and clubs, and love collecting.",
+    "Adolescents: Erikson identity vs role confusion. Peer group is central, and teens try out roles, values, and appearances; Piaget formal operations allows abstract thinking, but a sense of invulnerability fuels risk-taking.",
+    "Unintentional injuries, mainly motor vehicle crashes, are the leading cause of death in adolescents; distracted driving (texting), inexperience, speeding, alcohol, and not wearing seat belts raise risk. Graduated driver licensing reduces crashes.",
+    "Suicide is a leading cause of death in adolescents. Screen every teen; warning signs include giving away possessions, talk of death, withdrawal, sudden calm after depression, and previous attempts. Ask directly, never promise secrecy about risk of harm, and remove access to firearms and medications.",
+    "Interview adolescents alone with HEADSSS (Home, Education/Employment, Activities, Drugs, Sexuality, Suicide/depression, Safety) and explain confidentiality and its limits (danger to self or others, abuse).",
+    "Firearms in the home increase the risk of teen suicide and homicide; store guns unloaded and locked with ammunition locked separately, or remove them.",
+    "Teach sports safety (protective gear, concussion recognition and removal from play), online safety (no sexting, privacy settings, report cyberbullying), and substance-use refusal skills."
+  ],
+  "questions": [
+    {
+      "id": "school-age-adolescents-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which psychosocial developmental task does Erikson describe for the school-age child (6 to 12 years)?",
+      "options": [
+        { "id": "a", "text": "Initiative vs guilt", "correct": false, "rationale": "Initiative vs guilt is the preschool (3 to 5 years) task." },
+        { "id": "b", "text": "Identity vs role confusion", "correct": false, "rationale": "Identity vs role confusion is the adolescent task." },
+        { "id": "c", "text": "Industry vs inferiority", "correct": true, "rationale": "School-age children develop a sense of industry by accomplishing tasks, learning skills, and receiving recognition for their work." },
+        { "id": "d", "text": "Intimacy vs isolation", "correct": false, "rationale": "Intimacy vs isolation is the task of young adulthood." }
+      ],
+      "explanation": "In industry vs inferiority, school-age children want to do things well and be productive. Success and recognition build competence; repeated failure, criticism, or unfavorable comparison with peers can produce feelings of inferiority."
+    },
+    {
+      "id": "school-age-adolescents-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 9-year-old is hospitalized for 2 weeks with osteomyelitis. Which activity best supports the child's developmental needs?",
+      "options": [
+        { "id": "a", "text": "Building a model kit and keeping up with schoolwork sent by the teacher", "correct": true, "rationale": "Completing projects and schoolwork lets the child accomplish meaningful tasks and supports industry." },
+        { "id": "b", "text": "Watching cartoons alone in the room most of the day", "correct": false, "rationale": "Passive, solitary activity does not promote a sense of accomplishment or peer connection." },
+        { "id": "c", "text": "Playing with a push-pull toy", "correct": false, "rationale": "Push-pull toys are appropriate for toddlers, not school-age children." },
+        { "id": "d", "text": "Pretend play with dress-up clothes and puppets", "correct": false, "rationale": "Dramatic pretend play is most characteristic of preschoolers." }
+      ],
+      "explanation": "Hospitalized school-age children benefit from activities that produce a finished product or achievement, such as models, crafts, collections, games with rules, and schoolwork. Contact with classmates by phone or video helps maintain peer relationships."
+    },
+    {
+      "id": "school-age-adolescents-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The parent of an 8-year-old asks why the child insists that everyone follow the exact rules of a board game and gets upset when a sibling changes them. What is the nurse's best explanation?",
+      "options": [
+        { "id": "a", "text": "\"Your child is showing signs of obsessive-compulsive disorder.\"", "correct": false, "rationale": "Strong attachment to rules is developmentally normal at this age and is not, by itself, a sign of a disorder." },
+        { "id": "b", "text": "\"School-age children value rules and fairness; it gives them a sense of order and security.\"", "correct": true, "rationale": "School-age children are concrete thinkers who see rules as important and unchangeable, especially in the early school years, which supports cooperative play." },
+        { "id": "c", "text": "\"Your child is still egocentric and can't see the sibling's point of view.\"", "correct": false, "rationale": "Egocentrism decreases in the school-age years as children become able to consider others' views." },
+        { "id": "d", "text": "\"This reflects abstract reasoning that is developing early.\"", "correct": false, "rationale": "Abstract reasoning is a feature of formal operations in adolescence; rule following reflects concrete thinking." }
+      ],
+      "explanation": "School-age children engage in cooperative play with rules, rituals, and team roles. Rules provide security and a framework for fairness. Peer groups and clubs with secret codes and rules are typical, and conformity to the group becomes important."
+    },
+    {
+      "id": "school-age-adolescents-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing a 16-year-old during a well visit. Which finding is the priority to address?",
+      "options": [
+        { "id": "a", "text": "The teen changes hair color often and has recently joined a new friend group.", "correct": false, "rationale": "Experimenting with appearance and peer groups is a normal part of identity formation." },
+        { "id": "b", "text": "The teen argues with parents about curfew.", "correct": false, "rationale": "Conflict over independence is common and expected in adolescence." },
+        { "id": "c", "text": "The teen reports texting while driving \"only at red lights and on straight roads.\"", "correct": true, "rationale": "Motor vehicle crashes are the leading cause of death in adolescents, and distracted driving greatly increases crash risk. This is an immediate safety concern." },
+        { "id": "d", "text": "The teen sleeps until noon on weekends.", "correct": false, "rationale": "Adolescents have a shifted circadian rhythm and often sleep late; this is common and not an immediate safety threat." }
+      ],
+      "explanation": "Unintentional injury, primarily motor vehicle crashes, is the leading cause of death for adolescents. Inexperience, distraction from phones and passengers, speeding, alcohol, and failure to use seat belts drive the risk. Teaching should include no phone use while driving, seat belts every trip, and limits on passengers and night driving."
+    },
+    {
+      "id": "school-age-adolescents-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 15-year-old tells the school nurse, \"I've been thinking everyone would be better off without me.\" Which response by the nurse is most appropriate?",
+      "options": [
+        { "id": "a", "text": "\"Are you thinking about killing yourself?\"", "correct": true, "rationale": "Asking directly about suicidal thoughts is the correct first step; it does not increase risk and allows the nurse to assess plan, means, and intent." },
+        { "id": "b", "text": "\"Everyone feels that way sometimes. You'll feel better soon.\"", "correct": false, "rationale": "This minimizes the teen's feelings and misses a possible suicide warning sign." },
+        { "id": "c", "text": "\"Let's talk about something more positive, like your plans for the weekend.\"", "correct": false, "rationale": "Changing the subject dismisses a statement that requires immediate assessment." },
+        { "id": "d", "text": "\"I promise I won't tell anyone what you say to me.\"", "correct": false, "rationale": "Confidentiality cannot be kept when there is a risk of harm to self; promising secrecy is inappropriate." }
+      ],
+      "explanation": "Statements of hopelessness or being a burden are warning signs of suicide. The nurse should ask directly about suicidal thoughts, assess for a plan and access to means, stay with a teen at imminent risk, and notify parents and mental health professionals. Asking about suicide does not plant the idea."
+    },
+    {
+      "id": "school-age-adolescents-06",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse explains confidentiality to a 14-year-old before a HEADSSS interview. Which statement by the teen shows correct understanding?",
+      "options": [
+        { "id": "a", "text": "\"Whatever I say stays private no matter what.\"", "correct": false, "rationale": "Confidentiality has limits; it can be broken if the teen is at risk of harming self or others or is being abused." },
+        { "id": "b", "text": "\"My parents will be told everything we talk about.\"", "correct": false, "rationale": "Most information shared by adolescents is kept confidential to encourage honest disclosure." },
+        { "id": "c", "text": "\"I only have to answer the questions my parents approve.\"", "correct": false, "rationale": "The interview is conducted with the teen privately; parents do not screen the questions." },
+        { "id": "d", "text": "\"What I say is private unless I'm in danger of hurting myself or someone else, or someone is hurting me.\"", "correct": true, "rationale": "This correctly states the usual limits of adolescent confidentiality." }
+      ],
+      "explanation": "Adolescents should be interviewed alone for part of each visit. Explaining confidentiality and its limits at the start builds trust and increases honest reporting about sensitive topics such as sexuality, substance use, and mood."
+    },
+    {
+      "id": "school-age-adolescents-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During a HEADSSS assessment, a 17-year-old reports feeling sad most days for a month, and the parent mentions there is a handgun in the home. Which nursing action is most important?",
+      "options": [
+        { "id": "a", "text": "Recommend the teen join a sports team to improve mood.", "correct": false, "rationale": "Activities may help, but this does not address the lethal risk created by firearm access in a teen with depressive symptoms." },
+        { "id": "b", "text": "Complete a suicide risk screening and counsel the family to remove the firearm or store it locked and unloaded with ammunition locked separately.", "correct": true, "rationale": "Depression plus firearm access sharply increases suicide risk. Screening and means restriction are priority interventions." },
+        { "id": "c", "text": "Document the information and reassess at next year's visit.", "correct": false, "rationale": "Waiting a year ignores an active risk; action is needed now." },
+        { "id": "d", "text": "Tell the teen that sadness is normal in adolescence.", "correct": false, "rationale": "Persistent sadness for weeks is not normal moodiness and requires depression and suicide screening." }
+      ],
+      "explanation": "Firearms are the most lethal method of suicide, and access to a gun in the home raises adolescent suicide risk. Every teen should be screened for depression and suicide risk. Counseling families on removing firearms or storing them locked and unloaded with ammunition separate is a key prevention step."
+    },
+    {
+      "id": "school-age-adolescents-08",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 15-year-old says, \"I'm not sure what I want to be. Some days I'm into art, other days I want to be an athlete.\" How should the nurse interpret this statement?",
+      "options": [
+        { "id": "a", "text": "It reflects normal exploration in identity vs role confusion.", "correct": true, "rationale": "Adolescents experiment with different roles, interests, and values as they form a stable identity." },
+        { "id": "b", "text": "It suggests the teen has a personality disorder.", "correct": false, "rationale": "Trying out different interests is expected and is not a sign of a personality disorder." },
+        { "id": "c", "text": "It shows the teen is stuck in the industry vs inferiority stage.", "correct": false, "rationale": "Changing interests reflects identity work in adolescence, not unresolved school-age conflict." },
+        { "id": "d", "text": "It indicates the teen lacks formal operational thinking.", "correct": false, "rationale": "Considering future possibilities actually reflects abstract, formal operational thought." }
+      ],
+      "explanation": "Erikson's adolescent task is identity vs role confusion. Teens try out roles, styles, groups, and goals before committing to a sense of self. Role confusion occurs when they cannot integrate these experiences into a coherent identity. Peers strongly influence this process."
+    },
+    {
+      "id": "school-age-adolescents-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 16-year-old soccer player collided heads with another player, felt dizzy and had a headache, and wants to finish the game. Which instruction should the nurse give the coach?",
+      "options": [
+        { "id": "a", "text": "\"Let the player rest for 15 minutes and return if the headache improves.\"", "correct": false, "rationale": "Any athlete with suspected concussion should not return to play on the same day, even if symptoms improve." },
+        { "id": "b", "text": "\"Give ibuprofen and let the player return in the second half.\"", "correct": false, "rationale": "Medicating symptoms and returning to play risks a second impact while the brain is vulnerable." },
+        { "id": "c", "text": "\"The player can return if able to answer basic orientation questions.\"", "correct": false, "rationale": "Orientation does not rule out concussion; symptoms such as dizziness and headache require removal from play." },
+        { "id": "d", "text": "\"Remove the player from the game and do not allow return until cleared by a health care provider.\"", "correct": true, "rationale": "Suspected concussion requires immediate removal from play and medical clearance before a gradual return, to prevent second impact syndrome." }
+      ],
+      "explanation": "'When in doubt, sit them out.' Adolescent athletes with concussion symptoms such as headache, dizziness, confusion, or vomiting must be removed from play the same day and evaluated. Return to learning and sports follows a stepwise plan after clearance. Proper protective equipment and conditioning help prevent sports injuries."
+    },
+    {
+      "id": "school-age-adolescents-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A parent tells the nurse that their 14-year-old has been sharing photos on social media and recently received requests for private pictures from an older \"friend\" met online. Which teaching is most important?",
+      "options": [
+        { "id": "a", "text": "\"Teens should not have any internet access until age 18.\"", "correct": false, "rationale": "A total ban is unrealistic; teens need guidance and skills to use technology safely." },
+        { "id": "b", "text": "\"Talk with your teen about never sending sexual images, use privacy settings, and report this contact; it may be online exploitation.\"", "correct": true, "rationale": "A request for private images from an older online contact suggests grooming. Teaching about sexting, privacy, and reporting protects the teen." },
+        { "id": "c", "text": "\"This is normal online flirting, and your teen will learn from experience.\"", "correct": false, "rationale": "Requests for images from an older contact are a warning sign of exploitation, not normal flirting." },
+        { "id": "d", "text": "\"Only images shared with strangers can be forwarded, so friends are safe.\"", "correct": false, "rationale": "Any image sent can be saved, forwarded, and shared without consent, and sexual images of minors can carry legal consequences." }
+      ],
+      "explanation": "Online safety teaching includes not sharing personal information or sexual images, using privacy settings, recognizing grooming, and telling a trusted adult about cyberbullying or inappropriate requests. Parents should keep open communication and know the platforms their teen uses."
+    },
+    {
+      "id": "school-age-adolescents-11",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Which characteristics are typical of school-age children (6 to 12 years)? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Enjoy collecting items such as cards, rocks, or stickers", "correct": true, "rationale": "Collecting is a classic school-age activity that reflects classification skills from concrete operations." },
+        { "id": "b", "text": "Belong to same-sex peer groups or clubs", "correct": true, "rationale": "Peer groups and clubs, often same-sex, are important sources of belonging and identity in school-age children." },
+        { "id": "c", "text": "Understand conservation of volume and mass", "correct": true, "rationale": "Conservation is a hallmark of Piaget's concrete operational stage." },
+        { "id": "d", "text": "Reason about abstract and hypothetical ideas", "correct": false, "rationale": "Abstract, hypothetical reasoning develops in adolescence with formal operations." },
+        { "id": "e", "text": "Rely mostly on parallel play", "correct": false, "rationale": "Parallel play is typical of toddlers; school-age children play cooperatively." },
+        { "id": "f", "text": "Participate in cooperative play and team games with rules", "correct": true, "rationale": "Organized cooperative play with rules and roles is characteristic of the school-age period." }
+      ],
+      "explanation": "School-age children are concrete operational thinkers who can classify, conserve, and reverse operations. They enjoy collections, clubs, team sports, and games with rules. Peer approval becomes increasingly important, and accomplishment supports industry."
+    },
+    {
+      "id": "school-age-adolescents-12",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is assessing a 16-year-old. Which findings are warning signs of suicide risk that require further assessment? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Recently gave away a favorite guitar and other prized possessions", "correct": true, "rationale": "Giving away valued belongings can signal that the teen is preparing for death." },
+        { "id": "b", "text": "Sudden cheerfulness after weeks of depression", "correct": true, "rationale": "Sudden calm or improved mood after depression may mean the teen has made a decision to act." },
+        { "id": "c", "text": "Disagrees with parents about clothing choices", "correct": false, "rationale": "Conflict over appearance is a normal part of adolescent independence and identity." },
+        { "id": "d", "text": "Withdrawal from friends and dropping grades", "correct": true, "rationale": "Social withdrawal and declining school performance are signs of depression and increased suicide risk." },
+        { "id": "e", "text": "Spends more time with peers than family", "correct": false, "rationale": "Increased peer orientation is developmentally expected in adolescence." },
+        { "id": "f", "text": "Posting online that \"nothing matters anymore\"", "correct": true, "rationale": "Expressions of hopelessness, including on social media, are verbal warning signs of suicide." }
+      ],
+      "explanation": "Suicide warning signs include talk of death or hopelessness, giving away possessions, withdrawal, changes in sleep, eating, or grades, substance use, previous attempts, and sudden calm after depression. Normal adolescent behaviors such as peer focus and conflict over independence must be distinguished from these red flags."
+    },
+    {
+      "id": "school-age-adolescents-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching the parents of a newly licensed 16-year-old driver. Which recommendations should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Wear a seat belt on every trip, including short ones.", "correct": true, "rationale": "Teens have the lowest seat-belt use of any age group, and belts greatly reduce crash deaths." },
+        { "id": "b", "text": "Put the phone out of reach or in do-not-disturb mode while driving.", "correct": true, "rationale": "Texting and phone use are major causes of distracted-driving crashes in teens." },
+        { "id": "c", "text": "Limit teen passengers and nighttime driving during the first months of licensure.", "correct": true, "rationale": "Graduated driver licensing restrictions on passengers and night driving reduce teen crash rates." },
+        { "id": "d", "text": "Hands-free calling is safe for new drivers on the highway.", "correct": false, "rationale": "Hands-free phone use is still cognitively distracting, and new drivers lack the experience to manage distractions." },
+        { "id": "e", "text": "Never drive after using alcohol or other substances, or ride with a driver who has.", "correct": true, "rationale": "Impaired driving is a major contributor to adolescent motor vehicle deaths." }
+      ],
+      "explanation": "Motor vehicle crashes are the leading cause of death in adolescents. Prevention focuses on seat belts, avoiding distraction, graduated driver licensing (passenger and night restrictions), parent-teen driving agreements, and never driving or riding impaired."
+    },
+    {
+      "id": "school-age-adolescents-14",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is conducting a HEADSSS assessment with a 15-year-old. Which actions are appropriate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Ask the parent to step out for part of the interview.", "correct": true, "rationale": "Interviewing the teen alone increases honest disclosure about sensitive topics." },
+        { "id": "b", "text": "Begin with less sensitive topics such as home and school before asking about drugs and sexuality.", "correct": true, "rationale": "HEADSSS moves from less to more sensitive areas, which builds rapport before difficult questions." },
+        { "id": "c", "text": "Use open-ended, nonjudgmental questions.", "correct": true, "rationale": "A nonjudgmental, open-ended style encourages the teen to share accurate information." },
+        { "id": "d", "text": "Skip questions about substance use if the teen seems uncomfortable.", "correct": false, "rationale": "All HEADSSS domains should be addressed because risk behaviors are common and teens may not volunteer them." },
+        { "id": "e", "text": "Tell the parent everything the teen discloses after the visit.", "correct": false, "rationale": "Confidential information is not shared unless there is a safety concern such as risk of harm or abuse." }
+      ],
+      "explanation": "HEADSSS covers Home, Education/Employment, Activities, Drugs, Sexuality, Suicide/depression, and Safety. It is done privately with the teen, after explaining confidentiality, moving from less to more sensitive topics using a nonjudgmental approach."
+    },
+    {
+      "id": "school-age-adolescents-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 16-year-old tells the nurse in the clinic that she has a plan to overdose on her mother's pills tonight. Place the nurse's actions in priority order.",
+      "items": [
+        { "id": "a", "text": "Stay with the teen and do not leave her alone" },
+        { "id": "b", "text": "Ask about the details of the plan and whether she has the pills with her" },
+        { "id": "c", "text": "Notify the provider and the mental health crisis team" },
+        { "id": "d", "text": "Inform the parent of the safety risk, explaining to the teen that this is a limit of confidentiality" },
+        { "id": "e", "text": "Teach the family to lock up or remove medications and firearms at home" }
+      ],
+      "explanation": "A teen with a specific suicide plan is at high risk, so the nurse first ensures safety by staying with her. Assessing the plan and immediate access to means guides urgency. The provider and crisis team are notified for emergency evaluation. Parents must be informed because risk of self-harm is a limit of confidentiality. Means restriction teaching follows as part of the safety plan."
+    }
+  ]
+}

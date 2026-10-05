@@ -1,0 +1,359 @@
+{
+  "slug": "pertussis",
+  "title": "Pertussis",
+  "short": "Pertussis",
+  "icon": "activity",
+  "description": "Pertussis (whooping cough): the causative organism, catarrhal, paroxysmal, and convalescent stages, infant presentation, droplet precautions, macrolide treatment and contact prophylaxis, immunization, and supportive nursing care.",
+  "keyPoints": [
+    "Pertussis is caused by Bordetella pertussis, a gram-negative bacterium spread by respiratory droplets; it is highly contagious.",
+    "Catarrhal stage (1-2 weeks): cold-like rhinorrhea, mild cough, low-grade fever. This is the MOST contagious stage and is often unrecognized.",
+    "Paroxysmal stage (usually 4-6 weeks): bursts of rapid coughs on one breath, an inspiratory whoop, red or cyanotic face, tongue protrusion, and post-tussive vomiting; the child may look well between paroxysms.",
+    "Convalescent stage: cough gradually lessens over weeks to months; paroxysms can recur with later respiratory infections.",
+    "Young infants may not whoop; they can present with apnea, cyanosis, gagging, or bradycardia and are at highest risk for death. Monitor with continuous cardiorespiratory monitoring and pulse oximetry.",
+    "Use droplet precautions until 5 days of effective antibiotic therapy. Treat with a macrolide (azithromycin preferred, especially in infants) and give prophylaxis to all close contacts regardless of immunization status.",
+    "Prevention: DTaP at 2, 4, 6, and 15-18 months and 4-6 years; Tdap at 11-12 years; Tdap during every pregnancy (27-36 weeks) and for caregivers and household members to 'cocoon' the infant.",
+    "Supportive care: quiet environment to reduce triggers, hydration, small frequent feedings (refeed after vomiting), suctioning as needed, humidified oxygen, and monitoring of SpO2 during paroxysms."
+  ],
+  "questions": [
+    {
+      "id": "pertussis-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which organism causes pertussis (whooping cough)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiratory syncytial virus",
+          "correct": false,
+          "rationale": "RSV causes bronchiolitis, not pertussis."
+        },
+        {
+          "id": "b",
+          "text": "Bordetella pertussis",
+          "correct": true,
+          "rationale": "Pertussis is caused by Bordetella pertussis, a gram-negative coccobacillus that produces toxins damaging the respiratory epithelium."
+        },
+        {
+          "id": "c",
+          "text": "Haemophilus influenzae type b",
+          "correct": false,
+          "rationale": "Hib can cause epiglottitis and meningitis, not pertussis."
+        },
+        {
+          "id": "d",
+          "text": "Group A beta-hemolytic streptococcus",
+          "correct": false,
+          "rationale": "GABHS causes strep pharyngitis and scarlet fever, not pertussis."
+        }
+      ],
+      "explanation": "Bordetella pertussis is a bacterium spread by respiratory droplets. Because it is bacterial, it is treated with antibiotics (macrolides), and it is prevented by the DTaP and Tdap vaccines."
+    },
+    {
+      "id": "pertussis-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A school nurse learns that a student has been diagnosed with pertussis. During which stage of the illness was the student most contagious?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The catarrhal stage, when the symptoms resembled a common cold",
+          "correct": true,
+          "rationale": "Pertussis is most contagious during the catarrhal stage, when rhinorrhea, sneezing, and mild cough make it look like a cold, so it is rarely recognized and isolated."
+        },
+        {
+          "id": "b",
+          "text": "The paroxysmal stage, when the whooping cough began",
+          "correct": false,
+          "rationale": "The child remains contagious early in the paroxysmal stage, but communicability declines over this stage; it peaks earlier."
+        },
+        {
+          "id": "c",
+          "text": "The convalescent stage, as the cough was fading",
+          "correct": false,
+          "rationale": "By the convalescent stage the child is no longer considered contagious."
+        },
+        {
+          "id": "d",
+          "text": "The incubation period, before any symptoms appeared",
+          "correct": false,
+          "rationale": "Transmission is greatest once catarrhal symptoms begin, not during the asymptomatic incubation period."
+        }
+      ],
+      "explanation": "Because the catarrhal stage looks like a mild cold, pertussis often spreads before anyone suspects it. This is why prophylaxis of close contacts and immunization are so important."
+    },
+    {
+      "id": "pertussis-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-year-old who is not immunized has had a cold for 2 weeks. The parent now reports episodes of rapid coughing. Which finding indicates the child has entered the paroxysmal stage of pertussis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clear rhinorrhea, sneezing, and a low-grade fever",
+          "correct": false,
+          "rationale": "These symptoms describe the catarrhal stage."
+        },
+        {
+          "id": "b",
+          "text": "A barking cough that worsens at night with inspiratory stridor",
+          "correct": false,
+          "rationale": "A barking cough with stridor is characteristic of croup."
+        },
+        {
+          "id": "c",
+          "text": "A cough that is gradually becoming less frequent and less severe",
+          "correct": false,
+          "rationale": "This describes the convalescent stage."
+        },
+        {
+          "id": "d",
+          "text": "Bursts of 10-15 rapid coughs followed by a high-pitched inspiratory whoop, a red face, and vomiting",
+          "correct": true,
+          "rationale": "The paroxysmal stage features clusters of rapid coughs on a single expiration, a forceful inspiratory whoop, facial redness or cyanosis, tongue protrusion, and post-tussive vomiting."
+        }
+      ],
+      "explanation": "The paroxysmal stage usually lasts several weeks (often 4-6). Paroxysms may be triggered by eating, crying, or activity, and the child often appears well between episodes. Complications include hypoxia, pneumonia, seizures, and weight loss from vomiting."
+    },
+    {
+      "id": "pertussis-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 6-week-old is admitted with suspected pertussis. The parent says the baby has a cold and 'stops breathing and turns blue' after coughing but has never made a whooping sound. Which nursing action is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reassure the parent that the absence of a whoop rules out pertussis",
+          "correct": false,
+          "rationale": "Young infants often do not whoop; absence of the whoop does not rule out pertussis."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the parent to feed the infant larger volumes to replace losses",
+          "correct": false,
+          "rationale": "Large feedings can trigger coughing and vomiting and increase aspiration risk."
+        },
+        {
+          "id": "c",
+          "text": "Place the infant on continuous cardiorespiratory monitoring and pulse oximetry with suction and oxygen at the bedside",
+          "correct": true,
+          "rationale": "Young infants with pertussis are at high risk for apnea, cyanosis, and bradycardia during or after coughing spells. Continuous monitoring and immediate access to suction and oxygen are essential."
+        },
+        {
+          "id": "d",
+          "text": "Administer a cough suppressant to reduce the coughing spells",
+          "correct": false,
+          "rationale": "Cough suppressants are not effective in pertussis and are not recommended for infants."
+        }
+      ],
+      "explanation": "Infants under 6 months have the highest rates of hospitalization and death from pertussis. Instead of a whoop they may present with gagging, gasping, apnea, cyanosis, or bradycardia. Nurses monitor continuously, suction as needed, and provide oxygen."
+    },
+    {
+      "id": "pertussis-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 4-month-old with confirmed pertussis is started on azithromycin. Which transmission-based precautions should the nurse use?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airborne precautions in a negative-pressure room until the cough stops",
+          "correct": false,
+          "rationale": "Pertussis is not spread by the airborne route, so a negative-pressure room and N95 respirator are not required."
+        },
+        {
+          "id": "b",
+          "text": "Droplet precautions until the infant has received 5 days of effective antibiotic therapy",
+          "correct": true,
+          "rationale": "Pertussis spreads by large respiratory droplets. Droplet precautions (private room, surgical mask when within close range) continue until 5 days of appropriate antibiotic therapy are completed."
+        },
+        {
+          "id": "c",
+          "text": "Contact precautions only, with gown and gloves for diaper changes",
+          "correct": false,
+          "rationale": "Contact precautions alone do not protect against droplet spread from coughing."
+        },
+        {
+          "id": "d",
+          "text": "Standard precautions only, since the infant is receiving antibiotics",
+          "correct": false,
+          "rationale": "The infant remains contagious until 5 days of therapy are completed."
+        }
+      ],
+      "explanation": "Droplet precautions for pertussis continue for 5 days after the start of effective therapy (or 3 weeks after cough onset if not treated). Hand hygiene is also essential."
+    },
+    {
+      "id": "pertussis-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 3-year-old is diagnosed with pertussis. The child's 7-year-old sibling is fully immunized and has no symptoms. What should the nurse anticipate for the sibling?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No treatment because the sibling is fully immunized",
+          "correct": false,
+          "rationale": "Vaccine immunity wanes and is not complete, so immunized household contacts can still become infected and spread the disease."
+        },
+        {
+          "id": "b",
+          "text": "A booster dose of DTaP as the only intervention",
+          "correct": false,
+          "rationale": "Vaccination does not provide immediate protection after exposure; antibiotic prophylaxis is needed."
+        },
+        {
+          "id": "c",
+          "text": "Monitoring for 2 weeks and treatment only if cough develops",
+          "correct": false,
+          "rationale": "Waiting for symptoms allows the sibling to spread pertussis during the highly contagious catarrhal stage."
+        },
+        {
+          "id": "d",
+          "text": "A course of azithromycin as post-exposure prophylaxis",
+          "correct": true,
+          "rationale": "Antibiotic prophylaxis with a macrolide such as azithromycin is recommended for all household and close contacts regardless of age or immunization status."
+        }
+      ],
+      "explanation": "Macrolides (azithromycin, clarithromycin, erythromycin) are used to treat pertussis and as prophylaxis for close contacts. Azithromycin is preferred in young infants. Treatment eradicates the organism and reduces spread but may not shorten the cough once paroxysms begin."
+    },
+    {
+      "id": "pertussis-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a 2-year-old in the paroxysmal stage of pertussis. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Provide a quiet environment and cluster care to reduce stimulation",
+          "correct": true,
+          "rationale": "Crying, activity, and stimulation can trigger coughing paroxysms; rest reduces their frequency."
+        },
+        {
+          "id": "b",
+          "text": "Offer small, frequent feedings and refeed if the child vomits after a coughing episode",
+          "correct": true,
+          "rationale": "Small frequent feedings maintain nutrition and reduce vomiting; refeeding replaces losses from post-tussive vomiting."
+        },
+        {
+          "id": "c",
+          "text": "Encourage oral fluids and monitor intake, output, and weight",
+          "correct": true,
+          "rationale": "Vomiting and increased work of breathing put the child at risk for dehydration and weight loss."
+        },
+        {
+          "id": "d",
+          "text": "Monitor SpO2 and keep suction and humidified oxygen available",
+          "correct": true,
+          "rationale": "Paroxysms can cause hypoxia and thick mucus may obstruct the airway, so suction and oxygen must be ready."
+        },
+        {
+          "id": "e",
+          "text": "Give large meals three times a day so the child is less hungry between paroxysms",
+          "correct": false,
+          "rationale": "Large meals increase the likelihood of vomiting and aspiration after coughing spells."
+        },
+        {
+          "id": "f",
+          "text": "Give an over-the-counter cough suppressant at bedtime",
+          "correct": false,
+          "rationale": "Cough suppressants are ineffective for pertussis and are not recommended for young children."
+        }
+      ],
+      "explanation": "Supportive care for pertussis includes rest, a calm environment, avoiding triggers such as smoke and dust, hydration, small frequent feedings, suctioning, humidified oxygen, and close observation during paroxysms."
+    },
+    {
+      "id": "pertussis-08",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is teaching a pregnant client and her family about protecting her newborn from pertussis. Which statements indicate correct understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'I should get a Tdap vaccine during this pregnancy, even though I had one in my last pregnancy.'",
+          "correct": true,
+          "rationale": "Tdap is recommended during every pregnancy, ideally at 27-36 weeks, so maternal antibodies cross the placenta and protect the newborn."
+        },
+        {
+          "id": "b",
+          "text": "'Grandparents and other caregivers should be up to date on their Tdap before spending time with the baby.'",
+          "correct": true,
+          "rationale": "Vaccinating household members and caregivers ('cocooning') reduces the chance of bringing pertussis to the infant."
+        },
+        {
+          "id": "c",
+          "text": "'The baby will start the DTaP vaccine series at 2 months of age.'",
+          "correct": true,
+          "rationale": "The DTaP series is given at 2, 4, and 6 months, 15-18 months, and 4-6 years."
+        },
+        {
+          "id": "d",
+          "text": "'Because I had whooping cough as a child, I can't spread it to the baby.'",
+          "correct": false,
+          "rationale": "Immunity after natural infection wanes, so adults can be reinfected and transmit pertussis to infants."
+        },
+        {
+          "id": "e",
+          "text": "'The baby should get the DTaP series right after birth to be protected immediately.'",
+          "correct": false,
+          "rationale": "DTaP is not given at birth; the first dose is at 2 months, which is why maternal vaccination and cocooning are important."
+        }
+      ],
+      "explanation": "Infants are too young to be protected by their own vaccines in the first months of life. Tdap in every pregnancy, cocooning of close contacts, and on-time DTaP doses protect them during this vulnerable period."
+    },
+    {
+      "id": "pertussis-09",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "Place the stages of pertussis in the order in which they occur.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Incubation period with no symptoms (about 7-10 days)"
+        },
+        {
+          "id": "b",
+          "text": "Catarrhal stage with rhinorrhea, mild cough, and low-grade fever (1-2 weeks)"
+        },
+        {
+          "id": "c",
+          "text": "Paroxysmal stage with coughing spells, inspiratory whoop, and post-tussive vomiting (often 4-6 weeks)"
+        },
+        {
+          "id": "d",
+          "text": "Convalescent stage with gradual lessening of the cough over weeks to months"
+        }
+      ],
+      "explanation": "After exposure, an asymptomatic incubation period is followed by the cold-like catarrhal stage (most contagious), the paroxysmal stage with the characteristic whooping cough and vomiting, and finally the convalescent stage as the cough slowly resolves. Pertussis is sometimes called the '100-day cough.'"
+    },
+    {
+      "id": "pertussis-10",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "After teaching, which statement by the parent of a 5-year-old being discharged with pertussis indicates the need for further instruction?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'He needs to take every dose of the azithromycin, and everyone in our house needs medicine too.'",
+          "correct": false,
+          "rationale": "This is correct; the child completes the course and close contacts receive prophylaxis."
+        },
+        {
+          "id": "b",
+          "text": "'His coughing spells may go on for weeks even though he is taking the antibiotic.'",
+          "correct": false,
+          "rationale": "This is correct; antibiotics given in the paroxysmal stage reduce spread but do not quickly stop the cough."
+        },
+        {
+          "id": "c",
+          "text": "'Since the antibiotic will cure him, he will not need his remaining DTaP shots.'",
+          "correct": true,
+          "rationale": "This statement needs correction. Natural infection does not provide lasting immunity, and the child should complete the recommended DTaP series."
+        },
+        {
+          "id": "d",
+          "text": "'I'll keep him home and give small meals often, and feed him again if he throws up after coughing.'",
+          "correct": false,
+          "rationale": "This is correct teaching for nutrition and reducing spread."
+        }
+      ],
+      "explanation": "Discharge teaching for pertussis includes completing antibiotics, prophylaxis for household contacts, expecting the cough to persist for weeks, nutrition and hydration strategies, avoiding cough triggers, and completing the immunization schedule."
+    }
+  ]
+}

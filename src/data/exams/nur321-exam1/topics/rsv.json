@@ -1,0 +1,480 @@
+{
+  "slug": "rsv",
+  "title": "RSV & Bronchiolitis",
+  "short": "RSV",
+  "icon": "bug",
+  "description": "Respiratory syncytial virus bronchiolitis in infants: airway anatomy, pathophysiology, risk factors, presentation, clinical diagnosis, supportive care, infection control, deterioration, and prevention.",
+  "keyPoints": [
+    "RSV is the leading cause of bronchiolitis, an inflammation of the small airways (bronchioles), mostly in children under 2 years.",
+    "Infant airways are tiny, so small amounts of edema and mucus cause major obstruction; young infants are obligate nose breathers, so nasal congestion impairs breathing and feeding.",
+    "Pathophysiology: airway edema, mucus, and sloughed epithelial cells partly obstruct the bronchioles, causing air trapping (hyperinflation) and patchy atelectasis.",
+    "Highest risk: prematurity, age under 6 months (especially under 12 weeks), chronic lung disease such as bronchopulmonary dysplasia, hemodynamically significant congenital heart disease, and immunodeficiency.",
+    "Presents as a cold (rhinorrhea, cough, low-grade fever) progressing to tachypnea, wheezes and crackles, retractions, nasal flaring, and poor feeding; young infants may have apnea.",
+    "Diagnosis is clinical; a nasal swab can identify RSV. Care is supportive: nasal suctioning before feeds and sleep, oxygen to the ordered SpO2 target, HOB elevated, and IV or NG fluids if the infant cannot feed safely.",
+    "Routine bronchodilators, corticosteroids, and antibiotics are not recommended. Use contact precautions and strict hand hygiene; RSV survives on surfaces and hands.",
+    "Watch for deterioration (apnea, lethargy, worsening retractions, grunting, falling SpO2, poor intake). Prevention includes hand hygiene, avoiding smoke and sick contacts, and an RSV monoclonal antibody immunization that provides passive protection."
+  ],
+  "questions": [
+    {
+      "id": "rsv-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The nurse is caring for a 6-week-old with RSV bronchiolitis who has thick nasal secretions. The parent asks why the nurse suctions the baby's nose before every feeding. Which response is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Babies this age breathe mainly through the nose, so clearing it lets her breathe while she sucks and swallows.'",
+          "correct": true,
+          "rationale": "Young infants are obligate nose breathers. Nasal obstruction makes it hard to breathe during sucking, leading to poor feeding, fatigue, and aspiration risk."
+        },
+        {
+          "id": "b",
+          "text": "'Suctioning removes the virus so she will recover faster.'",
+          "correct": false,
+          "rationale": "Suctioning removes secretions for comfort and airway patency; it does not shorten the viral illness."
+        },
+        {
+          "id": "c",
+          "text": "'Suctioning the nose clears the mucus from her lungs.'",
+          "correct": false,
+          "rationale": "Nasal suctioning clears the upper airway only; it does not reach the bronchioles where bronchiolitis occurs."
+        },
+        {
+          "id": "d",
+          "text": "'It prevents her from spreading the infection to you.'",
+          "correct": false,
+          "rationale": "Hand hygiene and contact precautions prevent spread; suctioning is not an infection-control measure."
+        }
+      ],
+      "explanation": "Nasal suctioning with saline drops and a bulb syringe or gentle suction is a key intervention, especially before feedings and sleep. Excessive deep suctioning is avoided because it can cause nasal edema and trauma."
+    },
+    {
+      "id": "rsv-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which explanation best describes why infants with bronchiolitis develop wheezing and hyperinflated lungs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacteria fill the alveoli with purulent exudate, causing consolidation.",
+          "correct": false,
+          "rationale": "This describes bacterial pneumonia. Bronchiolitis is a viral infection of the small airways."
+        },
+        {
+          "id": "b",
+          "text": "Inflammation and edema of the larynx narrow the upper airway.",
+          "correct": false,
+          "rationale": "Upper airway (laryngeal) swelling describes croup, which causes stridor and a barking cough."
+        },
+        {
+          "id": "c",
+          "text": "Edema, mucus, and sloughed cells partially block the small bronchioles, letting air in but trapping it on exhalation.",
+          "correct": true,
+          "rationale": "Partial obstruction of the narrow bronchioles allows air in during inspiration but traps it during expiration, causing hyperinflation and wheezing; complete obstruction causes patchy atelectasis."
+        },
+        {
+          "id": "d",
+          "text": "Bronchial smooth muscle spasm is the main cause, so the condition reverses quickly with bronchodilators.",
+          "correct": false,
+          "rationale": "Bronchiolitis is driven by edema and mucus, not primarily bronchospasm, which is why bronchodilators are not routinely effective."
+        }
+      ],
+      "explanation": "RSV infects the epithelial cells of the bronchioles, causing necrosis, inflammation, edema, and mucus production. Because infant airways are very small, this partial obstruction causes air trapping, wheezing, increased work of breathing, and impaired gas exchange."
+    },
+    {
+      "id": "rsv-03",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "During RSV season, the nurse reviews four infants seen in clinic with cold symptoms. Which infants are at increased risk for severe RSV disease? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 2-month-old born at 30 weeks' gestation",
+          "correct": true,
+          "rationale": "Prematurity and young age both increase risk; premature infants have small airways and less maternal antibody."
+        },
+        {
+          "id": "b",
+          "text": "A 4-month-old with bronchopulmonary dysplasia",
+          "correct": true,
+          "rationale": "Chronic lung disease of prematurity reduces respiratory reserve."
+        },
+        {
+          "id": "c",
+          "text": "A 5-month-old with an unrepaired ventricular septal defect causing heart failure",
+          "correct": true,
+          "rationale": "Hemodynamically significant congenital heart disease increases the risk of severe disease and respiratory failure."
+        },
+        {
+          "id": "d",
+          "text": "A 3-week-old full-term newborn",
+          "correct": true,
+          "rationale": "Age under 6 months, and especially the first few months of life, is a major risk factor for severe bronchiolitis and apnea."
+        },
+        {
+          "id": "e",
+          "text": "A healthy 4-year-old who attends preschool",
+          "correct": false,
+          "rationale": "Older healthy children usually have mild upper respiratory symptoms with RSV."
+        },
+        {
+          "id": "f",
+          "text": "A 6-month-old who is exclusively breastfed with no medical history",
+          "correct": false,
+          "rationale": "Breastfeeding is protective, and this infant has no risk factors beyond being at the upper end of the age range."
+        }
+      ],
+      "explanation": "Severe RSV disease is most likely in young infants (especially under 6 months), premature infants, and children with chronic lung disease, hemodynamically significant heart disease, neuromuscular disease, or immune deficiency. Exposure to tobacco smoke and crowded settings also increase risk."
+    },
+    {
+      "id": "rsv-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 3-month-old is admitted with RSV bronchiolitis. Which assessment findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clear rhinorrhea and cough that began a few days ago",
+          "correct": true,
+          "rationale": "Bronchiolitis typically starts with upper respiratory symptoms for 2-3 days before lower airway signs appear."
+        },
+        {
+          "id": "b",
+          "text": "Respiratory rate of 66 breaths/min with intercostal retractions and nasal flaring",
+          "correct": true,
+          "rationale": "Tachypnea, retractions, and nasal flaring reflect increased work of breathing from small airway obstruction."
+        },
+        {
+          "id": "c",
+          "text": "Expiratory wheezes and fine crackles on auscultation",
+          "correct": true,
+          "rationale": "Air trapping produces wheezing, and secretions in the small airways produce crackles."
+        },
+        {
+          "id": "d",
+          "text": "Decreased feeding and fewer wet diapers",
+          "correct": true,
+          "rationale": "Tachypnea and nasal congestion interfere with sucking, leading to poor intake and risk of dehydration."
+        },
+        {
+          "id": "e",
+          "text": "Barking, seal-like cough with inspiratory stridor",
+          "correct": false,
+          "rationale": "A barking cough with stridor is characteristic of croup (laryngotracheobronchitis), an upper airway illness."
+        },
+        {
+          "id": "f",
+          "text": "Drooling, tripod positioning, and absence of cough",
+          "correct": false,
+          "rationale": "These are signs of epiglottitis, a medical emergency, not bronchiolitis."
+        }
+      ],
+      "explanation": "Classic bronchiolitis progresses from rhinorrhea and cough to tachypnea, retractions, nasal flaring, wheezes, crackles, and poor feeding. Fever is usually low-grade. Young infants may present with apnea before other signs."
+    },
+    {
+      "id": "rsv-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The parent of a 4-month-old with suspected bronchiolitis asks, 'Will she need a chest x-ray and blood tests to find out whether it's RSV?' Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Yes, a chest x-ray is required to diagnose bronchiolitis.'",
+          "correct": false,
+          "rationale": "Routine chest x-rays are not needed in typical bronchiolitis and may lead to unnecessary antibiotics."
+        },
+        {
+          "id": "b",
+          "text": "'A blood culture will show which virus is causing it.'",
+          "correct": false,
+          "rationale": "Blood cultures detect bacteria in the bloodstream and are not used to diagnose RSV."
+        },
+        {
+          "id": "c",
+          "text": "'No testing can identify RSV; the provider will just guess.'",
+          "correct": false,
+          "rationale": "RSV can be identified by nasal swab testing when results will change management, such as cohorting."
+        },
+        {
+          "id": "d",
+          "text": "'Bronchiolitis is diagnosed mainly from her history and exam; a nasal swab may be collected to identify the virus.'",
+          "correct": true,
+          "rationale": "Bronchiolitis is a clinical diagnosis. Nasal wash or swab testing (rapid antigen or PCR) can confirm RSV and help with cohorting patients."
+        }
+      ],
+      "explanation": "Diagnosis of bronchiolitis is based on history and physical examination. Labs and chest x-rays are not routinely needed. Nasopharyngeal swab testing can identify RSV or other viruses when it will guide isolation or cohorting."
+    },
+    {
+      "id": "rsv-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A parent asks why the provider did not order antibiotics, steroids, or a breathing treatment for an infant with RSV bronchiolitis. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'The provider wants to wait to see if she gets worse before giving them.'",
+          "correct": false,
+          "rationale": "These medications are not held as a backup plan; they are not routinely recommended for bronchiolitis at any severity."
+        },
+        {
+          "id": "b",
+          "text": "'Research shows these medicines do not help typical bronchiolitis; her care focuses on clearing her nose, oxygen if needed, and fluids.'",
+          "correct": true,
+          "rationale": "Current guidelines recommend against routine bronchodilators, corticosteroids, and antibiotics because they do not improve outcomes. Supportive care is the mainstay."
+        },
+        {
+          "id": "c",
+          "text": "'Those medicines are too strong for infants under 1 year.'",
+          "correct": false,
+          "rationale": "Age is not the reason; the medications are not effective for viral bronchiolitis."
+        },
+        {
+          "id": "d",
+          "text": "'She will get antibiotics once the nasal swab confirms RSV.'",
+          "correct": false,
+          "rationale": "RSV is a virus, so antibiotics are not effective against it. Antibiotics are used only for a confirmed secondary bacterial infection."
+        }
+      ],
+      "explanation": "Management of bronchiolitis is supportive: nasal suctioning, supplemental oxygen to maintain the ordered SpO2, hydration, and close monitoring. Routine albuterol, epinephrine, steroids, chest physiotherapy, and antibiotics are not recommended."
+    },
+    {
+      "id": "rsv-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse receives report on four infants with RSV bronchiolitis. Which infant should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 4-month-old with RR 52 breaths/min, mild subcostal retractions, and SpO2 94% on room air",
+          "correct": false,
+          "rationale": "Mild retractions with acceptable oxygen saturation indicate stable, expected findings."
+        },
+        {
+          "id": "b",
+          "text": "An 8-month-old with copious clear nasal drainage who is due for a feeding",
+          "correct": false,
+          "rationale": "This infant needs nasal suctioning before the feeding, but the findings are not life-threatening."
+        },
+        {
+          "id": "c",
+          "text": "A 6-week-old whose parent reports a 20-second pause in breathing and who is now difficult to arouse",
+          "correct": true,
+          "rationale": "Apnea and lethargy in a young infant are signs of deterioration and possible respiratory failure. This infant needs immediate assessment."
+        },
+        {
+          "id": "d",
+          "text": "A 10-month-old with crackles bilaterally who drank 75% of the usual bottle",
+          "correct": false,
+          "rationale": "Crackles are expected in bronchiolitis, and adequate intake shows the infant is coping."
+        }
+      ],
+      "explanation": "Young infants, especially under 2 months, may develop apnea with RSV. Lethargy, apnea, grunting, worsening retractions, cyanosis, and falling SpO2 signal deterioration and require immediate action and escalation."
+    },
+    {
+      "id": "rsv-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 5-month-old is admitted with RSV bronchiolitis. Which infection control measure is most important for the nurse to implement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place the infant in an airborne isolation room and wear an N95 respirator",
+          "correct": false,
+          "rationale": "RSV is not airborne; airborne precautions are used for diseases such as measles, varicella, and tuberculosis."
+        },
+        {
+          "id": "b",
+          "text": "Use contact precautions with gown and gloves and perform hand hygiene before and after care",
+          "correct": true,
+          "rationale": "RSV spreads by direct contact with secretions and contaminated surfaces and hands, where it can survive for hours. Contact precautions and strict hand hygiene prevent transmission."
+        },
+        {
+          "id": "c",
+          "text": "Use standard precautions only, because RSV is not contagious in hospitals",
+          "correct": false,
+          "rationale": "RSV is a major cause of health care-associated infection on pediatric units."
+        },
+        {
+          "id": "d",
+          "text": "Restrict the parents from holding the infant until the cough resolves",
+          "correct": false,
+          "rationale": "Parents are taught hand hygiene and are encouraged to comfort and hold their infant."
+        }
+      ],
+      "explanation": "Contact precautions (gown and gloves), meticulous hand hygiene, cleaning of surfaces and equipment, and cohorting of infected infants reduce RSV spread. Staff caring for RSV patients should avoid caring for high-risk infants when possible."
+    },
+    {
+      "id": "rsv-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 2-month-old with RSV has a respiratory rate of 74 breaths/min, nasal flaring, and coughs and chokes during bottle-feeding. The infant has had 2 wet diapers in 12 hours. Which action does the nurse anticipate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Offer plain water instead of formula in smaller amounts",
+          "correct": false,
+          "rationale": "Plain water does not reduce aspiration risk and can cause hyponatremia in infants."
+        },
+        {
+          "id": "b",
+          "text": "Thicken the formula with rice cereal and continue bottle-feeding",
+          "correct": false,
+          "rationale": "Thickening does not make oral feeding safe for an infant who is breathing this fast."
+        },
+        {
+          "id": "c",
+          "text": "Hold oral feedings and prepare to start IV fluids or nasogastric feedings as prescribed",
+          "correct": true,
+          "rationale": "A very high respiratory rate with choking during feedings increases aspiration risk, and decreased wet diapers show dehydration. IV or NG hydration maintains fluid balance safely."
+        },
+        {
+          "id": "d",
+          "text": "Feed larger volumes less often to reduce the work of feeding",
+          "correct": false,
+          "rationale": "Larger feedings increase abdominal distension, work of breathing, and aspiration risk."
+        }
+      ],
+      "explanation": "Infants with marked tachypnea (often above 60-70 breaths/min) cannot coordinate sucking, swallowing, and breathing safely. When oral intake is inadequate or unsafe, IV fluids or NG feedings are used while monitoring intake, output, and daily weight."
+    },
+    {
+      "id": "rsv-10",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A 4-month-old with RSV bronchiolitis has SpO2 89%, thick nasal secretions, and mild retractions before a scheduled feeding. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Perform hand hygiene and put on gown and gloves"
+        },
+        {
+          "id": "b",
+          "text": "Instill saline drops and gently suction the nares"
+        },
+        {
+          "id": "c",
+          "text": "Reassess SpO2 and work of breathing"
+        },
+        {
+          "id": "d",
+          "text": "Apply supplemental oxygen as prescribed if SpO2 remains below the target"
+        },
+        {
+          "id": "e",
+          "text": "Begin the feeding with the head of the bed elevated"
+        }
+      ],
+      "explanation": "Hand hygiene and contact precautions come first to prevent spread. Clearing the nares relieves obstruction in an obligate nose breather and often improves oxygenation. Reassessment shows whether oxygen is still needed; if SpO2 remains below the ordered target, supplemental oxygen is applied. The infant is then fed upright once the airway is clear and breathing is stable."
+    },
+    {
+      "id": "rsv-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Which position is most appropriate for a 3-month-old with RSV bronchiolitis who is awake and has mild retractions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prone on the abdomen with the head turned to one side",
+          "correct": false,
+          "rationale": "Infants should not be placed prone for sleep, and prone positioning does not ease breathing in bronchiolitis."
+        },
+        {
+          "id": "b",
+          "text": "Supine and flat with a rolled towel under the shoulders",
+          "correct": false,
+          "rationale": "Flat positioning lets the abdominal contents press on the diaphragm and does not promote lung expansion."
+        },
+        {
+          "id": "c",
+          "text": "Side-lying with the knees drawn up",
+          "correct": false,
+          "rationale": "Flexing the knees toward the abdomen limits diaphragmatic movement."
+        },
+        {
+          "id": "d",
+          "text": "Supported with the head of the bed elevated about 30 degrees and the head and neck slightly extended",
+          "correct": true,
+          "rationale": "Elevating the head of the bed with the neck slightly extended keeps the airway open and allows better diaphragmatic excursion, reducing work of breathing."
+        }
+      ],
+      "explanation": "Positioning with the head elevated and neck slightly extended promotes airway patency and lung expansion. Safe sleep principles (back to sleep) still apply when the infant sleeps."
+    },
+    {
+      "id": "rsv-12",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is preparing to discharge a 5-month-old recovering from RSV bronchiolitis. The nurse teaches the parents to seek care immediately for which findings? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pauses in breathing or color changes around the lips",
+          "correct": true,
+          "rationale": "Apnea or cyanosis indicates respiratory failure and requires emergency care."
+        },
+        {
+          "id": "b",
+          "text": "Unusual sleepiness or difficulty waking the baby",
+          "correct": true,
+          "rationale": "Lethargy can indicate hypoxia, fatigue, or dehydration."
+        },
+        {
+          "id": "c",
+          "text": "Retractions between the ribs that are getting worse",
+          "correct": true,
+          "rationale": "Worsening retractions show increasing work of breathing."
+        },
+        {
+          "id": "d",
+          "text": "Fewer than 3 or 4 wet diapers in 24 hours",
+          "correct": true,
+          "rationale": "Markedly decreased urine output indicates dehydration from poor intake."
+        },
+        {
+          "id": "e",
+          "text": "A mild cough that continues for 2 weeks",
+          "correct": false,
+          "rationale": "A lingering cough is expected during recovery from bronchiolitis and may last 2-4 weeks."
+        },
+        {
+          "id": "f",
+          "text": "Clear nasal drainage that improves with saline and suction",
+          "correct": false,
+          "rationale": "Mild congestion responding to home suctioning is expected and can be managed at home."
+        }
+      ],
+      "explanation": "Bronchiolitis symptoms often peak around days 3-5 and the cough may last weeks. Parents should know how to suction the nose and should return immediately for apnea, cyanosis, lethargy, worsening work of breathing, or signs of dehydration."
+    },
+    {
+      "id": "rsv-13",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse teaches the parent of a 1-month-old about preventing RSV. Which statement by the parent indicates understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Washing hands often, keeping him away from people with colds, and not letting anyone smoke around him will lower his risk.'",
+          "correct": true,
+          "rationale": "Hand hygiene, avoiding sick contacts and crowds during RSV season, and avoiding tobacco smoke are key prevention strategies."
+        },
+        {
+          "id": "b",
+          "text": "'If he gets RSV once, he will be immune for life.'",
+          "correct": false,
+          "rationale": "Immunity to RSV is incomplete, and reinfection throughout life is common, though later infections are usually milder."
+        },
+        {
+          "id": "c",
+          "text": "'Since he got the RSV antibody shot, we no longer need to wash our hands around him.'",
+          "correct": false,
+          "rationale": "An RSV monoclonal antibody lowers the risk of severe disease but does not replace hand hygiene and other prevention measures."
+        },
+        {
+          "id": "d",
+          "text": "'Giving him antibiotics at the first sign of a cold will prevent RSV.'",
+          "correct": false,
+          "rationale": "RSV is a virus; antibiotics neither prevent nor treat it."
+        }
+      ],
+      "explanation": "RSV prevention includes hand hygiene, avoiding exposure to sick people and tobacco smoke, breastfeeding, and immunization. A long-acting RSV monoclonal antibody given to infants (or maternal RSV vaccination during pregnancy) provides passive protection against severe disease; eligibility details are determined by the provider."
+    }
+  ]
+}

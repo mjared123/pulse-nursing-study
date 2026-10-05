@@ -1,0 +1,96 @@
+{
+  "id": "nur321-exam1",
+  "course": "NUR 321",
+  "title": "Exam 1",
+  "subtitle": "Pediatric Health Promotion & Respiratory Alterations",
+  "term": "Fall 2026",
+  "order": 1,
+  "format": {
+    "totalQuestions": 49,
+    "minutes": 54,
+    "alternateFormat": 2,
+    "dosageCalculation": 5
+  },
+  "groups": [
+    { "id": "growth", "title": "Growth, Development & Health Promotion", "color": "sky" },
+    { "id": "resp", "title": "Pediatric Respiratory Alterations", "color": "rose" },
+    { "id": "math", "title": "Dosage Calculation", "color": "emerald" }
+  ],
+  "topics": [
+    { "slug": "infants", "group": "growth", "blueprint": 5 },
+    { "slug": "toddlers", "group": "growth", "blueprint": 8 },
+    { "slug": "preschoolers", "group": "growth", "blueprint": 5 },
+    { "slug": "school-age-adolescents", "group": "growth", "blueprint": 3 },
+    { "slug": "immunizations", "group": "growth", "blueprint": 2 },
+    { "slug": "croup", "group": "resp", "blueprint": 6 },
+    { "slug": "foreign-body-aspiration", "group": "resp", "blueprint": 3 },
+    { "slug": "tonsillectomy-strep", "group": "resp", "blueprint": 3 },
+    { "slug": "epiglottitis", "group": "resp", "blueprint": 2 },
+    { "slug": "rsv", "group": "resp", "blueprint": 2 },
+    { "slug": "asthma", "group": "resp", "blueprint": 2 },
+    { "slug": "cystic-fibrosis", "group": "resp", "blueprint": 2 },
+    { "slug": "pertussis", "group": "resp", "blueprint": 1 },
+    { "slug": "dosage-calc", "group": "math", "blueprint": 5 }
+  ],
+  "quizLength": 20,
+  "practiceExams": {
+    "count": 3,
+    "note": "The study guide lists 44 topic questions (their points add up to exactly 44), 2 alternate-format items, and 5 dosage calculations, and gives no time limit. Practice exams use the 44 topic questions in the study guide's exact proportions plus the 5 dosage calculations (49 total), timed at 54 minutes.",
+    "distribution": {
+      "infants": 5,
+      "toddlers": 8,
+      "preschoolers": 5,
+      "school-age-adolescents": 3,
+      "immunizations": 2,
+      "croup": 6,
+      "foreign-body-aspiration": 3,
+      "tonsillectomy-strep": 3,
+      "epiglottitis": 2,
+      "rsv": 2,
+      "asthma": 2,
+      "cystic-fibrosis": 2,
+      "pertussis": 1,
+      "dosage-calc": 5
+    }
+  },
+  "bloom": {
+    "remember": 4,
+    "understand": 7,
+    "apply": 22,
+    "analyze": 12,
+    "evaluate": 4,
+    "create": 0
+  },
+  "outcomes": [
+    "Assess biological development and behaviors from infancy through adolescence",
+    "Promote health and prevent disease and injury at each developmental stage",
+    "Recognize unexpected findings and the health concerns they signal",
+    "Apply the vaccine schedule and atraumatic care during immunization",
+    "Recognize respiratory distress in children and prioritize airway, breathing, and circulation",
+    "Explain etiology, presentation, diagnosis, and treatment of pediatric respiratory alterations",
+    "Apply the nursing process using clinical judgment functions with pediatric clients and families",
+    "Calculate safe, weight-based pediatric medication doses"
+  ],
+  "objectives": [
+    {
+      "title": "Health Promotion Across Childhood",
+      "items": [
+        "Assess and discuss biological development for newborn, infant, toddler, preschool, school-age, and adolescent clients",
+        "Assess and discuss behaviors at each developmental stage",
+        "Examine health promotion and prevention of disease and injury at each stage",
+        "Discuss health concerns related to unexpected findings",
+        "Discuss the vaccine schedule and the nurse's role in vaccine administration and infection control"
+      ]
+    },
+    {
+      "title": "Respiratory Alterations",
+      "items": [
+        "Examine the anatomy, physiology, pathophysiology, and screening of pediatric clients with alterations in respiratory function",
+        "Explore etiology, epidemiology, risk factors, clinical presentation, diagnosis, and treatment",
+        "Describe the effect of respiratory alterations on the child's overall health",
+        "Explore the role of the nurse caring for these children",
+        "Apply the nursing process using clinical judgment functions"
+      ]
+    }
+  ]
+}
