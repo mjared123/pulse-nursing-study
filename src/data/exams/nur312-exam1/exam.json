@@ -1,0 +1,88 @@
+{
+  "id": "nur312-exam1",
+  "course": "NUR 312",
+  "title": "Exam 1",
+  "subtitle": "Neurological Function & Maintaining Homeostasis",
+  "term": "Fall 2026",
+  "order": 1,
+  "format": {
+    "totalQuestions": 50,
+    "minutes": 65,
+    "alternateFormat": 6,
+    "dosageCalculation": 6
+  },
+  "groups": [
+    { "id": "cerebro", "title": "Stroke, TIA & Aneurysm", "color": "rose" },
+    { "id": "neuro", "title": "Brain & Spinal Cord", "color": "sky" },
+    { "id": "homeostasis", "title": "Homeostasis: Shock & Burns", "color": "amber" },
+    { "id": "math", "title": "Dosage Calculation", "color": "emerald" }
+  ],
+  "topics": [
+    { "slug": "stroke", "group": "cerebro", "blueprint": 8 },
+    { "slug": "aneurysm", "group": "cerebro", "blueprint": 3 },
+    { "slug": "tia", "group": "cerebro", "blueprint": 1 },
+    { "slug": "icp-tbi", "group": "neuro", "blueprint": 5 },
+    { "slug": "brain-tumor", "group": "neuro", "blueprint": 1 },
+    { "slug": "seizures", "group": "neuro", "blueprint": 5 },
+    { "slug": "spinal-cord-injury", "group": "neuro", "blueprint": 2 },
+    { "slug": "shock-sepsis-dic", "group": "homeostasis", "blueprint": 5 },
+    { "slug": "burns", "group": "homeostasis", "blueprint": 2 },
+    { "slug": "dosage-calc", "group": "math", "blueprint": 6 }
+  ],
+  "quizLength": 20,
+  "practiceExams": {
+    "count": 3,
+    "note": "The blueprint lists 32 topic questions plus 6 dosage calculation out of 50 total. CVA/aneurysm (11) is split here into Stroke (8) and Aneurysm (3) to match the study guide. The remaining questions are spread across the Exam 1 topics in the same proportions as the blueprint.",
+    "distribution": {
+      "stroke": 10,
+      "aneurysm": 4,
+      "tia": 2,
+      "icp-tbi": 7,
+      "brain-tumor": 2,
+      "seizures": 7,
+      "spinal-cord-injury": 3,
+      "shock-sepsis-dic": 6,
+      "burns": 3,
+      "dosage-calc": 6
+    }
+  },
+  "bloom": {
+    "remember": 1,
+    "understand": 6,
+    "apply": 37,
+    "analyze": 2,
+    "evaluate": 7,
+    "create": 0
+  },
+  "outcomes": [
+    "Perform focused neurological and systemic assessments",
+    "Recognize common disease processes, pathophysiology, differentiation of disease processes, and evidence-based nursing care",
+    "Prioritize client care: ABCs, perfusion, risk for deterioration, medications",
+    "Recognize and respond to deteriorating patient condition; evaluate teaching and identify need for further teaching",
+    "Promote patient safety and reduce risk; recognize cues and filter key findings from noise",
+    "Provide patient-centered communication and education; analyze cues and link symptoms to diagnoses",
+    "Generate solutions: select appropriate nursing interventions and plan safe, evidence-based care",
+    "Collaborate with interdisciplinary teams: preparation for procedures, provider communication, diagnostic coordination"
+  ],
+  "objectives": [
+    {
+      "title": "Maintaining Homeostasis",
+      "items": [
+        "Understand how disease processes lead to imbalanced electrolytes and shock",
+        "Identify nursing assessments and interventions that maintain homeostasis through compensation of the major organ systems",
+        "Recognize and manage the resulting complications"
+      ]
+    },
+    {
+      "title": "Alteration in Neurological Function",
+      "items": [
+        "Explain the pathophysiology of neurological function",
+        "Explore epidemiological and etiological risk factors for alterations in neurological function",
+        "Describe the impact of alterations in neurological function on a client's overall health",
+        "Differentiate the clinical presentation of clients with alterations in neurological function",
+        "Explore the role of the nurse when caring for these clients",
+        "Apply the nursing process through the clinical judgment functions"
+      ]
+    }
+  ]
+}

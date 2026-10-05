@@ -1,0 +1,1147 @@
+{
+  "slug": "stroke",
+  "title": "CVA: Ischemic & Hemorrhagic Stroke",
+  "short": "Stroke (CVA)",
+  "icon": "brain",
+  "description": "Ischemic and hemorrhagic stroke: types, hemisphere deficits, the ED workup, alteplase eligibility and post-tPA care, blood pressure and glucose goals, ICP, aphasia, dysphagia, neglect, rehab safety, stroke medications, and carotid procedures.",
+  "keyPoints": [
+    "Ischemic stroke is thrombotic (symptoms build over hours to days) or embolic (sudden, full deficit at once). Hemorrhagic stroke is intracerebral (bleeding into the brain) or subarachnoid (bleeding around the brain). The penumbra is ischemic but salvageable tissue. The core is already infarcted.",
+    "Left hemisphere: aphasia, alexia, agraphia, right hemiparesis, slow and cautious behavior, depression. Right hemisphere: left visual field loss and neglect, spatial confusion, impulsivity, trouble with everyday tasks like dressing.",
+    "Find out when the client was last known well. Get a non-contrast CT within 25 minutes of arrival to rule out bleeding. Alteplase (tPA) must be given within 3-4.5 hours of symptom onset.",
+    "Do not give tPA with: active bleeding, GI or urinary bleed in the past 24 h, major surgery or trauma in the past 14 days, stroke, head injury or intracranial surgery in the past 3 months, seizure at onset, or glucose < 50.",
+    "After tPA: vital signs and neuro checks q15 min x 2 h, q30 min x 6 h, then q1h x 16 h. Keep BP < 180/105. Give no anticoagulants or antiplatelets for 24 h. No NG tubes or arterial sticks. Insert a Foley before the infusion or wait until 30 min after it ends.",
+    "Hemorrhagic conversion (headache, agitation, sudden BP rise, neuro decline): STOP the infusion, notify the provider, get a stat head CT, and draw PT, PTT, platelets, fibrinogen, and type and cross. Angioedema: antihistamine, H2 blocker, steroid, and epinephrine if needed.",
+    "Permissive HTN: avoid rapid BP drops. Avoid nitroprusside with cerebral edema. LOW BP in ischemic stroke is a red flag (shock or wrong diagnosis). Glucose goal < 140, and avoid hypoglycemia. Treat fever. Cerebral edema and ICP peak around day 4.",
+    "Dysphagia: screen before any PO intake. Sit the client upright, use a chin tuck, place food on the unaffected side, keep suction ready, and use thickened liquids as ordered. For neglect, teach scanning. Dress the affected side first. Support the affected arm to prevent shoulder subluxation."
+  ],
+  "questions": [
+    {
+      "id": "stroke-01",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Two clients are admitted with ischemic strokes. Client A had arm weakness that worsened slowly over 2 days. Client B, who has atrial fibrillation, collapsed with complete right-sided paralysis while talking on the phone. Which statement best explains the difference?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Client A most likely has a hemorrhagic stroke because the symptoms progressed.",
+          "correct": false,
+          "rationale": "Progression over time does not make a stroke hemorrhagic. Only imaging (non-contrast CT) separates bleeding from ischemia. A gradual, stepwise onset is typical of a thrombotic ischemic stroke."
+        },
+        {
+          "id": "b",
+          "text": "Client A likely has a thrombotic stroke (gradual onset), and Client B an embolic stroke (sudden onset).",
+          "correct": true,
+          "rationale": "A thrombus forming on atherosclerotic plaque narrows the vessel gradually, so deficits evolve over hours to days. An embolus, often from the heart in atrial fibrillation, shuts off flow all at once, so the full deficit appears immediately."
+        },
+        {
+          "id": "c",
+          "text": "Client B likely has a thrombotic stroke because atrial fibrillation causes plaque in the cerebral arteries.",
+          "correct": false,
+          "rationale": "Atrial fibrillation causes clots to form in the left atrium that travel to the brain. That is a cardioembolic stroke, not a thrombotic one."
+        },
+        {
+          "id": "d",
+          "text": "Both clients have the same type of stroke, which presents differently only because of age.",
+          "correct": false,
+          "rationale": "The two onset patterns point to different mechanisms. The timing of the onset is an important clue in the history."
+        }
+      ],
+      "explanation": "A thrombotic stroke comes from a clot or plaque that builds up in a cerebral artery, and its signs evolve over hours to days. An embolic stroke happens when a clot from elsewhere, often the heart in atrial fibrillation, lodges in a cerebral artery. Flow stops at once, so the deficits or loss of consciousness are immediate."
+    },
+    {
+      "id": "stroke-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "The family of a client with an acute ischemic stroke asks why the team is rushing to give a clot-dissolving drug. Which explanation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"The drug will regrow the brain cells that have already died from the lack of blood flow.\"",
+          "correct": false,
+          "rationale": "Infarcted (core) tissue is dead and cannot be recovered. Restoring flow to necrotic tissue actually increases the risk of edema and bleeding."
+        },
+        {
+          "id": "b",
+          "text": "\"The drug prevents the stroke from ever turning into a bleed.\"",
+          "correct": false,
+          "rationale": "Fibrinolytics increase the risk of bleeding. Hemorrhagic conversion is their most feared complication."
+        },
+        {
+          "id": "c",
+          "text": "\"Some brain tissue near the damage is still alive, and restoring flow quickly can save it.\"",
+          "correct": true,
+          "rationale": "The penumbra is ischemic but not infarcted, so it can be saved. Every minute of delay lets more penumbra die and join the core."
+        },
+        {
+          "id": "d",
+          "text": "\"The drug lowers the blood pressure so the brain can rest.\"",
+          "correct": false,
+          "rationale": "Alteplase is a fibrinolytic and does not treat blood pressure. BP is managed separately and is not lowered aggressively in ischemic stroke."
+        }
+      ],
+      "explanation": "The core is infarcted, dead tissue. The penumbra surrounding it is ischemic but still alive, so it can be saved. Fibrinolytics such as alteplase aim to reperfuse the penumbra, which is why time from last known well to treatment matters so much."
+    },
+    {
+      "id": "stroke-03",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 46-year-old client arrives reporting a sudden, explosive headache, saying \"It's the worst headache of my life.\" The client is vomiting, has a stiff neck, and is sensitive to light. Which type of stroke does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thrombotic ischemic stroke",
+          "correct": false,
+          "rationale": "Thrombotic strokes usually cause focal deficits that evolve gradually, often without a severe headache."
+        },
+        {
+          "id": "b",
+          "text": "Embolic ischemic stroke",
+          "correct": false,
+          "rationale": "Embolic strokes cause a sudden focal deficit such as hemiparesis or aphasia. A thunderclap headache with meningeal signs is not typical."
+        },
+        {
+          "id": "c",
+          "text": "Transient ischemic attack",
+          "correct": false,
+          "rationale": "A TIA causes brief focal symptoms (visual changes, slurred speech, weakness) that resolve, usually within 1-2 hours. It does not cause a severe headache with nuchal rigidity."
+        },
+        {
+          "id": "d",
+          "text": "Subarachnoid hemorrhage",
+          "correct": true,
+          "rationale": "Bleeding into the subarachnoid space around the brain, often from a ruptured aneurysm, classically causes a sudden \"worst headache of my life,\" vomiting, photophobia, and nuchal rigidity from meningeal irritation."
+        }
+      ],
+      "explanation": "Hemorrhagic strokes are intracerebral (bleeding into the brain tissue, often from hypertension) or subarachnoid (bleeding around the brain, often from a ruptured aneurysm). A thunderclap headache with meningeal signs suggests subarachnoid hemorrhage. Non-contrast CT is done first. If the CT is negative but suspicion stays high, a lumbar puncture checks for blood in the CSF."
+    },
+    {
+      "id": "stroke-04",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A right-handed client has an ischemic stroke in the LEFT cerebral hemisphere. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Difficulty speaking and understanding speech",
+          "correct": true,
+          "rationale": "The left hemisphere controls language in most people, so expressive and receptive aphasia are common."
+        },
+        {
+          "id": "b",
+          "text": "Weakness of the right arm and leg",
+          "correct": true,
+          "rationale": "Motor pathways cross, so a left hemisphere lesion causes right-sided hemiparesis or hemiplegia."
+        },
+        {
+          "id": "c",
+          "text": "Ignoring food on the left side of the tray",
+          "correct": false,
+          "rationale": "Left-sided neglect and left visual field loss come from a RIGHT hemisphere stroke, which controls spatial and visual awareness."
+        },
+        {
+          "id": "d",
+          "text": "Slow, cautious behavior with frustration and depression",
+          "correct": true,
+          "rationale": "Left hemisphere strokes are associated with slow, cautious behavior. Clients are often aware of their deficits, which leads to depression, anger, and frustration."
+        },
+        {
+          "id": "e",
+          "text": "Impulsive attempts to get out of bed while denying any weakness",
+          "correct": false,
+          "rationale": "Impulsivity, poor judgment, and denial of deficits are classic for a RIGHT hemisphere stroke."
+        },
+        {
+          "id": "f",
+          "text": "New difficulty reading and writing",
+          "correct": true,
+          "rationale": "Alexia (difficulty reading) and agraphia (difficulty writing) are language deficits of the left hemisphere."
+        }
+      ],
+      "explanation": "The left hemisphere handles language, math, and analytic thinking. Damage there causes aphasia, alexia, agraphia, agnosia, right-sided weakness, right visual changes, and slow, cautious behavior. The right hemisphere handles spatial and visual awareness. Damage there causes left-sided neglect, left visual field loss, confusion about surroundings, and impulsivity."
+    },
+    {
+      "id": "stroke-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a RIGHT hemisphere stroke has left hemiparesis. The client repeatedly tries to stand up alone and says, \"I'm fine, I can walk to the bathroom.\" Which nursing action is the priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use a low bed with a bed alarm, check on the client often, and offer scheduled toileting.",
+          "correct": true,
+          "rationale": "Right hemisphere strokes cause impulsivity, poor judgment, and denial of deficits, which puts the client at high risk for falls. Close supervision, a bed alarm, and scheduled toileting address that safety risk."
+        },
+        {
+          "id": "b",
+          "text": "Explain the deficit in detail and trust the client to remember to call for help before getting up.",
+          "correct": false,
+          "rationale": "Clients with right hemisphere damage often cannot recognize their own limits, so relying on them to remember is unsafe."
+        },
+        {
+          "id": "c",
+          "text": "Apply bilateral wrist restraints to keep the client in bed.",
+          "correct": false,
+          "rationale": "Restraints are a last resort that requires a provider order. They can increase agitation and injury, and less restrictive measures should come first."
+        },
+        {
+          "id": "d",
+          "text": "Place the call light on the client's left side so the weak side gets used.",
+          "correct": false,
+          "rationale": "The client may neglect the left side and not see the call light. Place it on the unaffected (right) side, and use scanning to retrain attention to the left."
+        }
+      ],
+      "explanation": "Right hemisphere strokes affect spatial awareness and judgment. Clients may be impulsive, unaware of their deficits, and neglect the left side. Fall prevention means close supervision, bed and chair alarms, a low bed, scheduled toileting, and keeping essentials on the unaffected side."
+    },
+    {
+      "id": "stroke-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client's spouse calls 911 at 0640 after finding the client awake with slurred speech and left facial droop. The spouse says the client was normal when they went to bed together at 2200, and the client got up to use the bathroom at 0300 without problems. What time should the nurse document as last known well?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0640, when emergency services were called",
+          "correct": false,
+          "rationale": "The time of the 911 call is neither the onset time nor the last known well time."
+        },
+        {
+          "id": "b",
+          "text": "0600, the estimated time the client usually wakes up",
+          "correct": false,
+          "rationale": "Last known well must be a time someone actually confirmed the client was normal, not an estimate."
+        },
+        {
+          "id": "c",
+          "text": "0300, when the client was last seen acting normally",
+          "correct": true,
+          "rationale": "When onset is not witnessed, last known well is the last time the client was confirmed to be at baseline. Here that is 0300 in the bathroom."
+        },
+        {
+          "id": "d",
+          "text": "2200, when the client went to bed",
+          "correct": false,
+          "rationale": "The client was seen acting normally at 0300, which is later. Using 2200 would make the client look outside the treatment window when they may not be."
+        }
+      ],
+      "explanation": "Treatment decisions, including tPA eligibility within 3-4.5 hours, are based on the time the client was last known well. For wake-up strokes or unwitnessed onset, ask when the client was last seen at baseline and when the symptoms were discovered, and document both."
+    },
+    {
+      "id": "stroke-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client arrives at the ED 70 minutes after sudden onset of right-sided weakness and aphasia. The airway is patent and the fingerstick glucose is 118 mg/dL. Which diagnostic test does the nurse anticipate first, and in what time frame?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lumbar puncture within 1 hour to look for blood in the CSF",
+          "correct": false,
+          "rationale": "A lumbar puncture is not the first-line test. It is used mainly when subarachnoid hemorrhage is suspected and the CT is negative. It also delays treatment and is a bleeding risk if tPA is given."
+        },
+        {
+          "id": "b",
+          "text": "Non-contrast CT of the head within 25 minutes of arrival",
+          "correct": true,
+          "rationale": "A non-contrast CT quickly rules out hemorrhage. Bleeding must be excluded before fibrinolytics are given, and the scan should be done within 25 minutes of arrival."
+        },
+        {
+          "id": "c",
+          "text": "MRI of the brain with contrast within 6 hours",
+          "correct": false,
+          "rationale": "MRI shows edema, ischemia, and necrosis well, but it takes longer and is not the first test for deciding on tPA."
+        },
+        {
+          "id": "d",
+          "text": "Contrast CT of the head after the creatinine results are available",
+          "correct": false,
+          "rationale": "Contrast is not needed to rule out bleeding, and waiting for lab results would delay time-sensitive treatment."
+        }
+      ],
+      "explanation": "The non-contrast head CT is the first imaging test in suspected stroke because it separates hemorrhagic from ischemic stroke. That distinction decides whether a fibrinolytic can be given. The target is CT within 25 minutes of ED arrival. MRI, MRA, and lumbar puncture are used as follow-up tests."
+    },
+    {
+      "id": "stroke-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "A client arrives at the ED by ambulance with a sudden facial droop and arm weakness that began 50 minutes ago. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Assess airway, breathing, and circulation"
+        },
+        {
+          "id": "b",
+          "text": "Check point-of-care blood glucose and confirm the last-known-well time"
+        },
+        {
+          "id": "c",
+          "text": "Perform a rapid neurologic assessment (NIH Stroke Scale)"
+        },
+        {
+          "id": "d",
+          "text": "Transport the client for a non-contrast head CT"
+        },
+        {
+          "id": "e",
+          "text": "Begin alteplase once the CT shows no hemorrhage and eligibility is confirmed"
+        }
+      ],
+      "explanation": "ABCs come first. Glucose is checked early because hypoglycemia can mimic stroke and a glucose below 50 is a tPA contraindication. Last known well sets the treatment window. A quick NIHSS documents baseline deficits. The non-contrast CT (within 25 minutes) must rule out bleeding before alteplase is started."
+    },
+    {
+      "id": "stroke-09",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client with an acute ischemic stroke is being evaluated for IV alteplase. Last known well was 90 minutes ago. Which findings would contraindicate alteplase? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fingerstick blood glucose of 42 mg/dL",
+          "correct": true,
+          "rationale": "A glucose below 50 mg/dL is a contraindication. Hypoglycemia can also mimic stroke, so it must be treated and the client reassessed."
+        },
+        {
+          "id": "b",
+          "text": "Black, tarry stool passed this morning",
+          "correct": true,
+          "rationale": "Melena indicates a recent GI bleed. A GI or urinary bleed within the past 24 hours is a contraindication because fibrinolytics can cause life-threatening bleeding."
+        },
+        {
+          "id": "c",
+          "text": "Takes aspirin 81 mg daily",
+          "correct": false,
+          "rationale": "Taking aspirin alone does not exclude a client from alteplase. Antiplatelets are held for 24 hours AFTER tPA, but prior aspirin use is not a contraindication."
+        },
+        {
+          "id": "d",
+          "text": "Was treated for an ischemic stroke 6 weeks ago",
+          "correct": true,
+          "rationale": "A stroke, head injury, or intracranial surgery within the past 3 months is a contraindication because of the high risk of intracranial hemorrhage."
+        },
+        {
+          "id": "e",
+          "text": "Blood pressure 168/94 mm Hg",
+          "correct": false,
+          "rationale": "Elevated BP is expected in acute ischemic stroke. It only becomes a barrier when it cannot be brought below the threshold (185/110 before treatment)."
+        },
+        {
+          "id": "f",
+          "text": "Right-sided weakness that has not improved since arrival",
+          "correct": false,
+          "rationale": "A persistent deficit is the reason to treat. Rapidly resolving symptoms would raise the question of a TIA."
+        }
+      ],
+      "explanation": "Alteplase contraindications from the study guide: active bleeding, GI or urinary bleed in the past 24 hours, major surgery or trauma in the past 14 days, seizure at onset, glucose below 50, and stroke, head injury, or intracranial surgery in the past 3 months. Delayed treatment is also a concern because restoring flow to necrotic tissue can cause edema and hemorrhage."
+    },
+    {
+      "id": "stroke-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with left-sided weakness arrives at the ED. The client lives alone and was last seen normal by a neighbor 5.5 hours ago. CT shows no hemorrhage. Which statement reflects the nurse's understanding of IV alteplase for this client?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alteplase can be given because the CT is negative for bleeding.",
+          "correct": false,
+          "rationale": "A negative CT is necessary but not enough. The client must also be within the treatment window."
+        },
+        {
+          "id": "b",
+          "text": "Alteplase can be given as long as the client consents within the next hour.",
+          "correct": false,
+          "rationale": "Consent does not extend the treatment window. The window is counted from last known well, not from arrival or consent."
+        },
+        {
+          "id": "c",
+          "text": "Alteplase should be given at half the usual dose because of the delay.",
+          "correct": false,
+          "rationale": "There is no reduced-dose option for late arrivals. Outside the window, the bleeding risk outweighs the benefit."
+        },
+        {
+          "id": "d",
+          "text": "It is not expected, because 5.5 hours is outside the 3-4.5 hour window.",
+          "correct": true,
+          "rationale": "Fibrinolytics must be given within 3-4.5 hours of symptom onset. At 5.5 hours, the risk of hemorrhage from reperfusing infarcted tissue outweighs the benefit. The team may consider other options, such as evaluation for mechanical thrombectomy."
+        }
+      ],
+      "explanation": "IV alteplase must be given within 3-4.5 hours of onset (last known well). Later reperfusion of necrotic tissue raises the risk of cerebral edema and hemorrhage. Clients outside the window may still be evaluated for endovascular thrombectomy, and they still need supportive stroke care."
+    },
+    {
+      "id": "stroke-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with type 1 diabetes is brought in with confusion and right-sided weakness. The fingerstick glucose is 38 mg/dL. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administer IV dextrose 50% as prescribed and recheck the glucose and neurologic status.",
+          "correct": true,
+          "rationale": "Severe hypoglycemia must be corrected right away, and it can mimic a stroke. If the deficits resolve once glucose is normal, the problem was hypoglycemia, not a stroke."
+        },
+        {
+          "id": "b",
+          "text": "Prepare to give alteplase because the client is within the treatment window.",
+          "correct": false,
+          "rationale": "A glucose below 50 mg/dL is a contraindication to tPA, and the deficits may be caused by hypoglycemia."
+        },
+        {
+          "id": "c",
+          "text": "Give 4 oz of orange juice by mouth.",
+          "correct": false,
+          "rationale": "A confused client with possible dysphagia should not take anything by mouth until a swallow screen is done because of aspiration risk. IV dextrose is the right route."
+        },
+        {
+          "id": "d",
+          "text": "Start an insulin infusion to keep the glucose below 140 mg/dL.",
+          "correct": false,
+          "rationale": "Insulin would worsen life-threatening hypoglycemia. The goal of < 140 is for treating hyperglycemia."
+        }
+      ],
+      "explanation": "Check glucose early in every suspected stroke. Hypoglycemia causes focal deficits that look like a stroke, and a glucose below 50 mg/dL excludes tPA. Treat it with D50 if needed and reassess. After a stroke, avoid both hypoglycemia and hyperglycemia, with a goal below 140 mg/dL."
+    },
+    {
+      "id": "stroke-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An IV alteplase infusion was started at 1300 for a client with an acute ischemic stroke. Which schedule for vital signs and neurologic checks should the nurse follow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every 15 minutes until 1400, then every hour until 1300 the next day",
+          "correct": false,
+          "rationale": "This shortens the every-15-minute period and leaves out the every-30-minute phase."
+        },
+        {
+          "id": "b",
+          "text": "Every 30 minutes until 1700, then every 4 hours",
+          "correct": false,
+          "rationale": "Checks every 4 hours are far too infrequent during the period of highest hemorrhage risk."
+        },
+        {
+          "id": "c",
+          "text": "Every 15 minutes until 1500, every 30 minutes until 2100, then every hour until 1300 the next day",
+          "correct": true,
+          "rationale": "This follows q15 min x 2 h (1300-1500), q30 min x 6 h (1500-2100), then q1h x 16 h (2100-1300), for 24 hours of close monitoring."
+        },
+        {
+          "id": "d",
+          "text": "Every hour for 24 hours",
+          "correct": false,
+          "rationale": "Hourly checks are not frequent enough during and right after the infusion, when the risk of hemorrhagic conversion is highest."
+        }
+      ],
+      "explanation": "After tPA, check vital signs and neuro status every 15 minutes for 2 hours, every 30 minutes for the next 6 hours, then every hour for the next 16 hours. Frequent checks catch hemorrhagic conversion, angioedema, and BP above 180/105 early."
+    },
+    {
+      "id": "stroke-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client received IV alteplase 2 hours ago. Which actions are appropriate hemorrhage precautions for the next 24 hours? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avoid inserting a nasogastric tube.",
+          "correct": true,
+          "rationale": "NG insertion can traumatize the nasal and gastric mucosa and cause bleeding that is hard to control after a fibrinolytic."
+        },
+        {
+          "id": "b",
+          "text": "Give enoxaparin 40 mg subcut for DVT prophylaxis as soon as possible.",
+          "correct": false,
+          "rationale": "Anticoagulants such as heparin and enoxaparin are not given for 24 hours after tPA. Use mechanical devices (SCDs) for DVT prevention instead."
+        },
+        {
+          "id": "c",
+          "text": "If a Foley catheter is needed, wait until at least 30 minutes after the infusion has ended.",
+          "correct": true,
+          "rationale": "The catheter should be placed before the infusion or at least 30 minutes after it ends to lower the risk of urethral bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Request venous samples rather than arterial blood gases.",
+          "correct": true,
+          "rationale": "Arterial punctures are avoided because an artery is hard to compress and can bleed significantly after a fibrinolytic."
+        },
+        {
+          "id": "e",
+          "text": "Give the client's home aspirin with breakfast.",
+          "correct": false,
+          "rationale": "Antiplatelets are held for 24 hours after tPA. Aspirin is usually started after a follow-up head image shows no bleeding."
+        },
+        {
+          "id": "f",
+          "text": "Use an electric razor and a soft toothbrush for hygiene.",
+          "correct": true,
+          "rationale": "These standard bleeding precautions reduce minor skin and gum trauma while fibrinolytic effects linger."
+        }
+      ],
+      "explanation": "Hemorrhage precautions after tPA: no antiplatelets or anticoagulants (including heparin and enoxaparin) for 24 hours, no NG tubes, no arterial sticks, and a Foley placed before the infusion or 30 minutes after it ends. Watch for and report any bleeding. A head image is needed within 24 hours before antithrombotics are started."
+    },
+    {
+      "id": "stroke-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Forty minutes into an alteplase infusion, a client becomes agitated and reports a severe headache. BP has risen from 166/90 to 212/118 mm Hg, and the client is newly difficult to arouse. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Give the prescribed PRN labetalol and recheck the BP in 15 minutes.",
+          "correct": false,
+          "rationale": "The BP needs treatment, but the cluster of findings suggests intracranial bleeding. The fibrinolytic driving the bleed must be stopped first."
+        },
+        {
+          "id": "b",
+          "text": "Stop the alteplase infusion.",
+          "correct": true,
+          "rationale": "Agitation, headache, a sudden BP rise, and neurologic decline signal hemorrhagic conversion. Stopping the infusion right away limits further bleeding. Then notify the provider, get a stat head CT, and draw coagulation labs."
+        },
+        {
+          "id": "c",
+          "text": "Give acetaminophen for the headache and reassess in 30 minutes.",
+          "correct": false,
+          "rationale": "Treating the headache as minor misses a neurologic emergency, and waiting 30 minutes delays care."
+        },
+        {
+          "id": "d",
+          "text": "Slow the infusion rate by half and notify the provider.",
+          "correct": false,
+          "rationale": "Any further fibrinolytic can worsen bleeding. Suspected hemorrhage requires stopping the drug, not reducing the rate."
+        }
+      ],
+      "explanation": "Hemorrhagic conversion presents with agitation, an abrupt BP rise, headache, and neurologic change. Risk is highest during the infusion. If you suspect it, STOP the infusion, notify the provider, get a stat head CT, and draw PT, PTT, platelets, fibrinogen, and type and cross."
+    },
+    {
+      "id": "stroke-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse suspects hemorrhagic conversion in a client receiving IV alteplase. Place the actions in the order the nurse should perform them.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Stop the alteplase infusion"
+        },
+        {
+          "id": "b",
+          "text": "Notify the provider (stroke team)"
+        },
+        {
+          "id": "c",
+          "text": "Prepare the client for a stat non-contrast head CT"
+        },
+        {
+          "id": "d",
+          "text": "Draw PT, PTT, platelets, fibrinogen, and type and crossmatch as prescribed"
+        }
+      ],
+      "explanation": "Stopping the infusion removes the cause of further bleeding. The provider is notified so they can direct reversal and imaging. A stat CT confirms whether there is intracranial hemorrhage. Labs (PT, PTT, platelets, fibrinogen, type and cross) guide replacement products such as cryoprecipitate and platelets."
+    },
+    {
+      "id": "stroke-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During an alteplase infusion, a client who takes lisinopril at home develops swelling of the lips and one side of the tongue. The SpO2 is 95%, and there is no stridor. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Continue the infusion and apply ice to the lips.",
+          "correct": false,
+          "rationale": "Orolingual angioedema can progress to airway obstruction. The infusion should not continue unchanged while swelling develops."
+        },
+        {
+          "id": "b",
+          "text": "Document the finding and reassess at the next scheduled 15-minute check.",
+          "correct": false,
+          "rationale": "Angioedema needs immediate action. Waiting for the next scheduled check risks airway compromise."
+        },
+        {
+          "id": "c",
+          "text": "Stop the infusion, assess the airway, and notify the provider.",
+          "correct": true,
+          "rationale": "Angioedema is a known reaction to alteplase, especially in clients taking ACE inhibitors. Stop the infusion, protect the airway, and get urgent treatment (antihistamine, H2 blocker, steroid, and epinephrine if it worsens)."
+        },
+        {
+          "id": "d",
+          "text": "Give the scheduled oral lisinopril to control the blood pressure.",
+          "correct": false,
+          "rationale": "ACE inhibitors increase the risk of angioedema and should be held. The client also should not take anything by mouth with oral swelling."
+        }
+      ],
+      "explanation": "Orolingual angioedema can occur with alteplase and is more likely in clients on ACE inhibitors. Treatment is urgent: stop the infusion, support the airway, and give an H2 blocker, antihistamine, and steroid, plus subcutaneous epinephrine if needed. Be ready for intubation if the swelling progresses."
+    },
+    {
+      "id": "stroke-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Four hours after IV alteplase, a client's BP is 192/108 mm Hg. The neurologic exam is unchanged. Which action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Recheck the BP at the next hourly check.",
+          "correct": false,
+          "rationale": "At 4 hours, checks should be every 30 minutes. A BP above 180/105 after tPA needs treatment now because it increases the risk of intracranial hemorrhage."
+        },
+        {
+          "id": "b",
+          "text": "Give enough antihypertensive to bring the BP down to 120/80 mm Hg as quickly as possible.",
+          "correct": false,
+          "rationale": "A rapid, large drop can reduce perfusion to the penumbra and extend the infarct. The goal is to bring BP below 180/105, not to normalize it."
+        },
+        {
+          "id": "c",
+          "text": "Allow the BP to stay elevated as permissive hypertension.",
+          "correct": false,
+          "rationale": "Permissive hypertension applies to ischemic stroke without fibrinolysis. After tPA, BP must stay below 180/105."
+        },
+        {
+          "id": "d",
+          "text": "Give the prescribed IV labetalol and recheck the BP in 15 minutes.",
+          "correct": true,
+          "rationale": "Post-tPA BP must stay below 180/105. A PRN IV agent such as labetalol, or a nicardipine infusion, lowers it in a controlled way. Close rechecks confirm the response without overshooting."
+        }
+      ],
+      "explanation": "After alteplase, keep BP below 180/105 using labetalol PRN, a nicardipine infusion, hydralazine PRN, or a nitroprusside infusion per protocol. Avoid hypotension, which can be treated with a fluid bolus or phenylephrine. Lower BP gently because rapid drops worsen ischemia."
+    },
+    {
+      "id": "stroke-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with an acute ischemic stroke was not a candidate for alteplase. The BP is 176/98 mm Hg. A new graduate nurse says, \"I'll ask for an order to get this pressure down to normal right away.\" Which response by the precepting nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Good idea. High blood pressure is what caused this stroke, so we need it normal now.\"",
+          "correct": false,
+          "rationale": "Rapid normalization in acute ischemic stroke can reduce flow to the penumbra and extend the infarct."
+        },
+        {
+          "id": "b",
+          "text": "\"Some hypertension helps perfuse the injured area, so we allow it and avoid rapid drops.\"",
+          "correct": true,
+          "rationale": "Permissive hypertension supports perfusion of the ischemic penumbra while autoregulation is impaired. BP often comes down on its own within about 24 hours. Gentle control is used only when BP exceeds set limits."
+        },
+        {
+          "id": "c",
+          "text": "\"Blood pressure doesn't matter in ischemic stroke, only in hemorrhagic stroke.\"",
+          "correct": false,
+          "rationale": "BP matters in both types. It is managed differently, and both extremely high and low pressures are dangerous."
+        },
+        {
+          "id": "d",
+          "text": "\"Let's give a nitroprusside drip, since it works the fastest.\"",
+          "correct": false,
+          "rationale": "A rapid drop is the opposite of the goal. Nitroprusside also causes cerebral vasodilation and can raise ICP in clients with cerebral edema."
+        }
+      ],
+      "explanation": "In ischemic stroke, high BP is often a compensatory response as the body tries to perfuse dying tissue. Permissive hypertension is usually desired, BP is lowered gently and only when severely elevated, and rapid decreases are avoided. Autoregulation usually brings BP down within 24 hours."
+    },
+    {
+      "id": "stroke-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client admitted 6 hours ago with an ischemic stroke now has a BP of 86/52 mm Hg, HR 124/min, and temperature 38.9°C (102°F). Admission BP was 170/96. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This may signal shock, such as sepsis or heart failure, or a wrong diagnosis; notify the provider now.",
+          "correct": true,
+          "rationale": "BP is usually elevated in ischemic stroke. Hypotension with tachycardia and fever is a red flag for a shock state or misdiagnosis, and it also threatens perfusion to the penumbra."
+        },
+        {
+          "id": "b",
+          "text": "Autoregulation has returned, and the lower BP shows that the stroke is now resolving as expected after 6 hours.",
+          "correct": false,
+          "rationale": "Autoregulation brings BP down gradually over about 24 hours. It does not cause sudden hypotension with tachycardia and fever."
+        },
+        {
+          "id": "c",
+          "text": "The BP is now at goal, so the nurse should continue routine monitoring.",
+          "correct": false,
+          "rationale": "There is no goal of hypotension in stroke. Low BP reduces cerebral perfusion and may extend the infarct."
+        },
+        {
+          "id": "d",
+          "text": "These findings are typical of permissive hypertension.",
+          "correct": false,
+          "rationale": "Permissive hypertension means allowing HIGH pressures. These findings are the opposite."
+        }
+      ],
+      "explanation": "High BP is expected in both stroke types. In hemorrhagic stroke it is often the cause, and in ischemic stroke it is often compensation. Low BP in an ischemic stroke client is a concern. Think shock (heart failure, sepsis) or a wrong diagnosis, and remember that hypotension worsens brain ischemia."
+    },
+    {
+      "id": "stroke-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A client with a large ischemic stroke has cerebral edema on CT and a sustained BP above the treatment threshold. Which antihypertensive prescription should the nurse question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Labetalol 10 mg IV push PRN",
+          "correct": false,
+          "rationale": "Labetalol is a first-line agent for stroke BP control. It lowers BP predictably without raising ICP."
+        },
+        {
+          "id": "b",
+          "text": "Nicardipine infusion titrated to the BP goal",
+          "correct": false,
+          "rationale": "Nicardipine is a titratable calcium channel blocker commonly used for stroke BP control."
+        },
+        {
+          "id": "c",
+          "text": "Sodium nitroprusside infusion",
+          "correct": true,
+          "rationale": "Nitroprusside dilates cerebral vessels and can increase ICP. It should be avoided in a client with cerebral edema."
+        },
+        {
+          "id": "d",
+          "text": "Enalapril (Vasotec) IV",
+          "correct": false,
+          "rationale": "Enalapril is listed among the BP agents used after stroke. It does not specifically worsen ICP."
+        }
+      ],
+      "explanation": "BP agents used after stroke include labetalol, enalapril (Vasotec), and nicardipine. Nitroprusside can raise ICP through cerebral vasodilation, so avoid it in clients with cerebral edema. Whatever agent is used, lower BP gradually."
+    },
+    {
+      "id": "stroke-21",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client 1 day after an ischemic stroke has a blood glucose of 246 mg/dL. Which prescription should the nurse clarify with the provider?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regular insulin sliding scale every 6 hours",
+          "correct": false,
+          "rationale": "Sliding-scale or IV insulin is an appropriate way to treat post-stroke hyperglycemia toward the goal of < 140 mg/dL."
+        },
+        {
+          "id": "b",
+          "text": "D5W at 100 mL/hr as maintenance fluid",
+          "correct": true,
+          "rationale": "Dextrose would worsen hyperglycemia, and D5W acts as a hypotonic fluid that can worsen cerebral edema. Dextrose and hypotonic fluids are saved for when they are truly needed, such as hypoglycemia."
+        },
+        {
+          "id": "c",
+          "text": "Point-of-care glucose checks before meals and at bedtime",
+          "correct": false,
+          "rationale": "Frequent monitoring is appropriate because hyperglycemia is linked to poor neurologic outcomes."
+        },
+        {
+          "id": "d",
+          "text": "Notify the provider if glucose falls below 70 mg/dL",
+          "correct": false,
+          "rationale": "Hypoglycemia must be avoided after a stroke, so this is an appropriate safety parameter."
+        }
+      ],
+      "explanation": "Hyperglycemia is common after a stroke and worsens outcomes. It increases anaerobic metabolism, lactic acidosis, and free radical formation. Keep glucose below 140 mg/dL with IV insulin or sliding scale, avoid hypoglycemia, and avoid dextrose and hypotonic IV fluids unless absolutely necessary."
+    },
+    {
+      "id": "stroke-22",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "On day 4 after a large ischemic stroke, the nurse assesses for increasing intracranial pressure. Which findings are EARLY signs? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "New restlessness and picking at the bed linens",
+          "correct": true,
+          "rationale": "Restlessness is an early sign of increasing ICP, reflecting changes in level of consciousness."
+        },
+        {
+          "id": "b",
+          "text": "A right pupil that is newly dilated and sluggish",
+          "correct": false,
+          "rationale": "Pupil changes are a LATE sign. They reflect compression of cranial nerve III and possible herniation."
+        },
+        {
+          "id": "c",
+          "text": "Disorientation to place in a client who was oriented this morning",
+          "correct": true,
+          "rationale": "A new change in orientation is an early, subtle cue of rising ICP and should be reported."
+        },
+        {
+          "id": "d",
+          "text": "BP 198/62 mm Hg with HR 52/min and irregular, slow respirations",
+          "correct": false,
+          "rationale": "This is Cushing's triad (hypertension with widening pulse pressure, bradycardia, bradypnea), a LATE sign of impending herniation."
+        },
+        {
+          "id": "e",
+          "text": "New confusion when answering simple questions",
+          "correct": true,
+          "rationale": "Confusion reflects a declining level of consciousness, which is the most sensitive early indicator of increasing ICP."
+        }
+      ],
+      "explanation": "Cerebral edema after a stroke typically peaks around day 4. Early signs of increasing ICP are restlessness, confusion, and changes in orientation. Late signs are pupil changes, widening pulse pressure, respiratory changes, and Cushing's triad. Rising ICP is urgent. Treatment may include hyperventilation, osmotic diuretics, and surgical decompression."
+    },
+    {
+      "id": "stroke-23",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "On day 2 after an ischemic stroke, a client's temperature is 38.7°C (101.7°F). The family asks why the nurse is concerned about \"just a fever.\" Which response is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Fever is expected after a stroke and actually helps the injured brain heal, so we usually leave it alone and keep watching.\"",
+          "correct": false,
+          "rationale": "Fever is harmful after a stroke and is treated, not allowed to run."
+        },
+        {
+          "id": "b",
+          "text": "\"A fever means the stroke was caused by an infection.\"",
+          "correct": false,
+          "rationale": "Fever after a stroke may come from complications such as aspiration pneumonia or UTI, or from central causes. It does not mean the stroke itself was infectious."
+        },
+        {
+          "id": "c",
+          "text": "\"We only treat fever if it goes above 40°C (104°F).\"",
+          "correct": false,
+          "rationale": "Any fever is treated after a stroke. Waiting for a high fever allows ongoing harm to injured brain tissue."
+        },
+        {
+          "id": "d",
+          "text": "\"Fever raises the brain's oxygen demand and the pressure in the skull, so we treat it and find the cause.\"",
+          "correct": true,
+          "rationale": "Hyperthermia increases cerebral metabolic demand and can raise ICP, worsening injury. The nurse gives antipyretics as prescribed and assesses for sources such as aspiration pneumonia or UTI."
+        }
+      ],
+      "explanation": "Monitor temperature closely after a stroke because an increase can raise ICP and worsen outcomes. Treat fever with antipyretics and cooling measures, and look for causes such as aspiration pneumonia, UTI, or DVT. Fever, infection, and cerebral edema are complications the nurse works to prevent."
+    },
+    {
+      "id": "stroke-24",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client is being discharged after a cardioembolic stroke related to atrial fibrillation and a single post-stroke seizure. Which teaching statements by the nurse are correct? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Swallow the dabigatran capsule whole. Do not open, crush, or chew it.\"",
+          "correct": true,
+          "rationale": "Opening dabigatran capsules greatly increases absorption and bleeding risk, so they must be swallowed whole."
+        },
+        {
+          "id": "b",
+          "text": "\"If you take warfarin, keep your intake of green leafy vegetables consistent.\"",
+          "correct": true,
+          "rationale": "Vitamin K reverses warfarin. A consistent intake keeps the INR stable within its goal range, typically 2-3 for atrial fibrillation."
+        },
+        {
+          "id": "c",
+          "text": "\"Dabigatran requires weekly INR blood tests.\"",
+          "correct": false,
+          "rationale": "Dabigatran is a direct thrombin inhibitor that does not require routine INR monitoring. INR monitoring is for warfarin."
+        },
+        {
+          "id": "d",
+          "text": "\"Stop taking phenytoin if it makes you sleepy.\"",
+          "correct": false,
+          "rationale": "Stopping antiepileptics suddenly can trigger seizures or status epilepticus. Side effects should be reported to the provider."
+        },
+        {
+          "id": "e",
+          "text": "\"Report black stools, blood in your urine, or unusual bruising.\"",
+          "correct": true,
+          "rationale": "All anticoagulants and antiplatelets increase bleeding risk, and these are signs of bleeding to report."
+        },
+        {
+          "id": "f",
+          "text": "\"Brush and floss gently, and see your dentist regularly while taking phenytoin.\"",
+          "correct": true,
+          "rationale": "Phenytoin causes gingival hyperplasia. Good oral hygiene and regular dental care reduce it."
+        }
+      ],
+      "explanation": "Stroke medications include fibrinolytics (alteplase), anticoagulants (warfarin, dabigatran), antiplatelets (aspirin), and antiepileptics (phenytoin). Seizures after a stroke are treated if they occur, not prevented prophylactically. Teaching covers bleeding precautions, consistent vitamin K with warfarin, swallowing dabigatran whole, and never stopping antiepileptics abruptly."
+    },
+    {
+      "id": "stroke-25",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a left hemisphere stroke has both expressive and receptive aphasia. Which communication strategy should the nurse use?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Speak slowly and clearly, giving one-step commands such as \"Lift your arm.\"",
+          "correct": true,
+          "rationale": "Short, simple, one-step commands spoken slowly and clearly give the client the best chance to process and respond."
+        },
+        {
+          "id": "b",
+          "text": "Speak loudly, since the client has trouble understanding.",
+          "correct": false,
+          "rationale": "Aphasia is a language-processing deficit, not a hearing loss. Raising the voice does not help and can be upsetting."
+        },
+        {
+          "id": "c",
+          "text": "Give the full set of morning care instructions at once to save the client's energy.",
+          "correct": false,
+          "rationale": "Multi-step instructions overwhelm a client with receptive aphasia. Break tasks into single steps."
+        },
+        {
+          "id": "d",
+          "text": "Finish the client's sentences to reduce frustration.",
+          "correct": false,
+          "rationale": "Routinely finishing sentences takes away practice and may misstate what the client means. Allow time to respond."
+        }
+      ],
+      "explanation": "With aphasia, assess understanding by asking the client to follow simple commands, and check that yes/no answers are consistent and accurate. Speak slowly and clearly with one-step commands, allow time to respond, use gestures and pictures, and reduce distractions."
+    },
+    {
+      "id": "stroke-26",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client after a stroke speaks in long, fluent sentences that make no sense and does not follow the request \"Squeeze my hand.\" The client answers \"yes\" to both \"Are you in Missouri?\" and \"Are you in Florida?\" What should the nurse conclude?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The client has expressive aphasia only, so understanding is intact.",
+          "correct": false,
+          "rationale": "Expressive (Broca) aphasia causes halting, effortful speech with relatively preserved understanding. This client speaks fluently but does not understand."
+        },
+        {
+          "id": "b",
+          "text": "The client's yes/no answers can be relied on for consent and pain assessment.",
+          "correct": false,
+          "rationale": "Answering yes to opposite questions shows the yes/no responses are not accurate, so they cannot be relied on."
+        },
+        {
+          "id": "c",
+          "text": "The client has a hearing deficit and needs a formal hearing evaluation before any further neurologic assessment.",
+          "correct": false,
+          "rationale": "Fluent but meaningless speech with poor comprehension is a language deficit from cortical damage, not a hearing problem."
+        },
+        {
+          "id": "d",
+          "text": "The client has receptive aphasia; use gestures, demonstration, and pictures with short phrases.",
+          "correct": true,
+          "rationale": "Fluent, meaningless speech with an inability to follow commands indicates receptive (Wernicke) aphasia. Nonverbal cues and demonstration improve understanding."
+        }
+      ],
+      "explanation": "Assess aphasia by checking whether the client can follow simple commands and whether yes/no answers are consistent and accurate. Receptive aphasia impairs understanding, and speech may be fluent but meaningless. Expressive aphasia impairs producing speech while understanding is largely intact."
+    },
+    {
+      "id": "stroke-27",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A client with left hemiparesis and dysphagia has been cleared by speech therapy for a pureed diet with honey-thick liquids. Which actions should the nurse include at mealtime? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sit the client fully upright in a chair or at 90° in bed.",
+          "correct": true,
+          "rationale": "An upright position uses gravity to move food into the esophagus and reduces aspiration risk."
+        },
+        {
+          "id": "b",
+          "text": "Instruct the client to tuck the chin toward the chest when swallowing.",
+          "correct": true,
+          "rationale": "Flexing the head and neck forward (chin tuck) narrows the airway entrance and helps protect it during the swallow."
+        },
+        {
+          "id": "c",
+          "text": "Place food in the back of the mouth on the right side.",
+          "correct": true,
+          "rationale": "The right side is the unaffected side for this client with left hemiparesis. Placing food there improves control and reduces pocketing and aspiration."
+        },
+        {
+          "id": "d",
+          "text": "Offer thin water through a straw between bites to help the food go down.",
+          "correct": false,
+          "rationale": "Thin liquids move fast and are easily aspirated, and straws increase that risk. The client is ordered honey-thick liquids."
+        },
+        {
+          "id": "e",
+          "text": "Keep suction set up and working at the bedside.",
+          "correct": true,
+          "rationale": "Suction must be ready in case of choking or aspiration."
+        },
+        {
+          "id": "f",
+          "text": "Turn on the television so the client can relax while eating.",
+          "correct": false,
+          "rationale": "Mealtimes should be free of distractions so the client can concentrate on chewing and swallowing safely."
+        }
+      ],
+      "explanation": "Dysphagia increases aspiration risk because of cranial nerve involvement. Assess swallow and gag reflexes before any intake. Sit the client upright, use a chin tuck, place food at the back of the mouth on the unaffected side, give liquids at the ordered thickness (nectar, honey, or spoon-thick), keep suction ready, and keep mealtimes free of distractions."
+    },
+    {
+      "id": "stroke-28",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with an ischemic stroke who did not receive alteplase has a prescription for aspirin 325 mg PO now. The client has right facial droop and drooling, and the voice sounds wet and gurgly. What should the nurse do first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the client NPO and perform a swallow screen before giving anything by mouth.",
+          "correct": true,
+          "rationale": "Drooling and a wet voice are cues of dysphagia. Nothing is given by mouth until swallowing is screened. If the client fails the screen, stay NPO, refer to speech therapy, and ask about another route such as a rectal suppository."
+        },
+        {
+          "id": "b",
+          "text": "Crush the aspirin and mix it into applesauce.",
+          "correct": false,
+          "rationale": "Changing the consistency does not make oral intake safe before swallowing has been assessed."
+        },
+        {
+          "id": "c",
+          "text": "Give the aspirin with a full glass of water while the client is sitting upright.",
+          "correct": false,
+          "rationale": "Thin water is the most easily aspirated consistency, and the client shows signs of impaired swallowing."
+        },
+        {
+          "id": "d",
+          "text": "Hold the aspirin for 24 hours because antiplatelets are contraindicated after any stroke.",
+          "correct": false,
+          "rationale": "The 24-hour hold applies after alteplase. Early aspirin is standard for ischemic stroke without tPA once it can be given safely."
+        }
+      ],
+      "explanation": "Every stroke client gets a swallow screen before any oral food, fluid, or medication. A simple screen gives a small sip of water and watches for coughing, choking, or a wet voice. If swallowing is impaired, keep the client NPO and get a speech therapy evaluation."
+    },
+    {
+      "id": "stroke-29",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a right hemisphere stroke eats only the food on the right side of the tray and bumps into the doorframe on the left. Which intervention best addresses this problem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Place all personal items on the client's left side so the client is forced to look there.",
+          "correct": false,
+          "rationale": "Putting needed items only on the neglected side early in recovery causes frustration and safety risks, such as an unreachable call light. Retraining is done gradually, with the call light kept within reach."
+        },
+        {
+          "id": "b",
+          "text": "Teach the client to turn the head from side to side to scan the whole environment and plate.",
+          "correct": true,
+          "rationale": "Scanning techniques teach the client to turn the head and bring the neglected left field into view, which improves safety and self-care."
+        },
+        {
+          "id": "c",
+          "text": "Tell the family the client is being stubborn and will improve with reminders not to be careless.",
+          "correct": false,
+          "rationale": "Neglect is a neurologic deficit from the stroke, not a behavior problem. This framing is inaccurate and unhelpful."
+        },
+        {
+          "id": "d",
+          "text": "Patch the client's left eye.",
+          "correct": false,
+          "rationale": "Patching does not treat visual field loss or neglect. It further limits vision."
+        }
+      ],
+      "explanation": "Unilateral neglect is loss of awareness of the affected side, most often the left after a right hemisphere stroke. The client cannot see, feel, or move that side, which leads to injury and self-care deficits. Teach scanning, observe the affected side for injury, and protect the limbs with a sling, ankle brace, or wheelchair footrest."
+    },
+    {
+      "id": "stroke-30",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a client with right hemiplegia after a stroke. Which interventions help prevent complications? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teach the client to dress the right (affected) side first.",
+          "correct": true,
+          "rationale": "Putting clothing on the affected limb first makes it easier to then use the stronger arm to finish dressing."
+        },
+        {
+          "id": "b",
+          "text": "Pull the client up in bed by grasping under the right arm.",
+          "correct": false,
+          "rationale": "Pulling on the flaccid arm or under the axilla can cause shoulder subluxation and pain. Use a lift sheet instead."
+        },
+        {
+          "id": "c",
+          "text": "Support the right arm on a pillow in bed and a lap tray or sling in the wheelchair.",
+          "correct": true,
+          "rationale": "Without muscle tone, the weight of the arm pulls the humerus out of the shoulder joint. Supporting the arm prevents subluxation."
+        },
+        {
+          "id": "d",
+          "text": "Perform range-of-motion exercises every 2 hours and use sequential compression devices.",
+          "correct": true,
+          "rationale": "ROM and SCDs promote venous return and prevent DVT and contractures in the immobile limb."
+        },
+        {
+          "id": "e",
+          "text": "Let the right arm hang at the client's side during ambulation to build strength.",
+          "correct": false,
+          "rationale": "An unsupported, dependent arm is at risk for subluxation and swelling. Elevate and support it."
+        },
+        {
+          "id": "f",
+          "text": "Encourage the client to walk the halls independently once standing balance is good.",
+          "correct": false,
+          "rationale": "Balance and endurance are reduced after hemiplegia, so the client needs assistance, assistive devices, and rest periods to prevent falls."
+        }
+      ],
+      "explanation": "Post-stroke rehab care prevents DVT, pressure injury, pneumonia, falls, and shoulder subluxation. Interventions include ROM every 2 hours, elevating the affected limb, supporting the affected arm, dressing the affected side first, using a chair that supports balance, frequent rest periods, and teaching the client to protect and care for the affected limb."
+    },
+    {
+      "id": "stroke-31",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client returns to the unit after carotid artery angioplasty with stenting through a right femoral artery approach. Which nursing action is most important in the first hours after the procedure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keep the head of the bed flat and the client NPO for 24 hours.",
+          "correct": false,
+          "rationale": "Activity and head-of-bed limits after femoral access last a few hours per protocol, not 24 hours of lying flat, and diet resumes once the client is alert and passes a swallow screen."
+        },
+        {
+          "id": "b",
+          "text": "Hold all antiplatelet medications until the follow-up visit.",
+          "correct": false,
+          "rationale": "Antiplatelet therapy (often aspirin plus clopidogrel) is usually prescribed after stenting to prevent clotting in the stent. Holding it raises the risk of stent thrombosis and stroke."
+        },
+        {
+          "id": "c",
+          "text": "Encourage the client to bend the right hip and walk to the bathroom right away.",
+          "correct": false,
+          "rationale": "The accessed leg is kept straight for the prescribed period after femoral access to prevent bleeding or hematoma at the puncture site."
+        },
+        {
+          "id": "d",
+          "text": "Check neurologic status, the right groin site, and right pedal pulses frequently.",
+          "correct": true,
+          "rationale": "Plaque debris can embolize to the brain despite the protection device, causing new deficits. The femoral site needs checks for bleeding or hematoma, and distal pulses confirm circulation to the leg."
+        }
+      ],
+      "explanation": "Carotid angioplasty with stenting is less invasive than endarterectomy. A catheter is threaded from the femoral artery, and a filter (embolic protection device) catches debris while the stent is placed. Afterward, monitor neuro status for embolic stroke, the access site and distal pulses, and BP, keep the leg straight per protocol, and give antiplatelets as prescribed."
+    },
+    {
+      "id": "stroke-32",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "A client is 4 hours post-op after a left carotid endarterectomy. Which findings should the nurse report to the surgeon right away? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increasing swelling on the left side of the neck",
+          "correct": true,
+          "rationale": "Expanding neck swelling suggests a hematoma that can compress the trachea and compromise the airway."
+        },
+        {
+          "id": "b",
+          "text": "New hoarseness and difficulty swallowing",
+          "correct": true,
+          "rationale": "These suggest injury to cranial nerves (such as the recurrent laryngeal or hypoglossal nerve) or compression from a hematoma, both of which threaten the airway and swallowing."
+        },
+        {
+          "id": "c",
+          "text": "Mild incisional tenderness, rated 3/10, relieved by the prescribed analgesic",
+          "correct": false,
+          "rationale": "Mild, controlled incisional pain is expected after surgery."
+        },
+        {
+          "id": "d",
+          "text": "A severe, new headache",
+          "correct": true,
+          "rationale": "A severe headache can signal cerebral hyperperfusion syndrome or intracranial bleeding after flow to the brain is restored. It needs prompt evaluation."
+        },
+        {
+          "id": "e",
+          "text": "BP 132/78 mm Hg and strong hand grips bilaterally",
+          "correct": false,
+          "rationale": "Stable BP and intact motor function are expected, reassuring findings."
+        }
+      ],
+      "explanation": "Carotid endarterectomy removes plaque from a narrowed carotid artery, often in clients with significant stenosis or TIAs. After surgery, assess for headache, neck swelling, and hoarseness. Also monitor the airway, neuro status for new deficits, cranial nerve function, and BP. Carotid angioplasty with stenting is a less invasive option: a catheter is placed through the femoral artery and an embolic protection device catches debris during stenting."
+    }
+  ]
+}

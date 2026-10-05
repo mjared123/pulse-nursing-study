@@ -1,0 +1,735 @@
+{
+  "slug": "aneurysm",
+  "title": "Aneurysm & Aortic Dissection",
+  "short": "Aneurysm",
+  "icon": "vein",
+  "description": "Cerebral, abdominal aortic, and thoracic aortic aneurysms, aortic dissection versus rupture, risk factors, diagnostics, blood pressure goals, open repair and EVAR nursing care, cerebral aneurysm clipping and coiling, and client teaching.",
+  "keyPoints": [
+    "Three locations: cerebral, abdominal aortic (AAA), thoracic aortic (TAA). Three forms: saccular (berry), fusiform, and mycotic (caused by infection).",
+    "Dissection: blood tears through the inner lining and tracks within the arterial wall. Rupture: the wall gives way and blood leaks out, causing hemorrhage, hypovolemic shock, and death.",
+    "AAA: pulsatile abdominal mass (do NOT palpate), bruit, constant gnawing abdominal pain, low back pain. TAA: severe back pain, hoarseness, cough, SOB, dysphagia.",
+    "Dissection: sudden tearing or ripping chest, back, or abdominal pain that can mimic MI. Linked to Marfan syndrome, blunt chest trauma, and cocaine. Look for unequal or absent pulses and BP differences between arms.",
+    "BP control: lower SBP to 100-120 mm Hg in an emergency (beta blocker first), then keep SBP at or below 130-140 mm Hg long term.",
+    "After EVAR: lie flat 6 h, VS and pulses distal to the graft q15 min. Avoid hypotension (graft thrombosis) and hypertension (graft leak). Keep HOB below 45°, keep the client warm, and monitor urine output.",
+    "Report graft occlusion right away: cool, pale, or blue extremity, pulse changes, severe pain, abdominal distention, decreased urine output.",
+    "Cerebral aneurysm: clipping or coiling, frequent GCS and ICP checks, a quiet environment, stool softeners to prevent straining, and anticonvulsants after rupture."
+  ],
+  "questions": [
+    {
+      "id": "aneurysm-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A client with infective endocarditis develops an aneurysm in a cerebral artery. Which form of aneurysm does the nurse recognize this most likely is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Saccular (berry) aneurysm",
+          "correct": false,
+          "rationale": "A saccular aneurysm is a pouch bulging from one side of the vessel, usually at an arterial bifurcation. The term describes its shape, not an infectious cause."
+        },
+        {
+          "id": "b",
+          "text": "Fusiform aneurysm",
+          "correct": false,
+          "rationale": "A fusiform aneurysm is a uniform, spindle-shaped dilation around the entire circumference of the artery, most often from atherosclerosis."
+        },
+        {
+          "id": "c",
+          "text": "Mycotic aneurysm",
+          "correct": true,
+          "rationale": "A mycotic aneurysm results from infection that weakens the arterial wall. Septic emboli from endocarditis are a classic cause."
+        },
+        {
+          "id": "d",
+          "text": "Pseudoaneurysm from a dissection",
+          "correct": false,
+          "rationale": "A dissection is a tear in the intima with blood tracking within the wall. It is not caused by bloodborne infection."
+        }
+      ],
+      "explanation": "Aneurysms are classified by form: saccular (berry) aneurysms bulge from one side, fusiform aneurysms dilate the whole circumference, and mycotic aneurysms are caused by infection. Endocarditis and a history of syphilis are classic infectious causes."
+    },
+    {
+      "id": "aneurysm-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 70-year-old client who smokes reports a 'heartbeat in my belly.' The nurse sees a pulsating mass just above the umbilicus. Which action should the nurse take next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Auscultate over the mass for a bruit and report the findings.",
+          "correct": true,
+          "rationale": "A bruit over a pulsatile mass supports a suspected AAA. Auscultation is safe and gives the provider useful data for ordering an ultrasound or CT."
+        },
+        {
+          "id": "b",
+          "text": "Palpate the mass deeply to estimate its width.",
+          "correct": false,
+          "rationale": "A suspected aneurysm should NOT be palpated. Deep pressure can cause pain and may contribute to rupture."
+        },
+        {
+          "id": "c",
+          "text": "Apply a heating pad to the abdomen to relieve discomfort.",
+          "correct": false,
+          "rationale": "Heat does not treat aneurysm pain and may mask worsening pain, which can signal expansion or impending rupture."
+        },
+        {
+          "id": "d",
+          "text": "Have the client walk briskly to see whether the pulsation increases.",
+          "correct": false,
+          "rationale": "Exertion raises BP and stress on the aneurysm wall. It has no diagnostic value here."
+        }
+      ],
+      "explanation": "A pulsatile abdominal mass in an older male smoker suggests an AAA. The nurse listens for a bruit, avoids palpating the mass, and reports the findings so imaging can confirm size and location."
+    },
+    {
+      "id": "aneurysm-03",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing the assessment of a client with a suspected abdominal aortic aneurysm (AAA) that has not ruptured. Which findings are consistent with this diagnosis? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constant, gnawing mid-abdominal pain",
+          "correct": true,
+          "rationale": "A steady, gnawing abdominal pain is a classic symptom of an AAA pressing on surrounding structures."
+        },
+        {
+          "id": "b",
+          "text": "Low back pain from pressure on the lumbar nerves",
+          "correct": true,
+          "rationale": "An expanding AAA can press on the lumbar spine and nerves, causing low back pain."
+        },
+        {
+          "id": "c",
+          "text": "Hoarseness and difficulty swallowing",
+          "correct": false,
+          "rationale": "Hoarseness and dysphagia come from a thoracic aneurysm pressing on the recurrent laryngeal nerve and esophagus, not from an AAA."
+        },
+        {
+          "id": "d",
+          "text": "Systolic bruit heard over the periumbilical area",
+          "correct": true,
+          "rationale": "Turbulent flow through the dilated aorta produces a bruit over the aneurysm."
+        },
+        {
+          "id": "e",
+          "text": "Elevated blood pressure",
+          "correct": true,
+          "rationale": "Hypertension is common with an unruptured aneurysm and is a major risk factor for expansion. BP falls once the aneurysm ruptures."
+        },
+        {
+          "id": "f",
+          "text": "BP 78/44 mm Hg with cool, clammy skin",
+          "correct": false,
+          "rationale": "Hypotension and cool, clammy skin indicate hypovolemic shock from rupture, not a stable unruptured AAA."
+        }
+      ],
+      "explanation": "An unruptured AAA may cause a pulsatile mass, a bruit, gnawing abdominal pain, low back pain, and elevated BP. Hypotension and shock signal rupture. Hoarseness and dysphagia point to a thoracic aneurysm."
+    },
+    {
+      "id": "aneurysm-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with a history of hypertension reports a new hoarse voice, a persistent cough, and feeling like food sticks when swallowing. A chest x-ray shows a widened mediastinum. Which condition should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominal aortic aneurysm",
+          "correct": false,
+          "rationale": "An AAA sits below the diaphragm. It causes abdominal and low back pain, not compression of the larynx or esophagus."
+        },
+        {
+          "id": "b",
+          "text": "Ruptured cerebral aneurysm",
+          "correct": false,
+          "rationale": "A ruptured cerebral aneurysm causes a sudden severe headache and neurologic deficits, not hoarseness and dysphagia with a widened mediastinum."
+        },
+        {
+          "id": "c",
+          "text": "Gastroesophageal reflux disease",
+          "correct": false,
+          "rationale": "GERD can cause hoarseness and dysphagia, but it does not widen the mediastinum. Missing a vascular cause here could be fatal."
+        },
+        {
+          "id": "d",
+          "text": "Thoracic aortic aneurysm",
+          "correct": true,
+          "rationale": "An enlarging TAA presses on the recurrent laryngeal nerve (hoarseness), trachea (cough, SOB), and esophagus (dysphagia), and widens the mediastinum on x-ray."
+        }
+      ],
+      "explanation": "Thoracic aortic aneurysm signs come from compression of nearby structures: severe back pain, hoarseness, cough, SOB, and difficulty swallowing. A widened mediastinum on chest x-ray supports the diagnosis, and CT or TEE confirms it."
+    },
+    {
+      "id": "aneurysm-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 26-year-old client with Marfan syndrome arrives in the ED reporting sudden, 'ripping' pain between the shoulder blades. BP is 172/96 mm Hg in the right arm and 128/74 mm Hg in the left arm. HR 112/min. Which condition does the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acute myocardial infarction",
+          "correct": false,
+          "rationale": "Dissection can mimic MI, but a tearing pain radiating to the back plus a large BP difference between arms in a client with Marfan syndrome points to the aorta. Giving thrombolytics for a presumed MI could be fatal."
+        },
+        {
+          "id": "b",
+          "text": "Acute aortic dissection",
+          "correct": true,
+          "rationale": "Sudden tearing or ripping pain, Marfan syndrome (a connective tissue disorder), and unequal arm BPs or pulses are classic for aortic dissection."
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary embolism",
+          "correct": false,
+          "rationale": "PE causes pleuritic chest pain, dyspnea, and hypoxemia. It does not cause a large BP difference between the arms."
+        },
+        {
+          "id": "d",
+          "text": "Musculoskeletal back strain",
+          "correct": false,
+          "rationale": "Muscle strain does not cause sudden ripping pain with tachycardia and unequal arm BPs. This would be a dangerous miss."
+        }
+      ],
+      "explanation": "Aortic dissection is a tear in the intima that lets blood track within the aortic wall. Suspect it with sudden tearing, ripping, or stabbing chest, back, or abdominal pain, especially with Marfan syndrome, blunt chest trauma, or cocaine use. Decreased or absent pulses and BP differences between the arms occur as the dissection blocks branch arteries."
+    },
+    {
+      "id": "aneurysm-06",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is screening clients at a health fair. Which factors increase a client's risk of developing an aortic aneurysm? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smoking one pack of cigarettes per day for 30 years",
+          "correct": true,
+          "rationale": "Tobacco use is the strongest modifiable risk factor for aortic aneurysm. It damages the elastin in the arterial wall."
+        },
+        {
+          "id": "b",
+          "text": "Male sex and age over 65",
+          "correct": true,
+          "rationale": "Aneurysms, especially AAAs, are much more common in older men."
+        },
+        {
+          "id": "c",
+          "text": "History of treated syphilis",
+          "correct": true,
+          "rationale": "Tertiary syphilis can weaken the aortic wall. A history of syphilis is a listed risk factor."
+        },
+        {
+          "id": "d",
+          "text": "Chronic low blood pressure",
+          "correct": false,
+          "rationale": "Hypotension lowers stress on the arterial wall. Uncontrolled hypertension, not low BP, is the risk factor."
+        },
+        {
+          "id": "e",
+          "text": "Father who had an abdominal aortic aneurysm repair",
+          "correct": true,
+          "rationale": "A family history of aneurysm, especially in a first-degree relative, raises risk."
+        },
+        {
+          "id": "f",
+          "text": "Regular aerobic exercise",
+          "correct": false,
+          "rationale": "Regular moderate exercise lowers cardiovascular risk. It is not a risk factor for aneurysm."
+        }
+      ],
+      "explanation": "Risk factors for aneurysm include male sex, older age, atherosclerosis, uncontrolled hypertension, tobacco use, hyperlipidemia, family history, blunt force trauma, and a history of syphilis. Hypertension and smoking are the main modifiable ones."
+    },
+    {
+      "id": "aneurysm-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 76-year-old client with uncontrolled hypertension and a known 6.2 cm abdominal aortic aneurysm suddenly reports severe back and abdominal pain. BP 84/50 mm Hg, HR 134/min, skin pale and cool, and the client is restless. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palpate the abdomen to check whether the mass has grown.",
+          "correct": false,
+          "rationale": "Palpating the aneurysm is contraindicated and delays life-saving treatment."
+        },
+        {
+          "id": "b",
+          "text": "Give the scheduled oral antihypertensive.",
+          "correct": false,
+          "rationale": "The client is already hypotensive from hemorrhage. Giving an antihypertensive would worsen shock."
+        },
+        {
+          "id": "c",
+          "text": "Activate the rapid response team and prepare for emergency surgery.",
+          "correct": true,
+          "rationale": "These are signs of rupture with hypovolemic shock. Survival depends on starting resuscitation while the team prepares for immediate surgical repair."
+        },
+        {
+          "id": "d",
+          "text": "Place the client in high Fowler's position and reassess in 15 minutes.",
+          "correct": false,
+          "rationale": "Sitting the client upright worsens cerebral perfusion during shock, and waiting 15 minutes wastes critical time."
+        }
+      ],
+      "explanation": "Rupture is the big complication of an aneurysm. A large aneurysm (over 6 cm) in an older client with hypertension carries a high rupture risk. Rupture causes hemorrhage and hypovolemic shock (tachycardia, hypotension, pale cool skin, restlessness, low urine output) and needs resuscitation and emergency surgery at the same time."
+    },
+    {
+      "id": "aneurysm-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with an acute aortic dissection has BP 188/104 mm Hg and HR 110/min. Which medication should the nurse anticipate giving first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "IV esmolol infusion",
+          "correct": true,
+          "rationale": "A beta blocker is given first to lower HR and the force of contraction. This reduces shear stress on the torn aorta and prevents reflex tachycardia when vasodilators are added."
+        },
+        {
+          "id": "b",
+          "text": "IV nitroprusside alone",
+          "correct": false,
+          "rationale": "A vasodilator given without a beta blocker causes reflex tachycardia, which increases shear force on the aortic wall and can extend the dissection."
+        },
+        {
+          "id": "c",
+          "text": "IV normal saline bolus of 1 L",
+          "correct": false,
+          "rationale": "The client is hypertensive. A fluid bolus would raise pressure and stress on the dissected aorta."
+        },
+        {
+          "id": "d",
+          "text": "IV alteplase (tPA)",
+          "correct": false,
+          "rationale": "Thrombolytics are contraindicated in aortic dissection because they can cause catastrophic bleeding. This is why it matters not to mistake dissection for MI."
+        }
+      ],
+      "explanation": "In an aortic emergency, the goal is to lower SBP to 100-120 mm Hg, starting with a beta blocker (such as esmolol, labetalol, or propranolol). Vasodilators or calcium channel blockers are added if needed after HR is controlled. Long-term SBP goal is at or below 130-140 mm Hg."
+    },
+    {
+      "id": "aneurysm-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client asks, 'What is the difference between an aortic dissection and a rupture?' Which response by the nurse is accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A dissection happens only in the brain, and a rupture happens only in the aorta.",
+          "correct": false,
+          "rationale": "Dissection is an aortic emergency, and rupture can happen in any aneurysm, including cerebral, thoracic, and abdominal aneurysms."
+        },
+        {
+          "id": "b",
+          "text": "A dissection is a slow bulge that grows over many years, and a rupture is a sudden new bulge in the wall.",
+          "correct": false,
+          "rationale": "This describes aneurysm growth in general. A dissection is an acute tear, not a slow bulge."
+        },
+        {
+          "id": "c",
+          "text": "They are the same thing described with different words.",
+          "correct": false,
+          "rationale": "They are different processes. A dissection keeps the blood inside the vessel wall, while a rupture lets blood escape the vessel."
+        },
+        {
+          "id": "d",
+          "text": "In a dissection, blood tears into the wall layers; in a rupture, blood leaks out of the vessel.",
+          "correct": true,
+          "rationale": "A dissection is a tear in the inner lining that lets blood accumulate within the wall. A rupture is a full break that causes hemorrhage and hypovolemic shock."
+        }
+      ],
+      "explanation": "Dissection: an intimal tear lets blood track between the layers of the aortic wall, creating a false channel. Rupture: the wall fails and blood leaks out, causing hemorrhage, hypovolemic shock, and often death. A dissection can progress to rupture."
+    },
+    {
+      "id": "aneurysm-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a suspected thoracic aortic dissection is too hemodynamically unstable to leave the ED. Which diagnostic test should the nurse prepare the client for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominal ultrasound performed at the bedside",
+          "correct": false,
+          "rationale": "Abdominal ultrasound works well for screening and monitoring an AAA, but it cannot see the thoracic aorta well."
+        },
+        {
+          "id": "b",
+          "text": "Bedside transesophageal echocardiogram",
+          "correct": true,
+          "rationale": "TEE is especially useful for thoracic and dissecting aneurysms and can be done at the bedside when the client is too unstable for the CT scanner."
+        },
+        {
+          "id": "c",
+          "text": "Lumbar puncture",
+          "correct": false,
+          "rationale": "Lumbar puncture checks the CSF for blood in a suspected subarachnoid hemorrhage. It plays no role in diagnosing aortic dissection."
+        },
+        {
+          "id": "d",
+          "text": "Exercise stress test",
+          "correct": false,
+          "rationale": "Exercise would raise BP and shear stress on the aorta and is contraindicated in a suspected dissection."
+        }
+      ],
+      "explanation": "Diagnostics for aneurysm include x-ray and ultrasound, CT (the best test for size, location, and progression), and TEE, which is especially useful for thoracic and dissecting aneurysms. A chest x-ray may show a widened mediastinum."
+    },
+    {
+      "id": "aneurysm-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client returned from an endovascular aneurysm repair (EVAR) through the right femoral artery 2 hours ago. The nurse finds the client sitting up in bed at 70° to eat. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Let the client stay upright because EVAR is a minimally invasive procedure.",
+          "correct": false,
+          "rationale": "Although EVAR is less invasive than open repair, the client still has a large-bore femoral access site and must stay flat to prevent bleeding and graft problems."
+        },
+        {
+          "id": "b",
+          "text": "Lower the client flat and check the groin site and distal pulses.",
+          "correct": true,
+          "rationale": "The client must lie flat for 6 hours after EVAR. Sitting up flexes the groin and hip, which can cause access-site bleeding or kink the graft, so the nurse checks the site and pulses distal to the graft."
+        },
+        {
+          "id": "c",
+          "text": "Raise the head of the bed to 90° to help with swallowing.",
+          "correct": false,
+          "rationale": "This flexes the hip even more and increases the risk of bleeding and graft kinking."
+        },
+        {
+          "id": "d",
+          "text": "Have the client dangle at the bedside to begin ambulation.",
+          "correct": false,
+          "rationale": "Early ambulation is encouraged later, but not during the 6 hours of required flat bed rest after EVAR."
+        }
+      ],
+      "explanation": "After EVAR, the client stays flat for 6 hours. The nurse checks VS and circulation distal to the graft q15 min until stable, and monitors the access site, urine output, and signs of graft occlusion or rupture. Later, the HOB is kept below 45° to prevent graft flexion."
+    },
+    {
+      "id": "aneurysm-12",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client is 8 hours post open abdominal aortic aneurysm repair. Which findings suggest graft occlusion and should be reported to the provider immediately? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Left foot cool and pale, with a dusky blue tinge to the toes",
+          "correct": true,
+          "rationale": "A cool, white, or blue extremity means arterial flow distal to the graft is blocked."
+        },
+        {
+          "id": "b",
+          "text": "Incisional pain rated 3/10 after the scheduled analgesic",
+          "correct": false,
+          "rationale": "Mild incisional pain controlled by analgesia is expected after surgery. Severe or worsening pain would be concerning."
+        },
+        {
+          "id": "c",
+          "text": "Left dorsalis pedis pulse now absent by Doppler",
+          "correct": true,
+          "rationale": "A change in or loss of a pulse distal to the graft is a key sign of graft occlusion or embolism."
+        },
+        {
+          "id": "d",
+          "text": "Urine output of 15 mL/h for the past 2 hours",
+          "correct": true,
+          "rationale": "Decreased urine output can mean a thrombus is blocking renal perfusion near the graft, or that the client is bleeding."
+        },
+        {
+          "id": "e",
+          "text": "BP 124/72 mm Hg and HR 84/min",
+          "correct": false,
+          "rationale": "These VS are within the target range: no hypotension that would promote graft thrombosis and no hypertension that would stress the suture line."
+        },
+        {
+          "id": "f",
+          "text": "Severe leg pain and a firm, distending abdomen",
+          "correct": true,
+          "rationale": "Severe pain from ischemia and abdominal distention can mean graft occlusion, bowel ischemia, or bleeding at the graft."
+        }
+      ],
+      "explanation": "Report signs of graft occlusion immediately: cool, white, or blue extremities, changes in or loss of pulses, severe pain, abdominal distention, and decreased urine output. The nurse checks circulation (color, pulse, temperature) of the lower extremities and monitors urine output hourly."
+    },
+    {
+      "id": "aneurysm-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "Four hours after open repair of an abdominal aortic aneurysm, a client's BP is 184/102 mm Hg. Which is the primary reason the nurse acts promptly to bring the BP into the prescribed range?",
+      "options": [
+        {
+          "id": "a",
+          "text": "High BP will slow flow and cause blood to clot inside the newly placed graft.",
+          "correct": false,
+          "rationale": "Prolonged hypotension, not hypertension, slows flow and lets thrombi form in the graft."
+        },
+        {
+          "id": "b",
+          "text": "High BP causes the graft to flex and kink.",
+          "correct": false,
+          "rationale": "Graft flexion comes from positioning, such as raising the HOB above 45° or bending at the hip, not from BP."
+        },
+        {
+          "id": "c",
+          "text": "High BP stresses the suture lines and can cause leaking at the graft.",
+          "correct": true,
+          "rationale": "Hypertension raises pressure at the anastomoses and can cause leaking, hemorrhage, or graft disruption."
+        },
+        {
+          "id": "d",
+          "text": "High BP will cause the client to become hypothermic.",
+          "correct": false,
+          "rationale": "BP does not cause hypothermia. A warm environment is kept to prevent vasoconstriction, which is a separate goal."
+        }
+      ],
+      "explanation": "After aneurysm repair, BP is kept in a narrow range. Prolonged hypotension can let thrombi form in the graft, and hypertension can cause leaking at the graft site. Report BP outside the prescribed parameters and give antihypertensives as ordered."
+    },
+    {
+      "id": "aneurysm-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client who had an open aortic aneurysm repair is shivering, with a temperature of 35.6°C (96.1°F). The nurse applies a forced-air warming blanket. Which explains the rationale for this intervention?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cold causes vasoconstriction that reduces perfusion distal to the graft.",
+          "correct": true,
+          "rationale": "A warm environment prevents cold-induced vasoconstriction, which would decrease distal perfusion. Shivering also raises oxygen demand and BP."
+        },
+        {
+          "id": "b",
+          "text": "Warming dilates the aneurysm sac so the graft seals better.",
+          "correct": false,
+          "rationale": "Warming does not affect how the graft seals. The aneurysm sac has been excluded by the graft."
+        },
+        {
+          "id": "c",
+          "text": "Warming the client prevents surgical site infection by killing bacteria.",
+          "correct": false,
+          "rationale": "Normothermia supports immune function, but warming does not kill bacteria. The main reason here is to prevent vasoconstriction."
+        },
+        {
+          "id": "d",
+          "text": "Warming lets the nurse safely raise the HOB above 45°.",
+          "correct": false,
+          "rationale": "The HOB stays below 45° regardless of temperature to prevent graft flexion."
+        }
+      ],
+      "explanation": "Keeping the client warm after aneurysm repair prevents vasoconstriction, which would decrease graft and distal perfusion. Shivering raises metabolic demand and BP, which adds stress at the graft."
+    },
+    {
+      "id": "aneurysm-15",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "Three hours after EVAR, the nurse finds a rapidly expanding hematoma at the client's right femoral access site. BP has dropped from 132/80 to 104/66 mm Hg. Place the nurse's actions in priority order.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Apply firm manual pressure just above the puncture site."
+        },
+        {
+          "id": "b",
+          "text": "Call for help and have the provider and rapid response team notified without leaving the bedside."
+        },
+        {
+          "id": "c",
+          "text": "Assess vital signs and pulses distal to the access site."
+        },
+        {
+          "id": "d",
+          "text": "Prepare to give IV fluids and blood products as prescribed."
+        },
+        {
+          "id": "e",
+          "text": "Document the findings, interventions, and the client's response."
+        }
+      ],
+      "explanation": "Stopping the bleeding comes first, so the nurse applies direct pressure right away. While holding pressure, the nurse calls for help instead of leaving the client. Next the nurse assesses VS and distal pulses to judge blood loss and limb perfusion, then prepares for volume replacement as prescribed. Documentation comes last."
+    },
+    {
+      "id": "aneurysm-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with a ruptured cerebral aneurysm is awaiting endovascular coiling. Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encourage family and friends to visit often to keep the client oriented.",
+          "correct": false,
+          "rationale": "Frequent visitors increase stimulation and can raise ICP and BP. Visitors should be limited."
+        },
+        {
+          "id": "b",
+          "text": "Keep the HOB flat to increase blood flow to the brain.",
+          "correct": false,
+          "rationale": "A flat position impairs venous drainage and raises ICP. The HOB is elevated to about 30° with the neck midline."
+        },
+        {
+          "id": "c",
+          "text": "Have the client perform hourly coughing exercises to prevent pneumonia.",
+          "correct": false,
+          "rationale": "Vigorous coughing increases intrathoracic pressure and ICP. Gentle deep breathing is used instead."
+        },
+        {
+          "id": "d",
+          "text": "Keep the room quiet and dimly lit and give the prescribed stool softener.",
+          "correct": true,
+          "rationale": "A calm, quiet environment lowers stimulation and ICP. Stool softeners prevent straining (Valsalva), which raises pressure on the aneurysm."
+        }
+      ],
+      "explanation": "Care before and after aneurysm treatment focuses on preventing rebleeding and increased ICP: a quiet, calm environment, HOB about 30° with the neck midline, BP control, stool softeners, anticonvulsants as prescribed, and frequent neuro checks with the GCS."
+    },
+    {
+      "id": "aneurysm-17",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care for a client after surgical clipping of a ruptured cerebral aneurysm. Which interventions should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assess the Glasgow Coma Scale score and pupils frequently.",
+          "correct": true,
+          "rationale": "Frequent neuro checks catch rebleeding, vasospasm, or rising ICP early."
+        },
+        {
+          "id": "b",
+          "text": "Give the prescribed anticonvulsant on schedule.",
+          "correct": true,
+          "rationale": "Anticonvulsants are used after cerebral aneurysm rupture to prevent seizures, which raise ICP and metabolic demand."
+        },
+        {
+          "id": "c",
+          "text": "Elevate the HOB to about 30° with the head and neck midline.",
+          "correct": true,
+          "rationale": "This position promotes venous drainage from the brain and helps lower ICP."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the client to bear down during bowel movements to prevent constipation.",
+          "correct": false,
+          "rationale": "Bearing down (Valsalva) raises ICP. Stool softeners are given so the client does not need to strain."
+        },
+        {
+          "id": "e",
+          "text": "Keep the television and lights on to provide stimulation.",
+          "correct": false,
+          "rationale": "Extra stimulation can raise ICP. A calm, quiet environment is preferred."
+        },
+        {
+          "id": "f",
+          "text": "Give the prescribed antihypertensive to keep BP within the ordered range.",
+          "correct": true,
+          "rationale": "BP control reduces the risk of rebleeding and pressure on the repaired vessel."
+        }
+      ],
+      "explanation": "After clipping or coiling, care includes frequent neuro assessments (GCS, pupils), monitoring for increased ICP, HOB about 30° with the neck midline, a quiet environment, BP control, anticonvulsants, and stool softeners to prevent straining."
+    },
+    {
+      "id": "aneurysm-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client who had a cerebral aneurysm coiled yesterday had a GCS of 15 this morning. The nurse now finds the client restless and confused. GCS 13, HR 54/min (was 82/min), BP 168/72 mm Hg (was 138/80 mm Hg), and the right pupil reacts sluggishly. How should the nurse interpret these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expected drowsiness from post-procedure sedation",
+          "correct": false,
+          "rationale": "Sedation would not cause bradycardia, a widening pulse pressure, and a sluggish pupil this long after the procedure."
+        },
+        {
+          "id": "b",
+          "text": "Rising intracranial pressure that needs immediate reporting",
+          "correct": true,
+          "rationale": "Restlessness, a falling GCS, a sluggish pupil, bradycardia, and a widening pulse pressure are signs of increasing ICP, possibly from rebleeding or hydrocephalus."
+        },
+        {
+          "id": "c",
+          "text": "Hypovolemia from blood loss at the femoral access site",
+          "correct": false,
+          "rationale": "Hypovolemia causes tachycardia and hypotension, not bradycardia with rising systolic BP."
+        },
+        {
+          "id": "d",
+          "text": "Anxiety about the hospital stay",
+          "correct": false,
+          "rationale": "Attributing objective neuro decline to anxiety could delay life-saving treatment."
+        }
+      ],
+      "explanation": "Early signs of rising ICP are restlessness and changes in LOC. Pupil changes follow, and late signs include Cushing's triad: bradycardia, a widening pulse pressure, and irregular respirations. Any neuro decline after aneurysm treatment is reported immediately."
+    },
+    {
+      "id": "aneurysm-19",
+      "type": "sata",
+      "bloom": "evaluate",
+      "stem": "The nurse is teaching a client with a 4.4 cm abdominal aortic aneurysm being managed with surveillance. Which client statements indicate understanding? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'll avoid lifting my heavy toolboxes and moving furniture.",
+          "correct": true,
+          "rationale": "Heavy lifting and strenuous straining sharply raise BP and stress the aneurysm wall."
+        },
+        {
+          "id": "b",
+          "text": "I can stop my blood pressure pill once my readings stay normal.",
+          "correct": false,
+          "rationale": "Antihypertensives must be continued. Normal readings mean the medication is working, and stopping it raises the risk of expansion and rupture."
+        },
+        {
+          "id": "c",
+          "text": "If I get sudden, severe pain in my back or belly, or feel faint, I'll call 911.",
+          "correct": true,
+          "rationale": "Knowing the signs of rupture and seeking emergency care right away is essential for survival."
+        },
+        {
+          "id": "d",
+          "text": "Quitting smoking will help slow the growth of my aneurysm.",
+          "correct": true,
+          "rationale": "Tobacco use speeds aneurysm growth. Quitting is the most important lifestyle change."
+        },
+        {
+          "id": "e",
+          "text": "My goal is to keep my systolic blood pressure at or below 130 to 140.",
+          "correct": true,
+          "rationale": "Long-term SBP goal is at or below 130-140 mm Hg to reduce stress on the aneurysm wall."
+        },
+        {
+          "id": "f",
+          "text": "Since I feel fine, I won't need any more scans.",
+          "correct": false,
+          "rationale": "Aneurysms often cause no symptoms while they grow. Routine follow-up imaging (ultrasound or CT) tracks size and guides when to repair."
+        }
+      ],
+      "explanation": "Teaching for an unruptured aneurysm: take antihypertensives as prescribed, keep SBP at or below 130-140, stop tobacco, avoid heavy lifting and strenuous activity, keep follow-up imaging, follow a proper diet, prevent and report infection, and know the signs of rupture."
+    },
+    {
+      "id": "aneurysm-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse on a vascular unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A client with a 5.1 cm AAA who reports new, sudden, severe low back pain and feeling lightheaded",
+          "correct": true,
+          "rationale": "New severe back pain and lightheadedness in a client with an AAA suggest expansion or rupture with early shock. This is a life-threatening emergency."
+        },
+        {
+          "id": "b",
+          "text": "A client 1 day post EVAR who reports groin site pain of 4/10 and asks for analgesia",
+          "correct": false,
+          "rationale": "Mild to moderate access-site pain is expected after EVAR. This client can be seen after the unstable client."
+        },
+        {
+          "id": "c",
+          "text": "A client with a thoracic aneurysm whose BP is 146/88 mm Hg and is due for oral metoprolol",
+          "correct": false,
+          "rationale": "Mildly elevated BP in a client due for a beta blocker is important but not an emergency. The scheduled dose can be given shortly."
+        },
+        {
+          "id": "d",
+          "text": "A client 3 days after cerebral aneurysm clipping who is alert and asking about discharge teaching",
+          "correct": false,
+          "rationale": "This client is stable and alert. Teaching can wait until the emergency is handled."
+        }
+      ],
+      "explanation": "Prioritize signs of aneurysm expansion or rupture: sudden severe back, abdominal, or chest pain, lightheadedness, hypotension, and tachycardia. Rupture causes hemorrhage and hypovolemic shock and needs immediate resuscitation and surgery."
+    }
+  ]
+}
