@@ -10,6 +10,8 @@
     "validate": "node scripts/validate-questions.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
     "vue": "^3.5.43",
     "vue-router": "^5.3.1"
   },
@@ -18,5 +20,13 @@
     "@vitejs/plugin-vue": "^6.0.9",
     "tailwindcss": "^4.3.3",
     "vite": "^8.3.2"
+  },
+  "overrides": {
+    "@vercel/analytics": {
+      "vue-router": "$vue-router"
+    },
+    "@vercel/speed-insights": {
+      "vue-router": "$vue-router"
+    }
   }
 }
