@@ -2,27 +2,19 @@
 import { computed } from 'vue'
 import Icon from '../components/Icon.vue'
 import ProgressRing from '../components/ProgressRing.vue'
-import { exams } from '../data'
-import { topicMastery } from '../lib/storage'
+import { exams, courses } from '../data'
+import { courseProgress, unitProgress, lastStudied } from '../lib/progress'
+import { ago } from '../lib/format'
 
 const totalQuestions = computed(() => exams.reduce((s, e) => s + e.questionCount, 0))
-function examMastery(e) {
-  const m = e.topics.map((t) => topicMastery(e.id, t))
-  const total = m.reduce((s, x) => s + x.total, 0)
-  return total ? m.reduce((s, x) => s + x.right, 0) / total : 0
-}
-
-const steps = [
-  { icon: 'target', title: 'Drill each topic', body: 'Short section quizzes with an instant breakdown of why every answer choice is right or wrong.' },
-  { icon: 'clock', title: 'Sit a real-format exam', body: 'Timed, full-length practice exams that match the blueprint: same length, time limit, and question mix.' },
-  { icon: 'trophy', title: 'Review and close gaps', body: 'See your score by topic and thinking level, then re-drill only the questions you missed.' },
-]
+const resume = computed(() => lastStudied())
+const COURSE_TONE = ['from-maroon-600 to-rose-500', 'from-amber-500 to-orange-600', 'from-sky-500 to-indigo-600']
 </script>
 
 <template>
   <div>
     <!-- hero -->
-    <section class="relative pt-10 pb-16 text-center sm:pt-16">
+    <section class="relative pt-6 pb-12 text-center sm:pt-10">
       <div class="animate-rise">
         <span class="chip mx-auto bg-white/80 text-maroon-800 shadow-sm ring-1 ring-maroon-200 dark:bg-white/5 dark:text-maroon-200 dark:ring-maroon-400/20">
           <span class="relative flex h-2 w-2"><span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex h-2 w-2 rounded-full bg-emerald-500"></span></span>
@@ -61,55 +53,61 @@ const steps = [
       </div>
     </section>
 
-    <!-- exams -->
+    <!-- pick up where you left off -->
+    <RouterLink v-if="resume" :to="resume.target.to" class="card card-hover group mb-10 flex flex-col gap-4 p-5 sm:flex-row sm:items-center sm:p-6 animate-rise">
+      <span class="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-maroon-600 to-maroon-900 text-white shadow-md shadow-maroon-900/30">
+        <Icon name="play" :size="20" />
+      </span>
+      <div class="min-w-0 flex-1">
+        <p class="eyebrow">Pick up where you left off · {{ ago(resume.at) }}</p>
+        <p class="mt-1 truncate text-lg font-bold">{{ resume.target.title }}</p>
+        <p class="text-sm text-stone-500">{{ resume.exam.course }} · Unit {{ resume.exam.unit }} · {{ resume.target.detail }}</p>
+      </div>
+      <span class="btn-primary shrink-0">Continue <Icon name="arrow-right" :size="16" class="transition group-hover:translate-x-1" /></span>
+    </RouterLink>
+
+    <!-- classes -->
     <section>
-      <div class="mb-5 flex items-end justify-between">
-        <div>
-          <p class="eyebrow">Choose your exam</p>
-          <h2 class="mt-1 font-display text-3xl font-bold">Available now</h2>
-        </div>
+      <div class="mb-5">
+        <p class="eyebrow">Choose your class</p>
+        <h2 class="mt-1 font-display text-3xl font-bold">Your classes</h2>
       </div>
       <div class="grid gap-5 md:grid-cols-2">
-        <RouterLink v-for="(e, i) in exams" :key="e.id" :to="`/${e.id}`" class="card card-hover group relative overflow-hidden p-7 animate-rise" :style="{ animationDelay: i * 80 + 'ms' }">
+        <RouterLink v-for="(c, i) in courses" :key="c.id" :to="`/${c.id}`" class="card card-hover group relative flex flex-col overflow-hidden p-7 animate-rise" :style="{ animationDelay: i * 80 + 'ms' }">
           <div class="absolute -top-16 -right-16 h-48 w-48 rounded-full bg-gradient-to-br from-maroon-500/20 to-amber-400/10 blur-2xl transition group-hover:scale-125"></div>
           <div class="relative flex items-start justify-between gap-4">
-            <div>
-              <p class="eyebrow">{{ e.course }} · {{ e.term }}</p>
-              <h3 class="mt-2 font-display text-3xl font-bold">{{ e.title }}</h3>
-              <p class="mt-1 text-stone-600 dark:text-stone-400">{{ e.subtitle }}</p>
+            <div class="flex items-center gap-4">
+              <span class="grid h-14 w-14 shrink-0 place-items-center rounded-2xl bg-gradient-to-br text-white shadow-lg" :class="COURSE_TONE[i % COURSE_TONE.length]">
+                <Icon name="book" :size="26" />
+              </span>
+              <div>
+                <p class="eyebrow">{{ c.units[0].term }}</p>
+                <h3 class="font-display text-4xl font-bold tracking-tight">{{ c.course }}</h3>
+              </div>
             </div>
-            <ProgressRing :value="examMastery(e)" :size="64" />
+            <ProgressRing :value="courseProgress(c).pct" :size="64" />
           </div>
-          <div class="relative mt-6 flex flex-wrap gap-2 text-xs font-semibold text-stone-600 dark:text-stone-300">
-            <span class="chip bg-stone-100 dark:bg-white/5"><Icon name="layers" :size="13" />{{ e.topics.length }} sections</span>
-            <span class="chip bg-stone-100 dark:bg-white/5"><Icon name="list" :size="13" />{{ e.format.totalQuestions }}-question exam</span>
-            <span class="chip bg-stone-100 dark:bg-white/5"><Icon name="clock" :size="13" />{{ e.format.minutes }} min</span>
-          </div>
-          <div class="relative mt-6 flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
-            Start studying <Icon name="arrow-right" :size="18" class="transition group-hover:translate-x-1" />
+          <ol class="relative mt-6 flex-1 space-y-2.5">
+            <li v-for="u in c.units" :key="u.id" class="flex items-start gap-3 text-sm">
+              <span class="mt-0.5 grid h-6 w-6 shrink-0 place-items-center rounded-full font-mono text-[11px] font-bold" :class="unitProgress(u).unlocked ? 'bg-emerald-500 text-white' : 'bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-300'">
+                <Icon v-if="unitProgress(u).unlocked" name="check" :size="12" :stroke="3" /><template v-else>{{ u.unit }}</template>
+              </span>
+              <span class="min-w-0">
+                <span class="font-semibold">Unit {{ u.unit }}</span>
+                <span class="text-stone-500"> · {{ u.subtitle }}</span>
+              </span>
+            </li>
+          </ol>
+          <div class="relative mt-6 flex flex-wrap items-center justify-between gap-3">
+            <div class="flex flex-wrap gap-2 text-xs font-semibold text-stone-600 dark:text-stone-300">
+              <span class="chip bg-stone-100 dark:bg-white/5"><Icon name="layers" :size="13" />{{ c.units.length }} units</span>
+              <span class="chip bg-stone-100 dark:bg-white/5"><Icon name="check" :size="13" />{{ courseProgress(c).done }}/{{ courseProgress(c).total }} sections</span>
+            </div>
+            <span class="flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
+              {{ courseProgress(c).started ? 'Open class' : 'Start class' }} <Icon name="arrow-right" :size="18" class="transition group-hover:translate-x-1" />
+            </span>
           </div>
         </RouterLink>
-        <div class="card flex flex-col items-center justify-center border-dashed p-7 text-center text-stone-500 dark:text-stone-500">
-          <Icon name="sparkles" :size="28" class="text-amber-500" />
-          <p class="mt-3 font-semibold text-stone-700 dark:text-stone-300">More exams on the way</p>
-          <p class="mt-1 text-sm">New courses and exams get added as study guides come out.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- how it works -->
-    <section class="mt-20">
-      <p class="eyebrow text-center">How it works</p>
-      <h2 class="mt-1 text-center font-display text-3xl font-bold">Three steps to exam day</h2>
-      <div class="mt-8 grid gap-5 md:grid-cols-3">
-        <div v-for="(s, i) in steps" :key="s.title" class="card p-6">
-          <div class="flex items-center gap-3">
-            <span class="grid h-11 w-11 place-items-center rounded-2xl bg-maroon-100 text-maroon-700 dark:bg-maroon-500/15 dark:text-maroon-300"><Icon :name="s.icon" :size="22" /></span>
-            <span class="font-mono text-sm font-bold text-stone-400">0{{ i + 1 }}</span>
-          </div>
-          <h3 class="mt-4 text-lg font-bold">{{ s.title }}</h3>
-          <p class="mt-1.5 text-sm leading-relaxed text-stone-600 dark:text-stone-400">{{ s.body }}</p>
-        </div>
       </div>
     </section>
   </div>

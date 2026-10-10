@@ -4,10 +4,11 @@ import { useRoute } from 'vue-router'
 import Icon from './Icon.vue'
 import { dark, toggleTheme } from '../lib/theme'
 import { store } from '../lib/storage'
-import { getExam } from '../data'
+import { getExam, getCourse } from '../data'
 
 const route = useRoute()
 const exam = computed(() => getExam(route.params.examId))
+const course = computed(() => getCourse(exam.value?.courseId ?? route.params.courseId))
 const streak = computed(() => {
   const s = store.streak
   if (!s.last) return 0
@@ -29,12 +30,14 @@ const streak = computed(() => {
           <span class="block text-[10px] font-semibold tracking-[0.16em] whitespace-nowrap text-stone-500 uppercase">MSU Nursing</span>
         </span>
       </RouterLink>
-      <template v-if="exam">
-        <Icon name="chevron-right" :size="16" class="hidden text-stone-400 sm:block" />
-        <RouterLink :to="`/${exam.id}`" class="hidden truncate text-sm font-semibold text-stone-600 sm:block hover:text-maroon-700 dark:text-stone-300 dark:hover:text-maroon-300">
-          {{ exam.course }} · {{ exam.title }}
-        </RouterLink>
-      </template>
+      <nav v-if="course" class="hidden min-w-0 items-center gap-2 text-sm font-semibold text-stone-600 sm:flex dark:text-stone-300">
+        <Icon name="chevron-right" :size="16" class="shrink-0 text-stone-400" />
+        <RouterLink :to="`/${course.id}`" class="shrink-0 hover:text-maroon-700 dark:hover:text-maroon-300">{{ course.course }}</RouterLink>
+        <template v-if="exam">
+          <Icon name="chevron-right" :size="16" class="shrink-0 text-stone-400" />
+          <RouterLink :to="`/${exam.id}`" class="truncate hover:text-maroon-700 dark:hover:text-maroon-300">Unit {{ exam.unit }} · {{ exam.title }}</RouterLink>
+        </template>
+      </nav>
       <div class="ml-auto flex items-center gap-2">
         <span v-if="streak > 0" class="chip whitespace-nowrap bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300" :title="`${streak}-day study streak`">
           <Icon name="flame" :size="13" /> {{ streak }} day{{ streak === 1 ? '' : 's' }}

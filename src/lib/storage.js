@@ -11,7 +11,7 @@ function load() {
   return {}
 }
 
-export const store = reactive({ quizzes: {}, exams: {}, streak: { last: null, days: 0 }, ...load() })
+export const store = reactive({ quizzes: {}, exams: {}, streak: { last: null, days: 0 }, last: null, ...load() })
 
 watch(
   store,
@@ -45,7 +45,24 @@ export function recordAnswer(examId, slug, qid, correct) {
   const rec = topicRecord(examId, slug)
   const prev = rec.seen[qid] ?? { n: 0, c: 0 }
   rec.seen[qid] = { n: prev.n + 1, c: prev.c + (correct ? 1 : 0), last: correct }
+  touch(examId)
   bumpStreak()
+}
+
+// Remembers the unit studied most recently, for "pick up where you left off".
+export function touch(examId) {
+  store.last = { examId, at: Date.now() }
+}
+
+// An unfinished section quiz: which questions, how far in, and what was answered.
+export function saveQuizProgress(examId, slug, state) {
+  topicRecord(examId, slug).inProgress = { ...state, at: Date.now() }
+  touch(examId)
+}
+
+export function clearQuizProgress(examId, slug) {
+  const rec = store.quizzes[examId]?.[slug]
+  if (rec) rec.inProgress = null
 }
 
 export function recordQuiz(examId, slug, correct, total) {
@@ -78,6 +95,7 @@ export function resetAll() {
   store.quizzes = {}
   store.exams = {}
   store.streak = { last: null, days: 0 }
+  store.last = null
 }
 
 export { bumpStreak }

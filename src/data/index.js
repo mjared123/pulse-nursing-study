@@ -23,6 +23,18 @@ export const exams = Object.entries(metas)
   })
   .sort((a, b) => a.course.localeCompare(b.course) || (a.order ?? 0) - (b.order ?? 0))
 
+// Classes are derived from each exam's "course" field; each exam is one unit of its class, in "order".
+export const courses = [...new Set(exams.map((e) => e.course))].map((course) => {
+  const id = course.replace(/\s+/g, '').toLowerCase()
+  const units = exams.filter((e) => e.course === course)
+  units.forEach((e, i) => Object.assign(e, { courseId: id, unit: i + 1 }))
+  return { id, course, units, questionCount: units.reduce((s, e) => s + e.questionCount, 0) }
+})
+
+export function getCourse(id) {
+  return courses.find((c) => c.id === id)
+}
+
 export function getExam(id) {
   return exams.find((e) => e.id === id)
 }

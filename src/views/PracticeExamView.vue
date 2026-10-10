@@ -7,7 +7,7 @@ import NotFound from './NotFound.vue'
 import { getExam } from '../data'
 import { buildPracticeExams } from '../lib/examBuilder'
 import { ALT_TYPES, isAnswered, isCorrect } from '../lib/grading'
-import { examRecord, bumpStreak } from '../lib/storage'
+import { examRecord, bumpStreak, touch } from '../lib/storage'
 import { clock } from '../lib/format'
 
 const props = defineProps({ examId: String, n: Number })
@@ -26,6 +26,7 @@ const topicTitle = (q) => exam.topics.find((t) => t.slug === q.topic)?.short
 
 function start() {
   rec.inProgress = { answers: {}, flags: {}, current: 0, remaining: exam.format.minutes * 60, startedAt: Date.now() }
+  touch(exam.id)
   bumpStreak()
 }
 
