@@ -6,6 +6,7 @@ import NotFound from './NotFound.vue'
 import { getExam, getTopic } from '../data'
 import { store, topicMastery, missedIds } from '../lib/storage'
 import { pct, ago } from '../lib/format'
+import { topicStatus, sectionNumber } from '../lib/progress'
 
 const props = defineProps({ examId: String, slug: String })
 const exam = computed(() => getExam(props.examId))
@@ -13,6 +14,8 @@ const topic = computed(() => getTopic(exam.value, props.slug))
 const mastery = computed(() => topicMastery(exam.value.id, topic.value))
 const missed = computed(() => missedIds(exam.value.id, topic.value))
 const attempts = computed(() => store.quizzes[exam.value.id]?.[topic.value.slug]?.attempts ?? [])
+const status = computed(() => topicStatus(exam.value, topic.value))
+const num = computed(() => sectionNumber(exam.value, topic.value))
 const quizLen = computed(() => Math.min(exam.value.quizLength, topic.value.questions.length))
 const typeCounts = computed(() => {
   const c = {}
@@ -28,8 +31,8 @@ const neighbors = computed(() => {
 <template>
   <NotFound v-if="!exam || !topic" />
   <div v-else class="space-y-8">
-    <RouterLink :to="`/${exam.id}#topics`" class="inline-flex items-center gap-1.5 text-sm font-semibold text-stone-500 hover:text-maroon-700 dark:hover:text-maroon-300">
-      <Icon name="arrow-left" :size="16" /> All topics
+    <RouterLink :to="`/${exam.id}`" class="inline-flex items-center gap-1.5 text-sm font-semibold text-stone-500 hover:text-maroon-700 dark:hover:text-maroon-300">
+      <Icon name="arrow-left" :size="16" /> Unit {{ exam.unit }} sections
     </RouterLink>
 
     <section class="card relative overflow-hidden p-7 sm:p-10 animate-rise">
@@ -39,9 +42,12 @@ const neighbors = computed(() => {
           <span class="grid h-14 w-14 place-items-center rounded-2xl bg-gradient-to-br from-maroon-500 to-maroon-800 text-white shadow-lg shadow-maroon-900/30">
             <Icon :name="topic.icon" :size="28" />
           </span>
-          <h1 class="mt-5 font-display text-4xl font-bold tracking-tight">{{ topic.title }}</h1>
+          <p class="eyebrow mt-5">Section {{ num }} · {{ exam.course }} Unit {{ exam.unit }}</p>
+          <h1 class="mt-1 font-display text-4xl font-bold tracking-tight">{{ topic.title }}</h1>
           <p class="mt-3 text-lg text-stone-600 dark:text-stone-400">{{ topic.description }}</p>
           <div class="mt-5 flex flex-wrap gap-2">
+            <span v-if="status.complete" class="chip bg-emerald-100 text-emerald-800 dark:bg-emerald-500/10 dark:text-emerald-300"><Icon name="check" :size="12" :stroke="3" /> Section complete · best {{ pct(status.best) }}%</span>
+            <span v-else class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">Finish a {{ quizLen }}-question quiz to complete</span>
             <span class="chip bg-maroon-100 text-maroon-800 dark:bg-maroon-500/15 dark:text-maroon-200">{{ topic.blueprint }} question{{ topic.blueprint > 1 ? 's' : '' }} on the exam</span>
             <span class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">{{ topic.questions.length }} in this bank</span>
             <span v-if="typeCounts.sata" class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">{{ typeCounts.sata }} SATA</span>
@@ -54,9 +60,12 @@ const neighbors = computed(() => {
         </div>
       </div>
 
-      <div class="relative mt-8 grid gap-3 sm:grid-cols-3">
-        <RouterLink :to="`/${exam.id}/topic/${topic.slug}/quiz`" class="btn-primary py-4 text-base">
-          <Icon name="play" :size="16" /> Quiz · {{ quizLen }} questions
+      <div class="relative mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <RouterLink v-if="status.inProgress" :to="`/${exam.id}/topic/${topic.slug}/quiz?resume=1`" class="btn-primary py-4 text-base">
+          <Icon name="play" :size="16" /> Resume · question {{ status.inProgress.idx + 1 }} of {{ status.inProgress.ids.length }}
+        </RouterLink>
+        <RouterLink :to="`/${exam.id}/topic/${topic.slug}/quiz`" :class="status.inProgress ? 'btn-ghost' : 'btn-primary'" class="py-4 text-base">
+          <Icon :name="status.inProgress ? 'rotate' : 'play'" :size="16" /> {{ status.inProgress ? 'New quiz' : `Quiz · ${quizLen} questions` }}
         </RouterLink>
         <RouterLink v-if="topic.questions.length > quizLen" :to="`/${exam.id}/topic/${topic.slug}/quiz?mode=all`" class="btn-ghost py-4 text-base">
           <Icon name="layers" :size="16" /> All {{ topic.questions.length }}
@@ -97,9 +106,10 @@ const neighbors = computed(() => {
     </div>
 
     <nav class="flex justify-between gap-4 text-sm font-semibold">
-      <RouterLink v-if="neighbors.prev" :to="`/${exam.id}/topic/${neighbors.prev.slug}`" class="btn-ghost"><Icon name="arrow-left" :size="16" />{{ neighbors.prev.short }}</RouterLink>
+      <RouterLink v-if="neighbors.prev" :to="`/${exam.id}/topic/${neighbors.prev.slug}`" class="btn-ghost"><Icon name="arrow-left" :size="16" />{{ sectionNumber(exam, neighbors.prev) }} {{ neighbors.prev.short }}</RouterLink>
       <span v-else></span>
-      <RouterLink v-if="neighbors.next" :to="`/${exam.id}/topic/${neighbors.next.slug}`" class="btn-ghost">{{ neighbors.next.short }}<Icon name="arrow-right" :size="16" /></RouterLink>
+      <RouterLink v-if="neighbors.next" :to="`/${exam.id}/topic/${neighbors.next.slug}`" class="btn-ghost">{{ sectionNumber(exam, neighbors.next) }} {{ neighbors.next.short }}<Icon name="arrow-right" :size="16" /></RouterLink>
+      <RouterLink v-else :to="`/${exam.id}#practice`" class="btn-ghost">Practice exams<Icon name="arrow-right" :size="16" /></RouterLink>
     </nav>
   </div>
 </template>

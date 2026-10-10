@@ -8,18 +8,29 @@ import NotFound from './NotFound.vue'
 import { getExam, getTopic } from '../data'
 import { quizQuestions } from '../lib/examBuilder'
 import { isAnswered, isCorrect } from '../lib/grading'
-import { recordAnswer, recordQuiz, missedIds } from '../lib/storage'
+import { store, recordAnswer, recordQuiz, missedIds, saveQuizProgress, clearQuizProgress } from '../lib/storage'
+import { sectionNumber } from '../lib/progress'
 import { grade, pct } from '../lib/format'
 
-const props = defineProps({ examId: String, slug: String, mode: String })
+const props = defineProps({ examId: String, slug: String, mode: String, resume: Boolean })
 const exam = getExam(props.examId)
 const topic = getTopic(exam, props.slug)
 
-const seed = String(Math.random())
-const questions = ref(topic ? quizQuestions(topic, { length: exam.quizLength, mode: props.mode, missedIds: missedIds(exam.id, topic) }) : [])
-const idx = ref(0)
-const responses = reactive({})
-const revealed = reactive({})
+// ?resume=1 reopens the unfinished quiz saved for this section, if there is one.
+const saved = topic && props.resume ? store.quizzes[exam.id]?.[topic.slug]?.inProgress : null
+const restore = saved?.ids?.length && saved.ids.every((id) => exam.questionIndex[id]) ? JSON.parse(JSON.stringify(saved)) : null
+
+const seed = restore?.seed ?? String(Math.random())
+const questions = ref(
+  restore ? restore.ids.map((id) => exam.questionIndex[id]) : topic ? quizQuestions(topic, { length: exam.quizLength, mode: props.mode, missedIds: missedIds(exam.id, topic) }) : []
+)
+const idx = ref(restore?.idx ?? 0)
+const responses = reactive(restore?.responses ?? {})
+const revealed = reactive(restore?.revealed ?? {})
+
+function save() {
+  saveQuizProgress(exam.id, topic.slug, JSON.parse(JSON.stringify({ ids: questions.value.map((q) => q.id), idx: idx.value, responses, revealed, seed })))
+}
 const done = ref(false)
 const card = ref(null)
 
@@ -37,17 +48,20 @@ function check() {
     if (!isAnswered(q, responses[q.id])) return
     revealed[q.id] = true
     recordAnswer(exam.id, topic.slug, q.id, isCorrect(q, responses[q.id]))
+    save()
   })
 }
 function next() {
   if (idx.value < questions.value.length - 1) {
     idx.value++
+    save()
     window.scrollTo({ top: 0, behavior: 'smooth' })
   } else finish()
 }
 function finish() {
   done.value = true
   recordQuiz(exam.id, topic.slug, correctCount.value, answeredCount.value)
+  clearQuizProgress(exam.id, topic.slug)
   window.scrollTo({ top: 0 })
 }
 
@@ -67,6 +81,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKey))
 const score = computed(() => (answeredCount.value ? correctCount.value / answeredCount.value : 0))
 const g = computed(() => grade(score.value))
 const reviewOpen = ref(null)
+const nextTopic = topic ? exam.topics[exam.topics.findIndex((t) => t.slug === topic.slug) + 1] : null
 </script>
 
 <template>
@@ -88,6 +103,14 @@ const reviewOpen = ref(null)
         <RouterLink :to="`/${exam.id}/topic/${topic.slug}`" class="btn-ghost"><Icon name="arrow-left" :size="16" /> Topic</RouterLink>
         <RouterLink :to="{ path: `/${exam.id}/topic/${topic.slug}/quiz`, query: { t: Date.now() } }" class="btn-primary"><Icon name="rotate" :size="16" /> New quiz</RouterLink>
         <RouterLink v-if="correctCount < answeredCount" :to="{ path: `/${exam.id}/topic/${topic.slug}/quiz`, query: { mode: 'missed', t: Date.now() } }" class="btn-ghost"><Icon name="target" :size="16" /> Retry missed</RouterLink>
+      </div>
+      <div class="mt-8 border-t border-stone-200/70 pt-6 dark:border-white/5">
+        <RouterLink v-if="nextTopic" :to="`/${exam.id}/topic/${nextTopic.slug}`" class="group inline-flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
+          Next section: {{ sectionNumber(exam, nextTopic) }} {{ nextTopic.short }} <Icon name="arrow-right" :size="16" class="transition group-hover:translate-x-1" />
+        </RouterLink>
+        <RouterLink v-else :to="`/${exam.id}#practice`" class="group inline-flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
+          Last section done. On to the practice exams <Icon name="arrow-right" :size="16" class="transition group-hover:translate-x-1" />
+        </RouterLink>
       </div>
     </section>
     <section class="card divide-y divide-stone-200/70 overflow-hidden dark:divide-white/5">
@@ -114,7 +137,7 @@ const reviewOpen = ref(null)
       </RouterLink>
       <div class="flex-1">
         <div class="flex justify-between text-xs font-semibold text-stone-500">
-          <span>{{ topic.short }}</span>
+          <span>{{ sectionNumber(exam, topic) }} {{ topic.short }}</span>
           <span class="font-mono">{{ idx + 1 }} / {{ questions.length }}</span>
         </div>
         <div class="mt-1.5 flex h-2 gap-1">
