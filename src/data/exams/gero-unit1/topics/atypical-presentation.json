@@ -610,15 +610,15 @@
       "options": [
         {
           "id": "a",
-          "text": "Published normal ranges for adults over 65",
-          "correct": false,
-          "rationale": "Group norms can hide a meaningful change; older adults are heterogeneous."
-        },
-        {
-          "id": "b",
           "text": "The client's own previous patterns",
           "correct": true,
           "rationale": "Correct. Because signs are often blunted, the guide says to compare findings with the person's own previous patterns."
+        },
+        {
+          "id": "b",
+          "text": "Published normal ranges for adults over 65",
+          "correct": false,
+          "rationale": "Group norms can hide a meaningful change; older adults are heterogeneous."
         },
         {
           "id": "c",
