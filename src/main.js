@@ -3,6 +3,7 @@ import { inject } from '@vercel/analytics'
 import { injectSpeedInsights } from '@vercel/speed-insights'
 import App from './App.vue'
 import { router } from './router'
+import { initAuth } from './lib/auth'
 import './style.css'
 
 // Vercel Web Analytics + Speed Insights: anonymous page views only, no custom events.
@@ -13,3 +14,4 @@ if (!import.meta.env.VITE_MEMORY_ROUTER) {
 }
 
 createApp(App).use(router).mount('#app')
+initAuth()

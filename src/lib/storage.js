@@ -1,6 +1,7 @@
 import { reactive, watch } from 'vue'
 
-// Progress is kept in this browser only (localStorage). Accounts can replace this later.
+// Progress is always kept in this browser (localStorage). When a student signs in, auth.js
+// also syncs it to their account so it follows them across devices.
 const KEY = 'pulse-progress-v1'
 
 function load() {
@@ -105,6 +106,17 @@ export function resetAll() {
   store.reviews = {}
   store.streak = { last: null, days: 0 }
   store.last = null
+}
+
+// A plain copy of everything saved, for uploading to an account.
+export function snapshot() {
+  return JSON.parse(JSON.stringify(store))
+}
+
+// Swaps in progress merged with the account's copy.
+export function replaceAll(data) {
+  resetAll()
+  Object.assign(store, data)
 }
 
 export { bumpStreak }
