@@ -47,7 +47,7 @@ const neighbors = computed(() => {
           <p class="mt-3 text-lg text-stone-600 dark:text-stone-400">{{ topic.description }}</p>
           <div class="mt-5 flex flex-wrap gap-2">
             <span v-if="status.complete" class="chip bg-emerald-100 text-emerald-800 dark:bg-emerald-500/10 dark:text-emerald-300"><Icon name="check" :size="12" :stroke="3" /> Section complete · best {{ pct(status.best) }}%</span>
-            <span v-else class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">Finish a {{ quizLen }}-question quiz to complete</span>
+            <span v-else class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">{{ topic.review ? 'Review the study guide and finish' : 'Finish' }} a {{ quizLen }}-question quiz to complete</span>
             <span class="chip bg-maroon-100 text-maroon-800 dark:bg-maroon-500/15 dark:text-maroon-200">{{ topic.blueprint }} question{{ topic.blueprint > 1 ? 's' : '' }} on the exam</span>
             <span class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">{{ topic.questions.length }} in this bank</span>
             <span v-if="typeCounts.sata" class="chip bg-stone-100 text-stone-600 dark:bg-white/5 dark:text-stone-400">{{ typeCounts.sata }} SATA</span>
@@ -60,7 +60,19 @@ const neighbors = computed(() => {
         </div>
       </div>
 
-      <div class="relative mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <RouterLink v-if="topic.review" :to="`/${exam.id}/topic/${topic.slug}/learn`" class="group relative mt-8 flex items-center gap-4 rounded-2xl border-2 p-4 transition sm:p-5" :class="status.reviewed ? 'border-stone-200 hover:border-maroon-300 dark:border-white/10' : 'border-maroon-500/70 bg-maroon-50/70 hover:bg-maroon-50 dark:bg-maroon-500/[0.08]'">
+        <span class="grid h-11 w-11 shrink-0 place-items-center rounded-full text-white" :class="status.reviewed ? 'bg-emerald-500' : 'bg-maroon-600'">
+          <Icon :name="status.reviewed ? 'check' : 'book-open'" :size="19" :stroke="status.reviewed ? 3 : 2" />
+        </span>
+        <div class="min-w-0 flex-1">
+          <p class="text-xs font-bold tracking-[0.14em] text-stone-500 uppercase">Step 1 · Study guide<span v-if="topic.review.pages"> · {{ topic.review.pages }}</span></p>
+          <p class="font-bold">{{ status.reviewed ? 'Reviewed. Read it again any time' : 'Review the study guide before the quiz' }}</p>
+        </div>
+        <Icon name="arrow-right" :size="18" class="shrink-0 text-stone-400 transition group-hover:translate-x-1" />
+      </RouterLink>
+      <p v-if="topic.review" class="relative mt-6 text-xs font-bold tracking-[0.14em] text-stone-500 uppercase">Step 2 · Section quiz</p>
+
+      <div class="relative grid gap-3 sm:grid-cols-2 lg:grid-cols-4" :class="topic.review ? 'mt-3' : 'mt-8'">
         <RouterLink v-if="status.inProgress" :to="`/${exam.id}/topic/${topic.slug}/quiz?resume=1`" class="btn-primary py-4 text-base">
           <Icon name="play" :size="16" /> Resume · question {{ status.inProgress.idx + 1 }} of {{ status.inProgress.ids.length }}
         </RouterLink>

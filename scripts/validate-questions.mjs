@@ -8,6 +8,29 @@ import { ALT_TYPES } from '../src/lib/grading.js'
 const root = fileURLToPath(new URL('../src/data/exams/', import.meta.url))
 const ECG = ['nsr', 'sinus_tach', 'sinus_brady', 'svt', 'afib', 'aflutter', 'vtach', 'vfib', 'asystole']
 const BLOOM = ['remember', 'understand', 'apply', 'analyze', 'evaluate']
+const TONES = ['exam', 'alert', 'conflict', 'nurse', 'memory', 'key']
+
+// The optional study-guide review shown before a section's quiz (see QUESTION_SCHEMA.md).
+function checkReview(slug, r) {
+  if (!Array.isArray(r.blocks) || !r.blocks.length) return err(`${slug}: review needs blocks`)
+  const str = (v) => typeof v === 'string' && v.trim().length > 0
+  r.blocks.forEach((b, i) => {
+    const where = `${slug}: review block ${i} (${b.type})`
+    const ok = {
+      heading: () => str(b.text),
+      text: () => str(b.text),
+      recall: () => str(b.text),
+      cue: () => str(b.q) && str(b.a),
+      callout: () => TONES.includes(b.tone) && str(b.text),
+      list: () => b.items?.length && b.items.every(str),
+      timeline: () => b.items?.length && b.items.every((it) => str(it.year) && str(it.text)),
+      table: () => b.columns?.length && b.rows?.length && b.rows.every((row) => row.length === b.columns.length),
+      mnemonic: () => str(b.title) && b.letters?.length && b.letters.every((l) => str(l.letter) && str(l.word)),
+    }[b.type]
+    if (!ok) err(`${where}: unknown block type`)
+    else if (!ok()) err(`${where}: missing or malformed fields`)
+  })
+}
 const errors = []
 const err = (m) => errors.push(m)
 
@@ -26,6 +49,7 @@ for (const folder of readdirSync(root)) {
     const data = JSON.parse(readFileSync(p, 'utf8'))
     if (data.slug !== t.slug) err(`${p}: slug mismatch`)
     for (const k of ['title', 'short', 'description']) if (!data[k]) err(`${t.slug}: missing ${k}`)
+    if (data.review) checkReview(t.slug, data.review)
     for (const q of data.questions) {
       const where = `${t.slug}/${q.id}`
       if (ids.has(q.id)) err(`${where}: duplicate id`)

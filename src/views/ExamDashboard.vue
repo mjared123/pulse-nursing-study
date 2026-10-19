@@ -24,6 +24,7 @@ const groups = computed(() =>
   exam.value.groups.map((g) => ({ ...g, sections: sections.value.filter((x) => x.t.group === g.id) })).filter((g) => g.sections.length)
 )
 const progress = computed(() => unitProgress(exam.value))
+const hasReview = computed(() => exam.value.topics.some((t) => t.review))
 const next = computed(() => continueTarget(exam.value))
 const remaining = computed(() => progress.value.total - progress.value.done)
 const practice = computed(() => Array.from({ length: exam.value.practiceExams.count }, (_, i) => practiceStatus(exam.value, i + 1)))
@@ -46,12 +47,12 @@ const BLOOM_COLORS = { remember: 'bg-sky-400', understand: 'bg-indigo-400', appl
         <div class="max-w-2xl">
           <p class="eyebrow">{{ exam.course }} · Unit {{ exam.unit }} · {{ exam.term }}</p>
           <h1 class="mt-2 font-display text-4xl font-bold tracking-tight text-balance sm:text-5xl">{{ exam.subtitle }}</h1>
-          <p class="mt-3 text-stone-600 dark:text-stone-400">Work through the sections in order, then sit the practice exams for {{ exam.title }}. You can jump to any section at any time.</p>
+          <p class="mt-3 text-stone-600 dark:text-stone-400">Work through the sections in order, then sit the practice exams for {{ exam.title }}.<template v-if="hasReview"> Each section starts with a study-guide review, then a quiz.</template> You can jump to any section at any time.</p>
           <div class="mt-5 flex flex-wrap gap-2">
             <span class="chip bg-stone-100 text-stone-700 dark:bg-white/5 dark:text-stone-300"><Icon name="list" :size="13" />{{ exam.format.totalQuestions }}-question exam</span>
             <span class="chip bg-stone-100 text-stone-700 dark:bg-white/5 dark:text-stone-300"><Icon name="clock" :size="13" />{{ exam.format.minutes }} minutes</span>
             <span class="chip bg-stone-100 text-stone-700 dark:bg-white/5 dark:text-stone-300"><Icon name="layers" :size="13" />{{ exam.format.alternateFormat }} alternate format</span>
-            <span class="chip bg-stone-100 text-stone-700 dark:bg-white/5 dark:text-stone-300"><Icon name="calculator" :size="13" />{{ exam.format.dosageCalculation }} dosage calc</span>
+            <span v-if="exam.format.dosageCalculation" class="chip bg-stone-100 text-stone-700 dark:bg-white/5 dark:text-stone-300"><Icon name="calculator" :size="13" />{{ exam.format.dosageCalculation }} dosage calc</span>
           </div>
         </div>
         <div class="w-full shrink-0 rounded-2xl border border-stone-200/70 bg-white/70 p-5 lg:w-80 dark:border-white/10 dark:bg-white/[0.03]">
@@ -98,7 +99,10 @@ const BLOOM_COLORS = { remember: 'bg-sky-400', understand: 'bg-indigo-400', appl
         <section id="topics">
           <p class="eyebrow">Step 1 · Study by topic</p>
           <h2 class="mt-1 font-display text-3xl font-bold">Sections</h2>
-          <p class="mt-2 max-w-2xl text-stone-600 dark:text-stone-400">Each section has key points and a quiz with instant rationales. Finish a full quiz to complete the section.</p>
+          <p class="mt-2 max-w-2xl text-stone-600 dark:text-stone-400">
+            <template v-if="hasReview">Each section has a study-guide review to read first, then a quiz with instant rationales. Read the review and finish a full quiz to complete the section.</template>
+            <template v-else>Each section has key points and a quiz with instant rationales. Finish a full quiz to complete the section.</template>
+          </p>
           <div class="mt-6 space-y-8">
             <div v-for="g in groups" :key="g.id">
               <div class="mb-3 flex items-center gap-3">
@@ -107,19 +111,21 @@ const BLOOM_COLORS = { remember: 'bg-sky-400', understand: 'bg-indigo-400', appl
               </div>
               <ol class="card divide-y divide-stone-200/70 overflow-hidden dark:divide-white/5">
                 <li v-for="x in g.sections" :key="x.t.slug" class="relative flex items-center gap-4 px-4 py-4 transition hover:bg-stone-50 sm:px-5 dark:hover:bg-white/[0.03]" :class="next.topic?.slug === x.t.slug ? 'bg-maroon-50/60 dark:bg-maroon-500/[0.06]' : ''">
-                  <RouterLink :to="`/${exam.id}/topic/${x.t.slug}`" class="absolute inset-0" :aria-label="`Section ${x.num} ${x.t.short}`"></RouterLink>
+                  <RouterLink :to="`/${exam.id}/topic/${x.t.slug}${x.t.review && !x.s.reviewed ? '/learn' : ''}`" class="absolute inset-0" :aria-label="`Section ${x.num} ${x.t.short}`"></RouterLink>
                   <span class="grid h-10 w-10 shrink-0 place-items-center rounded-xl bg-gradient-to-br text-white shadow-sm" :class="GROUP_TONE[g.color]">
                     <Icon :name="x.t.icon" :size="19" />
                   </span>
                   <div class="min-w-0 flex-1">
                     <p class="truncate font-bold"><span class="mr-1.5 font-mono text-sm font-semibold text-stone-400">{{ x.num }}</span>{{ x.t.short }}</p>
-                    <p class="text-xs text-stone-500">{{ quizLength(exam, x.t) }}-question quiz · {{ x.t.questions.length }} in bank · {{ x.t.blueprint }} on exam</p>
+                    <p class="text-xs text-stone-500"><template v-if="x.t.review">Study guide<span v-if="x.s.reviewed" class="text-emerald-600 dark:text-emerald-400"> ✓</span> · </template>{{ quizLength(exam, x.t) }}-question quiz · {{ x.t.questions.length }} in bank · {{ x.t.blueprint }} on exam</p>
                   </div>
                   <div class="pointer-events-none relative flex shrink-0 items-center gap-3">
                     <span v-if="x.s.complete" class="chip bg-emerald-100 text-emerald-800 dark:bg-emerald-500/10 dark:text-emerald-300"><Icon name="check" :size="12" :stroke="3" /> {{ pct(x.s.best) }}%</span>
                     <RouterLink v-else-if="x.s.inProgress" :to="`/${exam.id}/topic/${x.t.slug}/quiz?resume=1`" class="pointer-events-auto chip bg-amber-100 text-amber-800 hover:bg-amber-200 dark:bg-amber-400/10 dark:text-amber-300">
                       <Icon name="play" :size="11" /> Resume {{ x.s.inProgress.idx + 1 }}/{{ x.s.inProgress.ids.length }}
                     </RouterLink>
+                    <span v-else-if="x.s.quizDone && x.s.hasReview" class="chip bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300">Review left</span>
+                    <span v-else-if="x.s.reviewed" class="chip bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300">Reviewed · quiz next</span>
                     <span v-else-if="x.s.started" class="chip bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300">Started</span>
                     <span v-else-if="next.topic?.slug === x.t.slug" class="chip bg-maroon-600 text-white">Up next</span>
                     <Icon name="chevron-right" :size="18" class="hidden text-stone-400 sm:block" />

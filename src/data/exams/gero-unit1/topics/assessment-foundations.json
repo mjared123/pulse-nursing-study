@@ -1,0 +1,332 @@
+{
+  "slug": "assessment-foundations",
+  "title": "Foundations of Assessment & Aging Changes",
+  "short": "Assessment Foundations",
+  "icon": "clipboard",
+  "description": "Why and how older adults are assessed, the order of a comprehensive assessment, and how disease, function, and age-related changes interrelate.",
+  "keyPoints": [
+    "Purpose of assessing an older adult: identify strengths and limitations so interventions restore function and prevent disability and dependence.",
+    "Three principles of data collection: person-centered approach, patient as participant, emphasis on functional ability.",
+    "Order of a comprehensive assessment: health history, physical exam, additional tools (functional, cognitive, affective, social), then lab data last.",
+    "Three high-risk factors for losing function: reduced ability to respond to stress, multiple losses, physical changes of normal aging.",
+    "Physical frailty = impaired abilities needed to live independently; a major contributor to needing long-term care.",
+    "Reduced baroreceptor response increases the risk of syncope; increased insulin resistance raises diabetes risk.",
+    "Never blame vague symptoms (lethargy, incontinence, poor appetite, weight loss) on \"just growing old.\""
+  ],
+  "review": {
+    "pages": "pp. 36–38",
+    "bigIdea": "What is the goal of assessing an older adult, and why does one problem so easily spread into a chain of decline?",
+    "objectives": [
+      "Explain how the physical and psychosocial aspects of aging interrelate in the assessment process.",
+      "Conduct a comprehensive health assessment on an older adult."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "Foundations of assessment", "pages": "pp. 36–37" },
+      {
+        "type": "list",
+        "title": "The order of a comprehensive assessment",
+        "ordered": true,
+        "items": [
+          "Health history: subjective data from the interview (PQRSTU, review of systems).",
+          "Physical exam: objective data, done after the history (head-to-toe, SPICES).",
+          "Additional tools: functional (Katz), cognitive, affective, and social assessment.",
+          "Lab data: the last component; it validates the history and physical."
+        ]
+      },
+      { "type": "cue", "q": "What is assessment, and why must it be nursing-focused?", "a": "Assessment is the crucial foundation of the nursing process: collecting and analyzing subjective and objective data to reach a nursing diagnosis.\nWithout a nursing focus, diagnosis, planning, implementation, and evaluation cannot be carried out." },
+      { "type": "cue", "q": "What is the purpose of assessing an older adult?", "a": "To identify the person's strengths and limitations so that interventions can support, promote, and restore optimal function and prevent disability and dependence." },
+      { "type": "cue", "q": "What are the three principles of data collection?", "a": "1. A person-centered approach\n2. Patients as participants in health monitoring and treatment\n3. An emphasis on functional ability" },
+      { "type": "cue", "q": "What are the three special considerations for a patient-centered approach?", "a": "1. The interrelationship of the physical and psychosocial aspects of aging\n2. The effects of disease and disability on function\n3. Tailoring the assessment to the individual" },
+      { "type": "cue", "q": "What are the ANA (2015) tenets of practice?", "a": "Caring and health are central to practice.\nPractice is individualized.\nRNs use the nursing process (the foundation).\nRNs coordinate care through partnerships.\nThe work environment affects the quality of care and outcomes." },
+      { "type": "recall", "text": "Summarize from memory: What is the goal of assessing an older adult, in one sentence?" },
+      { "type": "heading", "text": "Disease, function, and age-related changes", "pages": "pp. 37–38" },
+      { "type": "cue", "q": "What three things put older adults at high risk of losing function?", "a": "1. Reduced ability to respond to stress\n2. Increased frequency and multiplicity of loss\n3. The physical changes of normal aging\nHealth depends on a balance (homeostasis) among extrinsic factors." },
+      { "type": "cue", "q": "Mrs. M (83): how did her problems cascade?", "a": "Flu with nausea and vomiting, so she could not eat or drink.\nPneumonia; she was admitted without her hearing aid, glasses, or dentures.\nIV fluids for dehydration led to CHF.\nCHF led to confusion, which was treated with haloperidol.\nHaloperidol led to immobility.\nImmobility led to incontinence and a stage 2 pressure injury; she now needs to be fed and cries.\nLesson: problems interrelate, so build care on the person's strengths." },
+      {
+        "type": "table",
+        "title": "Theories of aging (Table 3.1)",
+        "columns": ["Theory", "Key idea"],
+        "rows": [
+          ["Telomere shortening", "Each cell division loses part of the telomere end, leading to DNA errors."],
+          ["Damage accumulation", "Damage builds up as repair declines."],
+          ["Free radical", "Oxidation by-products damage cells, leading to senescence."],
+          ["Disposable soma", "Resources go to reproduction, not repair."],
+          ["Mutation accumulation", "Mutations that appear late in life are not passed on."],
+          ["Antagonistic pleiotropy", "Genes that help early in life are harmful later."]
+        ]
+      },
+      { "type": "cue", "q": "Why do vague symptoms matter? What is physical frailty?", "a": "Lethargy, incontinence, decreased appetite, and weight loss may signal impairment.\nIgnoring them can lead to physical frailty: impaired abilities needed to live independently, a major contributor to needing long-term care.\nCommon error: blaming symptoms on \"just growing old.\"" },
+      { "type": "cue", "q": "What are the key age-related changes and their effects?", "a": "Decreased renal and hepatic blood flow, lean mass, and total body water, with increased fat: altered pharmacokinetics and pharmacodynamics.\nDecreased T-cell and B-cell function: infections.\nIncreased DNA damage: cancer.\nDecreased baroreceptor response: syncope.\nIncreased insulin resistance: diabetes." },
+      { "type": "callout", "tone": "exam", "title": "Don't confuse aging with disease", "text": "Older adults are not all alike. Assume heterogeneity, use each person's own previous patterns as the standard, and never attribute a finding to normal aging until it has been evaluated. (Clinical judgment, p. 56: three hypertensive clients aged 65, 81, and 95 do not prove that all older people are hypertensive.)" },
+      { "type": "recall", "text": "Summarize from memory: Explain how one physical problem can cause a chain of decline (use Mrs. M)." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "assessment-foundations-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nursing student asks the nurse why a full assessment is done on every older adult admitted to the unit. Which statement best describes the purpose of assessing an older adult?",
+      "options": [
+        { "id": "a", "text": "To identify strengths and limitations so care can restore function and prevent dependence", "correct": true, "rationale": "Correct. The guide states the purpose is to identify strengths and limitations so interventions support, promote, and restore optimal function and prevent disability and dependence." },
+        { "id": "b", "text": "To establish the medical diagnosis so the provider can order the correct treatment plan", "correct": false, "rationale": "Nursing assessment leads to a nursing diagnosis; it must be nursing-focused, not aimed at the medical diagnosis." },
+        { "id": "c", "text": "To document which changes are due to normal aging so they do not need further follow-up", "correct": false, "rationale": "The chapter warns against labeling findings as normal aging; no symptom is normal aging until evaluated." },
+        { "id": "d", "text": "To decide whether the client needs placement in long-term care after discharge from the hospital", "correct": false, "rationale": "Placement may be a later decision, but the purpose of assessment is to find strengths and limitations to guide care that keeps function." }
+      ],
+      "explanation": "Assessing an older adult aims to identify strengths and limitations. That information directs interventions that support, promote, and restore optimal function and prevent disability and dependence."
+    },
+    {
+      "id": "assessment-foundations-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which is one of the three principles of data collection for older adults described in the chapter?",
+      "options": [
+        { "id": "a", "text": "Reliance on family members as the primary source of data", "correct": false, "rationale": "Family can validate data, but the principle is that patients are participants in their own health monitoring and treatment." },
+        { "id": "b", "text": "A standardized format that is identical for every client over 65", "correct": false, "rationale": "The chapter calls for a person-centered approach and tailoring the assessment to the individual, not a one-size-fits-all format." },
+        { "id": "c", "text": "An emphasis on functional ability", "correct": true, "rationale": "Correct. The three principles are a person-centered approach, patients as participants in health monitoring and treatment, and an emphasis on functional ability." },
+        { "id": "d", "text": "A focus on diagnosing the disease responsible for each symptom", "correct": false, "rationale": "The emphasis is on function, not on disease diagnosis alone." }
+      ],
+      "explanation": "The three principles of data collection are a person-centered approach, patients as participants in health monitoring and treatment, and an emphasis on functional ability."
+    },
+    {
+      "id": "assessment-foundations-03",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is completing a comprehensive assessment of a 79-year-old client newly admitted to a skilled nursing unit. Place the components in the order they are performed.",
+      "items": [
+        { "id": "a", "text": "Health history interview, including PQRSTU and review of systems" },
+        { "id": "b", "text": "Head-to-toe physical examination" },
+        { "id": "c", "text": "Functional, cognitive, affective, and social assessment tools" },
+        { "id": "d", "text": "Review of laboratory data" }
+      ],
+      "explanation": "A comprehensive assessment starts with the subjective health history, then the objective physical exam done after the history, then additional tools such as the Katz Index and cognitive, affective, and social measures. Laboratory data is the last component because it validates the history and physical."
+    },
+    {
+      "id": "assessment-foundations-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Why is laboratory data reviewed as the final component of a comprehensive assessment of an older adult?",
+      "options": [
+        { "id": "a", "text": "Lab results take the longest to return, so they are always last by default", "correct": false, "rationale": "Timing of results is not the reason given; the reason is the role labs play in confirming other findings." },
+        { "id": "b", "text": "Lab data validates the findings of the health history and physical exam", "correct": true, "rationale": "Correct. Lab data is the last component and validates the history and physical; it is interpreted against norms based on age and gender." },
+        { "id": "c", "text": "Lab values for older adults are less reliable than the client's own report", "correct": false, "rationale": "The chapter does not say lab values are unreliable; they are interpreted against age- and gender-based norms." },
+        { "id": "d", "text": "Lab data replaces the need for a functional assessment if results are normal", "correct": false, "rationale": "Normal labs do not replace functional assessment; functional status is a sensitive indicator of health or illness." }
+      ],
+      "explanation": "Laboratory data is the last part of a comprehensive assessment. It validates the history and physical findings and is interpreted against norms based on age and gender."
+    },
+    {
+      "id": "assessment-foundations-05",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 81-year-old client becomes lightheaded and briefly loses consciousness after standing up quickly from the toilet. Which age-related change best explains this event?",
+      "options": [
+        { "id": "a", "text": "Increased insulin resistance", "correct": false, "rationale": "Increased insulin resistance raises the risk of diabetes, not syncope on standing." },
+        { "id": "b", "text": "Decreased T-cell and B-cell function", "correct": false, "rationale": "Decreased immune cell function increases the risk of infections, not fainting." },
+        { "id": "c", "text": "Increased DNA damage within body cells", "correct": false, "rationale": "Increased DNA damage is linked to cancer risk." },
+        { "id": "d", "text": "Decreased baroreceptor response", "correct": true, "rationale": "Correct. A reduced baroreceptor response increases the risk of syncope." }
+      ],
+      "explanation": "Reduced baroreceptor response is the age-related change linked to syncope. Other paired changes: decreased T/B-cell function with infection, increased DNA damage with cancer, and increased insulin resistance with diabetes."
+    },
+    {
+      "id": "assessment-foundations-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which pairing of an age-related change with its effect is accurate?",
+      "options": [
+        { "id": "a", "text": "Decreased T-cell and B-cell function leads to a higher risk of syncope", "correct": false, "rationale": "Decreased T- and B-cell function leads to infections; syncope is linked to reduced baroreceptor response." },
+        { "id": "b", "text": "Increased lean body mass leads to altered drug action", "correct": false, "rationale": "Lean body mass decreases with age; decreased lean mass and increased fat alter pharmacokinetics and pharmacodynamics." },
+        { "id": "c", "text": "Increased insulin resistance leads to a higher risk of diabetes", "correct": true, "rationale": "Correct. The guide links increased insulin resistance to diabetes." },
+        { "id": "d", "text": "Increased baroreceptor response leads to a higher risk of falls", "correct": false, "rationale": "The baroreceptor response decreases, not increases, with age, and the stated effect is syncope." }
+      ],
+      "explanation": "Key age-related changes: decreased renal/hepatic blood flow, lean mass, and total body water with increased fat alter drug action; decreased T/B-cell function raises infection risk; increased DNA damage raises cancer risk; decreased baroreceptor response raises syncope risk; increased insulin resistance raises diabetes risk."
+    },
+    {
+      "id": "assessment-foundations-07",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing why medications act differently in older adults. Which age-related changes alter pharmacokinetics and pharmacodynamics? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Decreased renal blood flow", "correct": true, "rationale": "Correct. Reduced renal blood flow is one of the changes that alters drug handling." },
+        { "id": "b", "text": "Decreased total body water", "correct": true, "rationale": "Correct. Total body water decreases with age, which alters drug distribution." },
+        { "id": "c", "text": "Increased lean body mass", "correct": false, "rationale": "Lean body mass decreases, not increases, with age." },
+        { "id": "d", "text": "Increased proportion of body fat", "correct": true, "rationale": "Correct. Body fat increases with age, which alters drug distribution and action." },
+        { "id": "e", "text": "Decreased hepatic blood flow", "correct": true, "rationale": "Correct. Reduced hepatic blood flow is listed among the changes that alter pharmacokinetics and pharmacodynamics." },
+        { "id": "f", "text": "Increased baroreceptor sensitivity", "correct": false, "rationale": "Baroreceptor response decreases with age, and its effect is syncope risk, not altered drug action." }
+      ],
+      "explanation": "Decreased renal and hepatic blood flow, decreased lean mass and total body water, and increased fat together alter pharmacokinetics and pharmacodynamics in older adults."
+    },
+    {
+      "id": "assessment-foundations-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A daughter tells the home health nurse, \"Mom is 84. She's been tired, wetting herself, and eating less, and she's lost some weight. I guess that's just getting old.\" Which response by the nurse is best?",
+      "options": [
+        { "id": "a", "text": "\"Those are common at her age, so we can watch them at the next routine visit.\"", "correct": false, "rationale": "Waiting reinforces the common error of blaming vague symptoms on aging; ignoring them can lead to physical frailty." },
+        { "id": "b", "text": "\"Weight loss is expected after 80, but let's at least buy her some briefs.\"", "correct": false, "rationale": "This treats weight loss and incontinence as normal aging and manages the symptom without assessing the cause." },
+        { "id": "c", "text": "\"Being tired is normal, but the weight loss alone should be checked next month.\"", "correct": false, "rationale": "Lethargy is also a vague symptom that may signal impairment; none of these should be dismissed or delayed." },
+        { "id": "d", "text": "\"Changes like these can signal a health problem, so they need to be assessed now.\"", "correct": true, "rationale": "Correct. Lethargy, incontinence, decreased appetite, and weight loss may signal impairment and should be evaluated rather than blamed on aging." }
+      ],
+      "explanation": "Vague symptoms such as lethargy, incontinence, decreased appetite, and weight loss may signal impairment. Ignoring them can lead to physical frailty; a common error is blaming them on \"just growing old.\""
+    },
+    {
+      "id": "assessment-foundations-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement best defines physical frailty as described in the chapter?",
+      "options": [
+        { "id": "a", "text": "Impaired abilities needed to live independently", "correct": true, "rationale": "Correct. Physical frailty is impaired abilities needed to live independently and is a major contributor to needing long-term care." },
+        { "id": "b", "text": "Any loss of muscle mass that occurs after age 75", "correct": false, "rationale": "Frailty is defined by impaired abilities for independent living, not by an age cutoff or muscle loss alone." },
+        { "id": "c", "text": "A chronic disease diagnosis that requires daily medication", "correct": false, "rationale": "Frailty is a functional state, not a specific disease diagnosis." },
+        { "id": "d", "text": "The normal slowing of movement expected with advanced age", "correct": false, "rationale": "Frailty is not presented as normal aging; it often follows ignored vague symptoms." }
+      ],
+      "explanation": "Physical frailty means impaired abilities needed to live independently. It is a major contributor to the need for long-term care and can result from ignoring vague symptoms."
+    },
+    {
+      "id": "assessment-foundations-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 83-year-old admitted with influenza and pneumonia arrived without her hearing aid, glasses, or dentures. She received IV fluids for dehydration, developed heart failure and confusion, was given haloperidol, and now is immobile, incontinent, and has a stage 2 pressure injury. Which conclusion best guides the nurse's plan?",
+      "options": [
+        { "id": "a", "text": "Each new problem is a separate disease process and should be managed by a separate specialist", "correct": false, "rationale": "The case shows that the problems are linked, not separate; treating them in isolation misses the chain." },
+        { "id": "b", "text": "Her problems are interrelated, so care should address the chain and build on her strengths", "correct": true, "rationale": "Correct. The lesson of Mrs. M is that problems interrelate and care should be built on the person's strengths." },
+        { "id": "c", "text": "The decline reflects normal aging at 83 and is unlikely to change with nursing care", "correct": false, "rationale": "The chapter warns against blaming decline on aging; each step in this cascade had a cause." },
+        { "id": "d", "text": "The haloperidol was the only avoidable event, so the other problems were unavoidable", "correct": false, "rationale": "Several links in the chain (missing sensory aids, dehydration, immobility) were part of the interrelated cascade." }
+      ],
+      "explanation": "The Mrs. M case shows how one problem in an older adult can trigger a cascade of decline. Because physical and psychosocial problems interrelate, the nurse plans care that addresses the whole chain and builds on the person's strengths."
+    },
+    {
+      "id": "assessment-foundations-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is teaching a family why their 88-year-old father is at high risk of losing function after a hospitalization. Which factors should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "A reduced ability to respond to stress", "correct": true, "rationale": "Correct. Reduced ability to respond to stress is one of the three high-risk factors for losing function." },
+        { "id": "b", "text": "An increased frequency and multiplicity of loss", "correct": true, "rationale": "Correct. Older adults face frequent and multiple losses, which increases risk of functional loss." },
+        { "id": "c", "text": "The physical changes of normal aging", "correct": true, "rationale": "Correct. Normal physical aging changes are the third high-risk factor." },
+        { "id": "d", "text": "A greater physiologic reserve than younger adults", "correct": false, "rationale": "Physiologic reserve is diminished, not greater, in older adults." },
+        { "id": "e", "text": "A stronger immune response to new infections", "correct": false, "rationale": "T-cell and B-cell function decreases with age, which increases infection risk." }
+      ],
+      "explanation": "Older adults are at high risk of losing function because of a reduced ability to respond to stress, an increased frequency and multiplicity of loss, and the physical changes of normal aging. Health depends on a balance (homeostasis) among these factors."
+    },
+    {
+      "id": "assessment-foundations-12",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which theory of aging proposes that oxidation by-products damage cells and lead to senescence?",
+      "options": [
+        { "id": "a", "text": "Telomere shortening theory", "correct": false, "rationale": "Telomere shortening proposes that each cell division loses part of the telomere end, leading to DNA errors." },
+        { "id": "b", "text": "Disposable soma theory", "correct": false, "rationale": "Disposable soma proposes that resources go to reproduction rather than repair." },
+        { "id": "c", "text": "Antagonistic pleiotropy theory", "correct": false, "rationale": "Antagonistic pleiotropy proposes that genes helpful early in life are harmful later." },
+        { "id": "d", "text": "Free radical theory", "correct": true, "rationale": "Correct. Free radical theory states that oxidation by-products damage cells and lead to senescence." }
+      ],
+      "explanation": "Table 3.1 lists six theories: telomere shortening, damage accumulation, free radical, disposable soma, mutation accumulation, and antagonistic pleiotropy. The free radical theory centers on oxidation by-products damaging cells."
+    },
+    {
+      "id": "assessment-foundations-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 76-year-old client asks, \"If my body can fix itself, why doesn't it just keep repairing everything?\" Which theory of aging best fits the nurse's explanation that the body directs its resources to reproduction rather than repair?",
+      "options": [
+        { "id": "a", "text": "Damage accumulation theory", "correct": false, "rationale": "Damage accumulation proposes that damage builds as repair declines; it does not focus on where resources are directed." },
+        { "id": "b", "text": "Disposable soma theory", "correct": true, "rationale": "Correct. The disposable soma theory states that resources go to reproduction, not repair." },
+        { "id": "c", "text": "Mutation accumulation theory", "correct": false, "rationale": "Mutation accumulation concerns mutations appearing late in life that are not passed on." },
+        { "id": "d", "text": "Telomere shortening theory", "correct": false, "rationale": "Telomere shortening concerns loss of telomere ends with each cell division." }
+      ],
+      "explanation": "The disposable soma theory holds that the body invests its resources in reproduction rather than repair. Damage accumulation is the related idea that damage builds as repair declines."
+    },
+    {
+      "id": "assessment-foundations-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A student explains that a gene that helped a person's body early in life may be harmful in later life. Which theory of aging is the student describing?",
+      "options": [
+        { "id": "a", "text": "Antagonistic pleiotropy", "correct": true, "rationale": "Correct. Antagonistic pleiotropy proposes that genes helpful early in life become harmful later." },
+        { "id": "b", "text": "Mutation accumulation", "correct": false, "rationale": "Mutation accumulation proposes that mutations appearing late in life are not passed on; it does not describe a gene that was helpful early." },
+        { "id": "c", "text": "Free radical damage", "correct": false, "rationale": "Free radical theory is about oxidation by-products damaging cells." },
+        { "id": "d", "text": "Damage accumulation", "correct": false, "rationale": "Damage accumulation is about damage building up as repair declines." }
+      ],
+      "explanation": "Antagonistic pleiotropy describes genes with early benefit and later harm. Mutation accumulation, by contrast, refers to late-acting mutations that are not passed on."
+    },
+    {
+      "id": "assessment-foundations-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 90-year-old resident has had three respiratory infections and one urinary tract infection this year. Which age-related change should the nurse recognize as contributing to this pattern?",
+      "options": [
+        { "id": "a", "text": "Increased insulin resistance in muscle and tissue", "correct": false, "rationale": "Increased insulin resistance is linked to diabetes, not recurrent infection." },
+        { "id": "b", "text": "Decreased baroreceptor response to position changes", "correct": false, "rationale": "Decreased baroreceptor response is linked to syncope." },
+        { "id": "c", "text": "Decreased T-cell and B-cell function", "correct": true, "rationale": "Correct. Decreased T- and B-cell function increases the risk of infections." },
+        { "id": "d", "text": "Increased body fat with decreased lean mass", "correct": false, "rationale": "These changes alter pharmacokinetics and pharmacodynamics, not infection risk." }
+      ],
+      "explanation": "The guide links decreased T-cell and B-cell function to infections. Each listed age-related change has its own typical effect, which helps the nurse anticipate risks."
+    },
+    {
+      "id": "assessment-foundations-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse manager is orienting new staff to the ANA (2015) tenets of practice. Which staff statement reflects these tenets?",
+      "options": [
+        { "id": "a", "text": "\"Using the same care plan for every older adult keeps our care consistent.\"", "correct": false, "rationale": "The ANA tenets state that practice is individualized, not standardized for everyone." },
+        { "id": "b", "text": "\"The work environment doesn't change outcomes if each nurse is skilled.\"", "correct": false, "rationale": "The tenets state that the work environment affects quality of care and outcomes." },
+        { "id": "c", "text": "\"The provider's orders, not the nursing process, are our foundation.\"", "correct": false, "rationale": "The tenets identify the nursing process as the foundation that RNs use." },
+        { "id": "d", "text": "\"I coordinate this client's care through partnerships with the team.\"", "correct": true, "rationale": "Correct. RNs coordinate care through partnerships, one of the ANA (2015) tenets." }
+      ],
+      "explanation": "ANA (2015) tenets: caring and health are central, practice is individualized, RNs use the nursing process as the foundation, RNs coordinate care through partnerships, and the work environment affects quality and outcomes."
+    },
+    {
+      "id": "assessment-foundations-17",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning a patient-centered assessment for a 77-year-old client. Which special considerations should the nurse build into the plan? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The interrelationship of the physical and psychosocial aspects of aging", "correct": true, "rationale": "Correct. This is one of the three special considerations for a patient-centered approach." },
+        { "id": "b", "text": "The effects of disease and disability on the client's function", "correct": true, "rationale": "Correct. Effects of disease and disability on function is a special consideration." },
+        { "id": "c", "text": "Tailoring the assessment to this individual client", "correct": true, "rationale": "Correct. Tailoring the assessment to the individual is the third consideration." },
+        { "id": "d", "text": "Completing all tools in one session to avoid repeat visits", "correct": false, "rationale": "The chapter says assessment may need more than one session, planned around the client's energy." },
+        { "id": "e", "text": "Using the age-group average as the standard for normal findings", "correct": false, "rationale": "The standard is the person's own previous patterns, not a group average." },
+        { "id": "f", "text": "Focusing on limitations rather than on the client's strengths", "correct": false, "rationale": "Assessment identifies both strengths and limitations, and care is built on strengths." }
+      ],
+      "explanation": "A patient-centered approach requires attention to the interrelationship of physical and psychosocial aging, the effects of disease and disability on function, and tailoring the assessment to the individual."
+    },
+    {
+      "id": "assessment-foundations-18",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 70-year-old client with hypertension is being seen in a clinic. Which nursing action best reflects the principle of patients as participants in health monitoring and treatment?",
+      "options": [
+        { "id": "a", "text": "Asking the client's spouse to keep the blood pressure log for the client", "correct": false, "rationale": "This moves monitoring away from the client rather than involving the client as a participant." },
+        { "id": "b", "text": "Teaching the client to record home readings and review them together", "correct": true, "rationale": "Correct. Involving the client in monitoring and treatment decisions reflects the principle of patients as participants." },
+        { "id": "c", "text": "Adjusting the care plan after the visit and mailing a copy to the client", "correct": false, "rationale": "Planning without the client does not involve the client as a participant." },
+        { "id": "d", "text": "Telling the client that staff will manage all readings at each clinic visit", "correct": false, "rationale": "Keeping all monitoring with staff leaves the client passive." }
+      ],
+      "explanation": "One of the three principles of data collection is that patients are participants in health monitoring and treatment. Engaging the client in tracking and reviewing their own data puts that principle into action."
+    },
+    {
+      "id": "assessment-foundations-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse cares for three clients aged 65, 81, and 95, all of whom have high blood pressure, and concludes that all older people are hypertensive. Which critique of this reasoning is most accurate?",
+      "options": [
+        { "id": "a", "text": "The sample is too small; the conclusion would be valid if 30 clients were reviewed", "correct": false, "rationale": "The flaw is not sample size; it is treating disease as normal aging and assuming older adults are all alike." },
+        { "id": "b", "text": "The conclusion is reasonable because blood pressure rises as part of normal aging", "correct": false, "rationale": "The chapter says no finding should be attributed to normal aging without evaluation." },
+        { "id": "c", "text": "It assumes older adults are alike and treats a disease finding as normal aging", "correct": true, "rationale": "Correct. The chapter says to assume heterogeneity, use each person's own previous patterns as the standard, and never attribute a finding to normal aging without evaluation." },
+        { "id": "d", "text": "It is only flawed because the 65-year-old is not yet truly an older adult", "correct": false, "rationale": "Age grouping is not the problem; the reasoning assumes sameness and normalizes disease." }
+      ],
+      "explanation": "Older adults are heterogeneous. Each person's own previous patterns are the standard for comparison, and a finding such as high blood pressure should never be dismissed as normal aging without evaluation."
+    },
+    {
+      "id": "assessment-foundations-20",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is writing goals after assessing a 74-year-old client. Which goals align with the purpose of assessing an older adult? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Restore the client's optimal level of function", "correct": true, "rationale": "Correct. Interventions aim to support, promote, and restore optimal function." },
+        { "id": "b", "text": "Prevent disability and dependence", "correct": true, "rationale": "Correct. Preventing disability and dependence is part of the stated purpose." },
+        { "id": "c", "text": "Build interventions on the client's identified strengths", "correct": true, "rationale": "Correct. Assessment identifies strengths as well as limitations, and care builds on strengths." },
+        { "id": "d", "text": "Label expected aging changes so they need no follow-up", "correct": false, "rationale": "The chapter warns against attributing findings to normal aging without evaluation." },
+        { "id": "e", "text": "Identify limitations only, since strengths need no plan", "correct": false, "rationale": "Both strengths and limitations are identified; strengths are a foundation for care." }
+      ],
+      "explanation": "The purpose of assessment is to identify strengths and limitations so interventions support, promote, and restore optimal function and prevent disability and dependence."
+    }
+  ]
+}

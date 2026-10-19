@@ -105,7 +105,7 @@ const nextTopic = topic ? exam.topics[exam.topics.findIndex((t) => t.slug === to
         <RouterLink v-if="correctCount < answeredCount" :to="{ path: `/${exam.id}/topic/${topic.slug}/quiz`, query: { mode: 'missed', t: Date.now() } }" class="btn-ghost"><Icon name="target" :size="16" /> Retry missed</RouterLink>
       </div>
       <div class="mt-8 border-t border-stone-200/70 pt-6 dark:border-white/5">
-        <RouterLink v-if="nextTopic" :to="`/${exam.id}/topic/${nextTopic.slug}`" class="group inline-flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
+        <RouterLink v-if="nextTopic" :to="`/${exam.id}/topic/${nextTopic.slug}${nextTopic.review ? '/learn' : ''}`" class="group inline-flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">
           Next section: {{ sectionNumber(exam, nextTopic) }} {{ nextTopic.short }} <Icon name="arrow-right" :size="16" class="transition group-hover:translate-x-1" />
         </RouterLink>
         <RouterLink v-else :to="`/${exam.id}#practice`" class="group inline-flex items-center gap-2 font-semibold text-maroon-700 dark:text-maroon-300">

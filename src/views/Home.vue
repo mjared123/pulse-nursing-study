@@ -82,7 +82,7 @@ const COURSE_TONE = ['from-maroon-600 to-rose-500', 'from-amber-500 to-orange-60
               </span>
               <div>
                 <p class="eyebrow">{{ c.units[0].term }}</p>
-                <h3 class="font-display text-4xl font-bold tracking-tight">{{ c.course }}</h3>
+                <h3 class="font-display font-bold tracking-tight text-balance" :class="c.course.length > 10 ? 'text-3xl' : 'text-4xl'">{{ c.course }}</h3>
               </div>
             </div>
             <ProgressRing :value="courseProgress(c).pct" :size="64" />

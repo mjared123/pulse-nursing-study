@@ -11,7 +11,7 @@ function load() {
   return {}
 }
 
-export const store = reactive({ quizzes: {}, exams: {}, streak: { last: null, days: 0 }, last: null, ...load() })
+export const store = reactive({ quizzes: {}, exams: {}, reviews: {}, streak: { last: null, days: 0 }, last: null, ...load() })
 
 watch(
   store,
@@ -91,9 +91,18 @@ export function examRecord(examId, n) {
   return store.exams[examId][n]
 }
 
+// A section's study-guide review counts as read once the student reaches its end.
+export function markReviewed(examId, slug) {
+  store.reviews[examId] ??= {}
+  if (!store.reviews[examId][slug]) store.reviews[examId][slug] = { at: Date.now() }
+  touch(examId)
+  bumpStreak()
+}
+
 export function resetAll() {
   store.quizzes = {}
   store.exams = {}
+  store.reviews = {}
   store.streak = { last: null, days: 0 }
   store.last = null
 }

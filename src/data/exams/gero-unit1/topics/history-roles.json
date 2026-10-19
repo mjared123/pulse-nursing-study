@@ -1,0 +1,350 @@
+{
+  "slug": "history-roles",
+  "title": "History, Terminology & Nursing Roles",
+  "short": "History, Terms & Roles",
+  "icon": "grad",
+  "description": "How gerontologic nursing became a specialty, the terms used to describe it, and the education, roles, and certification of the generalist, AGCNS, and AGNP.",
+  "keyPoints": [
+    "1969: an ANA committee completed the first Standards of Practice for Geriatric Nursing, the event that truly legitimized the specialty.",
+    "ANA division: 1966 Division of Geriatric Nursing Practice → 1976 Division of Gerontologic Nursing Practice (healthy, ill, and frail) → 1984 Council of Gerontologic Nursing (beyond clinical practice).",
+    "Geriatrics (Greek geras, old age) = branch of medicine for diseases of old age. Gerontology (Greek geron, old man) = scientific study of the process of aging. Gerontic nursing (Gunter & Estes, 1979) never gained wide acceptance.",
+    "GERO-BC: active RN license, equivalent of 2 years full-time as an RN, 2000 hours of gerontologic practice and 30 CE contact hours, both in the past 3 years.",
+    "AGCNS: at least a master's in nursing + RN; clinician, educator, consultant, administrator, or researcher. First CNS program: Duke, 1966.",
+    "AGNP (AGACNP/AGPCNP): primary care provider and case manager; manages limited acute and chronic stable conditions; prescriptive authority in most states.",
+    "AACN endorsed the DNP in 2004 as entry-to-practice for APRNs, but only 14% of APRNs hold one.",
+    "Certification is granted by the ANCC, a subsidiary of the ANA, and is usually voluntary."
+  ],
+  "review": {
+    "pages": "pp. 2–5",
+    "bigIdea": "How did gerontologic nursing grow into a recognized specialty, what do we call it, and who does what in the care of older adults?",
+    "objectives": [
+      "Trace the historic development of gerontologic nursing as a specialty.",
+      "Identify the education, practice roles, and certification of the generalist, acute or primary care NP, and adult-gerontologic CNS."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "History of the specialty and standards", "pages": "pp. 2–3" },
+      { "type": "text", "text": "The specialty grew out of a string of ANA milestones. The starred year is the most testable." },
+      {
+        "type": "timeline",
+        "items": [
+          { "year": "1935", "text": "Social Security Act sets age 65", "star": false },
+          { "year": "1966", "text": "ANA Division of Geriatric Nursing Practice", "star": false },
+          { "year": "1969", "text": "First Standards of Practice for Geriatric Nursing legitimize the specialty", "star": true },
+          { "year": "1973", "text": "First gerontologic nurses certified", "star": false },
+          { "year": "1976", "text": "Renamed Division of Gerontologic Nursing Practice", "star": false },
+          { "year": "1979", "text": "First GNP exam", "star": false },
+          { "year": "1984", "text": "Council of Gerontologic Nursing", "star": false },
+          { "year": "1989", "text": "First GCNS certification exam", "star": false },
+          { "year": "2004", "text": "AACN endorses the DNP for APRNs", "star": false },
+          { "year": "2013", "text": "Separate acute and primary care GNP exams", "star": false },
+          { "year": "2021", "text": "ANA Scope and Standards, 4th ed.: new definition of nursing", "star": false }
+        ]
+      },
+      { "type": "cue", "q": "When and how did the ANA first organize geriatric nursing?", "a": "1966: the ANA formed the Division of Geriatric Nursing Practice.\nIt defined geriatric nursing as \"concerned with the assessment of the nursing needs of older people; planning and implementing nursing care to meet those needs; and evaluating the effectiveness of such care.\"" },
+      { "type": "cue", "q": "What single event \"truly legitimized\" the specialty?", "a": "1969: an ANA committee completed the first Standards of Practice for Geriatric Nursing.\nThe 1960s and 1970s brought many other \"firsts\": journals, textbooks, programs, certification, and research." },
+      { "type": "cue", "q": "Why was the name changed in 1976, and what came in 1984?", "a": "1976: renamed the Division of Gerontologic Nursing Practice to reflect care of healthy, ill, and frail older persons. The standards were retitled Standards of Gerontological Nursing Practice.\n1984: the Council of Gerontologic Nursing was formed to cover issues beyond clinical practice." },
+      { "type": "cue", "q": "How have the standards been revised since?", "a": "1981: Statement on the Scope.\nRevised Scope and Standards in 1987, 1995, and 2010 (2010 added health promotion, health maintenance, disease prevention, and self-care).\n2019: ANA Gerontological Nursing: Scope and Standards, 2nd ed. (role accountabilities, qualifications, ethics).\nCanada: CGNA standards in 1989; 4th ed. in 2020." },
+      { "type": "cue", "q": "What is the 2021 ANA definition of nursing and the nursing process?", "a": "Nursing \"integrates the art and science of caring\" and focuses on protection, promotion, and optimization of health; prevention of illness and injury; facilitation of healing; alleviation of suffering \"through compassionate presence\"; diagnosis and treatment of human responses; and advocacy.\nThe nursing process is \"cyclic, iterative, and dynamic\": assessment, diagnosis, outcomes identification, planning, implementation, evaluation." },
+      { "type": "recall", "text": "Summarize from memory: Tell the story of the specialty from 1966 to 2021 in 3 sentences." },
+
+      { "type": "heading", "text": "Terminology", "pages": "p. 5" },
+      { "type": "cue", "q": "Geriatrics vs. gerontology: what's the difference?", "a": "Geriatrics (Greek geras, \"old age\"): the branch of medicine dealing with diseases and problems of old age. Generally not used for nursing because of its medical/disease orientation.\nGerontology (Greek geron, \"old man\"): the scientific study of the process of aging and problems of older adults: biologic, sociologic, psychological, and economic." },
+      { "type": "cue", "q": "Which term do nurses in the field use most? What does it include?", "a": "Gerontologic nursing: assessing health and functional status, planning and implementing care and services, and evaluating the effectiveness of that care." },
+      { "type": "cue", "q": "Who coined \"gerontic nursing,\" and did it catch on?", "a": "Gunter and Estes, 1979. More inclusive (not limited to disease or science): \"the art and practice of nurturing, caring, and comforting.\"\nIt has not gained wide acceptance." },
+      { "type": "recall", "text": "Summarize from memory: Explain why nurses prefer \"gerontologic\" over \"geriatric.\"" },
+      { "type": "callout", "tone": "exam", "title": "Don't confuse", "text": "Geriatrics = branch of medicine (disease focus). Gerontology = scientific study of the aging process. Gerontologic nursing = the term nurses use." },
+
+      { "type": "heading", "text": "Roles and certification", "pages": "pp. 3–5" },
+      {
+        "type": "table",
+        "title": "Who does what: nursing roles",
+        "columns": ["", "Generalist", "AGCNS", "AGACNP / AGPCNP"],
+        "rows": [
+          ["Preparation", "Licensed RN (basic entry-level program)", "At least a master's + RN", "RN license (advanced practice)"],
+          ["Key functions", "Finds strengths; maximizes independence", "Clinician, educator, consultant, administrator, researcher; care based on theory and research", "Primary care provider + case manager; limited acute and chronic stable conditions; prescriptive authority (most states)"],
+          ["Where / facility role", "Home, community, LTC, acute care", "Facility: staff education and consultant", "Facility: AGACNP = case manager; AGPCNP = primary care"]
+        ]
+      },
+      { "type": "text", "text": "The AGCNS and AGNPs are advanced practice nurses (APNs). The generalist consults the APN for complex needs." },
+      { "type": "cue", "q": "Who grants certification, and is it required?", "a": "The ANCC (American Nurses Credentialing Center), a subsidiary of the ANA. Certification recognizes specialized knowledge and clinical competence and is usually voluntary.\nFirst gerontologic nurses certified 1973; first GNP exam 1979; first GCNS exam 1989; first combined acute/primary AGCNS exam 2014." },
+      { "type": "list", "title": "Box 1.1: What an RN needs for GERO-BC", "ordered": true, "items": ["Active RN license", "Equivalent of 2 years full-time as an RN", "2000 hours of gerontologic clinical practice in the past 3 years", "30 contact hours of gerontologic continuing education in the past 3 years"] },
+      { "type": "cue", "q": "What do AGACNP-BC, AGPCNP-BC, and AGCNS-BC require?", "a": "Active RN license\nMaster's, postgraduate, or doctorate from a CCNE- or ACEN-accredited program\nAt least 500 faculty-supervised clinical hours (AGCNS: content from wellness through acute care)\n3 courses: advanced physiology/pathophysiology, advanced health assessment, advanced pharmacology (pharmacodynamics, pharmacokinetics, pharmacotherapeutics)\nHealth promotion and differential diagnosis content\nCriteria are reviewed annually." },
+      { "type": "cue", "q": "What is the generalist's main challenge?", "a": "Identify older adults' strengths and help them maximize independence.\nAlso: promote healthy aging and mental health; health promotion and disease prevention; dementia-friendly initiatives.\nOlder adults participate in decisions. The generalist consults the APN for complex needs." },
+      { "type": "cue", "q": "Where and when did CNS education start? What does the AGCNS do?", "a": "First CNS program: 1966, Duke University.\nThe AGCNS needs at least a master's in nursing + RN and functions as a clinician, educator, consultant, administrator, or researcher, giving care based on theory and research." },
+      { "type": "cue", "q": "How were NPs first prepared? What about the DNP?", "a": "Early 1970s: continuing education programs, or training and supervision by physicians. Master's-level primary care education only since the late 1980s.\n2004: AACN endorsed the DNP as the entry-to-practice degree for APRNs, but only 14% hold one (cost, practicum hours, and disagreement among associations)." },
+      { "type": "cue", "q": "What does the AGNP do as primary care provider and case manager?", "a": "Performs health assessments and makes nursing diagnoses; plans, implements, and evaluates care.\nManages limited acute and chronic stable conditions.\nCoordinates and collaborates (essential).\nIndependent or collaborative practice across the continuum.\nPrescriptive authority for most drugs in most states (each state sets the extent)." },
+      { "type": "recall", "text": "Summarize from memory: Compare the generalist, AGCNS, and AGNP: education + one key function each." },
+      { "type": "callout", "tone": "memory", "title": "Two different dates", "text": "The guide's timeline lists 2013 for separate acute and primary GNP exams; the certification notes list 2014 for the first combined acute/primary AGCNS exam. Learn each date with the exam it names." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "history-roles-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nursing student is preparing a presentation on the history of gerontologic nursing. Which event is described as the one that truly legitimized the specialty?",
+      "options": [
+        { "id": "a", "text": "The 1966 creation of the ANA Division of Geriatric Nursing Practice", "correct": false, "rationale": "The 1966 division first organized geriatric nursing within the ANA, but it is not the event credited with legitimizing the specialty." },
+        { "id": "b", "text": "The 1969 completion of the first Standards of Practice for Geriatric Nursing", "correct": true, "rationale": "Correct. In 1969 an ANA committee completed the first Standards of Practice for Geriatric Nursing, the event that truly legitimized the specialty." },
+        { "id": "c", "text": "The 1973 certification of the first group of gerontologic nurses", "correct": false, "rationale": "Certification began in 1973, after the specialty had already been legitimized by its standards." },
+        { "id": "d", "text": "The 1984 formation of the ANA Council of Gerontologic Nursing", "correct": false, "rationale": "The 1984 Council broadened the focus beyond clinical practice; it came well after the specialty was legitimized." }
+      ],
+      "explanation": "The 1960s and 1970s brought many firsts for the specialty: journals, textbooks, programs, certification, and research. The single event that truly legitimized it was the 1969 completion of the first Standards of Practice for Geriatric Nursing by an ANA committee."
+    },
+    {
+      "id": "history-roles-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A staff nurse asks which organization grants gerontologic nursing certification and whether it is mandatory. Which response by the nurse educator is accurate?",
+      "options": [
+        { "id": "a", "text": "The state board of nursing, and it is required for work in long-term care", "correct": false, "rationale": "State boards license nurses; they do not grant gerontologic certification, and certification is not described as required." },
+        { "id": "b", "text": "The AACN, and it is required for any nurse who works mainly with older adults", "correct": false, "rationale": "The AACN endorsed the DNP for APRNs; it does not grant this certification, and certification is not mandatory." },
+        { "id": "c", "text": "The ANCC, a subsidiary of the ANA, and it is usually voluntary", "correct": true, "rationale": "Correct. The American Nurses Credentialing Center, a subsidiary of the ANA, grants certification, which is usually voluntary." },
+        { "id": "d", "text": "The NCSBN, and it is voluntary only for nurses with a master's degree", "correct": false, "rationale": "The NCSBN co-authored delegation guidelines; it does not grant gerontologic certification." }
+      ],
+      "explanation": "Certification is granted by the ANCC, a subsidiary of the ANA. It recognizes specialized knowledge and clinical competence and is usually voluntary."
+    },
+    {
+      "id": "history-roles-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "In 1976 the ANA renamed its Division of Geriatric Nursing Practice the Division of Gerontologic Nursing Practice. What was the main reason for the change?",
+      "options": [
+        { "id": "a", "text": "To limit the division's focus to older adults living in nursing homes", "correct": false, "rationale": "The change broadened the focus rather than narrowing it to one setting." },
+        { "id": "b", "text": "To align the division with Medicare billing categories for older adults", "correct": false, "rationale": "The rename was about the population served, not reimbursement." },
+        { "id": "c", "text": "To move the division's work beyond clinical practice into policy issues", "correct": false, "rationale": "Moving beyond clinical practice was the purpose of the 1984 Council of Gerontologic Nursing, not the 1976 rename." },
+        { "id": "d", "text": "To reflect the care of healthy, ill, and frail older persons", "correct": true, "rationale": "Correct. The 1976 rename reflected care of healthy, ill, and frail older persons, and the standards were retitled Standards of Gerontological Nursing Practice." }
+      ],
+      "explanation": "Geriatric carries a disease focus. The 1976 rename to gerontologic nursing signaled care of healthy, ill, and frail older persons. In 1984 the Council of Gerontologic Nursing took on issues beyond clinical practice."
+    },
+    {
+      "id": "history-roles-04",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A new graduate asks why nurses in the specialty generally avoid the word \"geriatric\" when naming their field. Which explanation is most accurate?",
+      "options": [
+        { "id": "a", "text": "Geriatrics is a branch of medicine with a medical and disease orientation", "correct": true, "rationale": "Correct. Geriatrics (Greek geras, old age) deals with diseases and problems of old age, so its disease focus does not fit nursing's broader scope." },
+        { "id": "b", "text": "Geriatrics refers only to the care of adults who are older than 85 years", "correct": false, "rationale": "Geriatrics is not defined by an age cutoff; it is defined by its medical, disease-oriented focus." },
+        { "id": "c", "text": "Geriatrics is the newer term and has not yet gained wide acceptance", "correct": false, "rationale": "The term that has not gained wide acceptance is gerontic nursing, coined by Gunter and Estes in 1979." },
+        { "id": "d", "text": "Geriatrics describes the scientific study of the biologic process of aging", "correct": false, "rationale": "This describes gerontology, the scientific study of the process of aging." }
+      ],
+      "explanation": "Geriatrics is the branch of medicine dealing with diseases and problems of old age. Gerontology is the scientific study of the process of aging (biologic, sociologic, psychological, economic). Gerontologic nursing is the term most nurses in the field use."
+    },
+    {
+      "id": "history-roles-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse with an active RN license has worked full-time for 6 years, mostly with clients over 65. In the past 3 years she has logged 2,400 hours of gerontologic practice and completed 25 contact hours of gerontologic continuing education. Before applying for GERO-BC, what must she do?",
+      "options": [
+        { "id": "a", "text": "Log at least 500 more hours of faculty-supervised clinical practice", "correct": false, "rationale": "500 faculty-supervised clinical hours is a requirement for NP and CNS certification, not for GERO-BC." },
+        { "id": "b", "text": "Complete at least 5 more contact hours of gerontologic CE", "correct": true, "rationale": "Correct. GERO-BC requires 30 contact hours of gerontologic CE in the past 3 years; she has 25." },
+        { "id": "c", "text": "Finish a master's degree from a CCNE- or ACEN-accredited program", "correct": false, "rationale": "A graduate degree is required for the advanced practice certifications, not for the generalist GERO-BC." },
+        { "id": "d", "text": "Work at least 2 more years full-time in a gerontologic setting", "correct": false, "rationale": "She already exceeds the equivalent of 2 years full-time as an RN." }
+      ],
+      "explanation": "Box 1.1 lists four GERO-BC requirements: an active RN license, the equivalent of 2 years full-time as an RN, 2000 hours of gerontologic practice in the past 3 years, and 30 contact hours of gerontologic CE in the past 3 years. This nurse meets everything except the CE hours."
+    },
+    {
+      "id": "history-roles-06",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A supervisor asks a staff RN to become certified in gerontologic nursing (GERO-BC). Which requirements must the RN meet before applying? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Active RN license", "correct": true, "rationale": "An active RN license is the first requirement in Box 1.1." },
+        { "id": "b", "text": "Equivalent of 2 years of full-time practice as an RN", "correct": true, "rationale": "Box 1.1 requires the equivalent of 2 years full-time as an RN." },
+        { "id": "c", "text": "A master's degree in nursing from an accredited program", "correct": false, "rationale": "A graduate degree is required for the AGACNP, AGPCNP, and AGCNS certifications, not GERO-BC." },
+        { "id": "d", "text": "2000 hours of gerontologic clinical practice in the past 3 years", "correct": true, "rationale": "Box 1.1 requires 2000 hours of gerontologic practice within the past 3 years." },
+        { "id": "e", "text": "30 contact hours of gerontologic continuing education in the past 3 years", "correct": true, "rationale": "Box 1.1 requires 30 CE contact hours in gerontologic nursing within the past 3 years." },
+        { "id": "f", "text": "At least 500 faculty-supervised clinical hours", "correct": false, "rationale": "500 faculty-supervised clinical hours apply to the advanced practice certifications." }
+      ],
+      "explanation": "GERO-BC is the generalist credential. It requires an active RN license, the equivalent of 2 years full-time as an RN, 2000 hours of gerontologic practice and 30 contact hours of gerontologic CE, both in the past 3 years. Graduate education and faculty-supervised hours belong to the APN certifications."
+    },
+    {
+      "id": "history-roles-07",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A long-term care facility plans to hire an adult-gerontology clinical nurse specialist (AGCNS). Which functions can the facility expect this nurse to fill? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Clinician giving care based on theory and research", "correct": true, "rationale": "The AGCNS functions as a clinician whose care is based on theory and research." },
+        { "id": "b", "text": "Educator providing staff education", "correct": true, "rationale": "In facilities, the AGCNS role centers on staff education and consultation." },
+        { "id": "c", "text": "Consultant on residents with complex needs", "correct": true, "rationale": "The AGCNS serves as a consultant, including for staff caring for complex residents." },
+        { "id": "d", "text": "Primary care provider for the facility's residents", "correct": false, "rationale": "In nursing facilities, primary care is the role of the AGPCNP." },
+        { "id": "e", "text": "Unlicensed assistant who takes routine vital signs", "correct": false, "rationale": "Taking vital signs is a task delegated to UAP; the AGCNS is an advanced practice nurse." },
+        { "id": "f", "text": "Researcher studying care of older adults", "correct": true, "rationale": "The AGCNS may function as a researcher." }
+      ],
+      "explanation": "The AGCNS has at least a master's in nursing plus an RN license and functions as a clinician, educator, consultant, administrator, or researcher. In nursing facilities the AGCNS provides staff education and consultation, while the AGACNP is case manager and the AGPCNP provides primary care."
+    },
+    {
+      "id": "history-roles-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 74-year-old client with stable hypertension and osteoarthritis wants one provider at a community clinic to manage the conditions, renew prescriptions, and coordinate referrals. Which provider role best matches this need?",
+      "options": [
+        { "id": "a", "text": "Adult-gerontology primary care nurse practitioner (AGPCNP)", "correct": true, "rationale": "Correct. The AGNP acts as primary care provider and case manager, manages limited acute and chronic stable conditions, and has prescriptive authority in most states." },
+        { "id": "b", "text": "Adult-gerontology clinical nurse specialist working as staff educator", "correct": false, "rationale": "The AGCNS role described centers on clinician, educator, consultant, administrator, or researcher, not primary care with prescribing." },
+        { "id": "c", "text": "Generalist RN holding GERO-BC certification in the clinic", "correct": false, "rationale": "The generalist does not diagnose and prescribe; the generalist consults the APN for complex needs." },
+        { "id": "d", "text": "Unlicensed assistive personnel supervised by the clinic's RN", "correct": false, "rationale": "UAP perform tasks such as vital signs and help with ADLs; they do not manage conditions." }
+      ],
+      "explanation": "The AGNP (AGACNP or AGPCNP) performs health assessments, makes diagnoses, plans and evaluates care, manages limited acute and chronic stable conditions, and coordinates and collaborates. Most states grant prescriptive authority for most drugs, with each state setting the extent."
+    },
+    {
+      "id": "history-roles-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A generalist nurse begins home visits with an 81-year-old client who lives alone after a recent illness. Which approach best reflects the generalist's main challenge in gerontologic care?",
+      "options": [
+        { "id": "a", "text": "Take over the client's medication and meal routines to prevent errors", "correct": false, "rationale": "Taking over routines reduces independence, the opposite of the generalist's goal." },
+        { "id": "b", "text": "Recommend placement in long-term care because the client lives alone", "correct": false, "rationale": "Living alone does not by itself justify placement; the goal is to maximize independence." },
+        { "id": "c", "text": "Identify the client's strengths and help the client maximize independence", "correct": true, "rationale": "Correct. The generalist's main challenge is to identify older adults' strengths and help them maximize independence, with the client participating in decisions." },
+        { "id": "d", "text": "Focus the visits on the illness and leave health promotion for later", "correct": false, "rationale": "Health promotion and disease prevention are part of the generalist's role, not something to postpone." }
+      ],
+      "explanation": "The generalist works in home, community, long-term care, and acute care. The main challenge is to find older adults' strengths and help them maximize independence, along with promoting healthy aging, mental health, health promotion, and disease prevention. Older adults participate in decisions."
+    },
+    {
+      "id": "history-roles-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A generalist RN caring for an older client in a nursing facility finds that the client's needs have become complex and are beyond the RN's scope. What is the nurse's best action?",
+      "options": [
+        { "id": "a", "text": "Ask a UAP with long experience to manage the client's care", "correct": false, "rationale": "UAP perform delegated tasks; they cannot manage complex needs." },
+        { "id": "b", "text": "Postpone changes until the next annual care conference", "correct": false, "rationale": "Delaying leaves complex needs unaddressed." },
+        { "id": "c", "text": "Plan care alone and document the client's complex needs", "correct": false, "rationale": "Working alone ignores the generalist's role of consulting the APN for complex needs." },
+        { "id": "d", "text": "Consult the advanced practice nurse about the complex needs", "correct": true, "rationale": "Correct. The generalist consults the APN (AGCNS or AGNP) for complex needs." }
+      ],
+      "explanation": "Generalist nurses provide direct care in many settings and consult advanced practice nurses for complex needs. In facilities the AGCNS provides staff education and consultation, the AGACNP is case manager, and the AGPCNP provides primary care."
+    },
+    {
+      "id": "history-roles-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which term for nursing care of older adults, coined by Gunter and Estes in 1979 as \"the art and practice of nurturing, caring, and comforting,\" has not gained wide acceptance?",
+      "options": [
+        { "id": "a", "text": "Gerontologic nursing", "correct": false, "rationale": "Gerontologic nursing is the term most nurses in the field use." },
+        { "id": "b", "text": "Gerontic nursing", "correct": true, "rationale": "Correct. Gunter and Estes coined gerontic nursing in 1979; it is more inclusive but has not gained wide acceptance." },
+        { "id": "c", "text": "Geriatric nursing", "correct": false, "rationale": "Geriatric was the ANA's original 1966 term, later replaced because of its disease orientation; it was not coined by Gunter and Estes." },
+        { "id": "d", "text": "Gerontology", "correct": false, "rationale": "Gerontology is the scientific study of the process of aging, not a nursing term coined in 1979." }
+      ],
+      "explanation": "Gerontic nursing (Gunter and Estes, 1979) was meant to be more inclusive than terms tied to disease or science, but it has not caught on. Gerontologic nursing remains the term nurses use."
+    },
+    {
+      "id": "history-roles-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A student writes, \"Gerontology is the branch of medicine that treats the diseases of old age.\" Which correction should the instructor give?",
+      "options": [
+        { "id": "a", "text": "Gerontology is the nursing term for assessing functional status and planning care", "correct": false, "rationale": "This describes gerontologic nursing, not gerontology." },
+        { "id": "b", "text": "Gerontology is the art and practice of nurturing, caring, and comforting older adults", "correct": false, "rationale": "This is the definition of gerontic nursing (Gunter and Estes, 1979)." },
+        { "id": "c", "text": "Gerontology is the federal program that defines old age as beginning at 65", "correct": false, "rationale": "Age 65 comes from the 1935 Social Security Act; gerontology is a field of study, not a program." },
+        { "id": "d", "text": "Gerontology is the scientific study of the process of aging and older adults' problems", "correct": true, "rationale": "Correct. Gerontology (Greek geron, old man) studies aging and older adults' problems from biologic, sociologic, psychological, and economic angles." }
+      ],
+      "explanation": "The student has described geriatrics, the branch of medicine dealing with diseases and problems of old age. Gerontology is the scientific study of the process of aging and the problems of older adults: biologic, sociologic, psychological, and economic."
+    },
+    {
+      "id": "history-roles-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse colleague says, \"Since 2004, every advanced practice nurse has needed a DNP, so almost all of them have one now.\" Which response best corrects the colleague?",
+      "options": [
+        { "id": "a", "text": "\"The ANCC required the DNP in 2004, and about half of APRNs have now earned one.\"", "correct": false, "rationale": "The AACN, not the ANCC, endorsed the DNP, and only 14% of APRNs hold one." },
+        { "id": "b", "text": "\"The DNP is only for nurse educators, so practicing APRNs do not pursue the degree.\"", "correct": false, "rationale": "The DNP was endorsed as the entry-to-practice degree for APRNs, not as an educator degree." },
+        { "id": "c", "text": "\"The AACN endorsed it as entry to practice in 2004, but only 14% of APRNs hold one.\"", "correct": true, "rationale": "Correct. AACN endorsed the DNP in 2004, but adoption is low (14%) because of cost, practicum hours, and disagreement among associations." },
+        { "id": "d", "text": "\"Every state has required the DNP for prescribing since the late 1980s for NPs.\"", "correct": false, "rationale": "Master's-level NP education began in the late 1980s; the DNP endorsement came in 2004 and is not a universal state requirement." }
+      ],
+      "explanation": "NPs were first prepared in the early 1970s through continuing education programs or physician training and supervision; master's primary care education began in the late 1980s. In 2004 the AACN endorsed the DNP as entry-to-practice for APRNs, but only 14% hold one because of cost, practicum hours, and disagreement among associations."
+    },
+    {
+      "id": "history-roles-14",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "Place these milestones in the development of gerontologic nursing in chronologic order, from earliest to latest.",
+      "items": [
+        { "id": "a", "text": "ANA forms the Division of Geriatric Nursing Practice" },
+        { "id": "b", "text": "ANA committee completes the first Standards of Practice for Geriatric Nursing" },
+        { "id": "c", "text": "Division renamed the Division of Gerontologic Nursing Practice" },
+        { "id": "d", "text": "ANA publishes the Statement on the Scope" },
+        { "id": "e", "text": "Council of Gerontologic Nursing is formed" }
+      ],
+      "explanation": "1966: Division of Geriatric Nursing Practice. 1969: first Standards of Practice for Geriatric Nursing. 1976: renamed the Division of Gerontologic Nursing Practice to reflect healthy, ill, and frail older persons. 1981: Statement on the Scope. 1984: Council of Gerontologic Nursing, covering issues beyond clinical practice."
+    },
+    {
+      "id": "history-roles-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse has assessed an 80-year-old client admitted with weakness and has identified the nursing diagnoses. According to the 2021 ANA description of the nursing process, what should the nurse do next?",
+      "options": [
+        { "id": "a", "text": "Implement interventions for the highest-priority diagnosis", "correct": false, "rationale": "Implementation follows outcomes identification and planning." },
+        { "id": "b", "text": "Identify the outcomes expected for this client", "correct": true, "rationale": "Correct. The ANA steps are assessment, diagnosis, outcomes identification, planning, implementation, and evaluation." },
+        { "id": "c", "text": "Evaluate whether the diagnoses have been resolved", "correct": false, "rationale": "Evaluation is the last step, after care has been planned and given." },
+        { "id": "d", "text": "Write the plan of care with nursing interventions", "correct": false, "rationale": "Planning follows outcomes identification." }
+      ],
+      "explanation": "The 2021 ANA describes the nursing process as cyclic, iterative, and dynamic: assessment, diagnosis, outcomes identification, planning, implementation, and evaluation. After diagnosis, the nurse identifies the outcomes."
+    },
+    {
+      "id": "history-roles-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Which nursing action best illustrates the phrase \"alleviation of suffering through compassionate presence\" from the 2021 ANA definition of nursing?",
+      "options": [
+        { "id": "a", "text": "Teaching an older client about influenza vaccination at a clinic visit", "correct": false, "rationale": "Vaccine teaching reflects prevention of illness and health promotion, other parts of the definition." },
+        { "id": "b", "text": "Writing a letter to a legislator about funding for home care services", "correct": false, "rationale": "This reflects advocacy, a separate part of the definition." },
+        { "id": "c", "text": "Sitting quietly with a 90-year-old client who is grieving her husband", "correct": true, "rationale": "Correct. Staying with a suffering client is an example of alleviating suffering through compassionate presence." },
+        { "id": "d", "text": "Checking an older client's surgical incision for signs of infection", "correct": false, "rationale": "This reflects assessment and facilitation of healing rather than compassionate presence." }
+      ],
+      "explanation": "The 2021 ANA definition says nursing integrates the art and science of caring: protection, promotion, and optimization of health; prevention of illness and injury; facilitation of healing; alleviation of suffering through compassionate presence; diagnosis and treatment of human responses; and advocacy."
+    },
+    {
+      "id": "history-roles-17",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A student is reviewing how the standards for gerontologic nursing have changed over time. Which statements are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The ANA issued a Statement on the Scope in 1981.", "correct": true, "rationale": "The 1981 Statement on the Scope followed the 1976 retitled standards." },
+        { "id": "b", "text": "The 2010 revision added health promotion, health maintenance, disease prevention, and self-care.", "correct": true, "rationale": "The 2010 Scope and Standards added these areas." },
+        { "id": "c", "text": "The 2019 second edition addressed role accountabilities, qualifications, and ethics.", "correct": true, "rationale": "The 2019 ANA Gerontological Nursing: Scope and Standards, 2nd ed., covered these topics." },
+        { "id": "d", "text": "Canada's CGNA published its first standards in 2020.", "correct": false, "rationale": "CGNA standards first appeared in 1989; 2020 was the 4th edition." },
+        { "id": "e", "text": "The standards were retitled Standards of Geriatric Nursing Practice in 1976.", "correct": false, "rationale": "In 1976 they were retitled Standards of Gerontological Nursing Practice; geriatric was the earlier term." }
+      ],
+      "explanation": "The standards evolved from the 1969 Standards of Practice for Geriatric Nursing to the 1976 Standards of Gerontological Nursing Practice, the 1981 Statement on the Scope, revisions in 1987, 1995, and 2010, and the 2019 second edition. Canada's CGNA standards began in 1989, with a 4th edition in 2020."
+    },
+    {
+      "id": "history-roles-18",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A newly hired adult-gerontology primary care NP describes her role to the unit staff. Which statements are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "\"I manage limited acute and chronic stable conditions.\"", "correct": true, "rationale": "The AGNP manages limited acute and chronic stable conditions." },
+        { "id": "b", "text": "\"Coordinating and collaborating with others is essential to my role.\"", "correct": true, "rationale": "Coordination and collaboration are described as essential AGNP functions." },
+        { "id": "c", "text": "\"My prescriptive authority is exactly the same in every state.\"", "correct": false, "rationale": "Most states grant prescriptive authority for most drugs, but each state sets the extent." },
+        { "id": "d", "text": "\"I can practice independently or collaboratively across the continuum.\"", "correct": true, "rationale": "AGNPs practice independently or collaboratively across the continuum of care." },
+        { "id": "e", "text": "\"I may only practice under a physician's direct supervision.\"", "correct": false, "rationale": "Physician supervision describes how NPs were trained in the early 1970s, not current AGNP practice." },
+        { "id": "f", "text": "\"I perform health assessments and plan, implement, and evaluate care.\"", "correct": true, "rationale": "Health assessments, diagnoses, and planning, implementing, and evaluating care are core AGNP functions." }
+      ],
+      "explanation": "As primary care provider and case manager, the AGNP performs health assessments and diagnoses; plans, implements, and evaluates care; manages limited acute and chronic stable conditions; and coordinates and collaborates. Practice can be independent or collaborative, and prescriptive authority varies by state."
+    },
+    {
+      "id": "history-roles-19",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A student is comparing the preparation of nurses who care for older adults. Which comparison is accurate?",
+      "options": [
+        { "id": "a", "text": "Generalist: master's degree; AGCNS: doctorate; AGNP: RN license plus 30 CE contact hours", "correct": false, "rationale": "The generalist is a licensed RN from a basic entry-level program, and AGNP certification needs graduate education and 500 supervised hours." },
+        { "id": "b", "text": "Generalist: basic entry-level RN program; AGCNS: at least a master's in nursing plus RN", "correct": true, "rationale": "Correct. The generalist is a licensed RN from a basic program; the AGCNS needs at least a master's in nursing plus an RN license." },
+        { "id": "c", "text": "Generalist: GERO-BC is required to practice; AGCNS: on-the-job training under a physician", "correct": false, "rationale": "Certification is usually voluntary, and physician training described early-1970s NP preparation, not the AGCNS." },
+        { "id": "d", "text": "Generalist: 500 supervised clinical hours; AGCNS: continuing education program only", "correct": false, "rationale": "500 faculty-supervised hours apply to APN certification, and the AGCNS requires at least a master's degree." }
+      ],
+      "explanation": "The generalist is a licensed RN from a basic entry-level program. The AGCNS needs at least a master's in nursing plus an RN license; the first CNS program opened at Duke in 1966. APN certifications require graduate education from a CCNE- or ACEN-accredited program and at least 500 faculty-supervised clinical hours."
+    },
+    {
+      "id": "history-roles-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse manager asks staff why they might pursue gerontologic certification. Which staff statement shows the best understanding of certification?",
+      "options": [
+        { "id": "a", "text": "\"It recognizes specialized knowledge and clinical competence, and it is usually voluntary.\"", "correct": true, "rationale": "Correct. ANCC certification recognizes specialized knowledge and clinical competence and is usually voluntary." },
+        { "id": "b", "text": "\"It replaces my RN license, so I won't need to renew my license with the state board.\"", "correct": false, "rationale": "An active RN license is a prerequisite for certification; certification does not replace it." },
+        { "id": "c", "text": "\"Once I pass, the criteria never change, so I won't need to check them again later.\"", "correct": false, "rationale": "Certification criteria are reviewed annually." },
+        { "id": "d", "text": "\"It gives me prescriptive authority for most drugs in most states right after I pass.\"", "correct": false, "rationale": "Prescriptive authority belongs to the AGNP role, not generalist certification." }
+      ],
+      "explanation": "Certification through the ANCC recognizes specialized knowledge and clinical competence. It is usually voluntary, requires an active RN license, and its criteria are reviewed annually."
+    }
+  ]
+}

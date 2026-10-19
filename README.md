@@ -2,6 +2,7 @@
 
 Practice quizzes and full-length practice exams for Missouri State nursing students, built from each course's exam blueprint.
 
+- **Study-guide reviews** (where a class supplies study guides): a readable page per section with tap-to-reveal recall questions, read before the section quiz.
 - **Section quizzes** for every blueprint topic, with a rationale for every answer choice shown right after you answer.
 - **Practice exams** that match the blueprint's format (length, time limit, alternate-format and dosage-calc counts). Rationales appear on the results screen.
 - Progress, scores and in-progress exams are saved in the browser (localStorage). No accounts yet.
@@ -27,7 +28,9 @@ Each exam is a folder in `src/data/exams/<exam-id>/`:
 ```
 exam.json          # course, title, format (questions, minutes, alt-format, dosage calc),
                    # topic list with blueprint counts, practice exam distribution, Bloom levels, objectives
-topics/<slug>.json # one question bank per topic
+topics/<slug>.json # one question bank per topic (plus an optional study-guide review)
 ```
+
+A class's URL comes from its course code (`NUR 312` → `/nur312`); set `"courseId"` in exam.json when the class has no code yet (Gerontologic Nursing uses `/gero`).
 
 The question format is documented in [QUESTION_SCHEMA.md](QUESTION_SCHEMA.md). `npm run validate` checks every bank and confirms the practice exams can be built without reusing a question. A new folder shows up on the home page automatically.

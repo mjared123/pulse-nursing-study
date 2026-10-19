@@ -12,17 +12,24 @@ export function sectionNumber(exam, topic) {
   return `${exam.unit}.${exam.topics.findIndex((t) => t.slug === topic.slug) + 1}`
 }
 
-// A section is complete once a full-length quiz on it has been finished (any score).
+// A section is complete once a full-length quiz on it has been finished (any score), and,
+// when the section has a study-guide review, once that review has been read too.
 export function topicStatus(exam, topic) {
   const rec = store.quizzes[exam.id]?.[topic.slug]
   const need = quizLength(exam, topic)
   const full = (rec?.attempts ?? []).filter((a) => a.total >= need)
   const mastery = topicMastery(exam.id, topic)
   const inProgress = rec?.inProgress?.ids?.length ? rec.inProgress : null
-  const complete = full.length > 0
+  const hasReview = !!topic.review
+  const reviewed = hasReview && !!store.reviews?.[exam.id]?.[topic.slug]
+  const quizDone = full.length > 0
+  const complete = quizDone && (reviewed || !hasReview)
   return {
     complete,
-    started: complete || !!inProgress || mastery.answered > 0,
+    started: complete || reviewed || !!inProgress || mastery.answered > 0,
+    hasReview,
+    reviewed,
+    quizDone,
     inProgress,
     best: full.length ? Math.max(...full.map((a) => a.correct / a.total)) : null,
     mastery,
@@ -68,13 +75,14 @@ export function continueTarget(exam) {
   const next = sections.find((x) => !x.s.complete)
   if (next) {
     const fresh = !sections.some((x) => x.s.started)
+    const learn = next.s.hasReview && !next.s.reviewed
     return {
-      kind: 'topic',
+      kind: learn ? 'learn' : 'topic',
       fresh,
       topic: next.t,
-      to: `/${exam.id}/topic/${next.t.slug}`,
+      to: `/${exam.id}/topic/${next.t.slug}${learn ? '/learn' : ''}`,
       title: `${sectionNumber(exam, next.t)} ${next.t.short}`,
-      detail: fresh ? 'Start with the first section' : 'Next section',
+      detail: learn ? (fresh ? 'Start with the first study guide' : 'Review the study guide') : next.s.reviewed ? 'Take the section quiz' : fresh ? 'Start with the first section' : 'Next section',
     }
   }
   const p = practice.find((p) => !p.attempts) ?? practice[0]

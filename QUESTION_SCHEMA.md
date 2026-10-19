@@ -73,3 +73,31 @@ Same shape as `single`, but the stem ends with "Select all that apply." and more
 - Vary which letter is correct. Avoid "all of the above".
 - Bloom mix per topic roughly: remember 8%, understand 15%, apply 44%, analyze 25%, evaluate 8%.
 - Plain ASCII JSON strings are fine; use unicode (°, ≥, µ) where natural. No HTML/markdown inside strings.
+
+## Study-guide review (optional)
+
+A topic can carry a `review`: a readable study page shown as Step 1 of the section, before its quiz
+(route `/<exam-id>/topic/<slug>/learn`). When a topic has one, the section counts as complete only after the
+student reaches the end of the review **and** finishes a full-length quiz. Topics without `review` work as before.
+
+```json
+"review": {
+  "pages": "pp. 2–5",
+  "bigIdea": "The question this part of the chapter answers.",
+  "objectives": ["Learning objectives this section covers"],
+  "blocks": [
+    { "type": "heading", "text": "History of the specialty", "pages": "pp. 2–3" },
+    { "type": "text", "text": "A short paragraph." },
+    { "type": "cue", "q": "Active-recall question", "a": "Answer, hidden until tapped. \n = line break." },
+    { "type": "timeline", "items": [{ "year": "1969", "text": "First Standards of Practice", "star": true }] },
+    { "type": "list", "title": "Five Rights of Delegation", "ordered": true, "items": ["Right Task: ..."] },
+    { "type": "table", "title": "...", "columns": ["", "Dementia", "Delirium"], "rows": [["Onset", "Slow", "Abrupt"]] },
+    { "type": "mnemonic", "title": "DELIRIUM", "letters": [{ "letter": "D", "word": "Drugs", "text": "new meds, ..." }] },
+    { "type": "callout", "tone": "exam", "title": "Don't confuse", "text": "..." },
+    { "type": "recall", "text": "Summarize from memory: ..." }
+  ]
+}
+```
+
+Callout tones: `exam` (exam connection), `alert` (red flag), `conflict` (book conflict), `nurse` (what the nurse does),
+`memory` (memory aid), `key` (key points). `npm run validate` checks every block.
