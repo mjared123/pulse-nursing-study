@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import Icon from './Icon.vue'
+import AccountMenu from './AccountMenu.vue'
 import { dark, toggleTheme } from '../lib/theme'
 import { store } from '../lib/storage'
 import { getExam, getCourse } from '../data'
@@ -45,6 +46,7 @@ const streak = computed(() => {
         <button class="grid h-10 w-10 place-items-center rounded-xl text-stone-500 transition hover:bg-stone-200/60 hover:text-stone-900 dark:hover:bg-white/10 dark:hover:text-white" :aria-label="dark ? 'Switch to light mode' : 'Switch to dark mode'" @click="toggleTheme">
           <Icon :name="dark ? 'sun' : 'moon'" :size="18" />
         </button>
+        <AccountMenu />
       </div>
     </div>
   </header>

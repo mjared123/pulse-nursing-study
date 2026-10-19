@@ -1,5 +1,6 @@
 <script setup>
 import AppHeader from './components/AppHeader.vue'
+import { auth, authEnabled } from './lib/auth'
 </script>
 
 <template>
@@ -19,7 +20,7 @@ import AppHeader from './components/AppHeader.vue'
     </main>
     <footer class="border-t border-stone-200/70 py-8 text-center text-xs text-stone-500 dark:border-white/5 dark:text-stone-500">
       Built for MSU nursing students. Practice questions are study aids written from the course blueprint, not actual exam items.
-      <br />Your progress is saved in this browser only.
+      <br />{{ auth.user ? 'Your progress is saved to your account.' : authEnabled ? 'Your progress is saved in this browser. Sign in to keep it across devices.' : 'Your progress is saved in this browser only.' }}
     </footer>
   </div>
 </template>

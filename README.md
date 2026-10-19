@@ -34,3 +34,14 @@ topics/<slug>.json # one question bank per topic (plus an optional study-guide r
 A class's URL comes from its course code (`NUR 312` → `/nur312`); set `"courseId"` in exam.json when the class has no code yet (Gerontologic Nursing uses `/gero`).
 
 The question format is documented in [QUESTION_SCHEMA.md](QUESTION_SCHEMA.md). `npm run validate` checks every bank and confirms the practice exams can be built without reusing a question. A new folder shows up on the home page automatically.
+
+## Accounts (optional)
+
+Students can sign in with Google or an emailed link so their progress follows them across devices. Without the settings below the site runs exactly as before, with progress saved in the browser only.
+
+1. Create a Supabase project, then run [`supabase/schema.sql`](supabase/schema.sql) in its SQL Editor.
+2. In Authentication → URL Configuration, set the Site URL to the live site and add `https://pulse-nursing-study.vercel.app/**` and `http://localhost:5173/**` as redirect URLs.
+3. Turn on the Google provider (Authentication → Providers) with a Google Cloud OAuth client. Email links work by default.
+4. Set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` in Vercel (and in `.env.local` for local dev, see `.env.example`), then redeploy.
+
+Progress is still saved in the browser first. On sign-in, `src/lib/auth.js` merges the browser's progress with the account's copy (`src/lib/merge.js`) and saves the result to both; after that every change syncs a moment later. Signing out clears the browser's copy.
