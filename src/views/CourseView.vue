@@ -24,7 +24,7 @@ const units = computed(() => course.value.units.map((e) => ({ e, p: unitProgress
       <div class="relative flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
         <div class="max-w-xl">
           <p class="eyebrow">{{ course.units[0].term }} · Missouri State</p>
-          <h1 class="mt-2 font-display text-5xl font-bold tracking-tight sm:text-6xl">{{ course.course }}</h1>
+          <h1 class="mt-2 font-display font-bold tracking-tight text-balance" :class="course.course.length > 10 ? 'text-4xl sm:text-5xl' : 'text-5xl sm:text-6xl'">{{ course.course }}</h1>
           <p class="mt-3 text-lg text-stone-600 dark:text-stone-400">
             {{ course.units.length }} units · {{ progress.total }} sections · {{ course.questionCount.toLocaleString() }} practice questions
           </p>

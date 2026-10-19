@@ -1,0 +1,851 @@
+{
+  "slug": "cognitive-social",
+  "title": "Cognitive, Affective & Social Assessment",
+  "short": "Cognitive & Social",
+  "icon": "lightbulb",
+  "description": "Mental status testing, the MoCA, MMSE, Mini-Cog, and GDS, telling depression from dementia, social assessment with the OARS scale, and laboratory data.",
+  "keyPoints": [
+    "Mental status exam: record a baseline, repeat yearly and with any suspected change; confirm attention first (repeat 3 words).",
+    "MoCA screens for MCI and Alzheimer dementia; 30 points, 26 or higher is normal.",
+    "Mini-Cog = memory test + clock drawing; as effective as longer tools and little affected by education or language.",
+    "MMSE is used to evaluate Alzheimer disease and focuses on memory.",
+    "GDS short form: 15 items; items 1, 5, 7, 11, and 13 indicate depression when answered \"no.\"",
+    "Repeated \"I don't know\" answers suggest depression, which is often mislabeled as dementia; do a further affective assessment.",
+    "OARS Social Resource Scale (Duke University): 6-point rating from excellent to totally socially impaired.",
+    "Lab data is the last component of assessment; it validates the history and physical."
+  ],
+  "review": {
+    "pages": "pp. 51–56",
+    "bigIdea": "How do you screen an older adult's thinking, mood, and social supports, and how do you avoid mistaking depression for dementia?",
+    "objectives": [
+      "Describe the basic components of cognitive assessment.",
+      "Explain the rationale for assessing social function.",
+      "Conduct a comprehensive health assessment on an older adult."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Cognitive and affective assessment",
+        "pages": "pp. 51–54"
+      },
+      {
+        "type": "cue",
+        "q": "Mental status exam: when and how?",
+        "a": "Record a baseline; repeat yearly and whenever a change is suspected.\nTell the patient the exam is routine.\nUse a quiet room and a language the person is fluent in.\nFirst confirm attention (have the person repeat 3 words); testing an inattentive patient further is not useful."
+      },
+      {
+        "type": "list",
+        "title": "Mental status tests (Table 3.7)",
+        "ordered": false,
+        "items": [
+          "Orientation: person, time, place",
+          "Short-term memory: recall 3 objects after 2–5 minutes",
+          "Long-term memory: for example, \"What was your first car?\"",
+          "Serial 7s; counting nickels in $1.35",
+          "Naming words from a list in 1 minute",
+          "Spelling WORLD backward",
+          "Naming objects",
+          "Following a 1-step, then a 3-step command",
+          "Writing",
+          "Drawing a clock or intersecting pentagons",
+          "Interpreting a proverb",
+          "Judgment: what to do with a stamped, addressed letter (mail it)"
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "MoCA: purpose and scoring?",
+        "a": "General screening; detects mild cognitive impairment (MCI) and Alzheimer dementia.\n30 points; 26 or higher is normal.\nCovers attention, executive function, memory, language, visuospatial skills, abstraction, calculation, and orientation.\nA version exists for people with visual impairment.\nOn the form: draw a clock at \"ten past eleven\"; name a lion, rhino, and camel; recall 5 words after 5 minutes; list F-words (11 or more); orientation scored out of 6."
+      },
+      {
+        "type": "cue",
+        "q": "MMSE vs. Mini-Cog?",
+        "a": "MMSE: used to evaluate Alzheimer disease; focuses on memory.\nMini-Cog: a memory test plus clock drawing (Soo Borson, University of Washington). It is as effective as longer tools and is little affected by education or language."
+      },
+      {
+        "type": "cue",
+        "q": "What is the GDS short form?",
+        "a": "15 items (from the original 30).\nItems 1, 5, 7, 11, and 13 indicate depression when answered \"no\"; the other 10 items indicate depression when answered \"yes.\""
+      },
+      {
+        "type": "cue",
+        "q": "What is the depression vs. dementia trap?",
+        "a": "Depression is often mislabeled as dementia.\nDepressed patients tend to answer \"I don't know,\" which calls for further affective assessment.\nScreening results are never conclusive."
+      },
+      {
+        "type": "callout",
+        "tone": "conflict",
+        "title": "Book conflict: MoCA education points and GDS cutoff",
+        "text": "MoCA: the text says add 2 points for 4–9 years of education and 1 point for 10–12 years; the form says add 1 point if 12 years or less. GDS: the text says 0–4 is normal and 5 or more suggests depression; the form says more than 5 suggests depression and 10 or more almost always indicates it. Ask your instructor which to use."
+      },
+      {
+        "type": "callout",
+        "tone": "exam",
+        "title": "Exam connection: depression vs. dementia",
+        "text": "Repeated \"I don't know\" answers point toward depression, which is often mislabeled as dementia. Follow up with an affective assessment (GDS)."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: How would you tell depression from dementia during a mental status exam?"
+      },
+      {
+        "type": "heading",
+        "text": "Social assessment and lab data",
+        "pages": "p. 54"
+      },
+      {
+        "type": "cue",
+        "q": "Why assess social function?",
+        "a": "1. It correlates with physical and mental function.\n2. Social well-being helps people cope and stay independent.\n3. It is closely linked to quality of life."
+      },
+      {
+        "type": "cue",
+        "q": "What about families and nontraditional support?",
+        "a": "Contrary to popular belief, families provide substantial help.\nFaith-based support (such as a parish nurse program) and other \"nontraditional\" sources are legitimate support."
+      },
+      {
+        "type": "cue",
+        "q": "What does the OARS Social Resource Scale ask?",
+        "a": "From Duke University (part of the OMFAQ).\nAsks about family structure, visits, phone calls, having a confidant, loneliness, and whether there is a helper if sick (indefinitely, short-term, or now and then).\nSeparate items are used for institutionalized people."
+      },
+      {
+        "type": "list",
+        "title": "OARS 6-point social resource rating",
+        "ordered": true,
+        "items": [
+          "Excellent social resources",
+          "Good social resources",
+          "Mildly socially impaired",
+          "Moderately socially impaired",
+          "Severely socially impaired",
+          "Totally socially impaired"
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "What is the last component of assessment?",
+        "a": "Laboratory data. It validates the history and physical and is interpreted against norms based on age and gender."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Why might a patient with strong social resources stay independent longer?"
+      },
+      {
+        "type": "callout",
+        "tone": "key",
+        "title": "Chapter 3 key points (pp. 54–56)",
+        "text": "Diminished physiologic reserve and stress response lead to atypical presentation of illness.\nCognitive change is one of the most common manifestations of illness in old age. Delirium needs a complete workup to reverse it.\nModify the environment, consider energy and adaptability, and let patients show their assets.\nPhysical health alone does not reliably measure function: combine physical, cognitive, affective, and social assessment.\nAssess nonspecific symptoms fully, and compare with the patient's own previous patterns."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "cognitive-social-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the total possible score on the Montreal Cognitive Assessment (MoCA), and what score is considered normal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 points; 20 or higher is normal",
+          "correct": false,
+          "rationale": "The total is 30, but the normal cutoff is 26 or higher."
+        },
+        {
+          "id": "b",
+          "text": "15 points; 5 or higher is normal",
+          "correct": false,
+          "rationale": "15 items describes the GDS short form, not the MoCA."
+        },
+        {
+          "id": "c",
+          "text": "30 points; 26 or higher is normal",
+          "correct": true,
+          "rationale": "Correct. The MoCA is scored out of 30, and 26 or higher is normal."
+        },
+        {
+          "id": "d",
+          "text": "6 points; 6 is fully normal",
+          "correct": false,
+          "rationale": "A 6-point scale describes the OARS rating; orientation on the MoCA is scored out of 6, but the total is 30."
+        }
+      ],
+      "explanation": "The MoCA screens for mild cognitive impairment and Alzheimer dementia. It is scored out of 30 points, and 26 or higher is normal."
+    },
+    {
+      "id": "cognitive-social-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is about to begin a mental status exam with a 78-year-old client. Which should the nurse establish first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientation to person, time, and place",
+          "correct": false,
+          "rationale": "Orientation is tested, but attention must be confirmed first."
+        },
+        {
+          "id": "b",
+          "text": "Attention, by having the client repeat 3 words",
+          "correct": true,
+          "rationale": "Correct. Confirm attention first; testing an inattentive client further is not useful."
+        },
+        {
+          "id": "c",
+          "text": "Judgment, using the stamped letter question",
+          "correct": false,
+          "rationale": "Judgment is one of the later tests in Table 3.7."
+        },
+        {
+          "id": "d",
+          "text": "Education level, to adjust the client's final score",
+          "correct": false,
+          "rationale": "Education matters for some scoring, but attention is established before any memory testing."
+        }
+      ],
+      "explanation": "Before testing memory or other functions, the nurse confirms attention by having the client repeat 3 words. If the client is inattentive, further testing is not useful."
+    },
+    {
+      "id": "cognitive-social-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "When should a mental status exam be performed on an older adult?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only after a family member reports that memory loss has started",
+          "correct": false,
+          "rationale": "A baseline is recorded before problems occur so changes can be detected."
+        },
+        {
+          "id": "b",
+          "text": "Only at admission to a hospital or long-term care facility",
+          "correct": false,
+          "rationale": "The exam is repeated yearly and with suspected change, not just at admission."
+        },
+        {
+          "id": "c",
+          "text": "Every 5 years, unless the client already has a dementia diagnosis",
+          "correct": false,
+          "rationale": "The guide calls for yearly testing and testing with any suspected change."
+        },
+        {
+          "id": "d",
+          "text": "At baseline, then yearly and whenever a change is suspected",
+          "correct": true,
+          "rationale": "Correct. Record a baseline, then repeat yearly and with any suspected change."
+        }
+      ],
+      "explanation": "A mental status exam is recorded at baseline and repeated yearly and whenever a change is suspected. The nurse tells the client it is routine and uses a quiet room and a fluent language."
+    },
+    {
+      "id": "cognitive-social-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During a mental status exam, a 74-year-old client answers \"I don't know\" to most questions and seems withdrawn. Which action should the nurse take next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Complete a further affective assessment, such as the GDS",
+          "correct": true,
+          "rationale": "Correct. Repeated \"I don't know\" answers suggest depression, which calls for further affective assessment."
+        },
+        {
+          "id": "b",
+          "text": "Document that the findings confirm moderate dementia",
+          "correct": false,
+          "rationale": "Depression is often mislabeled as dementia, and screening results are never conclusive."
+        },
+        {
+          "id": "c",
+          "text": "Repeat the same exam in an hour to see if answers change",
+          "correct": false,
+          "rationale": "Repeating the cognitive exam does not address the possible depression."
+        },
+        {
+          "id": "d",
+          "text": "Stop testing because the client is refusing to take part",
+          "correct": false,
+          "rationale": "\"I don't know\" answers are a clue to assess mood, not a refusal."
+        }
+      ],
+      "explanation": "Depressed clients often answer \"I don't know,\" and depression is often mislabeled as dementia. The nurse follows up with an affective assessment such as the GDS; screening results are never conclusive."
+    },
+    {
+      "id": "cognitive-social-05",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which two components make up the Mini-Cog?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serial 7s and a proverb",
+          "correct": false,
+          "rationale": "These are Table 3.7 mental status items, not the Mini-Cog."
+        },
+        {
+          "id": "b",
+          "text": "Orientation and naming",
+          "correct": false,
+          "rationale": "These are other mental status items."
+        },
+        {
+          "id": "c",
+          "text": "A 15-item mood scale",
+          "correct": false,
+          "rationale": "This describes the GDS short form."
+        },
+        {
+          "id": "d",
+          "text": "Memory test and clock",
+          "correct": true,
+          "rationale": "Correct. The Mini-Cog combines a memory test with clock drawing."
+        }
+      ],
+      "explanation": "The Mini-Cog (Soo Borson, University of Washington) combines a memory test with clock drawing. It is as effective as longer tools and little affected by education or language."
+    },
+    {
+      "id": "cognitive-social-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse needs a brief cognitive screen for an 80-year-old client who left school after the 5th grade and whose first language is not English. Which tool is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Mini-Cog",
+          "correct": true,
+          "rationale": "Correct. The Mini-Cog is little affected by education or language and is as effective as longer tools."
+        },
+        {
+          "id": "b",
+          "text": "The Geriatric Depression Scale",
+          "correct": false,
+          "rationale": "The GDS screens for depression, not cognition."
+        },
+        {
+          "id": "c",
+          "text": "The OARS Social Resource Scale",
+          "correct": false,
+          "rationale": "OARS assesses social resources, not cognition."
+        },
+        {
+          "id": "d",
+          "text": "The Katz Index of Independence in ADLs",
+          "correct": false,
+          "rationale": "The Katz Index measures functional ADLs, not cognition."
+        }
+      ],
+      "explanation": "The Mini-Cog (memory test plus clock drawing) is as effective as longer tools and is little affected by education or language, making it a good choice here."
+    },
+    {
+      "id": "cognitive-social-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement best describes the Mini-Mental State Examination (MMSE) as presented in the chapter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It screens for delirium in ICU clients",
+          "correct": false,
+          "rationale": "The CAM-ICU screens for delirium in the ICU."
+        },
+        {
+          "id": "b",
+          "text": "It rates social resources on a 6-point scale",
+          "correct": false,
+          "rationale": "This describes the OARS Social Resource Scale."
+        },
+        {
+          "id": "c",
+          "text": "It evaluates Alzheimer disease and focuses on memory",
+          "correct": true,
+          "rationale": "Correct. The MMSE is used to evaluate Alzheimer disease and focuses on memory."
+        },
+        {
+          "id": "d",
+          "text": "It measures six ADLs such as bathing, toileting, and feeding",
+          "correct": false,
+          "rationale": "This describes the Katz Index."
+        }
+      ],
+      "explanation": "The MMSE is used to evaluate Alzheimer disease and focuses on memory. Dementia screening tools include the MoCA, MMSE, and Mini-Cog; delirium tools are the CAM and CAM-ICU; depression is screened with the GDS."
+    },
+    {
+      "id": "cognitive-social-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is scoring the Geriatric Depression Scale (GDS) short form. A client answers \"no\" to item 5. How should the nurse interpret this answer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It does not count toward depression, since only \"yes\" answers count",
+          "correct": false,
+          "rationale": "Items 1, 5, 7, 11, and 13 count toward depression when answered \"no.\""
+        },
+        {
+          "id": "b",
+          "text": "It indicates depression, since item 5 is scored on a \"no\" answer",
+          "correct": true,
+          "rationale": "Correct. On the GDS short form, items 1, 5, 7, 11, and 13 indicate depression when answered \"no.\""
+        },
+        {
+          "id": "c",
+          "text": "It cannot be scored without the client's MoCA total for comparison",
+          "correct": false,
+          "rationale": "The GDS is scored on its own; the MoCA is a separate cognitive tool."
+        },
+        {
+          "id": "d",
+          "text": "It should be skipped, since item 5 is used only for institutional care",
+          "correct": false,
+          "rationale": "Separate items for institutionalized people belong to the OARS scale, not the GDS."
+        }
+      ],
+      "explanation": "The GDS short form has 15 items, drawn from the original 30. Items 1, 5, 7, 11, and 13 indicate depression when answered \"no\"; the other 10 indicate depression when answered \"yes.\""
+    },
+    {
+      "id": "cognitive-social-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is conducting a mental status exam using the tests in Table 3.7. Which tasks would the nurse ask the client to perform? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Recall 3 objects after 2–5 minutes",
+          "correct": true,
+          "rationale": "Correct. This tests short-term memory."
+        },
+        {
+          "id": "b",
+          "text": "Spell WORLD backward",
+          "correct": true,
+          "rationale": "Correct. Spelling WORLD backward is a listed test."
+        },
+        {
+          "id": "c",
+          "text": "Interpret a proverb",
+          "correct": true,
+          "rationale": "Correct. Proverb interpretation is a listed test."
+        },
+        {
+          "id": "d",
+          "text": "Hop on one foot for 10 seconds",
+          "correct": false,
+          "rationale": "This is not a mental status test in Table 3.7."
+        },
+        {
+          "id": "e",
+          "text": "Draw a clock or intersecting pentagons",
+          "correct": true,
+          "rationale": "Correct. Clock or intersecting pentagon drawing is a listed test."
+        },
+        {
+          "id": "f",
+          "text": "Rate their mood on a 6-point scale",
+          "correct": false,
+          "rationale": "This is not a Table 3.7 test; a 6-point rating is used by OARS for social resources."
+        }
+      ],
+      "explanation": "Table 3.7 tests include orientation, short-term recall of 3 objects after 2–5 minutes, long-term memory, serial 7s or nickels in $1.35, word list in 1 minute, spelling WORLD backward, naming, 1- then 3-step commands, writing, clock or pentagon drawing, proverb interpretation, and judgment."
+    },
+    {
+      "id": "cognitive-social-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "To test judgment, the nurse asks a client, \"What would you do if you found a stamped, addressed envelope on the sidewalk?\" Which response indicates intact judgment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I would open it to see who it belongs to.\"",
+          "correct": false,
+          "rationale": "Opening someone else's mail does not show sound judgment."
+        },
+        {
+          "id": "b",
+          "text": "\"I'd leave it there; it isn't my business.\"",
+          "correct": false,
+          "rationale": "Leaving it does not show the expected judgment of mailing it."
+        },
+        {
+          "id": "c",
+          "text": "\"I would put it in the nearest mailbox.\"",
+          "correct": true,
+          "rationale": "Correct. Mailing the letter is the expected response showing intact judgment."
+        },
+        {
+          "id": "d",
+          "text": "\"I'd keep it in case the stamp is worth money.\"",
+          "correct": false,
+          "rationale": "Keeping the letter does not show intact judgment."
+        }
+      ],
+      "explanation": "In Table 3.7, judgment is tested by asking what to do with a stamped, addressed letter. The expected answer is to mail it."
+    },
+    {
+      "id": "cognitive-social-11",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse explains the Montreal Cognitive Assessment (MoCA) to a client's family. Which domains does the MoCA cover? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Executive function",
+          "correct": true,
+          "rationale": "Correct. Executive function is a MoCA domain."
+        },
+        {
+          "id": "b",
+          "text": "Visuospatial skills",
+          "correct": true,
+          "rationale": "Correct. Visuospatial skills (such as the clock) are tested."
+        },
+        {
+          "id": "c",
+          "text": "Social resources",
+          "correct": false,
+          "rationale": "Social resources are assessed with the OARS scale, not the MoCA."
+        },
+        {
+          "id": "d",
+          "text": "Abstraction",
+          "correct": true,
+          "rationale": "Correct. Abstraction is a MoCA domain."
+        },
+        {
+          "id": "e",
+          "text": "Ability to bathe and dress",
+          "correct": false,
+          "rationale": "ADLs such as bathing and dressing are measured by the Katz Index."
+        },
+        {
+          "id": "f",
+          "text": "Orientation",
+          "correct": true,
+          "rationale": "Correct. Orientation is scored out of 6 on the MoCA."
+        }
+      ],
+      "explanation": "The MoCA covers attention, executive function, memory, language, visuospatial skills, abstraction, calculation, and orientation. It screens for MCI and Alzheimer dementia and has a version for visual impairment."
+    },
+    {
+      "id": "cognitive-social-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 76-year-old client with macular degeneration needs cognitive screening, and the nurse plans to use the MoCA. Which action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skip cognitive screening, since vision loss makes all tools invalid",
+          "correct": false,
+          "rationale": "Cognitive screening is still needed; a MoCA version exists for visual impairment."
+        },
+        {
+          "id": "b",
+          "text": "Use the standard MoCA and subtract points for the drawing items",
+          "correct": false,
+          "rationale": "Changing the scoring on your own is not supported; use the version designed for visual impairment."
+        },
+        {
+          "id": "c",
+          "text": "Use the MoCA version designed for people with visual impairment",
+          "correct": true,
+          "rationale": "Correct. The MoCA has a version for people with visual impairment."
+        },
+        {
+          "id": "d",
+          "text": "Replace the MoCA with the GDS, since it needs no vision to complete",
+          "correct": false,
+          "rationale": "The GDS screens for depression, not cognition."
+        }
+      ],
+      "explanation": "The MoCA is a general screening tool for MCI and Alzheimer dementia, and a version exists for people with visual impairment."
+    },
+    {
+      "id": "cognitive-social-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 79-year-old widower has trouble concentrating, sleeps much more than usual, and says \"I don't know\" to many memory questions. His son asks whether he has dementia. Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"His memory answers confirm dementia, so we will plan for memory care.\"",
+          "correct": false,
+          "rationale": "Screening results are never conclusive, and these findings point toward depression."
+        },
+        {
+          "id": "b",
+          "text": "\"These changes can come from depression, so we'll assess his mood next.\"",
+          "correct": true,
+          "rationale": "Correct. Hypersomnia, decreased concentration, and \"I don't know\" answers suggest depression, which is often mislabeled as dementia."
+        },
+        {
+          "id": "c",
+          "text": "\"Memory loss after a spouse dies is normal and will pass without help.\"",
+          "correct": false,
+          "rationale": "Changes should not be dismissed; depression is relapsing but treatable."
+        },
+        {
+          "id": "d",
+          "text": "\"His sleepiness means delirium, so the CAM is the only tool we need.\"",
+          "correct": false,
+          "rationale": "There is no abrupt onset or fluctuating course described; hypersomnia is listed for depression."
+        }
+      ],
+      "explanation": "Depression is often mislabeled as dementia. Hypersomnia, decreased concentration, and repeated \"I don't know\" answers call for an affective assessment such as the GDS; screening results are never conclusive."
+    },
+    {
+      "id": "cognitive-social-14",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "The OARS Social Resource Scale was developed at which institution, and how does it rate social resources?",
+      "options": [
+        {
+          "id": "a",
+          "text": "University of Washington; 0–10 numeric rating of social support",
+          "correct": false,
+          "rationale": "The University of Washington is linked to the Mini-Cog (Soo Borson), and a 0–10 scale is used for pain severity."
+        },
+        {
+          "id": "b",
+          "text": "Duke University; 6-point rating from excellent to totally impaired",
+          "correct": true,
+          "rationale": "Correct. OARS comes from Duke University and uses a 6-point rating from excellent to totally socially impaired."
+        },
+        {
+          "id": "c",
+          "text": "Duke University; 30-point scale where 26 or higher is normal",
+          "correct": false,
+          "rationale": "A 30-point scale with 26 as normal describes the MoCA."
+        },
+        {
+          "id": "d",
+          "text": "University of Washington; 15 yes/no social items",
+          "correct": false,
+          "rationale": "Fifteen yes/no items describes the GDS short form."
+        }
+      ],
+      "explanation": "The OARS Social Resource Scale is from Duke University (OMFAQ). It rates social resources on a 6-point scale: excellent, good, mildly, moderately, severely, and totally socially impaired."
+    },
+    {
+      "id": "cognitive-social-15",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A student asks why social function is part of a comprehensive assessment of an older adult. Which reasons should the nurse give? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Social function correlates with physical and mental function",
+          "correct": true,
+          "rationale": "Correct. This is the first reason given in the chapter."
+        },
+        {
+          "id": "b",
+          "text": "Social well-being helps people cope and stay independent",
+          "correct": true,
+          "rationale": "Correct. Social well-being supports coping and independence."
+        },
+        {
+          "id": "c",
+          "text": "Social function is closely linked to quality of life",
+          "correct": true,
+          "rationale": "Correct. Social function is closely linked to QoL."
+        },
+        {
+          "id": "d",
+          "text": "A social assessment can replace the physical examination",
+          "correct": false,
+          "rationale": "Physical, cognitive, affective, and social assessment are combined; none replaces another."
+        },
+        {
+          "id": "e",
+          "text": "Social scores are used to interpret laboratory values",
+          "correct": false,
+          "rationale": "Lab data is interpreted against norms based on age and gender."
+        }
+      ],
+      "explanation": "Social function is assessed because it correlates with physical and mental function, social well-being helps people cope and stay independent, and it is closely linked to quality of life."
+    },
+    {
+      "id": "cognitive-social-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 82-year-old client who lives alone says, \"My church friends check on me every day and drive me to my appointments. They're my family.\" How should the nurse document this?",
+      "options": [
+        {
+          "id": "a",
+          "text": "As no available support, since no relatives live nearby",
+          "correct": false,
+          "rationale": "Nontraditional sources such as church members are legitimate support."
+        },
+        {
+          "id": "b",
+          "text": "As a temporary arrangement that needs a formal agency",
+          "correct": false,
+          "rationale": "The chapter treats faith-based and nontraditional support as legitimate resources."
+        },
+        {
+          "id": "c",
+          "text": "As social isolation, since she lives alone at home",
+          "correct": false,
+          "rationale": "Living alone does not mean isolation when strong supports exist."
+        },
+        {
+          "id": "d",
+          "text": "As a legitimate support resource for her care plan",
+          "correct": true,
+          "rationale": "Correct. Faith-based and other nontraditional sources (such as a church \"family\") are legitimate support."
+        }
+      ],
+      "explanation": "Faith-based support, such as a parish nurse program or a church \"family,\" and other nontraditional sources are legitimate support and are recorded under resources in the history and social assessment."
+    },
+    {
+      "id": "cognitive-social-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "During discharge planning for an 85-year-old client, a staff member says, \"Families don't really help their older relatives anymore, so let's plan for agency care only.\" Which response by the nurse is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Contrary to popular belief, families give substantial help, so let's ask about hers.\"",
+          "correct": true,
+          "rationale": "Correct. The chapter states that, contrary to popular belief, families provide substantial help; the nurse should assess this client's family resources."
+        },
+        {
+          "id": "b",
+          "text": "\"You're right, and we should not involve family members in discharge decisions.\"",
+          "correct": false,
+          "rationale": "This accepts a false belief and excludes a major source of support."
+        },
+        {
+          "id": "c",
+          "text": "\"Only spouses count as family support, so let's ask whether she is still married.\"",
+          "correct": false,
+          "rationale": "Family support is broad, and nontraditional sources are also legitimate."
+        },
+        {
+          "id": "d",
+          "text": "\"Family help only matters for clients who have a dementia diagnosis.\"",
+          "correct": false,
+          "rationale": "Social support matters for all older adults; it correlates with function and independence."
+        }
+      ],
+      "explanation": "Contrary to popular belief, families provide substantial help to older adults. The nurse assesses family structure and supports rather than assuming none exist."
+    },
+    {
+      "id": "cognitive-social-18",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is completing the OARS Social Resource Scale with a community-dwelling client. Which areas will the nurse ask about? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Whether the client has a confidant",
+          "correct": true,
+          "rationale": "Correct. Having a confidant is an OARS item."
+        },
+        {
+          "id": "b",
+          "text": "How often the client feels lonely",
+          "correct": true,
+          "rationale": "Correct. Loneliness is assessed."
+        },
+        {
+          "id": "c",
+          "text": "Whether someone would help if the client were sick, and for how long",
+          "correct": true,
+          "rationale": "Correct. OARS asks about a helper if sick (indefinitely, short-term, or now and then)."
+        },
+        {
+          "id": "d",
+          "text": "The client's score on serial 7s",
+          "correct": false,
+          "rationale": "Serial 7s is a mental status test, not an OARS item."
+        },
+        {
+          "id": "e",
+          "text": "Visits and phone calls with family and friends",
+          "correct": true,
+          "rationale": "Correct. OARS asks about visits and phone calls."
+        },
+        {
+          "id": "f",
+          "text": "The client's most recent lab results",
+          "correct": false,
+          "rationale": "Lab data is a separate, final component of assessment."
+        }
+      ],
+      "explanation": "The OARS Social Resource Scale asks about family structure, visits, phone calls, a confidant, loneliness, and a helper if sick. Separate items are used for institutionalized people."
+    },
+    {
+      "id": "cognitive-social-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nursing student reviews an older adult's laboratory results after completing the history and physical. Which student statement shows correct understanding of lab data in the assessment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Lab data should be reviewed first, since it can replace parts of the exam.\"",
+          "correct": false,
+          "rationale": "Lab data is the last component, not a replacement for the history and physical."
+        },
+        {
+          "id": "b",
+          "text": "\"I'll compare results to the same adult ranges used for any younger client.\"",
+          "correct": false,
+          "rationale": "Lab data is interpreted against norms based on age and gender."
+        },
+        {
+          "id": "c",
+          "text": "\"If the labs are normal, the functional assessment can be skipped.\"",
+          "correct": false,
+          "rationale": "Function is a sensitive indicator of health and is not replaced by labs."
+        },
+        {
+          "id": "d",
+          "text": "\"Labs come last and validate my findings, using age and gender norms.\"",
+          "correct": true,
+          "rationale": "Correct. Lab data is the last component, validates the history and physical, and is interpreted against age- and gender-based norms."
+        }
+      ],
+      "explanation": "Laboratory data is the last component of a comprehensive assessment. It validates the history and physical and is interpreted against norms based on age and gender."
+    },
+    {
+      "id": "cognitive-social-20",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A 70-year-old client has a normal physical exam but has stopped leaving home since his wife died. Which chapter key points should guide the nurse's next steps? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physical health alone does not reliably measure function",
+          "correct": true,
+          "rationale": "Correct. A normal physical exam does not mean function is intact."
+        },
+        {
+          "id": "b",
+          "text": "Combine physical, cognitive, affective, and social assessment",
+          "correct": true,
+          "rationale": "Correct. A full picture requires all four areas."
+        },
+        {
+          "id": "c",
+          "text": "Compare findings with the client's own previous patterns",
+          "correct": true,
+          "rationale": "Correct. Nonspecific changes are judged against the person's own previous patterns."
+        },
+        {
+          "id": "d",
+          "text": "Withdrawal after loss is normal aging and needs no workup",
+          "correct": false,
+          "rationale": "Nonspecific symptoms should be assessed fully, not attributed to aging."
+        },
+        {
+          "id": "e",
+          "text": "A normal physical exam makes social assessment unnecessary",
+          "correct": false,
+          "rationale": "Social function correlates with physical and mental function and must be assessed separately."
+        }
+      ],
+      "explanation": "Chapter key points: physical health alone does not reliably measure function, so combine physical, cognitive, affective, and social assessment. Assess nonspecific symptoms fully and compare with the patient's own previous patterns."
+    }
+  ]
+}

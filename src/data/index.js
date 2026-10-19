@@ -24,9 +24,10 @@ export const exams = Object.entries(metas)
   .sort((a, b) => a.course.localeCompare(b.course) || (a.order ?? 0) - (b.order ?? 0))
 
 // Classes are derived from each exam's "course" field; each exam is one unit of its class, in "order".
+// The class URL is the course code ("NUR 312" -> "nur312") unless exam.json gives a "courseId".
 export const courses = [...new Set(exams.map((e) => e.course))].map((course) => {
-  const id = course.replace(/\s+/g, '').toLowerCase()
   const units = exams.filter((e) => e.course === course)
+  const id = units.find((e) => e.courseId)?.courseId ?? course.replace(/\s+/g, '').toLowerCase()
   units.forEach((e, i) => Object.assign(e, { courseId: id, unit: i + 1 }))
   return { id, course, units, questionCount: units.reduce((s, e) => s + e.questionCount, 0) }
 })

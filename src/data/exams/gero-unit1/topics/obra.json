@@ -1,0 +1,348 @@
+{
+  "slug": "obra",
+  "title": "OBRA 1987: Nursing Facility Reform",
+  "short": "OBRA 1987",
+  "icon": "clipboard",
+  "description": "Why OBRA 1987 was passed and its three parts: provision of services (assessments, staffing, aide training, resident rights, restraints), survey and certification, and enforcement and sanctions.",
+  "keyPoints": [
+    "OBRA 1987 followed 1983 evidence of widespread abuse, neglect, and misappropriation in nursing homes; the most sweeping reform since Medicare/Medicaid.",
+    "3 major parts: provision of service requirements · survey and certification · enforcement and sanctions.",
+    "Reassessment schedule: admission → 30 days → 90 days → any change in condition → yearly (MDS tool).",
+    "Transfer/discharge only if: facility can't meet needs · stay no longer needed · nonpayment · facility closes; 30-day notice + appeal.",
+    "Chemical restraints: antipsychotics, benzodiazepines, other anxiolytics/sedatives, hypnotics. Antipsychotics NOT for restlessness, insomnia, yelling/screaming, wandering, or staff's inability to manage the resident.",
+    "Restraint order must include type, condition/behavior, and time/duration; a written order does not absolve liability.",
+    "Surveys are annual, unannounced, outcome focused; sanctions: civil monetary penalties, temporary manager, closure and/or transfer of residents.",
+    "Ombudsman: the state's long-term care public advocate who investigates complaints."
+  ],
+  "review": {
+    "pages": "pp. 21–25",
+    "bigIdea": "What did OBRA 1987 change in nursing facilities, and what do its rules on assessment, resident rights, restraints, surveys, and sanctions require of the nurse?",
+    "objectives": [
+      "Discuss the reasons behind OBRA 1987 and its continuing effect on nursing facility residents and caregivers.",
+      "Identify OBRA's three major parts and the key areas in each."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "OBRA 1987: nursing facility reform", "pages": "pp. 21–25" },
+      { "type": "text", "text": "OBRA 1987 covers both skilled nursing AND long-term care, whereas Medicare Part A covers skilled nursing only." },
+      { "type": "table", "title": "OBRA's three major parts", "columns": ["1. Provision of service", "2. Survey and certification", "3. Enforcement and sanctions"], "rows": [
+        ["Assessments, screening, posted staffing", "Annual and unannounced", "Civil monetary penalties"],
+        ["Nurse aide training", "Outcomes, not just paperwork", "Temporary manager"],
+        ["Social worker if 120+ beds; resident rights", "Team includes at least 1 RN, plus the ombudsman", "Closure or transfer of residents"]
+      ] },
+      { "type": "cue", "q": "Why was OBRA passed?", "a": "In 1983 Congress received evidence of widespread abuse, neglect, and monetary misappropriation in nursing facilities.\nOBRA was the most sweeping reform since Medicare and Medicaid began.\nIts focus is safety and quality of life." },
+      { "type": "table", "title": "Table 2.2: what the regulations require (42 CFR)", "columns": ["Section", "Requirement"], "rows": [
+        ["483.15", "Quality of life, dignity"],
+        ["483.20", "Comprehensive care plan built from the admission assessment"],
+        ["483.25", "Prevent ADL decline, pressure sores, falls, dehydration, weight loss, and med errors; treat incontinence; avoid unnecessary catheters"],
+        ["483.30", "Sufficient staff"],
+        ["483.40", "Resident chooses activities and schedules"],
+        ["483.60", "Medication service"],
+        ["483.75", "Accurate records"]
+      ] },
+      { "type": "list", "title": "2022 National Academies recommendations (Box 2.1)", "ordered": true, "items": [
+        "Person-centered, equitable care",
+        "A prepared, empowered, fairly paid workforce",
+        "Transparency in finances and ownership",
+        "Better quality assurance",
+        "Expanded quality measurement",
+        "Health IT in all nursing homes"
+      ] },
+      { "type": "cue", "q": "Who gives most care, and when are residents assessed?", "a": "Nurses are the primary healthcare providers, 24 hours a day, 7 days a week.\nThe provider evaluates the resident at admission, then at 30 and 90 days, with any change in condition, and yearly.\nTools: MDS (Minimum Data Set) in nursing facilities; OASIS-C in home health (since Jan 1, 2015)." },
+      { "type": "timeline", "items": [
+        { "year": "Admission", "text": "Initial comprehensive assessment (MDS)", "star": true },
+        { "year": "30 days", "text": "Reassessment", "star": false },
+        { "year": "90 days", "text": "Reassessment", "star": false },
+        { "year": "Any time", "text": "Reassess with any change in condition", "star": true },
+        { "year": "Yearly", "text": "Annual reassessment", "star": false }
+      ] },
+      { "type": "cue", "q": "What are the nursing assistant rules?", "a": "Trained according to regulation.\nClassroom training before any resident contact.\nMust pass a state-approved competency evaluation.\nTraining covers interpersonal skills, infection control, safety, and resident rights.\nThe curriculum is set at the state level." },
+      { "type": "cue", "q": "How are residents told their rights? (Box 2.2)", "a": "Orally and in writing, before or at admission; the admission agreement meets this requirement.\nRights include: choosing their own physician and seeing their records; freedom from abuse, involuntary seclusion, and unwarranted restraints; privacy; confidentiality; accommodation of needs; protest without reprisal (including refusing experimental research); participating in groups and activities; examining survey results." },
+      { "type": "list", "title": "When OBRA allows transfer or discharge", "ordered": true, "items": [
+        "The facility cannot meet the resident's needs",
+        "The stay is no longer medically required",
+        "The resident fails to pay",
+        "The facility closes"
+      ] },
+      { "type": "text", "text": "Any transfer or discharge requires a 30-day notice and an opportunity to appeal." },
+      { "type": "cue", "q": "Chemical restraints: what are they, and what are the rules?", "a": "Drugs that limit behavior or movement: antipsychotics, benzodiazepines, other anxiolytics and sedatives, and hypnotics.\nTry nonpharmacologic methods and rule out medical causes first.\nThe drug must maintain or improve function.\nDocument the reason in the orders and the care plan.\nNOT for restlessness, insomnia, yelling/screaming, wandering, or the staff's inability to manage the resident." },
+      { "type": "cue", "q": "What dose rule does OBRA mandate, and what are the exceptions?", "a": "A 25% reduction in dose trials, unless there was prior decompensation, or the resident has:\nschizophrenia; schizoid-affective disorder; delusional disorder; acute psychosis; mania with psychotic mood; brief reactive psychosis; atypical psychosis\nTourette syndrome; Huntington chorea\nshort-term nausea/vomiting, hiccups, or itching\ndementia with psychotic or violent features that endanger self or others" },
+      { "type": "cue", "q": "Physical restraints: rules and alternatives?", "a": "Examples: limb restraints, vests, jackets, waist belts; wheelchairs, geri-chairs, and side rails may also count.\nThey need a specific medical indication plus an order stating the type, the condition/behavior, and the duration; reevaluate.\nA written order does NOT absolve liability.\nAlternatives: companionship, supervision, attention to toileting, exercise, and hunger, staff training, 1:1 sitters, distraction." },
+      { "type": "callout", "tone": "alert", "title": "A restraint order does not protect you", "text": "A facility or nurse is not absolved of regulatory liability by the mere presence of a provider's written order for restraints. (p. 24)" },
+      { "type": "cue", "q": "How does OBRA handle incontinence?", "a": "More than half of residents are incontinent.\nUntreated incontinence leads to infection, skin breakdown, and higher mortality.\nIt is part of the comprehensive assessment; interventions include bladder retraining, prompted voiding, and pelvic floor exercises." },
+      { "type": "cue", "q": "How do surveys and sanctions work?", "a": "Surveys focus on outcomes, not documented compliance.\nThey are annual and unannounced (OBRA prohibits announcing them).\nThe team includes at least 1 RN; the ombudsman is the state's long-term care advocate.\nRepeat offenders get more inspections.\nWhen a surveyor shows ID, the nurse must cooperate.\nSanctions: civil monetary penalties, a temporary manager, closure and/or transfer of residents.\nBad nursing practice is referred to the State Board of Nursing." },
+      { "type": "callout", "tone": "exam", "title": "Don't confuse", "text": "OBRA covers skilled nursing AND long-term care; Medicare Part A covers skilled nursing only. Surveys are unannounced (announcing is prohibited) and judge outcomes, not paperwork." },
+      { "type": "recall", "text": "Summarize from memory: Name OBRA's three parts and give two specific requirements under each." },
+      { "type": "callout", "tone": "key", "title": "Chapter key point for this topic (pp. 32–33)", "text": "OBRA protects quality of life, human rights, and due process; surveys are outcome focused, and sanctions are based on scope and severity." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "obra-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What prompted Congress to pass the nursing facility reforms of OBRA 1987?",
+      "options": [
+        { "id": "a", "text": "A 1983 shortage of nursing facility beds in rural areas", "correct": false, "rationale": "OBRA was not passed in response to a bed shortage." },
+        { "id": "b", "text": "1983 evidence of widespread abuse, neglect, and misappropriation", "correct": true, "rationale": "Correct. Congress received evidence in 1983 of widespread abuse, neglect, and monetary misappropriation in nursing facilities." },
+        { "id": "c", "text": "Rising Medicare Part D drug costs for nursing home residents", "correct": false, "rationale": "Part D did not exist in 1987, and drug costs were not the driver of OBRA." },
+        { "id": "d", "text": "A Joint Commission request to make accreditation mandatory", "correct": false, "rationale": "Joint Commission accreditation remains voluntary; it was not the reason for OBRA." }
+      ],
+      "explanation": "OBRA 1987 followed 1983 evidence of widespread abuse, neglect, and monetary misappropriation in nursing facilities. It was the most sweeping reform since Medicare and Medicaid began, focused on safety and quality of life."
+    },
+    {
+      "id": "obra-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A family asks how OBRA differs from Medicare Part A in the care it addresses. Which response by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "\"Both address only skilled nursing care in a hospital setting.\"", "correct": false, "rationale": "OBRA covers long-term care as well as skilled nursing." },
+        { "id": "b", "text": "\"OBRA covers only home health; Part A covers nursing facilities.\"", "correct": false, "rationale": "OBRA is nursing facility reform; it is not limited to home health." },
+        { "id": "c", "text": "\"OBRA covers both skilled nursing and long-term care; Part A covers only skilled nursing.\"", "correct": true, "rationale": "Correct. OBRA covers skilled nursing AND long-term care, while Medicare Part A covers skilled nursing only." },
+        { "id": "d", "text": "\"Part A covers long-term care in full, so OBRA applies only to private-pay residents.\"", "correct": false, "rationale": "Part A covers only a limited skilled nursing stay, not long-term care." }
+      ],
+      "explanation": "OBRA 1987 covers both skilled nursing and long-term care. Medicare Part A covers skilled nursing only, and only for a limited stay."
+    },
+    {
+      "id": "obra-03",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Under OBRA's provision-of-services requirements, a nursing facility must employ a professional social worker once it reaches what size?",
+      "options": [
+        { "id": "a", "text": "60 or more beds", "correct": false, "rationale": "The textbook threshold is 120 beds." },
+        { "id": "b", "text": "90 or more beds", "correct": false, "rationale": "The textbook threshold is 120 beds." },
+        { "id": "c", "text": "200 or more beds", "correct": false, "rationale": "200+ beds is the figure tied to hospitals with ethics committees, not the OBRA social worker rule." },
+        { "id": "d", "text": "120 or more beds", "correct": true, "rationale": "Correct. OBRA requires a social worker in facilities with 120 or more beds." }
+      ],
+      "explanation": "OBRA's provision-of-services part includes assessments, screening, posted staffing, nurse aide training, resident rights, and a professional social worker in facilities with 120 or more beds."
+    },
+    {
+      "id": "obra-04",
+      "type": "order",
+      "bloom": "understand",
+      "stem": "A resident without any change in condition is admitted to a nursing facility. Place the scheduled OBRA assessments in the order they occur.",
+      "items": [
+        { "id": "a", "text": "Comprehensive assessment at admission" },
+        { "id": "b", "text": "Reassessment at 30 days" },
+        { "id": "c", "text": "Reassessment at 90 days" },
+        { "id": "d", "text": "Annual reassessment" }
+      ],
+      "explanation": "Residents are assessed at admission, then at 30 and 90 days, with any change in condition, and yearly. The MDS is the assessment tool in nursing facilities."
+    },
+    {
+      "id": "obra-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A resident's daughter insists that her 84-year-old mother receive an antipsychotic because she \"yells at night and keeps everyone awake.\" How should the nurse respond?",
+      "options": [
+        { "id": "a", "text": "Ask the provider for the lowest dose, since yelling disturbs other residents", "correct": false, "rationale": "Antipsychotics may not be used for yelling or screaming, even at a low dose." },
+        { "id": "b", "text": "Give a PRN sedative at bedtime until the provider can see the resident", "correct": false, "rationale": "Sedatives are also chemical restraints and may not be used for insomnia or yelling." },
+        { "id": "c", "text": "Explain OBRA limits, try nonpharmacologic methods, and rule out medical causes", "correct": true, "rationale": "Correct. Antipsychotics are not for yelling/screaming; the nurse tries nonpharmacologic methods, rules out medical causes, informs the provider of OBRA guidelines, and educates the family." },
+        { "id": "d", "text": "Agree to the request, because a family member may consent for the resident", "correct": false, "rationale": "Family consent does not make the use appropriate; OBRA prohibits antipsychotics for this behavior." }
+      ],
+      "explanation": "Under OBRA, antipsychotics may not be used for restlessness, insomnia, yelling/screaming, wandering, or the staff's inability to manage the resident. Nonpharmacologic methods come first, medical causes must be ruled out, and the family should be educated."
+    },
+    {
+      "id": "obra-06",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is reviewing antipsychotic orders in a nursing facility. For which reasons does OBRA prohibit antipsychotic use? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Wandering", "correct": true, "rationale": "Wandering is not an acceptable reason for an antipsychotic." },
+        { "id": "b", "text": "Insomnia", "correct": true, "rationale": "Insomnia is not an acceptable reason." },
+        { "id": "c", "text": "Dementia with violent features that endanger others", "correct": false, "rationale": "This is one of OBRA's listed exceptions where antipsychotic use is acceptable." },
+        { "id": "d", "text": "Staff's inability to manage the resident", "correct": true, "rationale": "Staff convenience is never a reason for a chemical restraint." },
+        { "id": "e", "text": "Restlessness", "correct": true, "rationale": "Restlessness is not an acceptable reason." },
+        { "id": "f", "text": "Schizophrenia", "correct": false, "rationale": "Schizophrenia is a listed condition for which antipsychotics may be used." }
+      ],
+      "explanation": "Antipsychotics may NOT be used for restlessness, insomnia, yelling/screaming, wandering, or the staff's inability to manage the resident. Listed conditions such as schizophrenia, or dementia with psychotic or violent features endangering self or others, are acceptable reasons."
+    },
+    {
+      "id": "obra-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A provider writes \"Restraints PRN\" for a resident at risk for falls. What must the nurse do before applying any restraint?",
+      "options": [
+        { "id": "a", "text": "Obtain an order stating the type, the condition or behavior, and the duration", "correct": true, "rationale": "Correct. A restraint needs a specific medical indication and an order that states type, condition/behavior, and duration." },
+        { "id": "b", "text": "Apply a vest restraint now and ask the provider to clarify at morning rounds", "correct": false, "rationale": "Applying a restraint on an incomplete order violates OBRA; the order must be complete first." },
+        { "id": "c", "text": "Get the family's written permission, which replaces the need for a full order", "correct": false, "rationale": "Family permission does not replace the required specific order." },
+        { "id": "d", "text": "Raise all four side rails, since side rails are not considered restraints", "correct": false, "rationale": "Side rails may count as restraints under OBRA." }
+      ],
+      "explanation": "Physical restraints require a specific medical indication and an order stating the type, the condition/behavior, and the duration, with reevaluation. A written order does not absolve the nurse or facility of liability."
+    },
+    {
+      "id": "obra-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse says, \"The resident has a written restraint order from the provider, so we are fully covered legally.\" Which response by the charge nurse is most accurate?",
+      "options": [
+        { "id": "a", "text": "\"Correct, the order shifts all liability from the nurse to the provider.\"", "correct": false, "rationale": "The textbook states the mere presence of a written order does not absolve the facility or nurse." },
+        { "id": "b", "text": "\"Correct, as long as the resident's family has also been told about it.\"", "correct": false, "rationale": "Notifying the family does not remove regulatory liability." },
+        { "id": "c", "text": "\"Only if the restraint is a vest, because belts are not regulated.\"", "correct": false, "rationale": "Waist belts, vests, jackets, and limb restraints are all physical restraints." },
+        { "id": "d", "text": "\"No, a written order alone does not absolve us of regulatory liability.\"", "correct": true, "rationale": "Correct. A facility or nurse is not absolved of regulatory liability by the mere presence of a provider's written order." }
+      ],
+      "explanation": "A facility or nurse is not absolved of regulatory liability by the mere presence of a written restraint order. The nurse must still ensure a specific medical indication, a complete order, reevaluation, and use of alternatives."
+    },
+    {
+      "id": "obra-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A resident with dementia repeatedly tries to get out of a wheelchair. Which interventions are acceptable alternatives to physical restraints? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Offering companionship and closer supervision", "correct": true, "rationale": "Companionship and supervision are listed alternatives." },
+        { "id": "b", "text": "Checking whether the resident needs to toilet, exercise, or eat", "correct": true, "rationale": "Attending to toileting, exercise, and hunger is a listed alternative." },
+        { "id": "c", "text": "Placing the resident in a geri-chair with a locked tray", "correct": false, "rationale": "Geri-chairs may count as restraints." },
+        { "id": "d", "text": "Assigning a 1:1 sitter", "correct": true, "rationale": "1:1 sitters are a listed alternative." },
+        { "id": "e", "text": "Using distraction with a familiar activity", "correct": true, "rationale": "Distraction is a listed alternative." },
+        { "id": "f", "text": "Giving a hypnotic so the resident stays seated", "correct": false, "rationale": "Hypnotics are chemical restraints and may not be used for staff convenience." }
+      ],
+      "explanation": "Alternatives to physical restraints include companionship, supervision, attention to toileting, exercise, and hunger, staff training, 1:1 sitters, and distraction. Wheelchairs, geri-chairs, and side rails may count as restraints."
+    },
+    {
+      "id": "obra-10",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "OBRA mandates gradual dose-reduction trials (25%) for antipsychotics unless an exception applies. Which resident's diagnosis is a listed exception?",
+      "options": [
+        { "id": "a", "text": "A resident with dementia who wanders into other rooms", "correct": false, "rationale": "Wandering is a prohibited reason for antipsychotics, not an exception to dose reduction." },
+        { "id": "b", "text": "A resident with Huntington chorea", "correct": true, "rationale": "Correct. Huntington chorea is on OBRA's list of exceptions to the 25% dose-reduction trials." },
+        { "id": "c", "text": "A resident with insomnia who calls out at night", "correct": false, "rationale": "Insomnia and yelling are prohibited reasons for antipsychotic use." },
+        { "id": "d", "text": "A resident who is restless during morning care", "correct": false, "rationale": "Restlessness is a prohibited reason, not an exception." }
+      ],
+      "explanation": "OBRA requires 25% dose-reduction trials unless there was prior decompensation or the resident has a listed condition: schizophrenia, schizoid-affective or delusional disorder, acute, brief reactive, or atypical psychosis, mania with psychotic mood, Tourette, Huntington chorea, short-term nausea/vomiting/hiccups/itching, or dementia with psychotic or violent features endangering self or others."
+    },
+    {
+      "id": "obra-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which standardized tool is used for resident assessment in nursing facilities under OBRA?",
+      "options": [
+        { "id": "a", "text": "OASIS-C", "correct": false, "rationale": "OASIS-C is the home health assessment tool (since Jan 1, 2015)." },
+        { "id": "b", "text": "POLST form", "correct": false, "rationale": "POLST is a medical order for life-sustaining treatment, not an assessment tool." },
+        { "id": "c", "text": "Minimum Data Set (MDS)", "correct": true, "rationale": "Correct. The MDS is the assessment tool used in nursing facilities." },
+        { "id": "d", "text": "Admission agreement", "correct": false, "rationale": "The admission agreement informs residents of their rights; it is not an assessment tool." }
+      ],
+      "explanation": "Nursing facilities use the MDS; home health uses OASIS-C (since Jan 1, 2015). Residents are assessed at admission, 30 and 90 days, with any change in condition, and yearly."
+    },
+    {
+      "id": "obra-12",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Staff ask the nurse what to expect from the OBRA standard survey. Which statements are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "It happens every year without advance notice", "correct": true, "rationale": "Surveys are annual and unannounced; OBRA prohibits announcing them." },
+        { "id": "b", "text": "It focuses on resident outcomes, not only documented compliance", "correct": true, "rationale": "The survey focuses on outcomes, not paperwork." },
+        { "id": "c", "text": "The facility receives 30 days' notice to prepare its records", "correct": false, "rationale": "Announcing the survey is prohibited." },
+        { "id": "d", "text": "The survey team includes at least one RN", "correct": true, "rationale": "The team includes at least 1 RN." },
+        { "id": "e", "text": "Facilities with repeated problems may be inspected more often", "correct": true, "rationale": "Repeat offenders receive more inspections." },
+        { "id": "f", "text": "Staff may decline to speak with a surveyor who shows ID", "correct": false, "rationale": "Once the surveyor shows ID, the nurse must cooperate." }
+      ],
+      "explanation": "OBRA surveys are annual and unannounced, focus on outcomes rather than documented compliance, use a team with at least 1 RN, and inspect repeat offenders more often. Staff must cooperate with surveyors who show ID."
+    },
+    {
+      "id": "obra-13",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A person arrives on a nursing unit unannounced, shows state survey identification, and asks to observe medication administration. What should the nurse do?",
+      "options": [
+        { "id": "a", "text": "Ask the surveyor to return after the facility is given advance notice", "correct": false, "rationale": "Surveys are unannounced by law; there is no right to advance notice." },
+        { "id": "b", "text": "Refuse until the director of nursing arrives to approve the visit", "correct": false, "rationale": "Once a surveyor shows ID, the nurse must cooperate." },
+        { "id": "c", "text": "Allow observation only of residents whose families have consented", "correct": false, "rationale": "Survey cooperation is not limited by family consent." },
+        { "id": "d", "text": "Cooperate with the surveyor and continue giving care as usual", "correct": true, "rationale": "Correct. The nurse must cooperate once a surveyor shows ID." }
+      ],
+      "explanation": "OBRA surveys are unannounced and outcome focused. When a surveyor shows identification, the nurse must cooperate."
+    },
+    {
+      "id": "obra-14",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A resident wants to file a complaint about the facility with someone outside it. Which person's role is to investigate such complaints as the state's long-term care advocate?",
+      "options": [
+        { "id": "a", "text": "The ombudsman", "correct": true, "rationale": "Correct. The ombudsman is the state's long-term care public advocate who investigates complaints." },
+        { "id": "b", "text": "The temporary manager", "correct": false, "rationale": "A temporary manager is an OBRA sanction placed to run a failing facility, not a resident advocate." },
+        { "id": "c", "text": "The facility's administrator", "correct": false, "rationale": "The administrator is inside the facility and is not the state's independent advocate." },
+        { "id": "d", "text": "The institutional review board", "correct": false, "rationale": "The IRB reviews human research before it begins; it does not investigate care complaints." }
+      ],
+      "explanation": "The ombudsman is the state's long-term care public advocate who investigates complaints. The ombudsman is part of the survey process along with a team that includes at least one RN."
+    },
+    {
+      "id": "obra-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nursing facility wants to discharge a resident. Under OBRA, which situation is an acceptable reason, and what must the facility provide?",
+      "options": [
+        { "id": "a", "text": "The resident files frequent complaints; the facility must give 7 days' notice and a hearing", "correct": false, "rationale": "Complaints are not a reason for discharge; residents may protest without reprisal, and notice is 30 days." },
+        { "id": "b", "text": "The resident has stopped paying; the facility must give 30 days' notice and allow an appeal", "correct": true, "rationale": "Correct. Failure to pay is an allowed reason; OBRA requires 30-day notice and an opportunity to appeal." },
+        { "id": "c", "text": "The resident refused to join an experimental drug study; no advance notice is required", "correct": false, "rationale": "Refusing experimental research is a protected right and is not a reason for discharge." },
+        { "id": "d", "text": "The family prefers a facility closer to home; 24 hours' written notice is enough", "correct": false, "rationale": "This is not one of the four OBRA reasons, and the required notice is 30 days." }
+      ],
+      "explanation": "OBRA allows transfer or discharge only if the facility can't meet the resident's needs, the stay is no longer medically required, the resident fails to pay, or the facility closes. The resident gets 30-day notice and an opportunity to appeal."
+    },
+    {
+      "id": "obra-16",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is checking an admission packet to be sure it informs residents of their rights under OBRA (Box 2.2). Which rights should be included? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Choosing their own physician and seeing their own records", "correct": true, "rationale": "Residents have the right to their own physician and access to their records." },
+        { "id": "b", "text": "Freedom from involuntary seclusion and unwarranted restraints", "correct": true, "rationale": "Freedom from abuse, involuntary seclusion, and unwarranted restraints is a listed right." },
+        { "id": "c", "text": "Being told of their rights only after a 30-day trial stay", "correct": false, "rationale": "Residents must be told their rights orally and in writing before or at admission." },
+        { "id": "d", "text": "Protesting care without reprisal, including refusing experimental research", "correct": true, "rationale": "Residents may protest without reprisal, including refusing experimental research." },
+        { "id": "e", "text": "Examining the facility's survey results", "correct": true, "rationale": "Residents have the right to examine survey results." },
+        { "id": "f", "text": "Receiving any medication the resident or family requests", "correct": false, "rationale": "This is not a listed right; medications must still meet OBRA rules such as those on chemical restraints." }
+      ],
+      "explanation": "Residents are told their rights orally and in writing before or at admission (the admission agreement meets this). Rights include their own physician and records; freedom from abuse, involuntary seclusion, and unwarranted restraints; privacy; confidentiality; accommodation; protest without reprisal; groups and activities; and examining survey results."
+    },
+    {
+      "id": "obra-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A newly admitted 83-year-old resident has urge incontinence several times a day but can walk with help. Which plan best reflects OBRA requirements?",
+      "options": [
+        { "id": "a", "text": "Insert an indwelling catheter to protect the resident's skin", "correct": false, "rationale": "OBRA regulations require avoiding unnecessary catheters." },
+        { "id": "b", "text": "Restrict fluids after noon so the resident voids less often", "correct": false, "rationale": "OBRA requires preventing dehydration; fluid restriction risks it." },
+        { "id": "c", "text": "Use adult briefs and change them on a fixed schedule", "correct": false, "rationale": "Briefs alone do not treat incontinence; OBRA requires treatment based on the comprehensive assessment." },
+        { "id": "d", "text": "Include it in the assessment and start prompted voiding", "correct": true, "rationale": "Correct. Incontinence is part of the comprehensive assessment and is treated with bladder retraining, prompted voiding, and pelvic floor exercises." }
+      ],
+      "explanation": "More than half of residents are incontinent, and untreated incontinence leads to infection, skin breakdown, and higher mortality. OBRA requires it in the comprehensive assessment, treatment such as bladder retraining, prompted voiding, and pelvic floor exercises, and avoiding unnecessary catheters."
+    },
+    {
+      "id": "obra-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "During a survey, the team finds that one RN repeatedly gave medications without checking resident identification. Where is this nurse's individual practice problem referred?",
+      "options": [
+        { "id": "a", "text": "The facility's temporary manager", "correct": false, "rationale": "A temporary manager is a facility-level sanction, not the body that disciplines individual nurses." },
+        { "id": "b", "text": "The state's long-term care ombudsman", "correct": false, "rationale": "The ombudsman advocates for residents and investigates complaints; it does not regulate nursing licenses." },
+        { "id": "c", "text": "The State Board of Nursing", "correct": true, "rationale": "Correct. Bad nursing practice is referred to the State Board of Nursing." },
+        { "id": "d", "text": "The hospital ethics committee", "correct": false, "rationale": "Ethics committees are consultative with no legal authority." }
+      ],
+      "explanation": "OBRA facility sanctions are civil monetary penalties, a temporary manager, and closure and/or transfer of residents. Problems with an individual nurse's practice go to the State Board of Nursing."
+    },
+    {
+      "id": "obra-19",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A newly hired nursing assistant with no prior training asks to begin helping residents with meals today while the training course starts next week. What should the nurse tell the assistant?",
+      "options": [
+        { "id": "a", "text": "\"Classroom training must come before any contact with residents.\"", "correct": true, "rationale": "Correct. OBRA requires classroom training before any resident contact." },
+        { "id": "b", "text": "\"You may help with meals, since feeding is not a nursing task.\"", "correct": false, "rationale": "Any resident contact requires prior classroom training." },
+        { "id": "c", "text": "\"You may start now if a family member agrees to supervise you.\"", "correct": false, "rationale": "Family supervision does not replace required training." },
+        { "id": "d", "text": "\"You may work freely for 30 days before you need any training.\"", "correct": false, "rationale": "There is no 30-day grace period; training precedes resident contact." }
+      ],
+      "explanation": "Under OBRA, nursing assistants are trained per regulation, complete classroom training before any resident contact, and pass a state-approved competency evaluation covering interpersonal skills, infection control, safety, and resident rights. The curriculum is set at the state level."
+    },
+    {
+      "id": "obra-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse audits charts of residents receiving antipsychotics. Which chart best shows that the medication is being used in line with OBRA?",
+      "options": [
+        { "id": "a", "text": "Started for wandering at night; family requested it; reason in the progress notes", "correct": false, "rationale": "Wandering is a prohibited reason, and a family request does not make use appropriate." },
+        { "id": "b", "text": "Given PRN when staff are short and the resident becomes hard to redirect", "correct": false, "rationale": "Staff's inability to manage the resident is a prohibited reason." },
+        { "id": "c", "text": "Medical causes ruled out, nondrug methods tried, reason in orders and care plan", "correct": true, "rationale": "Correct. OBRA requires trying nonpharmacologic methods and ruling out medical causes first, with the reason documented in orders and care plan, and the drug must maintain or improve function." },
+        { "id": "d", "text": "Ordered for restlessness at bedtime, with the dose increased monthly as needed", "correct": false, "rationale": "Restlessness is a prohibited reason, and OBRA requires dose-reduction trials, not routine increases." }
+      ],
+      "explanation": "Chemical restraints require trying nonpharmacologic methods and ruling out medical causes first. The drug must maintain or improve function, the reason must be documented in orders and the care plan, and 25% dose-reduction trials apply unless an exception exists."
+    }
+  ]
+}

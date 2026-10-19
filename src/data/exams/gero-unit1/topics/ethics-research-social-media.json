@@ -1,0 +1,865 @@
+{
+  "slug": "ethics-research-social-media",
+  "title": "Ethics, Research & Social Media",
+  "short": "Ethics & Social Media",
+  "icon": "message",
+  "description": "The five key ethical principles, assisted suicide, research protections and the IRB, organ donation reporting, ethics committees, and ANA social networking principles for nurses.",
+  "keyPoints": [
+    "5 ethical principles (ANA, 2015): autonomy (self-determination) · beneficence (doing good) · nonmaleficence (avoiding evil) · justice (allocation of resources) · veracity (truthfulness).",
+    "The Code of Ethics prohibits nurse participation in assisted suicide, but nurses still give comfort, pain control, and relief of suffering.",
+    "Residents may refuse experimental research and care by students without losing care; the IRB reviews all human research before it begins.",
+    "Hospitals must report all deaths to the OPO/OPTN; this is a condition of Medicare participation.",
+    "Ethics committees: voluntary, consultative, not decision-making, no legal authority; found in two-thirds of hospitals with 200+ beds.",
+    "Social media don'ts: no identifiable patient information · no patient photos on personal devices · no disparaging remarks even if the patient is unnamed.",
+    "Spreading COVID vaccine misinformation can threaten a nurse's license (NCSBN)."
+  ],
+  "review": {
+    "pages": "pp. 30–33",
+    "bigIdea": "Which ethical principles guide the nurse when law alone doesn't settle a question, and how do research rules, ethics committees, and social media standards protect older adults?",
+    "objectives": [
+      "Discuss ethical challenges in preparing patients for end-of-life decisions."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Ethics, research, and social media",
+        "pages": "pp. 30–32"
+      },
+      {
+        "type": "mnemonic",
+        "title": "The 5 key ethical principles (ANA, 2015)",
+        "letters": [
+          {
+            "letter": "A",
+            "word": "Autonomy",
+            "text": "self-determination"
+          },
+          {
+            "letter": "B",
+            "word": "Beneficence",
+            "text": "doing good"
+          },
+          {
+            "letter": "N",
+            "word": "Nonmaleficence",
+            "text": "avoiding evil (do no harm)"
+          },
+          {
+            "letter": "J",
+            "word": "Justice",
+            "text": "allocation of resources"
+          },
+          {
+            "letter": "V",
+            "word": "Veracity",
+            "text": "truthfulness"
+          }
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "What are the 5 key ethical principles (ANA, 2015), and what is the nurse's role?",
+        "a": "Autonomy: self-determination\nBeneficence: doing good\nNonmaleficence: avoiding evil\nJustice: allocation of resources\nVeracity: truthfulness\nThe nurse-patient relationship is built on trust. The nurse's role: advocate for autonomy, maintain or improve health, and do no harm."
+      },
+      {
+        "type": "cue",
+        "q": "Assisted suicide: what are the positions, and which states allow it?",
+        "a": "The AMA and the ACP oppose it.\nStates named in the book: Oregon, Washington, Vermont, and California; Montana by court ruling.\nThe Code of Ethics prohibits nurse participation, but nurses still give comfort, pain control, and relief of suffering, and at times forgo life-sustaining treatment."
+      },
+      {
+        "type": "cue",
+        "q": "EBP: spousal self-euthanasia. What did the couple fear?",
+        "a": "A Dutch couple over 70, with no life-threatening disease or severe depression, feared separation, dependency, and physical decline more than death.\nNurses should know the link with depression and encourage the couple to talk about their emotional tensions."
+      },
+      {
+        "type": "cue",
+        "q": "What are the research rights and safeguards?",
+        "a": "Residents may refuse experimental research and may refuse care by students without losing care.\nResearch goals differ from care goals.\nFederal policy for protecting research subjects dates from 1991.\nAn institutional review board (IRB) reviews all human research before it begins; nurses should serve on it."
+      },
+      {
+        "type": "cue",
+        "q": "What is the organ donation rule?",
+        "a": "Hospitals must report all deaths to the OPO/OPTN; this is a condition of Medicare participation.\nConflicts go to the institutional ethics committee."
+      },
+      {
+        "type": "cue",
+        "q": "What are ethics committees, and what are they NOT?",
+        "a": "Voluntary and consultative; NOT decision-making; no legal authority.\nFound in two-thirds of hospitals with 200+ beds.\nPurposes: (1) education and policy, (2) resolving dilemmas, (3) involving all parties.\nMembership is diverse and includes nurses."
+      },
+      {
+        "type": "callout",
+        "tone": "exam",
+        "title": "Don't confuse",
+        "text": "Ethics committee = consultative, no legal authority, does not make decisions. IRB = reviews all human research before it begins. Ombudsman = state long-term care advocate who investigates complaints."
+      },
+      {
+        "type": "list",
+        "title": "ANA social networking principles",
+        "ordered": false,
+        "items": [
+          "Never post identifiable patient information",
+          "Keep professional boundaries",
+          "Assume patients and employers can see what you post",
+          "Use privacy settings",
+          "Report harmful content",
+          "Help write workplace social media policy"
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Social media tips for nurses",
+        "ordered": false,
+        "items": [
+          "Use the same professionalism online as at work",
+          "No patient photos on personal devices",
+          "No disparaging remarks, even if the patient is unnamed",
+          "Report breaches promptly",
+          "COVID vaccine misinformation can threaten your license (NCSBN)"
+        ]
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: A coworker posts a complaint about a patient's daughter. What do you do? (What Would You Do?, p. 18)"
+      },
+      {
+        "type": "heading",
+        "text": "Chapter 2 wrap-up",
+        "pages": "pp. 32–33"
+      },
+      {
+        "type": "recall",
+        "text": "Clinical judgment (p. 33): An 85-year-old man needs more help. Should he move to long-term care? How will his rights be protected as he gives up independence?"
+      },
+      {
+        "type": "recall",
+        "text": "Clinical judgment (p. 33): A 95-year-old in long-term care signed an AMD; a 73-year-old stroke patient's family requested a DNR. How do these differ, and how do they protect rights?"
+      },
+      {
+        "type": "recall",
+        "text": "Clinical judgment (p. 33): A confused resident says an aide \"pushed her around.\" What issues are present, and what actions should the nurse take?"
+      },
+      {
+        "type": "callout",
+        "tone": "key",
+        "title": "Chapter 2 key points (pp. 32–33)",
+        "text": "Medicare is the primary insurer for people 65 and older, so legal issues involve federal regulation, and professional standards are the legal measure of practice. Frail older adults are a vulnerable population, and their care is carefully regulated. OBRA protects quality of life, human rights, and due process; its surveys are outcome focused and its sanctions depend on scope and severity. The right to decide what is done to one's body is guaranteed in the U.S. Constitution; don't equate the documents with the right. It is better to resolve dilemmas at the bedside than in the courtroom."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "ethics-research-social-media-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which ethical principle refers to the allocation of resources?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Autonomy",
+          "correct": false,
+          "rationale": "Autonomy is self-determination."
+        },
+        {
+          "id": "b",
+          "text": "Beneficence",
+          "correct": false,
+          "rationale": "Beneficence is doing good."
+        },
+        {
+          "id": "c",
+          "text": "Justice",
+          "correct": true,
+          "rationale": "Correct. Justice refers to the allocation of resources."
+        },
+        {
+          "id": "d",
+          "text": "Veracity",
+          "correct": false,
+          "rationale": "Veracity is truthfulness."
+        }
+      ],
+      "explanation": "The 5 key ethical principles (ANA, 2015): autonomy (self-determination), beneficence (doing good), nonmaleficence (avoiding evil), justice (allocation of resources), and veracity (truthfulness)."
+    },
+    {
+      "id": "ethics-research-social-media-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "An 83-year-old client asks the nurse directly whether her biopsy results showed cancer. The provider has already discussed the results with her. The nurse answers honestly and stays with her while she cries. Which ethical principle is the nurse demonstrating?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justice",
+          "correct": false,
+          "rationale": "Justice concerns allocation of resources, not honesty."
+        },
+        {
+          "id": "b",
+          "text": "Veracity",
+          "correct": true,
+          "rationale": "Correct. Veracity is truthfulness."
+        },
+        {
+          "id": "c",
+          "text": "Nonmaleficence",
+          "correct": false,
+          "rationale": "Nonmaleficence is avoiding evil (harm); the central action here is telling the truth."
+        },
+        {
+          "id": "d",
+          "text": "Autonomy",
+          "correct": false,
+          "rationale": "Autonomy is self-determination; the focus here is honest disclosure."
+        }
+      ],
+      "explanation": "Veracity means truthfulness. The nurse-patient relationship is built on trust, and honesty supports it."
+    },
+    {
+      "id": "ethics-research-social-media-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse questions a medication order because the dose could cause serious harm to a frail 92-year-old client and holds the drug until the provider is contacted. Which ethical principle is guiding this action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Veracity",
+          "correct": false,
+          "rationale": "Veracity is truthfulness; the nurse's main goal here is preventing harm."
+        },
+        {
+          "id": "b",
+          "text": "Justice",
+          "correct": false,
+          "rationale": "Justice concerns allocation of resources."
+        },
+        {
+          "id": "c",
+          "text": "Autonomy",
+          "correct": false,
+          "rationale": "Autonomy is the client's self-determination; this action is about avoiding harm."
+        },
+        {
+          "id": "d",
+          "text": "Nonmaleficence",
+          "correct": true,
+          "rationale": "Correct. Nonmaleficence is avoiding evil, or doing no harm."
+        }
+      ],
+      "explanation": "Nonmaleficence is avoiding evil, which the nurse lives out as \"do no harm.\" The nurse's role includes advocating for autonomy, maintaining or improving health, and doing no harm."
+    },
+    {
+      "id": "ethics-research-social-media-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A competent 88-year-old client declines a recommended hip surgery after hearing the risks and alternatives. The client's son urges staff to \"talk her into it.\" Which nursing action best reflects the principle of autonomy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Support the client's decision and advocate for her right to choose",
+          "correct": true,
+          "rationale": "Correct. Autonomy is self-determination; the nurse's role is to advocate for it."
+        },
+        {
+          "id": "b",
+          "text": "Delay the discharge until the son is able to persuade the client",
+          "correct": false,
+          "rationale": "Using delays to pressure the client undermines her self-determination."
+        },
+        {
+          "id": "c",
+          "text": "Ask the ethics committee to decide whether surgery should proceed",
+          "correct": false,
+          "rationale": "Ethics committees are consultative and do not make decisions."
+        },
+        {
+          "id": "d",
+          "text": "Schedule the surgery, since her son is the closest family member",
+          "correct": false,
+          "rationale": "A competent client's decision is hers; family cannot override it."
+        }
+      ],
+      "explanation": "Autonomy is self-determination. The nurse's role is to advocate for autonomy, maintain or improve health, and do no harm, while honoring a competent client's informed choices."
+    },
+    {
+      "id": "ethics-research-social-media-05",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Which are among the 5 key ethical principles identified by the ANA (2015)? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Autonomy",
+          "correct": true,
+          "rationale": "Autonomy (self-determination) is one of the 5 principles."
+        },
+        {
+          "id": "b",
+          "text": "Beneficence",
+          "correct": true,
+          "rationale": "Beneficence (doing good) is one of the 5 principles."
+        },
+        {
+          "id": "c",
+          "text": "Paternalism",
+          "correct": false,
+          "rationale": "Paternalism is not one of the 5 principles; it conflicts with autonomy."
+        },
+        {
+          "id": "d",
+          "text": "Justice",
+          "correct": true,
+          "rationale": "Justice (allocation of resources) is one of the 5 principles."
+        },
+        {
+          "id": "e",
+          "text": "Efficiency",
+          "correct": false,
+          "rationale": "Efficiency is not one of the ANA's 5 key ethical principles."
+        },
+        {
+          "id": "f",
+          "text": "Veracity",
+          "correct": true,
+          "rationale": "Veracity (truthfulness) is one of the 5 principles."
+        }
+      ],
+      "explanation": "The 5 key ethical principles (ANA, 2015) are autonomy, beneficence, nonmaleficence, justice, and veracity."
+    },
+    {
+      "id": "ethics-research-social-media-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A terminally ill client in severe pain asks the nurse to help end his life. Which response reflects the nurse's ethical obligations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agree to help, because supporting the client's autonomy comes first",
+          "correct": false,
+          "rationale": "The Code of Ethics prohibits nurse participation in assisted suicide."
+        },
+        {
+          "id": "b",
+          "text": "Decline to participate but provide comfort and aggressive pain relief",
+          "correct": true,
+          "rationale": "Correct. Nurses may not participate in assisted suicide but must still provide comfort, pain control, and relief of suffering."
+        },
+        {
+          "id": "c",
+          "text": "Decline, and reduce pain medication to avoid hastening his death",
+          "correct": false,
+          "rationale": "Nurses must still provide pain control and relief of suffering."
+        },
+        {
+          "id": "d",
+          "text": "Agree only if the client lives in a state where it is legal",
+          "correct": false,
+          "rationale": "Even where state law allows it, the Code of Ethics prohibits nurse participation."
+        }
+      ],
+      "explanation": "The AMA and ACP oppose assisted suicide, and the Code of Ethics prohibits nurse participation. Nurses still give comfort, pain control, and relief of suffering, and at times forgo life-sustaining treatment."
+    },
+    {
+      "id": "ethics-research-social-media-07",
+      "type": "sata",
+      "bloom": "remember",
+      "stem": "Which statements about assisted suicide are supported by the textbook? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The AMA opposes assisted suicide",
+          "correct": true,
+          "rationale": "The AMA opposes it."
+        },
+        {
+          "id": "b",
+          "text": "The ACP opposes assisted suicide",
+          "correct": true,
+          "rationale": "The ACP opposes it."
+        },
+        {
+          "id": "c",
+          "text": "Oregon and Washington are among the states that allow it",
+          "correct": true,
+          "rationale": "The book lists Oregon, Washington, Vermont, and California."
+        },
+        {
+          "id": "d",
+          "text": "Montana allows it by court ruling",
+          "correct": true,
+          "rationale": "Montana allows it by court ruling."
+        },
+        {
+          "id": "e",
+          "text": "The Code of Ethics permits nurse participation when a client requests it",
+          "correct": false,
+          "rationale": "The Code of Ethics prohibits nurse participation."
+        },
+        {
+          "id": "f",
+          "text": "Nurses should withhold comfort measures from clients who request it",
+          "correct": false,
+          "rationale": "Nurses still give comfort, pain control, and relief of suffering."
+        }
+      ],
+      "explanation": "The AMA and ACP oppose assisted suicide. States named in the book are Oregon, Washington, Vermont, and California, with Montana by court ruling. The Code of Ethics prohibits nurse participation, but nurses still provide comfort and relief of suffering."
+    },
+    {
+      "id": "ethics-research-social-media-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A healthy 76-year-old man tells the nurse that he and his wife have discussed ending their lives together because they fear being separated and becoming dependent. Neither has a life-threatening illness. Which nursing action is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Accept the plan as their autonomous choice and say nothing further",
+          "correct": false,
+          "rationale": "Nurses should know the link with depression and encourage discussion rather than ignoring this disclosure."
+        },
+        {
+          "id": "b",
+          "text": "Tell him that only people with terminal illness feel this way",
+          "correct": false,
+          "rationale": "The Dutch couple in the study had no life-threatening disease, so this statement is inaccurate and dismissive."
+        },
+        {
+          "id": "c",
+          "text": "Be alert for depression and encourage the couple to talk about their fears",
+          "correct": true,
+          "rationale": "Correct. Nurses should know the link with depression and encourage talking about emotional tensions."
+        },
+        {
+          "id": "d",
+          "text": "Reassure him that dependency in old age is rare and change the subject",
+          "correct": false,
+          "rationale": "False reassurance blocks discussion of the emotional tensions the nurse should explore."
+        }
+      ],
+      "explanation": "In the EBP study, a Dutch couple over 70 without life-threatening disease or severe depression feared separation, dependency, and physical decline more than death. Nurses should know the link with depression and encourage talking about emotional tensions."
+    },
+    {
+      "id": "ethics-research-social-media-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nursing facility resident is invited to join a study of an experimental medication and says she does not want to take part. She worries this will affect her care. What should the nurse tell her?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"You may refuse, and your care will continue without any change.\"",
+          "correct": true,
+          "rationale": "Correct. Residents may refuse experimental research without losing care; protest without reprisal is a resident right."
+        },
+        {
+          "id": "b",
+          "text": "\"You may refuse, but you may need to transfer to another facility.\"",
+          "correct": false,
+          "rationale": "Refusing research is not a permitted reason for transfer or discharge."
+        },
+        {
+          "id": "c",
+          "text": "\"Residents of facilities that receive Medicare must join approved studies.\"",
+          "correct": false,
+          "rationale": "Participation is never required; residents may refuse."
+        },
+        {
+          "id": "d",
+          "text": "\"Your family can enroll you, since the IRB has already approved it.\"",
+          "correct": false,
+          "rationale": "IRB approval does not remove the resident's right to refuse."
+        }
+      ],
+      "explanation": "Residents may refuse experimental research and care by students without losing care. Research goals differ from care goals, and an IRB reviews all human research before it begins."
+    },
+    {
+      "id": "ethics-research-social-media-10",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A nurse is asked to help with a research study in a long-term care facility. Which statements about research involving older adults are accurate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The goals of research differ from the goals of care",
+          "correct": true,
+          "rationale": "Research goals differ from care goals."
+        },
+        {
+          "id": "b",
+          "text": "An IRB reviews all human research before it begins",
+          "correct": true,
+          "rationale": "The IRB reviews all human research before it starts."
+        },
+        {
+          "id": "c",
+          "text": "Nurses should serve on the institutional review board",
+          "correct": true,
+          "rationale": "Nurses should be on the IRB."
+        },
+        {
+          "id": "d",
+          "text": "The IRB reviews studies only after data collection ends",
+          "correct": false,
+          "rationale": "Review happens before research begins."
+        },
+        {
+          "id": "e",
+          "text": "Residents who decline research may lose some services",
+          "correct": false,
+          "rationale": "Residents may refuse research without losing care."
+        }
+      ],
+      "explanation": "Research goals differ from care goals. Federal policy (1991) protects subjects, an IRB reviews all human research before it begins, and nurses should be on it. Residents may refuse without losing care."
+    },
+    {
+      "id": "ethics-research-social-media-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 79-year-old resident tells the charge nurse she does not want nursing students to give her care. What should the charge nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Honor the request and assign staff, so her care is not reduced",
+          "correct": true,
+          "rationale": "Correct. Residents may refuse care by students without losing care."
+        },
+        {
+          "id": "b",
+          "text": "Explain that teaching facilities require residents to accept student care",
+          "correct": false,
+          "rationale": "Residents have the right to refuse care by students."
+        },
+        {
+          "id": "c",
+          "text": "Honor the request, but tell her some services will no longer be available",
+          "correct": false,
+          "rationale": "Refusal must not result in loss of care."
+        },
+        {
+          "id": "d",
+          "text": "Ask her family to persuade her to accept student care",
+          "correct": false,
+          "rationale": "This pressures the resident and disregards her right to refuse."
+        }
+      ],
+      "explanation": "Residents may refuse experimental research and refuse care by students without losing care, consistent with the right to protest without reprisal."
+    },
+    {
+      "id": "ethics-research-social-media-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 81-year-old client dies on a hospital unit. The family has not mentioned organ donation. What must the hospital do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Report the death only if the client had signed a donor card",
+          "correct": false,
+          "rationale": "All deaths must be reported, regardless of donor status."
+        },
+        {
+          "id": "b",
+          "text": "Report the death only if the family requests organ donation",
+          "correct": false,
+          "rationale": "Reporting is required for all deaths, not only on family request."
+        },
+        {
+          "id": "c",
+          "text": "Report the death to the OPO/OPTN as for every hospital death",
+          "correct": true,
+          "rationale": "Correct. Hospitals must report all deaths to the OPO/OPTN as a condition of Medicare participation."
+        },
+        {
+          "id": "d",
+          "text": "Refer the death to the ethics committee to decide on donation",
+          "correct": false,
+          "rationale": "The ethics committee handles conflicts, but reporting to the OPO/OPTN is required first for every death."
+        }
+      ],
+      "explanation": "Hospitals must report all deaths to the OPO/OPTN; this is a condition of Medicare participation. Conflicts are referred to the institutional ethics committee."
+    },
+    {
+      "id": "ethics-research-social-media-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A family and the care team disagree about continuing aggressive treatment for an older client. The family asks the hospital ethics committee to \"make the final decision.\" Which statement best describes what the committee can do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Issue a legally binding ruling that the team must follow",
+          "correct": false,
+          "rationale": "Ethics committees have no legal authority."
+        },
+        {
+          "id": "b",
+          "text": "Overrule the client's directive if the family disagrees with it",
+          "correct": false,
+          "rationale": "The committee cannot overrule; the law upholds the patient's expressed wishes."
+        },
+        {
+          "id": "c",
+          "text": "Replace the IRB in reviewing the client's treatment plan",
+          "correct": false,
+          "rationale": "The IRB reviews research; the ethics committee does not replace it."
+        },
+        {
+          "id": "d",
+          "text": "Consult and help all parties work through the dilemma",
+          "correct": true,
+          "rationale": "Correct. Ethics committees are consultative, not decision-making, and involve all parties to resolve dilemmas."
+        }
+      ],
+      "explanation": "Ethics committees are voluntary and consultative, not decision-making, and have no legal authority. Their purposes are education and policy, resolving dilemmas, and involving all parties."
+    },
+    {
+      "id": "ethics-research-social-media-14",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A new nurse asks about the hospital's ethics committee. Which statements are accurate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It helps with education and policy development",
+          "correct": true,
+          "rationale": "Education and policy is one of its three purposes."
+        },
+        {
+          "id": "b",
+          "text": "It helps resolve ethical dilemmas",
+          "correct": true,
+          "rationale": "Resolving dilemmas is a purpose."
+        },
+        {
+          "id": "c",
+          "text": "It makes legally binding treatment decisions",
+          "correct": false,
+          "rationale": "It is consultative with no legal authority."
+        },
+        {
+          "id": "d",
+          "text": "It works to involve all parties in a conflict",
+          "correct": true,
+          "rationale": "Involving all parties is a purpose."
+        },
+        {
+          "id": "e",
+          "text": "Its membership is diverse and includes nurses",
+          "correct": true,
+          "rationale": "Membership is diverse and includes nurses."
+        },
+        {
+          "id": "f",
+          "text": "It exists only in nursing homes",
+          "correct": false,
+          "rationale": "Two-thirds of hospitals with 200+ beds have ethics committees."
+        }
+      ],
+      "explanation": "Ethics committees are voluntary, consultative, and have no legal authority. They exist in two-thirds of hospitals with 200+ beds, serve education and policy, resolve dilemmas, involve all parties, and include diverse members such as nurses."
+    },
+    {
+      "id": "ethics-research-social-media-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A coworker posts on her personal social media page: \"Long shift. The daughter of my patient in room 12 is the rudest person I've ever met.\" No names are used. What should the nurse do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ignore it, since no names appear in the post",
+          "correct": false,
+          "rationale": "Disparaging remarks are inappropriate even if unnamed, and a room number can identify the patient."
+        },
+        {
+          "id": "b",
+          "text": "Comment on the post to advise the coworker to add privacy settings",
+          "correct": false,
+          "rationale": "Privacy settings do not make disparaging posts acceptable, and commenting spreads the post further."
+        },
+        {
+          "id": "c",
+          "text": "Wait to see whether the patient's family complains first",
+          "correct": false,
+          "rationale": "Breaches should be reported promptly, not after a complaint."
+        },
+        {
+          "id": "d",
+          "text": "Report the post promptly according to facility policy",
+          "correct": true,
+          "rationale": "Correct. Disparaging remarks are prohibited even if unnamed, and breaches should be reported promptly."
+        }
+      ],
+      "explanation": "ANA social networking guidance: never post identifiable patient information, assume patients and employers can see posts, and make no disparaging remarks even if the person is unnamed. Report breaches and harmful content promptly."
+    },
+    {
+      "id": "ethics-research-social-media-16",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is helping write a unit social media policy based on ANA principles. Which statements should be included? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Never post information that could identify a patient",
+          "correct": true,
+          "rationale": "Never posting identifiable patient information is an ANA principle."
+        },
+        {
+          "id": "b",
+          "text": "Assume that patients and employers can see what you post",
+          "correct": true,
+          "rationale": "Nurses should assume patients and employers can see their posts."
+        },
+        {
+          "id": "c",
+          "text": "Patient photos are allowed on personal phones if faces are hidden",
+          "correct": false,
+          "rationale": "No patient photos on personal devices."
+        },
+        {
+          "id": "d",
+          "text": "Maintain professional boundaries with patients online",
+          "correct": true,
+          "rationale": "Keeping boundaries is an ANA principle."
+        },
+        {
+          "id": "e",
+          "text": "Report content that could harm patients",
+          "correct": true,
+          "rationale": "Reporting harmful content is an ANA principle."
+        },
+        {
+          "id": "f",
+          "text": "Complaints about families are acceptable if no names are used",
+          "correct": false,
+          "rationale": "No disparaging remarks, even if the person is unnamed."
+        }
+      ],
+      "explanation": "ANA principles: never post identifiable patient information, keep boundaries, assume patients and employers can see posts, use privacy settings, report harmful content, and help write policy. Tips: same professionalism online, no patient photos on personal devices, no disparaging remarks even if unnamed."
+    },
+    {
+      "id": "ethics-research-social-media-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse uses her personal phone to photograph a resident's 100th birthday party in the dining room, planning to post it with a kind caption. Which assessment of this action is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is acceptable because the caption is positive and celebratory",
+          "correct": false,
+          "rationale": "A positive tone does not change the rule against patient photos on personal devices."
+        },
+        {
+          "id": "b",
+          "text": "It is acceptable as long as the resident's last name is not posted",
+          "correct": false,
+          "rationale": "Patient photos on personal devices are not allowed even without a name."
+        },
+        {
+          "id": "c",
+          "text": "It is acceptable if the nurse's account has strict privacy settings",
+          "correct": false,
+          "rationale": "Privacy settings are recommended, but they do not permit patient photos on personal devices."
+        },
+        {
+          "id": "d",
+          "text": "It violates guidance against patient photos on personal devices",
+          "correct": true,
+          "rationale": "Correct. Nurses should take no patient photos on personal devices."
+        }
+      ],
+      "explanation": "Social media tips for nurses include keeping the same professionalism online, taking no patient photos on personal devices, making no disparaging remarks even if unnamed, and reporting breaches promptly."
+    },
+    {
+      "id": "ethics-research-social-media-18",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to the textbook, about what proportion of hospitals with 200 or more beds have an ethics committee?",
+      "options": [
+        {
+          "id": "a",
+          "text": "About one-quarter",
+          "correct": false,
+          "rationale": "The textbook states two-thirds."
+        },
+        {
+          "id": "b",
+          "text": "About two-thirds",
+          "correct": true,
+          "rationale": "Correct. Two-thirds of hospitals with 200+ beds have ethics committees."
+        },
+        {
+          "id": "c",
+          "text": "About one-half",
+          "correct": false,
+          "rationale": "The textbook states two-thirds."
+        },
+        {
+          "id": "d",
+          "text": "Nearly all of them",
+          "correct": false,
+          "rationale": "Ethics committees are voluntary, and the textbook states two-thirds."
+        }
+      ],
+      "explanation": "Ethics committees are voluntary and consultative and are found in two-thirds of hospitals with 200 or more beds."
+    },
+    {
+      "id": "ethics-research-social-media-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse educator evaluates new graduates' understanding of professional social media use. Which statement shows the best understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"My personal accounts are private, so my employer has no interest in them.\"",
+          "correct": false,
+          "rationale": "Nurses should assume patients and employers can see their posts."
+        },
+        {
+          "id": "b",
+          "text": "\"Posting COVID vaccine misinformation could put my nursing license at risk.\"",
+          "correct": true,
+          "rationale": "Correct. The NCSBN warns that spreading COVID vaccine misinformation can threaten a nurse's license."
+        },
+        {
+          "id": "c",
+          "text": "\"I can share a patient's story online if I leave out the patient's name.\"",
+          "correct": false,
+          "rationale": "Details can still identify a patient; never post identifiable patient information."
+        },
+        {
+          "id": "d",
+          "text": "\"Professional standards apply at work, but not to what I post at home.\"",
+          "correct": false,
+          "rationale": "Nurses should keep the same professionalism online as at work."
+        }
+      ],
+      "explanation": "Nurses should keep the same professionalism online, assume patients and employers can see posts, and never post identifiable information. The NCSBN notes that COVID vaccine misinformation can threaten a nurse's license."
+    },
+    {
+      "id": "ethics-research-social-media-20",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse is reflecting on the legal and ethical themes of Chapter 2. Which conclusion is most consistent with the chapter's key points?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legal documents create the right to refuse care, so clients without them have none",
+          "correct": false,
+          "rationale": "The right is guaranteed by the Constitution; don't equate the documents with the right."
+        },
+        {
+          "id": "b",
+          "text": "Disputes about care are best settled in court, where a judge can rule quickly",
+          "correct": false,
+          "rationale": "The chapter states it is better to resolve dilemmas at the bedside than in the courtroom."
+        },
+        {
+          "id": "c",
+          "text": "Dilemmas are better resolved at the bedside than in the courtroom",
+          "correct": true,
+          "rationale": "Correct. This is a chapter key point, along with the constitutional right to decide what is done to one's body."
+        },
+        {
+          "id": "d",
+          "text": "Federal rules rarely affect older adults, since most have private insurance",
+          "correct": false,
+          "rationale": "Medicare is the primary insurer for people 65 and older, so legal issues involve federal regulation."
+        }
+      ],
+      "explanation": "Chapter 2 key points: Medicare is the primary insurer for 65+, so federal regulation applies; frail older adults are a vulnerable population; OBRA protects quality of life and rights; the right to decide is constitutional and is not the same as the documents; and dilemmas are better resolved at the bedside than in the courtroom."
+    }
+  ]
+}

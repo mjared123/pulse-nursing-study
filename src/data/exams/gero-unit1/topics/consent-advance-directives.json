@@ -1,0 +1,343 @@
+{
+  "slug": "consent-advance-directives",
+  "title": "Consent, Capacity & Advance Directives",
+  "short": "Consent & Directives",
+  "icon": "file-text",
+  "description": "The ACA and PSDA, informed consent, competence vs. decision-making capacity, and the legal tools for end-of-life decisions: DNR, advance medical directive, living will, DPAHC, and POLST.",
+  "keyPoints": [
+    "ACA (2010) main goal: reduce the number of uninsured Americans and reduce overall costs.",
+    "PSDA (1990): facilities with Medicare/Medicaid funds give written information on rights to accept or refuse treatment.",
+    "Informed consent, 6 disclosures: diagnosis · nature/purpose · risks · probability of success · alternatives · consequences of no treatment.",
+    "Competence = legal term, decided by the court. Capacity = decided by the medical provider, for the decision at hand.",
+    "AMD is not a living will; it is usually more specific and may name a person. Living will = wishes for a terminal condition.",
+    "Living will takes effect only when the physician has it and the patient lacks capacity, a terminal condition is determined, and orders are written.",
+    "POLST: a medical order (not an advance directive) · augments AMD/DNR · never expires · can't be modified · YES CPR → Full Treatments.",
+    "DPAHC advantage over a living will: the agent can assess the current situation, ask questions, and gather information."
+  ],
+  "review": {
+    "pages": "pp. 25–30",
+    "bigIdea": "How does the law protect an older adult's right to decide what is done to his or her body, and which documents and orders put those decisions into action?",
+    "objectives": [
+      "State the rationale for the Affordable Care Act and who it was developed to benefit.",
+      "Discuss the legal history of autonomy and self-determination and the major laws involved.",
+      "Name and state the purpose of advance directives and POLST.",
+      "Explain the purpose of the PSDA and the nurse's responsibility for advance directives."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "Affordable Care Act and PSDA", "pages": "p. 25" },
+      { "type": "cue", "q": "ACA: dates, goal, and what changed in 2017?", "a": "Passed March 21, 2010; signed March 23, 2010 (President Obama). The largest change to health care since 1965.\nMain goal: reduce the number of uninsured Americans and reduce costs.\nCoverage regardless of community rating, preexisting conditions, or age; the same premium for the same age group and location.\n2017 changes: repealed the individual mandate, ended cost-sharing reductions, allowed more Medicaid waivers, expanded Association Health Plans." },
+      { "type": "cue", "q": "PSDA: what does it require?", "a": "The Patient Self-Determination Act (1990) is an amendment to Titles XVIII and XIX of the Social Security Act.\nFacilities receiving Medicare/Medicaid funds must give written information on patients' rights under state law to accept or refuse treatment if they become incapacitated.\nIt empowers patients to state Advanced Medical Directives." },
+      { "type": "recall", "text": "Summarize from memory: Why does the PSDA matter to the nurse at admission?" },
+
+      { "type": "heading", "text": "Autonomy, consent, and capacity", "pages": "pp. 25–26" },
+      { "type": "cue", "q": "What is informed consent, and what must be disclosed?", "a": "Self-determination rests on the doctrine of informed consent: a competent person receives the information needed to make a reasonable decision.\nDisclose:\nDiagnosis\nNature and purpose of the treatment\nRisks\nProbability of success\nAlternatives\nConsequences of no treatment" },
+      { "type": "cue", "q": "If there are no documents, has no decision been made?", "a": "No. Lack of documents does not mean a decision has not been made.\nThe right to decide is fundamental; legal tools only assist it.\nDocument carefully, objectively, and accurately, because records may be used in court." },
+      { "type": "table", "title": "Competence vs. decision-making capacity", "columns": ["", "Competence", "Capacity"], "rows": [
+        ["Type", "Legal term", "Determined with substantial documentation"],
+        ["Decided by", "Court (adults are presumed competent)", "Medical provider"],
+        ["Scope", "One area or all areas", "Only the decision at hand; a resident may still choose clothing; having an agent does not mean lacking capacity"]
+      ] },
+      { "type": "callout", "tone": "exam", "title": "Exam connection: competence vs. capacity", "text": "Competence is decided by the court (a legal term). Capacity is decided by the medical provider, for the decision at hand." },
+      { "type": "recall", "text": "Summarize from memory: Explain the difference between competence and capacity using an example." },
+
+      { "type": "heading", "text": "Legal tools for end-of-life decisions: DNR, AMD, living will, DPAHC, POLST", "pages": "pp. 26–30" },
+      { "type": "cue", "q": "What is a DNR order? Is CPR presumed?", "a": "A provider order (on the order sheet or in CPOE) not to perform CPR.\nIn some states, consent to CPR is presumed unless a DNR exists.\nIt is based on the patient's choice of no, partial, or maximum treatment without resuscitation.\nNursing facilities: an Out of Hospital form signed by a clinician; the nurse should request the facility's detailed policy.\nHome care: the physician signs the DNR within 48 hours." },
+      { "type": "cue", "q": "AMD vs. living will?", "a": "An advance medical directive (AMD) is not a living will.\nAMD = written wishes for when the person is unable to speak; may or may not name a person; usually more specific.\nLiving will (LW) = wishes about treatment in a terminal illness or condition." },
+      { "type": "list", "title": "A living will takes effect only when", "ordered": true, "items": [
+        "The physician has it AND the patient lacks capacity",
+        "A terminal condition is determined (or therapy would only prolong dying)",
+        "Orders are written"
+      ] },
+      { "type": "text", "text": "Most statutes require a witnessed signature, and facility owners and employees generally cannot witness. A living will is revocable at any time. Connecticut example: the person must be 18 or older, with two witnesses." },
+      { "type": "cue", "q": "What are a healthcare agent and a DPAHC?", "a": "Healthcare agent: a trusted person who expresses the patient's wishes about life support; chosen while the patient is cognitively stable; an alternate may be named.\nDPAHC (durable power of attorney for health care): designates someone to decide when the patient cannot, based on the patient's wishes, desires, and values.\nAdvantage over a living will: the agent can assess the current situation, ask questions, and gather information." },
+      { "type": "cue", "q": "POLST: what it is and isn't?", "a": "A process of communicating wishes during a medical crisis or decline that results in medical orders.\nIt augments, and does not replace, the AMD or DNR.\n\"A medical order, not an advance directive.\"\nVoluntary. Also called MOLST or MOST." },
+      { "type": "list", "title": "POLST: how the form works", "ordered": false, "items": [
+        "Patient in crisis: check pulse and breathing",
+        "No pulse AND not breathing → Section A (CPR)",
+        "YES CPR → must choose Full Treatments in Section B",
+        "NO CPR (DNAR) → any Section B option; no AED",
+        "Has a pulse and/or is breathing → Section B (initial treatment): Full (all means, ICU) · Selective (avoid ICU) · Comfort-focused (allow natural death)",
+        "Section C: other orders (such as blood, dialysis)",
+        "Section D: artificial nutrition",
+        "Page 2: contacts and provider review"
+      ] },
+      { "type": "cue", "q": "What are the POLST rules?", "a": "Never expires; copies, faxes, and electronic versions are valid.\nThe newest form supersedes older ones.\nIt cannot be modified: void it and complete a new one.\nReview it at transfer, with a big health change, with a new primary provider, and with new goals.\n\"No CPR\" = no compressions and no AED.\nA blank section = no presumption; give the standard of care.\nAn emergency contact is not the same as a legal representative." },
+      { "type": "cue", "q": "The family disagrees with the patient's directive. What does the nurse do?", "a": "The law consistently upholds the patient's expressed wishes.\nThe nurse's duty is to uphold the patient's decision or the court's decision.\nCommunicate early with the family and team to reduce conflict." },
+      { "type": "callout", "tone": "exam", "title": "Don't confuse", "text": "AMD ≠ living will (an AMD is usually more specific). POLST ≠ advance directive: it is a medical order that augments one. DNR = do not perform CPR." },
+      { "type": "recall", "text": "Summarize from memory: Explain the difference between a living will and a POLST to a family (What Would You Do?, p. 18)." },
+      { "type": "callout", "tone": "key", "title": "Chapter key points for this topic (pp. 32–33)", "text": "The right to decide what is done to one's body is guaranteed in the U.S. Constitution; don't equate the documents with the right. It is better to resolve dilemmas at the bedside than in the courtroom." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "consent-advance-directives-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What was the main goal of the Affordable Care Act (ACA) passed in 2010?",
+      "options": [
+        { "id": "a", "text": "Create Medicare Part A for adults age 65 and older", "correct": false, "rationale": "Medicare was created by the Social Security Amendments of 1965." },
+        { "id": "b", "text": "Set staffing and survey rules for nursing facilities", "correct": false, "rationale": "That describes OBRA 1987." },
+        { "id": "c", "text": "Reduce the number of uninsured Americans and reduce costs", "correct": true, "rationale": "Correct. The ACA's main goal was to reduce the number of uninsured Americans and reduce costs." },
+        { "id": "d", "text": "Require written information on rights to refuse treatment", "correct": false, "rationale": "That is the Patient Self-Determination Act of 1990." }
+      ],
+      "explanation": "The ACA (passed March 21, 2010; signed March 23, 2010) was the largest change since 1965. Its main goal was to reduce the number of uninsured Americans and reduce costs, offering coverage regardless of community rating, preexisting conditions, or age."
+    },
+    {
+      "id": "consent-advance-directives-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 78-year-old client is being admitted to a hospital that receives Medicare funds. Under the Patient Self-Determination Act (PSDA), what must the facility do?",
+      "options": [
+        { "id": "a", "text": "Require the client to sign an advance directive before admission", "correct": false, "rationale": "The PSDA requires information, not a signed directive; the right to refuse is preserved." },
+        { "id": "b", "text": "Give written information on rights to accept or refuse treatment", "correct": true, "rationale": "Correct. Facilities receiving Medicare/Medicaid funds must give written information about rights under state law to accept or refuse treatment if incapacitated." },
+        { "id": "c", "text": "Assign a court-appointed guardian to make treatment decisions", "correct": false, "rationale": "Guardianship relates to competence decided by a court; the PSDA does not require it." },
+        { "id": "d", "text": "Complete a POLST form for every client older than age 65", "correct": false, "rationale": "POLST is voluntary and is a medical order, not a PSDA requirement." }
+      ],
+      "explanation": "The PSDA (1990), an amendment to Titles XVIII and XIX of the Social Security Act, requires facilities that receive Medicare/Medicaid funds to give written information on patients' rights under state law to accept or refuse treatment if incapacitated. It empowers patients to state advance medical directives."
+    },
+    {
+      "id": "consent-advance-directives-03",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A provider is obtaining informed consent from an 80-year-old client for elective surgery. Which information must be disclosed for consent to be informed? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The client's diagnosis", "correct": true, "rationale": "Diagnosis is one of the six required disclosures." },
+        { "id": "b", "text": "The probability that the surgery will succeed", "correct": true, "rationale": "Probability of success must be disclosed." },
+        { "id": "c", "text": "The names of other clients who had the same surgery", "correct": false, "rationale": "This is not a required disclosure and would breach other clients' privacy." },
+        { "id": "d", "text": "Alternatives to the surgery", "correct": true, "rationale": "Alternatives must be disclosed." },
+        { "id": "e", "text": "What is likely to happen if the client has no treatment", "correct": true, "rationale": "Consequences of no treatment must be disclosed." },
+        { "id": "f", "text": "The surgeon's personal fee compared with other surgeons", "correct": false, "rationale": "Fee comparisons are not among the required disclosures." }
+      ],
+      "explanation": "Informed consent rests on giving a competent person the information needed for a reasonable decision: diagnosis, nature and purpose of treatment, risks, probability of success, alternatives, and consequences of no treatment."
+    },
+    {
+      "id": "consent-advance-directives-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 91-year-old client has no advance directive on file. The client has told the nurse several times, \"I never want to be kept alive on machines.\" A family member says, \"Without papers, nothing has been decided.\" Which response best reflects the law?",
+      "options": [
+        { "id": "a", "text": "\"You're right; without a signed form the team must provide all treatment.\"", "correct": false, "rationale": "Lack of documents does not mean no decision has been made; the right itself is fundamental." },
+        { "id": "b", "text": "\"Only a court can decide this now, because no directive exists.\"", "correct": false, "rationale": "A court is not required simply because documents are missing." },
+        { "id": "c", "text": "\"The lack of documents doesn't mean a decision hasn't been made.\"", "correct": true, "rationale": "Correct. The right to decide is fundamental; legal tools only assist it. The nurse should document the client's statements carefully and objectively." },
+        { "id": "d", "text": "\"The family now makes all decisions, since no agent was named.\"", "correct": false, "rationale": "The client's own expressed wishes still govern; the family does not automatically override them." }
+      ],
+      "explanation": "Lack of documents does not mean a decision has not been made. The right to decide is fundamental and legal tools assist it. The nurse documents carefully, objectively, and accurately, since records may be used in court."
+    },
+    {
+      "id": "consent-advance-directives-05",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Who determines whether an adult is legally competent?",
+      "options": [
+        { "id": "a", "text": "A court", "correct": true, "rationale": "Correct. Competence is a legal term decided by a court; adults are presumed competent." },
+        { "id": "b", "text": "The attending nurse", "correct": false, "rationale": "Nurses document and assess but do not legally decide competence." },
+        { "id": "c", "text": "The medical provider", "correct": false, "rationale": "The medical provider determines decision-making capacity, not legal competence." },
+        { "id": "d", "text": "The ethics committee", "correct": false, "rationale": "Ethics committees are consultative and have no legal authority." }
+      ],
+      "explanation": "Competence is a legal term decided by the court (people are presumed competent) and may apply to one area or all areas. Decision-making capacity is determined by the medical provider for the decision at hand."
+    },
+    {
+      "id": "consent-advance-directives-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A resident with moderate dementia has been found by the provider to lack capacity to make decisions about a complex surgery. This morning she wants to choose her own outfit. What should the nurse do?",
+      "options": [
+        { "id": "a", "text": "Choose the outfit for her, since she has been found to lack capacity", "correct": false, "rationale": "Capacity is decision specific; lacking capacity for surgery does not remove her ability to choose clothing." },
+        { "id": "b", "text": "Ask her daughter, who is her agent, to pick the outfit by phone", "correct": false, "rationale": "Having an agent does not mean the resident lacks capacity for every decision." },
+        { "id": "c", "text": "Wait for a court to rule before letting her make any choices", "correct": false, "rationale": "A court decides legal competence; that is not needed for everyday decisions within her capacity." },
+        { "id": "d", "text": "Let her choose, because capacity applies only to the decision at hand", "correct": true, "rationale": "Correct. Capacity is determined for the decision at hand; a resident may still choose clothing." }
+      ],
+      "explanation": "Decision-making capacity is decided by the medical provider for the decision at hand only. A resident who lacks capacity for one decision may still make others, such as choosing clothing."
+    },
+    {
+      "id": "consent-advance-directives-07",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client named his son as his healthcare agent while he was cognitively stable. During a routine visit, the son tells staff, \"Since I'm Dad's agent, he can't make his own decisions anymore.\" Which nurse response is most accurate?",
+      "options": [
+        { "id": "a", "text": "\"Having an agent does not mean your father lacks capacity to decide.\"", "correct": true, "rationale": "Correct. Having an agent does not equal lacking capacity; the agent acts only when the client cannot decide." },
+        { "id": "b", "text": "\"Yes, naming an agent legally transfers all of his decisions to you.\"", "correct": false, "rationale": "Naming an agent does not remove the client's own decision-making while he has capacity." },
+        { "id": "c", "text": "\"Only after he signs a POLST will you be able to decide for him.\"", "correct": false, "rationale": "POLST is a medical order; it does not transfer decision-making to the agent." },
+        { "id": "d", "text": "\"Your role begins only once a court declares him incompetent.\"", "correct": false, "rationale": "The agent acts when the client cannot decide; a court ruling on competence is not the trigger described for an agent." }
+      ],
+      "explanation": "A healthcare agent is chosen while the person is cognitively stable to express wishes when the person cannot. Having an agent does not mean the person lacks capacity, and capacity is judged for each decision at hand."
+    },
+    {
+      "id": "consent-advance-directives-08",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A home care client chooses not to be resuscitated, and the physician gives a verbal DNR order. Within what time frame must the physician sign the DNR order?",
+      "options": [
+        { "id": "a", "text": "Within 24 hours", "correct": false, "rationale": "The textbook gives 48 hours for home care." },
+        { "id": "b", "text": "Within 72 hours", "correct": false, "rationale": "The textbook gives 48 hours for home care." },
+        { "id": "c", "text": "Within 48 hours", "correct": true, "rationale": "Correct. In home care, the physician signs the DNR within 48 hours." },
+        { "id": "d", "text": "Within 30 days", "correct": false, "rationale": "30 days is the OBRA notice period for transfer or discharge, not the DNR rule." }
+      ],
+      "explanation": "A DNR is a provider order not to perform CPR. In home care, the physician signs the DNR within 48 hours; in nursing facilities, an Out of Hospital form is signed by a clinician."
+    },
+    {
+      "id": "consent-advance-directives-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client asks how an advance medical directive (AMD) differs from a living will. Which response by the nurse is accurate?",
+      "options": [
+        { "id": "a", "text": "\"They are the same document known by two different names.\"", "correct": false, "rationale": "An AMD is not a living will." },
+        { "id": "b", "text": "\"An AMD applies only to terminal illness; a living will covers any situation.\"", "correct": false, "rationale": "This reverses them: the living will addresses terminal illness or condition." },
+        { "id": "c", "text": "\"A living will must name a decision maker; an AMD never names a person.\"", "correct": false, "rationale": "An AMD may or may not name a person; a living will states treatment wishes." },
+        { "id": "d", "text": "\"An AMD is usually more specific; a living will covers a terminal condition.\"", "correct": true, "rationale": "Correct. An AMD states wishes for when unable to speak and is usually more specific; a living will states wishes about treatment in a terminal illness or condition." }
+      ],
+      "explanation": "An AMD is not a living will. An AMD records wishes for when the person cannot speak, may or may not name a person, and is usually more specific. A living will records wishes about treatment in a terminal illness or condition."
+    },
+    {
+      "id": "consent-advance-directives-10",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "A client has a living will. Which conditions must be met before it takes effect? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The physician has the living will and the client lacks capacity", "correct": true, "rationale": "The physician must have the document and the client must lack capacity." },
+        { "id": "b", "text": "All family members agree with its contents", "correct": false, "rationale": "Family agreement is not a condition; the law upholds the client's expressed wishes." },
+        { "id": "c", "text": "A terminal condition has been determined", "correct": true, "rationale": "A terminal condition must be determined (or therapy would only prolong dying)." },
+        { "id": "d", "text": "The client has been admitted to a nursing facility", "correct": false, "rationale": "Setting is not a condition for a living will to take effect." },
+        { "id": "e", "text": "Orders have been written", "correct": true, "rationale": "Orders must be written for the living will to take effect." },
+        { "id": "f", "text": "A facility employee has signed as a witness", "correct": false, "rationale": "Facility owners and employees generally cannot witness a living will." }
+      ],
+      "explanation": "A living will takes effect only when (1) the physician has it and the patient lacks capacity, (2) a terminal condition is determined or therapy would only prolong dying, and (3) orders are written."
+    },
+    {
+      "id": "consent-advance-directives-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A resident in a long-term care facility asks the nurse to witness her signature on a living will. What is the nurse's best response?",
+      "options": [
+        { "id": "a", "text": "\"I'll sign now, since nurses are the preferred witnesses for these forms.\"", "correct": false, "rationale": "Facility employees generally cannot witness a living will." },
+        { "id": "b", "text": "\"Facility employees generally can't witness it; let's find someone else.\"", "correct": true, "rationale": "Correct. Most statutes require a witnessed signature, and facility owners and employees generally cannot serve as witnesses." },
+        { "id": "c", "text": "\"No witness is needed, because a living will only requires your signature.\"", "correct": false, "rationale": "Most statutes require a witnessed signature." },
+        { "id": "d", "text": "\"Once it is witnessed, you won't be able to change or revoke it later.\"", "correct": false, "rationale": "A living will is revocable at any time." }
+      ],
+      "explanation": "Most living will statutes require a witnessed signature, and facility owners and employees generally cannot witness. A living will can be revoked at any time (Connecticut example: age 18+, two witnesses)."
+    },
+    {
+      "id": "consent-advance-directives-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client is deciding between writing only a living will and also naming someone through a durable power of attorney for health care (DPAHC). Which advantage of a DPAHC should the nurse explain?",
+      "options": [
+        { "id": "a", "text": "The agent can override any court decision about the client's care", "correct": false, "rationale": "The agent does not override the court; the nurse upholds the patient's or court's decision." },
+        { "id": "b", "text": "The agent can sign the DNR order in place of the provider", "correct": false, "rationale": "A DNR is a provider order; the agent does not sign it as the provider." },
+        { "id": "c", "text": "The agent can assess the current situation and ask questions", "correct": true, "rationale": "Correct. Unlike a written living will, the agent can assess the current situation, ask questions, and gather information." },
+        { "id": "d", "text": "The agent can witness the client's living will for the facility", "correct": false, "rationale": "Witnessing is not the advantage of a DPAHC, and the agent's role is decision-making." }
+      ],
+      "explanation": "A DPAHC designates someone to decide when the patient cannot, based on the patient's wishes, desires, and values. Its advantage over a living will is that the agent can assess the current situation, ask questions, and gather information."
+    },
+    {
+      "id": "consent-advance-directives-13",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which statement correctly describes a POLST form?",
+      "options": [
+        { "id": "a", "text": "It is an advance directive that replaces a living will", "correct": false, "rationale": "POLST is not an advance directive and does not replace one." },
+        { "id": "b", "text": "It expires 1 year after the provider signs it", "correct": false, "rationale": "POLST never expires." },
+        { "id": "c", "text": "It can be updated by crossing out sections in pen", "correct": false, "rationale": "POLST cannot be modified; it must be voided and redone." },
+        { "id": "d", "text": "It is a medical order that does not expire", "correct": true, "rationale": "Correct. POLST is a medical order, not an advance directive, and it never expires." }
+      ],
+      "explanation": "POLST is \"a medical order, not an advance directive.\" It augments (does not replace) the AMD or DNR, is voluntary, never expires, and cannot be modified (void and redo). It is also known as MOLST or MOST."
+    },
+    {
+      "id": "consent-advance-directives-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client completing a POLST form with the provider checks \"YES, attempt CPR\" in Section A. Which option must be selected in Section B?",
+      "options": [
+        { "id": "a", "text": "Comfort-focused treatment", "correct": false, "rationale": "Comfort-focused treatment can be chosen only with No CPR." },
+        { "id": "b", "text": "Full treatments", "correct": true, "rationale": "Correct. Choosing YES CPR requires choosing Full Treatments in Section B." },
+        { "id": "c", "text": "Selective treatment", "correct": false, "rationale": "Selective treatment avoids the ICU and is not allowed with YES CPR." },
+        { "id": "d", "text": "Any Section B option", "correct": false, "rationale": "Any option is allowed only when No CPR (DNAR) is chosen." }
+      ],
+      "explanation": "On POLST, YES CPR in Section A requires Full Treatments in Section B. NO CPR (DNAR) allows any Section B option: full (all means, ICU), selective (avoid ICU), or comfort-focused (allow natural death)."
+    },
+    {
+      "id": "consent-advance-directives-15",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nursing facility resident is found without a pulse and not breathing. The resident's POLST shows \"No CPR\" in Section A. What should the nurse do?",
+      "options": [
+        { "id": "a", "text": "Begin compressions but avoid using the AED", "correct": false, "rationale": "\"No CPR\" means no compressions as well as no AED." },
+        { "id": "b", "text": "Apply the AED but do not give compressions", "correct": false, "rationale": "\"No CPR\" means no AED as well as no compressions." },
+        { "id": "c", "text": "Start full CPR until the family is reached", "correct": false, "rationale": "The POLST is a valid medical order; family contact does not override it." },
+        { "id": "d", "text": "Do not start compressions or apply an AED", "correct": true, "rationale": "Correct. A POLST \"No CPR\" order means no compressions and no AED." }
+      ],
+      "explanation": "When the patient has no pulse and is not breathing, POLST Section A applies. \"No CPR\" means no compressions and no AED. If the patient has a pulse and/or is breathing, Section B guides initial treatment."
+    },
+    {
+      "id": "consent-advance-directives-16",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is teaching staff how to use POLST forms correctly. Which statements are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "A faxed or electronic copy of the POLST is valid", "correct": true, "rationale": "Copies, faxes, and electronic versions are valid." },
+        { "id": "b", "text": "When two POLST forms exist, the most recent one is followed", "correct": true, "rationale": "The newest POLST supersedes older forms." },
+        { "id": "c", "text": "To change a POLST, void it and complete a new form", "correct": true, "rationale": "A POLST cannot be modified; it must be voided and redone." },
+        { "id": "d", "text": "A blank section means the resident wants no treatment of that kind", "correct": false, "rationale": "A blank section means no presumption; give the standard of care." },
+        { "id": "e", "text": "The emergency contact listed is the resident's legal representative", "correct": false, "rationale": "An emergency contact is not the same as a legal representative." },
+        { "id": "f", "text": "The POLST augments, rather than replaces, an advance directive", "correct": true, "rationale": "POLST augments and does not replace the AMD or DNR." }
+      ],
+      "explanation": "POLST never expires; copies, faxes, and electronic versions are valid; the newest supersedes; it can't be modified (void and redo). A blank section means no presumption (give the standard of care), and an emergency contact is not a legal representative."
+    },
+    {
+      "id": "consent-advance-directives-17",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A resident has had the same POLST form for 3 years. In which situations should the nurse ensure the POLST is reviewed? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The resident is transferred from the nursing facility to a hospital", "correct": true, "rationale": "Transfer is a time to review the POLST." },
+        { "id": "b", "text": "The resident has a major decline in health", "correct": true, "rationale": "A big health change calls for review." },
+        { "id": "c", "text": "The form has reached its 1-year expiration date", "correct": false, "rationale": "POLST never expires, so age of the form alone is not a review trigger." },
+        { "id": "d", "text": "A new primary care provider takes over the resident's care", "correct": true, "rationale": "A new primary provider is a review trigger." },
+        { "id": "e", "text": "The resident's goals of care change", "correct": true, "rationale": "New goals call for review." },
+        { "id": "f", "text": "A new emergency contact is added to page 2", "correct": false, "rationale": "Updating a contact is not one of the listed review triggers, and an emergency contact is not a legal representative." }
+      ],
+      "explanation": "POLST never expires but should be reviewed at transfer, with a big health change, with a new primary provider, and with new goals of care."
+    },
+    {
+      "id": "consent-advance-directives-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A competent 87-year-old client's advance directive states she wants no feeding tube. After a stroke, her children demand that one be placed. Which action by the nurse is best?",
+      "options": [
+        { "id": "a", "text": "Uphold the client's expressed wishes and involve the family and team early", "correct": true, "rationale": "Correct. The law consistently upholds the patient's expressed wishes; the nurse upholds the patient's or court's decision and communicates early to reduce conflict." },
+        { "id": "b", "text": "Follow the children's request, since family consent replaces the directive", "correct": false, "rationale": "The family's wishes do not override the patient's expressed wishes." },
+        { "id": "c", "text": "Place the tube temporarily until the family and provider reach agreement", "correct": false, "rationale": "Acting against the client's documented wishes violates her right to decide." },
+        { "id": "d", "text": "Tell the family the directive is invalid because a POLST was never completed", "correct": false, "rationale": "A POLST is voluntary and augments an advance directive; its absence does not invalidate the directive." }
+      ],
+      "explanation": "When family disagrees with a patient's directive, the law consistently upholds the patient's expressed wishes. The nurse upholds the patient's or court's decision and communicates early with family and team to reduce conflict; it is better to resolve dilemmas at the bedside than in the courtroom."
+    },
+    {
+      "id": "consent-advance-directives-19",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nursing class is reviewing the Affordable Care Act. Which statements about the ACA are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "It was signed into law in March 2010", "correct": true, "rationale": "The ACA was passed March 21, 2010 and signed March 23, 2010." },
+        { "id": "b", "text": "It offers coverage regardless of preexisting conditions or age", "correct": true, "rationale": "Coverage is provided regardless of community rating, preexisting conditions, or age." },
+        { "id": "c", "text": "It created the Medicare and Medicaid programs", "correct": false, "rationale": "Medicare and Medicaid came from the Social Security Amendments of 1965." },
+        { "id": "d", "text": "People of the same age group and location pay the same premium", "correct": true, "rationale": "The ACA set the same premium for the same age group and location." },
+        { "id": "e", "text": "Its individual mandate was repealed in 2017", "correct": true, "rationale": "2017 changes repealed the individual mandate." },
+        { "id": "f", "text": "Its 2017 changes eliminated all Medicaid waivers", "correct": false, "rationale": "The 2017 changes allowed more Medicaid waivers, not fewer." }
+      ],
+      "explanation": "The ACA (passed March 21, signed March 23, 2010) was the largest change since 1965. It aimed to reduce the uninsured and costs. 2017 changes repealed the individual mandate, ended cost-sharing reductions, allowed more Medicaid waivers, and expanded Association Health Plans."
+    },
+    {
+      "id": "consent-advance-directives-20",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nurse begins work at a nursing facility. A resident states she does not want CPR if her heart stops. Which document does the textbook identify for honoring this wish in a nursing facility?",
+      "options": [
+        { "id": "a", "text": "An Out of Hospital DNR form signed by a clinician", "correct": true, "rationale": "Correct. In nursing facilities, an Out of Hospital form signed by a clinician is used, and the nurse should request the facility's detailed policy." },
+        { "id": "b", "text": "A note from the nurse in the resident's care plan", "correct": false, "rationale": "A DNR is a provider order; a nursing note alone is not a DNR." },
+        { "id": "c", "text": "A living will witnessed by two facility employees", "correct": false, "rationale": "A living will addresses terminal illness and generally cannot be witnessed by facility employees." },
+        { "id": "d", "text": "A verbal request repeated to the family at each visit", "correct": false, "rationale": "Telling family does not create a DNR order; in some states CPR is presumed unless a DNR exists." }
+      ],
+      "explanation": "A DNR is a provider order not to perform CPR; in some states consent to CPR is presumed unless a DNR exists. In nursing facilities an Out of Hospital form is signed by a clinician, and the nurse should request a detailed policy. In home care the physician signs the DNR within 48 hours."
+    }
+  ]
+}

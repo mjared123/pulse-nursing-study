@@ -1,0 +1,914 @@
+{
+  "slug": "delirium-dementia-depression",
+  "title": "Delirium, Dementia & Depression",
+  "short": "Delirium, Dementia, Depr.",
+  "icon": "brain",
+  "description": "Reversible causes of delirium, the CAM algorithm, and how delirium, dementia, and depression differ in onset, course, tools, and management.",
+  "keyPoints": [
+    "DELIRIUM causes: Drugs, Electrolytes, Lack of drugs, Infection, Reduced sensory input, Intracranial, Urinary/intestinal, Myocardial and lungs.",
+    "Medications (side effects or sudden withdrawal) are the most common and most treatable cause of delirium.",
+    "CAM rule: feature 1 (acute onset or fluctuating course) + feature 2 (inattention) + either 3 (disorganized thinking) or 4 (altered LOC).",
+    "Delirium: attention, abrupt, reversible. Dementia: memory, slow, irreversible, patient alert. Delirium is often superimposed on dementia.",
+    "Key neurotransmitter in delirium: acetylcholine; people with dementia are at highest risk.",
+    "Sundowning = a form of evening delirium, partly from sensory deprivation.",
+    "Screening tools: dementia MoCA, MMSE, Mini-Cog; delirium CAM, CAM-ICU; depression GDS."
+  ],
+  "review": {
+    "pages": "pp. 40–42",
+    "bigIdea": "When an older adult's thinking changes, how do you tell delirium from dementia and depression, and what reversible causes do you hunt for?",
+    "objectives": [
+      "Compare the clinical presentation of delirium and dementia."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Delirium, dementia, and depression",
+        "pages": "pp. 40–42"
+      },
+      {
+        "type": "callout",
+        "tone": "alert",
+        "title": "Sudden confusion = look for illness",
+        "text": "A sudden change in cognitive function is often the result of illness, not aging. Delirium may be the first sign of a serious illness such as a heart attack. (p. 40)"
+      },
+      {
+        "type": "mnemonic",
+        "title": "DELIRIUM: reversible causes (Box 3.1)",
+        "letters": [
+          {
+            "letter": "D",
+            "word": "Drugs",
+            "text": "New medications, dose increases, interactions, OTC drugs, alcohol"
+          },
+          {
+            "letter": "E",
+            "word": "Electrolyte disturbances",
+            "text": "Especially dehydration and thyroid problems"
+          },
+          {
+            "letter": "L",
+            "word": "Lack of drugs",
+            "text": "Stopped long-term sedatives or alcohol; pain drugs not given adequately"
+          },
+          {
+            "letter": "I",
+            "word": "Infection",
+            "text": "Commonly urinary or respiratory tract"
+          },
+          {
+            "letter": "R",
+            "word": "Reduced sensory input",
+            "text": "Poor vision or hearing"
+          },
+          {
+            "letter": "I",
+            "word": "Intracranial",
+            "text": "Infection, hemorrhage, stroke, tumor (rare)"
+          },
+          {
+            "letter": "U",
+            "word": "Urinary / intestinal",
+            "text": "Constipation, inability to urinate"
+          },
+          {
+            "letter": "M",
+            "word": "Myocardial and lungs",
+            "text": "Heart attack, arrhythmia, worsening heart failure, COPD"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "title": "CAM diagnostic algorithm (Box 3.2): delirium = 1 + 2 + (3 or 4)",
+        "ordered": true,
+        "items": [
+          "Acute onset or fluctuating course (required)",
+          "Inattention: easily distractible (required)",
+          "Disorganized thinking: rambling, illogical (either this or feature 4)",
+          "Altered level of consciousness: anything but \"alert\" (either this or feature 3)"
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "Is a sudden change in cognition part of aging?",
+        "a": "No. It is usually the result of illness, not aging.\nDelirium is one of the most common atypical presentations of illness.\nKnow the person's baseline mental status."
+      },
+      {
+        "type": "cue",
+        "q": "What is the most common and most treatable cause of delirium?",
+        "a": "Medications: side effects or sudden withdrawal. Tell providers about every prescription and OTC drug.\nAlcohol (intoxication or withdrawal) is often overlooked; death after withdrawal is higher in older alcoholics."
+      },
+      {
+        "type": "cue",
+        "q": "Which neurotransmitter is involved, and who is at highest risk?",
+        "a": "Acetylcholine (dopamine is also involved).\nPeople with dementia are at high risk: dementia kills acetylcholine-producing cells, and small drops in brain oxygen or glucose lower acetylcholine further."
+      },
+      {
+        "type": "cue",
+        "q": "How do environment, sundowning, and surgery relate to delirium?",
+        "a": "Too little stimulation contributes; post-op delirium was twice as common in ICUs without windows.\nSundowning = evening delirium, partly from sensory deprivation.\nPost-op delirium may be the most common post-op complication; it is more common after hip and heart surgery.\nRisk increases with dementia, disability, heavy alcohol use, and abnormal labs."
+      },
+      {
+        "type": "cue",
+        "q": "Delirium vs. dementia: what is the key rule?",
+        "a": "Delirium: attention, abrupt, reversible.\nDementia: memory, slow, irreversible; a global, sustained decline in an alert patient.\nDelirium is often superimposed on dementia; families can tell you the onset and duration."
+      },
+      {
+        "type": "table",
+        "title": "Delirium vs. dementia vs. depression (Table 3.3)",
+        "columns": [
+          "",
+          "Dementia",
+          "Delirium",
+          "Depression"
+        ],
+        "rows": [
+          [
+            "Onset",
+            "Slow",
+            "Abrupt",
+            "Mood change for at least 2 weeks"
+          ],
+          [
+            "Course",
+            "Irreversible",
+            "Fluctuates; reversible",
+            "Relapsing; treatable"
+          ],
+          [
+            "Alertness",
+            "Alert by day",
+            "Fluctuates",
+            "Normal"
+          ],
+          [
+            "Focus",
+            "Normal",
+            "Impaired",
+            "Decreased concentration"
+          ],
+          [
+            "Perception",
+            "May have delusions",
+            "Illusions, hallucinations",
+            "Usually intact"
+          ],
+          [
+            "Sleep",
+            "Day/night reversal",
+            "Frequent changes",
+            "Hypersomnia"
+          ],
+          [
+            "Tool",
+            "MoCA, MMSE, Mini-Cog",
+            "CAM, CAM-ICU",
+            "GDS"
+          ],
+          [
+            "Manage",
+            "Cholinesterase inhibitors, NMDA drugs; watch polypharmacy",
+            "Treat the cause; quetiapine or risperidone only if unsafe",
+            "Medications plus cognitive therapy"
+          ]
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "What are the delirium subtypes (psychomotor)?",
+        "a": "Hyperactive: agitation, restlessness, hallucinations.\nHypoactive: somnolence, garbled or nonsensical speech.\nMixed: fluctuates between the two.\n(Dementia has BPSD: agitation, apathy, disinhibition, paranoia, repetitive movements, vocalizations.)"
+      },
+      {
+        "type": "cue",
+        "q": "Cultural assessment: what should you ask everyone?",
+        "a": "Ethnicity\nPreferred language\nWhether they know free interpreter services exist, and whether they want one\nEducation (none, less than 7th grade, 7th grade or more)"
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: What Would You Do? (p. 36) A post-ORIF patient, oriented to person only, says Clint Eastwood just proposed. What is going on, and how would you determine it?"
+      },
+      {
+        "type": "callout",
+        "tone": "exam",
+        "title": "Exam connection: delirium vs. dementia",
+        "text": "Delirium = attention, abrupt, fluctuating, reversible. Dementia = memory, slow, irreversible, patient alert. Delirium is often superimposed on dementia."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "delirium-dementia-depression-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which neurotransmitter is identified as the key neurotransmitter involved in delirium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serotonin",
+          "correct": false,
+          "rationale": "Serotonin is not the neurotransmitter the chapter links to delirium."
+        },
+        {
+          "id": "b",
+          "text": "Norepinephrine",
+          "correct": false,
+          "rationale": "Norepinephrine is not named as the key neurotransmitter in delirium."
+        },
+        {
+          "id": "c",
+          "text": "Acetylcholine",
+          "correct": true,
+          "rationale": "Correct. Acetylcholine is the key neurotransmitter; dopamine is also involved."
+        },
+        {
+          "id": "d",
+          "text": "Gamma-aminobutyric acid",
+          "correct": false,
+          "rationale": "GABA is not identified in the chapter as the key neurotransmitter in delirium."
+        }
+      ],
+      "explanation": "Acetylcholine is the key neurotransmitter in delirium, with dopamine also involved. Dementia kills acetylcholine-producing cells, which is why people with dementia are at highest risk."
+    },
+    {
+      "id": "delirium-dementia-depression-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "What is the most common and most treatable cause of delirium in older adults?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Medications",
+          "correct": true,
+          "rationale": "Correct. Medication side effects or sudden withdrawal are the most common and most treatable cause."
+        },
+        {
+          "id": "b",
+          "text": "Intracranial tumor",
+          "correct": false,
+          "rationale": "Tumor is listed under intracranial causes and is rare."
+        },
+        {
+          "id": "c",
+          "text": "Advanced age itself",
+          "correct": false,
+          "rationale": "A sudden change in cognition is usually the result of illness, not aging."
+        },
+        {
+          "id": "d",
+          "text": "Stroke or hemorrhage",
+          "correct": false,
+          "rationale": "Intracranial causes are possible but are not the most common or most treatable."
+        }
+      ],
+      "explanation": "Medications, through side effects or sudden withdrawal, are the most common and most treatable cause of delirium. Every prescription and OTC drug should be reported to providers."
+    },
+    {
+      "id": "delirium-dementia-depression-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Using the Confusion Assessment Method (CAM), which combination of features establishes delirium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Any two of the four features, in any combination",
+          "correct": false,
+          "rationale": "The CAM requires specific features, not any two."
+        },
+        {
+          "id": "b",
+          "text": "Features 1 and 3 only, without inattention",
+          "correct": false,
+          "rationale": "Inattention (feature 2) is required."
+        },
+        {
+          "id": "c",
+          "text": "Features 2 and 4 only, without an acute onset",
+          "correct": false,
+          "rationale": "Acute onset or fluctuating course (feature 1) is required."
+        },
+        {
+          "id": "d",
+          "text": "Features 1 and 2, plus either feature 3 or 4",
+          "correct": true,
+          "rationale": "Correct. Delirium requires acute onset/fluctuating course and inattention, plus disorganized thinking or altered LOC."
+        }
+      ],
+      "explanation": "CAM rule: feature 1 (acute onset or fluctuating course) and feature 2 (inattention) are both required, plus either feature 3 (disorganized thinking) or feature 4 (altered level of consciousness)."
+    },
+    {
+      "id": "delirium-dementia-depression-04",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 78-year-old client's confusion began yesterday and comes and goes. During the CAM, he cannot keep track of the conversation and is easily distracted. His speech is logical, but he is drowsy and difficult to keep awake. What should the nurse conclude?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The CAM is negative because his thinking is organized",
+          "correct": false,
+          "rationale": "Disorganized thinking is not required if altered LOC (feature 4) is present."
+        },
+        {
+          "id": "b",
+          "text": "The CAM is positive for delirium (features 1, 2, and 4)",
+          "correct": true,
+          "rationale": "Correct. Acute/fluctuating onset, inattention, and altered LOC (anything but alert) meet the CAM rule."
+        },
+        {
+          "id": "c",
+          "text": "The CAM cannot be scored until his thinking becomes illogical",
+          "correct": false,
+          "rationale": "Feature 3 or feature 4 is enough; waiting delays care."
+        },
+        {
+          "id": "d",
+          "text": "The findings suggest dementia because confusion is present",
+          "correct": false,
+          "rationale": "Dementia has a slow onset in an alert patient; this onset is abrupt and his alertness is altered."
+        }
+      ],
+      "explanation": "Delirium by CAM requires features 1 and 2 plus either 3 or 4. Altered level of consciousness means anything other than alert, so a drowsy client meets feature 4 even with logical speech."
+    },
+    {
+      "id": "delirium-dementia-depression-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The day after an ORIF of the right femur, an 80-year-old client is oriented to person only, pushes away her breakfast, and says a movie star just proposed to her. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document that the client has dementia and request a dementia care consult",
+          "correct": false,
+          "rationale": "An abrupt change after surgery suggests delirium, not dementia; labeling it dementia could miss a reversible cause."
+        },
+        {
+          "id": "b",
+          "text": "Reorient her firmly and remove the breakfast tray until she is calmer",
+          "correct": false,
+          "rationale": "This does not determine what is happening or look for a cause."
+        },
+        {
+          "id": "c",
+          "text": "Screen her with the CAM and ask family about her usual mental status",
+          "correct": true,
+          "rationale": "Correct. Post-op delirium is likely; the CAM screens for it, and family can describe baseline, onset, and duration."
+        },
+        {
+          "id": "d",
+          "text": "Request a prescription for an antipsychotic to manage her hallucinations",
+          "correct": false,
+          "rationale": "Delirium management is to treat the cause; quetiapine or risperidone is used only if the patient is unsafe."
+        }
+      ],
+      "explanation": "Post-op delirium may be the most common post-op complication, especially after hip surgery. The nurse screens with the CAM, compares with baseline by asking family, and looks for reversible causes (DELIRIUM)."
+    },
+    {
+      "id": "delirium-dementia-depression-06",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "An 84-year-old client develops delirium on the second hospital day. Using the DELIRIUM mnemonic, which possible causes should the nurse investigate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A new medication started on admission",
+          "correct": true,
+          "rationale": "Correct. D = Drugs, including new medications and dose increases."
+        },
+        {
+          "id": "b",
+          "text": "Dehydration from poor oral intake",
+          "correct": true,
+          "rationale": "Correct. E = Electrolyte disturbances, especially dehydration."
+        },
+        {
+          "id": "c",
+          "text": "Glasses and hearing aids left at home",
+          "correct": true,
+          "rationale": "Correct. R = Reduced sensory input from poor vision or hearing."
+        },
+        {
+          "id": "d",
+          "text": "Constipation or inability to urinate",
+          "correct": true,
+          "rationale": "Correct. U = Urinary/intestinal causes."
+        },
+        {
+          "id": "e",
+          "text": "Normal brain changes of advanced age",
+          "correct": false,
+          "rationale": "Delirium is caused by illness or other reversible factors, not normal aging."
+        },
+        {
+          "id": "f",
+          "text": "A private room with a large window",
+          "correct": false,
+          "rationale": "A window provides stimulation; post-op delirium was twice as common in ICUs without windows."
+        }
+      ],
+      "explanation": "DELIRIUM: Drugs, Electrolytes, Lack of drugs, Infection, Reduced sensory input, Intracranial, Urinary/intestinal, Myocardial and lungs. Each points to a reversible cause the nurse can look for."
+    },
+    {
+      "id": "delirium-dementia-depression-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement correctly contrasts delirium and dementia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delirium mainly affects memory; dementia mainly affects attention",
+          "correct": false,
+          "rationale": "This reverses them: delirium affects attention, and dementia affects memory."
+        },
+        {
+          "id": "b",
+          "text": "Delirium has a slow onset; dementia has an abrupt onset",
+          "correct": false,
+          "rationale": "Delirium is abrupt; dementia is slow."
+        },
+        {
+          "id": "c",
+          "text": "Delirium is irreversible; dementia is usually reversible",
+          "correct": false,
+          "rationale": "Delirium is reversible; dementia is irreversible."
+        },
+        {
+          "id": "d",
+          "text": "Delirium mainly affects attention; dementia mainly affects memory",
+          "correct": true,
+          "rationale": "Correct. Delirium is attention, abrupt, reversible; dementia is memory, slow, irreversible."
+        }
+      ],
+      "explanation": "Delirium predominantly affects attention, starts abruptly, fluctuates, and is reversible. Dementia predominantly affects memory, is slow and irreversible, and occurs in an alert patient."
+    },
+    {
+      "id": "delirium-dementia-depression-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A daughter reports that her 82-year-old father has become more forgetful over the past 3 years. He is alert during the day, sleeps during the day and is awake at night, and sometimes insists that a neighbor is stealing from him. Which condition and screening tool best fit these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dementia, screened with the MoCA",
+          "correct": true,
+          "rationale": "Correct. Slow onset, alert by day, day/night reversal, and possible delusions fit dementia; MoCA, MMSE, and Mini-Cog are its tools."
+        },
+        {
+          "id": "b",
+          "text": "Delirium, screened with the CAM",
+          "correct": false,
+          "rationale": "Delirium has an abrupt onset and fluctuating alertness, not a 3-year course in an alert person."
+        },
+        {
+          "id": "c",
+          "text": "Depression, screened with the GDS",
+          "correct": false,
+          "rationale": "Depression typically shows hypersomnia and decreased concentration, with perception usually intact."
+        },
+        {
+          "id": "d",
+          "text": "Delirium, screened with the OARS",
+          "correct": false,
+          "rationale": "The course does not fit delirium, and OARS is a social resource scale, not a cognitive screen."
+        }
+      ],
+      "explanation": "Table 3.3: dementia has a slow onset, irreversible course, alert by day, normal focus, possible delusions, and day/night reversal. Screening tools are the MoCA, MMSE, and Mini-Cog."
+    },
+    {
+      "id": "delirium-dementia-depression-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is identifying clients at highest risk for delirium on a medical unit. Which client should the nurse monitor most closely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 70-year-old with well-controlled hypertension and no cognitive deficits",
+          "correct": false,
+          "rationale": "This client has no identified risk factors for delirium."
+        },
+        {
+          "id": "b",
+          "text": "A 73-year-old admitted for elective testing who wears glasses that she has with her",
+          "correct": false,
+          "rationale": "Glasses in place reduce the risk of reduced sensory input."
+        },
+        {
+          "id": "c",
+          "text": "A 76-year-old with mild osteoarthritis who walks the hallway twice daily",
+          "correct": false,
+          "rationale": "Mobility and stimulation do not increase delirium risk."
+        },
+        {
+          "id": "d",
+          "text": "An 85-year-old with Alzheimer dementia admitted with dehydration",
+          "correct": true,
+          "rationale": "Correct. Dementia kills acetylcholine-producing cells, and dehydration is a reversible cause; this client is at highest risk."
+        }
+      ],
+      "explanation": "People with dementia are at high risk for delirium because dementia kills acetylcholine-producing cells, and small drops in brain oxygen or glucose lower acetylcholine further. Dehydration adds an electrolyte cause."
+    },
+    {
+      "id": "delirium-dementia-depression-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 79-year-old postoperative client is very sleepy, hard to engage, and mumbles words that do not make sense. The staff describe her as \"quiet and no trouble.\" Which subtype of delirium should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyperactive delirium",
+          "correct": false,
+          "rationale": "Hyperactive delirium shows agitation, restlessness, and hallucinations."
+        },
+        {
+          "id": "b",
+          "text": "Hypoactive delirium",
+          "correct": true,
+          "rationale": "Correct. Somnolence and garbled or nonsensical speech describe hypoactive delirium."
+        },
+        {
+          "id": "c",
+          "text": "Mixed-type delirium",
+          "correct": false,
+          "rationale": "Mixed delirium fluctuates between hyperactive and hypoactive features."
+        },
+        {
+          "id": "d",
+          "text": "Normal recovery from anesthesia",
+          "correct": false,
+          "rationale": "Somnolence with garbled speech fits hypoactive delirium and needs assessment, not dismissal."
+        }
+      ],
+      "explanation": "Delirium subtypes: hyperactive (agitation, restlessness, hallucinations), hypoactive (somnolence, garbled or nonsensical speech), and mixed (fluctuates). A quiet client may still be delirious."
+    },
+    {
+      "id": "delirium-dementia-depression-11",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which term describes a form of evening delirium that is partly related to sensory deprivation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypoactive delirium",
+          "correct": false,
+          "rationale": "Hypoactive delirium is a psychomotor subtype with somnolence and garbled speech, not tied to evening."
+        },
+        {
+          "id": "b",
+          "text": "Pseudodementia",
+          "correct": false,
+          "rationale": "This term is not the one the chapter uses for evening delirium."
+        },
+        {
+          "id": "c",
+          "text": "Sundowning",
+          "correct": true,
+          "rationale": "Correct. Sundowning is evening delirium, partly from sensory deprivation."
+        },
+        {
+          "id": "d",
+          "text": "Day/night reversal",
+          "correct": false,
+          "rationale": "Day/night reversal is the sleep pattern listed for dementia in Table 3.3."
+        }
+      ],
+      "explanation": "Sundowning is a form of evening delirium, partly caused by sensory deprivation. Too little stimulation contributes to delirium."
+    },
+    {
+      "id": "delirium-dementia-depression-12",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Postoperative delirium occurred twice as often in ICUs without windows. Which explanation best accounts for this finding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Too little sensory stimulation contributes to delirium",
+          "correct": true,
+          "rationale": "Correct. Too little stimulation contributes to delirium, as does sensory deprivation in sundowning."
+        },
+        {
+          "id": "b",
+          "text": "Windowless rooms are used for clients with more surgery",
+          "correct": false,
+          "rationale": "The chapter links the finding to stimulation, not to surgical case mix."
+        },
+        {
+          "id": "c",
+          "text": "Natural light raises acetylcholine levels in the brain",
+          "correct": false,
+          "rationale": "The chapter does not make this claim; the explanation given is lack of stimulation."
+        },
+        {
+          "id": "d",
+          "text": "Rooms with windows are noisier and keep clients awake",
+          "correct": false,
+          "rationale": "The finding points to too little stimulation as the problem, not too much."
+        }
+      ],
+      "explanation": "Too little stimulation contributes to delirium. Post-op delirium was twice as common in ICUs without windows, and sundowning is partly due to sensory deprivation."
+    },
+    {
+      "id": "delirium-dementia-depression-13",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse is reviewing a surgical schedule to identify clients at increased risk for postoperative delirium. Which factors increase the risk? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scheduled for hip surgery",
+          "correct": true,
+          "rationale": "Correct. Post-op delirium is more common after hip surgery."
+        },
+        {
+          "id": "b",
+          "text": "Preexisting dementia",
+          "correct": true,
+          "rationale": "Correct. Dementia increases the risk of post-op delirium."
+        },
+        {
+          "id": "c",
+          "text": "Heavy alcohol use",
+          "correct": true,
+          "rationale": "Correct. Heavy alcohol use increases risk."
+        },
+        {
+          "id": "d",
+          "text": "Abnormal preoperative labs",
+          "correct": true,
+          "rationale": "Correct. Abnormal labs increase risk."
+        },
+        {
+          "id": "e",
+          "text": "Assignment to an ICU room with a window",
+          "correct": false,
+          "rationale": "Windows provide stimulation; delirium was twice as common in ICUs without windows."
+        },
+        {
+          "id": "f",
+          "text": "Wearing hearing aids that work well",
+          "correct": false,
+          "rationale": "Working hearing aids reduce the risk from reduced sensory input."
+        }
+      ],
+      "explanation": "Post-op delirium may be the most common post-op complication. It is more common after hip and heart surgery, and risk rises with dementia, disability, heavy alcohol use, and abnormal labs."
+    },
+    {
+      "id": "delirium-dementia-depression-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "On hospital day 2, a 74-year-old client admitted for a fractured wrist becomes tremulous, agitated, and confused. The admission history lists no medications. Which question is most important for the nurse to ask the family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Has anyone in the family ever had Alzheimer disease?\"",
+          "correct": false,
+          "rationale": "Family history does not explain an abrupt change; a reversible cause such as withdrawal must be found."
+        },
+        {
+          "id": "b",
+          "text": "\"What was his usual daily intake of alcohol at home?\"",
+          "correct": true,
+          "rationale": "Correct. Alcohol withdrawal is an often-overlooked cause of delirium, and death after withdrawal is higher in older alcoholics."
+        },
+        {
+          "id": "c",
+          "text": "\"Does he usually take a nap in the late afternoon?\"",
+          "correct": false,
+          "rationale": "Napping habits do not explain tremor and agitation on day 2."
+        },
+        {
+          "id": "d",
+          "text": "\"Did he finish high school, or stop before the 7th grade?\"",
+          "correct": false,
+          "rationale": "Education is part of cultural assessment but does not address the likely cause of this change."
+        }
+      ],
+      "explanation": "Alcohol intoxication or withdrawal is an often-overlooked cause of delirium (L = Lack of drugs includes stopping alcohol). Death after alcohol withdrawal is higher in older alcoholics."
+    },
+    {
+      "id": "delirium-dementia-depression-15",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Using Table 3.3, the nurse compares the three conditions. Which findings are characteristic of depression in an older adult? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mood change lasting at least 2 weeks",
+          "correct": true,
+          "rationale": "Correct. Depression onset in Table 3.3 is a mood change for at least 2 weeks."
+        },
+        {
+          "id": "b",
+          "text": "Hypersomnia",
+          "correct": true,
+          "rationale": "Correct. The sleep pattern listed for depression is hypersomnia."
+        },
+        {
+          "id": "c",
+          "text": "Illusions and hallucinations",
+          "correct": false,
+          "rationale": "These are perceptual findings of delirium; in depression, perception is usually intact."
+        },
+        {
+          "id": "d",
+          "text": "Decreased concentration",
+          "correct": true,
+          "rationale": "Correct. Focus in depression is decreased concentration."
+        },
+        {
+          "id": "e",
+          "text": "Day/night reversal",
+          "correct": false,
+          "rationale": "Day/night reversal is the sleep pattern listed for dementia."
+        },
+        {
+          "id": "f",
+          "text": "A relapsing but treatable course",
+          "correct": true,
+          "rationale": "Correct. Depression is relapsing and treatable."
+        }
+      ],
+      "explanation": "Depression in Table 3.3: mood change for at least 2 weeks, relapsing but treatable course, normal alertness, decreased concentration, perception usually intact, hypersomnia, screened with the GDS, and managed with medications plus cognitive therapy."
+    },
+    {
+      "id": "delirium-dementia-depression-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A client with confirmed delirium is calm but disoriented, and the provider asks the nurse for input on the plan. Which approach is consistent with the management of delirium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begin a cholinesterase inhibitor to improve memory",
+          "correct": false,
+          "rationale": "Cholinesterase inhibitors are listed for dementia management, not delirium."
+        },
+        {
+          "id": "b",
+          "text": "Give scheduled quetiapine to prevent agitation",
+          "correct": false,
+          "rationale": "Quetiapine or risperidone is reserved for when the patient is unsafe."
+        },
+        {
+          "id": "c",
+          "text": "Start medication plus cognitive therapy sessions",
+          "correct": false,
+          "rationale": "Medications plus cognitive therapy are listed for depression."
+        },
+        {
+          "id": "d",
+          "text": "Identify and treat the underlying cause",
+          "correct": true,
+          "rationale": "Correct. Delirium management is to treat the cause."
+        }
+      ],
+      "explanation": "Table 3.3 management: delirium, treat the cause (quetiapine or risperidone only if unsafe); dementia, cholinesterase inhibitors and NMDA drugs with attention to polypharmacy; depression, medications plus cognitive therapy."
+    },
+    {
+      "id": "delirium-dementia-depression-17",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "During admission, the nurse completes a cultural assessment that should be asked of every client. Which items should the nurse include? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethnicity",
+          "correct": true,
+          "rationale": "Correct. Ethnicity is asked of everyone."
+        },
+        {
+          "id": "b",
+          "text": "Preferred language",
+          "correct": true,
+          "rationale": "Correct. Preferred language is part of the cultural assessment."
+        },
+        {
+          "id": "c",
+          "text": "Knowledge that free interpreter services exist and whether one is wanted",
+          "correct": true,
+          "rationale": "Correct. The nurse asks whether the client knows about free interpreter services and wants one."
+        },
+        {
+          "id": "d",
+          "text": "Level of education",
+          "correct": true,
+          "rationale": "Correct. Education (none, less than 7th grade, 7th grade or more) is asked."
+        },
+        {
+          "id": "e",
+          "text": "Annual household income",
+          "correct": false,
+          "rationale": "Income is not one of the cultural assessment items listed."
+        },
+        {
+          "id": "f",
+          "text": "Citizenship or immigration status",
+          "correct": false,
+          "rationale": "This is not one of the items the chapter lists for the cultural assessment."
+        }
+      ],
+      "explanation": "Everyone is asked about ethnicity, preferred language, awareness of and desire for free interpreter services, and education (none, less than 7th grade, 7th grade or more)."
+    },
+    {
+      "id": "delirium-dementia-depression-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A resident with moderate Alzheimer dementia is usually pleasant and alert. Since last night she cannot focus on a conversation and drifts between drowsiness and agitation. What is the most likely explanation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expected progression of her Alzheimer dementia",
+          "correct": false,
+          "rationale": "Dementia progresses slowly in an alert patient; an overnight change in attention and alertness is not typical progression."
+        },
+        {
+          "id": "b",
+          "text": "New-onset depression with hypersomnia",
+          "correct": false,
+          "rationale": "Depression requires a mood change for at least 2 weeks, and alertness is normal."
+        },
+        {
+          "id": "c",
+          "text": "Delirium superimposed on her dementia",
+          "correct": true,
+          "rationale": "Correct. Abrupt inattention and fluctuating alertness signal delirium, which is often superimposed on dementia."
+        },
+        {
+          "id": "d",
+          "text": "Sundowning that is normal for this stage",
+          "correct": false,
+          "rationale": "Sundowning is a form of delirium, not a normal finding, and this change is not limited to evening."
+        }
+      ],
+      "explanation": "Delirium is often superimposed on dementia. An abrupt change in attention and fluctuating alertness points to delirium, and the family can describe onset and duration."
+    },
+    {
+      "id": "delirium-dementia-depression-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "The nurse reviews a care plan for an 81-year-old client with hyperactive delirium. Which planned intervention requires revision?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Review all prescription and OTC drugs with the provider",
+          "correct": false,
+          "rationale": "Appropriate. Medications are the most common and most treatable cause of delirium."
+        },
+        {
+          "id": "b",
+          "text": "Ensure glasses and hearing aids are in place and working",
+          "correct": false,
+          "rationale": "Appropriate. Reduced sensory input is a reversible cause."
+        },
+        {
+          "id": "c",
+          "text": "Ask the family about baseline mental status and onset",
+          "correct": false,
+          "rationale": "Appropriate. Families can tell onset and duration and help establish baseline."
+        },
+        {
+          "id": "d",
+          "text": "Give risperidone routinely before searching for a cause",
+          "correct": true,
+          "rationale": "Correct. This needs revision: delirium is managed by treating the cause, with quetiapine or risperidone only if the patient is unsafe."
+        }
+      ],
+      "explanation": "Delirium is managed by identifying and treating its cause. Antipsychotics such as quetiapine or risperidone are reserved for when the patient is unsafe, not given routinely first."
+    },
+    {
+      "id": "delirium-dementia-depression-20",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is documenting behavioral and psychological symptoms of dementia (BPSD) for a resident with Alzheimer disease. Which behaviors are examples of BPSD? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agitation",
+          "correct": true,
+          "rationale": "Correct. Agitation is listed among BPSD."
+        },
+        {
+          "id": "b",
+          "text": "Apathy",
+          "correct": true,
+          "rationale": "Correct. Apathy is a BPSD behavior."
+        },
+        {
+          "id": "c",
+          "text": "Repetitive movements and vocalizations",
+          "correct": true,
+          "rationale": "Correct. Repetitive movements and vocalizations are listed BPSD."
+        },
+        {
+          "id": "d",
+          "text": "Abrupt inattention that started today",
+          "correct": false,
+          "rationale": "Abrupt inattention points to delirium, not BPSD."
+        },
+        {
+          "id": "e",
+          "text": "Paranoia and disinhibition",
+          "correct": true,
+          "rationale": "Correct. Paranoia and disinhibition are BPSD."
+        }
+      ],
+      "explanation": "BPSD include agitation, apathy, disinhibition, paranoia, repetitive movements, and vocalizations. An abrupt change in attention suggests superimposed delirium instead."
+    }
+  ]
+}

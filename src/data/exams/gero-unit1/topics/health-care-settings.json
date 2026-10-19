@@ -1,0 +1,328 @@
+{
+  "slug": "health-care-settings",
+  "title": "Health Status, Medicare & Care Settings",
+  "short": "Health, Medicare & Settings",
+  "icon": "hospital",
+  "description": "Older adults' health status, functional ability (ADLs and IADLs), Medicare eligibility and Parts A to D, and what nurses need in acute care, subacute, nursing facility, home care, and integrated systems.",
+  "keyPoints": [
+    "Old age is not synonymous with disease. Most older adults have at least one chronic condition (arthritis 47%, coronary heart disease 14%), yet they tend to rate their own health positively.",
+    "ADLs (Katz, 1963): bathing, dressing, eating, transferring, toileting. IADLs (Lawton & Brody, 1969): shopping, cooking, housekeeping, laundry, handling money.",
+    "Physical frailty and cognitive impairment are the two conditions that increase institutionalization.",
+    "Medicare: 65+, under 65 with certain disabilities, or any age with ESRD. Part A hospital insurance, B medical insurance, C Medicare Advantage (HMO/PPO), D prescription drugs.",
+    "The hospital is \"one of the most dangerous settings for older persons\" because few acute care hospitals adequately prevent functional decline or promote independence.",
+    "Nursing facility APN roles: AGACNP = case manager/coordinator; AGPCNP = primary care; AGCNS = staff education and consultant.",
+    "Home care nurses must be self-directed with keen clinical judgment and assess functional status, home safety, family dynamics, and community resources."
+  ],
+  "review": {
+    "pages": "pp. 8–11",
+    "bigIdea": "How healthy are older adults, how does Medicare pay for their care, and what must nurses know in each care setting as patients grow frailer?",
+    "objectives": [
+      "Describe how sex, marital status, race/ethnicity, living situation, education, economic status, and functional status affect health, well-being, and life expectancy.",
+      "Discuss how the aging of society will affect the future of healthcare delivery."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "Health status and Medicare", "pages": "pp. 8–9" },
+      { "type": "cue", "q": "Is disease a normal part of aging?", "a": "No. \"Old age is not synonymous with disease.\" Risk rises with age, but sickness and institutionalization are not the norm.\nExpect wellness: people with chronic disease can still be well on the health–illness continuum, and older adults tend to rate their own health positively." },
+      { "type": "cue", "q": "Key health statistics?", "a": "20% of adults over 75 rate their health as fair or poor.\nMost have at least one chronic condition. Most common: arthritis 47%, coronary heart disease 14%.\n2021 vaccines: flu 75%, pneumococcal 68%, at least one COVID dose 95%.\nObese about 30%; smokers 9%; psychological distress 12%." },
+      { "type": "cue", "q": "What matters more than disease counts, and why?", "a": "Functional ability: the capacity to carry out the basic self-care that ensures health and well-being.\nADLs: bathing, dressing, eating, transferring, toileting (Katz, 1963).\nIADLs: shopping, cooking, housekeeping, laundry, handling money (Lawton & Brody, 1969).\nPreventing physical frailty and cognitive impairment matters because they are the two conditions that increase institutionalization." },
+      {
+        "type": "table",
+        "title": "ADLs vs. IADLs",
+        "columns": ["", "ADLs", "IADLs"],
+        "rows": [
+          ["What they measure", "Basic self-care", "Running a home"],
+          ["Source", "Katz, 1963", "Lawton & Brody, 1969"],
+          ["Examples", "Bathing, dressing, eating, transferring, toileting", "Shopping, cooking, housekeeping, laundry, handling money"]
+        ]
+      },
+      { "type": "cue", "q": "Who is eligible for Medicare?", "a": "People 65 and older\nPeople under 65 with certain disabilities\nPeople of any age with end-stage renal disease (dialysis or transplant)" },
+      { "type": "list", "title": "Medicare Parts A to D", "ordered": false, "items": ["Part A, hospital insurance: inpatient care, skilled nursing facility, hospice, home health, transfusions", "Part B, medical insurance", "Part C, Medicare Advantage (HMOs, PPOs)", "Part D, prescription drugs"] },
+      { "type": "recall", "text": "Summarize from memory: Explain the difference between ADLs and IADLs with two examples each." },
+      { "type": "callout", "tone": "conflict", "title": "Book conflict: leading causes of death", "text": "p. 9 lists heart disease, cancer, COVID-19, stroke, chronic lower respiratory diseases, Alzheimer disease, and diabetes. The p. 16 Key Points list the top three as cardiovascular disease, cancer, and COPD. Ask your instructor which list to learn." },
+      { "type": "callout", "tone": "exam", "title": "ADLs vs. IADLs", "text": "ADLs = basic self-care: bathing, dressing, eating, transferring, toileting. IADLs = running a home: shopping, cooking, housekeeping, laundry, handling money." },
+
+      { "type": "heading", "text": "Healthcare delivery settings", "pages": "pp. 9–11" },
+      { "type": "list", "title": "Three things gerontologic nurses must do urgently", "ordered": true, "items": ["Create roles across the continuum of care", "Develop care models for all levels of prevention, especially primary prevention and health promotion in the community", "Assume leadership in care settings and the political arena"] },
+      { "type": "text", "text": "The overriding fact: most older adults' problems fall within the scope of nursing practice." },
+      { "type": "cue", "q": "Why is the hospital \"one of the most dangerous settings for older persons\"?", "a": "Few acute care hospitals adequately prevent functional decline or promote independence.\nCommon acute conditions: stroke, hip fracture, CHF, infections.\nSubacute units bridge hospital to home (chemotherapy, wound care, IV therapy, ventilator care)." },
+      { "type": "list", "title": "What acute care nurses need", "ordered": true, "items": ["Knowledge of normal vs. abnormal aging", "Strong assessment skills to detect subtle changes", "Communication skills for clients with delirium, dementia, or depression", "Rehabilitation principles", "Sensitivity and patience (dignity and respect)"] },
+      { "type": "cue", "q": "What are the problems in nursing facilities, and the APN roles there?", "a": "Residents are now more acutely ill.\nProblems: too few qualified staff, insufficient staff mix, and an environment not suited to unstable residents.\nAGACNP = case manager/coordinator. AGPCNP = primary care. AGCNS = staff education and consultant." },
+      { "type": "cue", "q": "What drives home care, and what must the home care nurse do?", "a": "Drivers: the wish to stay home, and sicker patients sent home sooner.\nThe nurse must be self-directed with keen clinical judgment (decides on referrals).\nAssess functional status, home safety, family dynamics, and community resources.\nRespect the client's right to live at home.\nDo community assessments for all levels of prevention." },
+      { "type": "cue", "q": "Name the integrated system types.", "a": "Managed care organizations (MCOs), patient-centered medical homes (PCMHs), accountable care organizations (ACOs), concierge practices, and pay-as-you-go clinics.\nThey emphasize health promotion and disease prevention. Systems must allow ease of movement along the continuum." },
+      { "type": "recall", "text": "Summarize from memory: Why must future nurses be ready for frailer patients in every setting?" },
+      { "type": "callout", "tone": "alert", "title": "The hospital is dangerous for older adults", "text": "Few acute care hospitals adequately prevent functional decline or promote independence, so the hospital \"continues to be one of the most dangerous settings for older persons.\" (p. 10)" },
+      { "type": "callout", "tone": "key", "title": "Key points (p. 16)", "text": "Most older adults have at least one chronic condition. Gerontologic nursing roles were shaped by growth of the profession, more education, demographic changes, and changes in healthcare delivery." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "health-care-settings-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A 67-year-old client says she enrolled in a Medicare Advantage HMO plan. Which part of Medicare is this?",
+      "options": [
+        { "id": "a", "text": "Part A", "correct": false, "rationale": "Part A is hospital insurance (inpatient, SNF, hospice, home health, transfusions)." },
+        { "id": "b", "text": "Part B", "correct": false, "rationale": "Part B is medical insurance." },
+        { "id": "c", "text": "Part C", "correct": true, "rationale": "Correct. Part C is Medicare Advantage, offered through HMOs and PPOs." },
+        { "id": "d", "text": "Part D", "correct": false, "rationale": "Part D covers prescription drugs." }
+      ],
+      "explanation": "Medicare Part A is hospital insurance, Part B is medical insurance, Part C is Medicare Advantage (HMOs, PPOs), and Part D is prescription drug coverage."
+    },
+    {
+      "id": "health-care-settings-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which two conditions does the chapter identify as increasing the likelihood that an older adult will be institutionalized?",
+      "options": [
+        { "id": "a", "text": "Physical frailty and cognitive impairment", "correct": true, "rationale": "Correct. Preventing physical frailty and cognitive impairment matters because they increase institutionalization." },
+        { "id": "b", "text": "Arthritis and coronary heart disease together", "correct": false, "rationale": "These are the most common chronic conditions, not the two linked to institutionalization." },
+        { "id": "c", "text": "Obesity and psychological distress", "correct": false, "rationale": "These are reported health statistics (about 30% and 12%), not the two conditions named." },
+        { "id": "d", "text": "Living alone and low education", "correct": false, "rationale": "These are social factors that affect health, but they are not the two conditions named." }
+      ],
+      "explanation": "Functional ability matters more than disease counts. Physical frailty and cognitive impairment are the two conditions that increase institutionalization, so preventing them is a nursing priority."
+    },
+    {
+      "id": "health-care-settings-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "An 83-year-old client can bathe, dress, and eat independently but needs help with laundry and grocery shopping. How should the nurse classify the client's needs?",
+      "options": [
+        { "id": "a", "text": "ADL deficits measured by the Katz index", "correct": false, "rationale": "The Katz ADLs are bathing, dressing, eating, transferring, and toileting, which the client does independently." },
+        { "id": "b", "text": "Signs of physical frailty needing placement", "correct": false, "rationale": "Needing help with household tasks does not by itself call for institutional placement." },
+        { "id": "c", "text": "Expected changes that need no further assessment", "correct": false, "rationale": "Changes in function should be assessed against the client's own past status, not dismissed." },
+        { "id": "d", "text": "IADL needs as described by Lawton and Brody", "correct": true, "rationale": "Correct. Shopping, cooking, housekeeping, laundry, and handling money are IADLs (Lawton & Brody, 1969)." }
+      ],
+      "explanation": "ADLs (Katz, 1963) are basic self-care: bathing, dressing, eating, transferring, toileting. IADLs (Lawton & Brody, 1969) are tasks of running a home: shopping, cooking, housekeeping, laundry, handling money."
+    },
+    {
+      "id": "health-care-settings-04",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse at a community clinic is helping clients understand Medicare. Which clients are eligible? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "A 70-year-old retired teacher", "correct": true, "rationale": "People 65 and older are eligible." },
+        { "id": "b", "text": "A 48-year-old receiving dialysis for end-stage renal disease", "correct": true, "rationale": "People of any age with ESRD (dialysis or transplant) are eligible." },
+        { "id": "c", "text": "A 62-year-old who began early Social Security benefits", "correct": false, "rationale": "Early Social Security at 62 does not make a person Medicare eligible; eligibility starts at 65 unless disability or ESRD applies." },
+        { "id": "d", "text": "A 35-year-old kidney transplant recipient with ESRD", "correct": true, "rationale": "ESRD with transplant qualifies at any age." },
+        { "id": "e", "text": "A 60-year-old with arthritis and a low income", "correct": false, "rationale": "Arthritis and low income are not eligibility criteria." },
+        { "id": "f", "text": "A 64-year-old planning to retire next year", "correct": false, "rationale": "Planned retirement does not create eligibility before 65." }
+      ],
+      "explanation": "Medicare covers people 65 and older, people under 65 with certain disabilities, and people of any age with end-stage renal disease requiring dialysis or a transplant."
+    },
+    {
+      "id": "health-care-settings-05",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A client's daughter asks which part of Medicare is the hospital insurance that covers inpatient care, skilled nursing facility care, and hospice. What does the nurse answer?",
+      "options": [
+        { "id": "a", "text": "Part D, which also covers drugs", "correct": false, "rationale": "Part D covers prescription drugs only." },
+        { "id": "b", "text": "Part A, the hospital insurance", "correct": true, "rationale": "Correct. Part A covers inpatient care, SNF, hospice, home health, and transfusions." },
+        { "id": "c", "text": "Part B, the medical insurance", "correct": false, "rationale": "Part B is medical insurance, not the hospital insurance described." },
+        { "id": "d", "text": "Part C, the Advantage HMO plan", "correct": false, "rationale": "Part C is Medicare Advantage through HMOs and PPOs." }
+      ],
+      "explanation": "Part A is hospital insurance: inpatient care, skilled nursing facility care, hospice, home health, and transfusions. Part B is medical insurance, Part C is Medicare Advantage, and Part D is prescription drugs."
+    },
+    {
+      "id": "health-care-settings-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 80-year-old client says, \"I'm old, so being sick all the time is just normal now.\" Which response by the nurse is best?",
+      "options": [
+        { "id": "a", "text": "\"You're right; most people your age are sick and in nursing homes.\"", "correct": false, "rationale": "Sickness and institutionalization are not the norm; only about 11% are institutionalized." },
+        { "id": "b", "text": "\"Most people your age have no chronic conditions, so this is unusual.\"", "correct": false, "rationale": "Most older adults do have at least one chronic condition." },
+        { "id": "c", "text": "\"Old age isn't the same as disease. Let's find out what's wrong.\"", "correct": true, "rationale": "Correct. Old age is not synonymous with disease; the nurse expects wellness and investigates." },
+        { "id": "d", "text": "\"At your age it's best to accept illness rather than look for causes.\"", "correct": false, "rationale": "Accepting illness as normal conflicts with the expectation of wellness." }
+      ],
+      "explanation": "Old age is not synonymous with disease. Risk rises with age, but sickness and institutionalization are not the norm. Nurses hold an expectation of wellness, even for clients with chronic conditions."
+    },
+    {
+      "id": "health-care-settings-07",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Which statements about the health status of older adults are accurate? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "About 20% of adults over 75 rate their health as fair or poor.", "correct": true, "rationale": "This is the chapter's figure; most older adults rate their health positively." },
+        { "id": "b", "text": "Arthritis is the most common chronic condition, at about 47%.", "correct": true, "rationale": "Arthritis (47%) is the most common chronic condition." },
+        { "id": "c", "text": "Coronary heart disease affects about 47% of older adults.", "correct": false, "rationale": "Coronary heart disease affects about 14%; 47% is arthritis." },
+        { "id": "d", "text": "About 75% received a flu vaccine in 2021.", "correct": true, "rationale": "2021 vaccination rates: flu 75%, pneumococcal 68%, at least one COVID dose 95%." },
+        { "id": "e", "text": "Most older adults have no chronic conditions.", "correct": false, "rationale": "Most older adults have at least one chronic condition." },
+        { "id": "f", "text": "About 9% of older adults smoke.", "correct": true, "rationale": "About 9% smoke, about 30% are obese, and 12% report psychological distress." }
+      ],
+      "explanation": "Most older adults have at least one chronic condition, most often arthritis (47%) and coronary heart disease (14%), yet only 20% of those over 75 rate their health fair or poor. In 2021, 75% had a flu vaccine, 68% pneumococcal, and 95% at least one COVID dose; about 30% were obese, 9% smoked, and 12% reported psychological distress."
+    },
+    {
+      "id": "health-care-settings-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 76-year-old client with type 2 diabetes and arthritis says, \"My health is good. I garden and walk every day.\" How should the nurse interpret this statement?",
+      "options": [
+        { "id": "a", "text": "The client can be well on the health–illness continuum despite chronic disease.", "correct": true, "rationale": "Correct. People with chronic disease can still be well, and older adults tend to rate their health positively." },
+        { "id": "b", "text": "The client is likely denying illness, so the nurse should challenge the statement.", "correct": false, "rationale": "Positive self-rating is common among older adults and is not evidence of denial." },
+        { "id": "c", "text": "The client's two chronic diseases mean the client cannot truly be considered well.", "correct": false, "rationale": "Chronic disease does not rule out wellness on the health–illness continuum." },
+        { "id": "d", "text": "The client's self-rating is unreliable, so it should be left out of the record.", "correct": false, "rationale": "The client's own view of health is meaningful assessment data." }
+      ],
+      "explanation": "The expectation of wellness means people with chronic disease can still be well on the health–illness continuum. Older adults tend to rate their own health positively, and function matters more than the number of diagnoses."
+    },
+    {
+      "id": "health-care-settings-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is using the Katz index to assess a newly admitted 85-year-old client. Which finding indicates an ADL deficit?",
+      "options": [
+        { "id": "a", "text": "Needs a family member to pay the monthly bills", "correct": false, "rationale": "Handling money is an IADL (Lawton & Brody), not a Katz ADL." },
+        { "id": "b", "text": "Has stopped cooking meals and relies on delivery", "correct": false, "rationale": "Cooking is an IADL." },
+        { "id": "c", "text": "Needs a neighbor to drive her to the grocery store", "correct": false, "rationale": "Shopping is an IADL." },
+        { "id": "d", "text": "Needs help moving from the bed to the chair", "correct": true, "rationale": "Correct. Transferring is one of the Katz ADLs, along with bathing, dressing, eating, and toileting." }
+      ],
+      "explanation": "The Katz index (1963) measures ADLs: bathing, dressing, eating, transferring, and toileting. Shopping, cooking, housekeeping, laundry, and handling money are IADLs (Lawton & Brody, 1969)."
+    },
+    {
+      "id": "health-care-settings-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A home care nurse is completing an IADL assessment for a 79-year-old client. Which activities should the nurse include? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Cooking", "correct": true, "rationale": "Cooking is an IADL." },
+        { "id": "b", "text": "Bathing", "correct": false, "rationale": "Bathing is an ADL." },
+        { "id": "c", "text": "Doing laundry", "correct": true, "rationale": "Laundry is an IADL." },
+        { "id": "d", "text": "Transferring", "correct": false, "rationale": "Transferring is an ADL." },
+        { "id": "e", "text": "Handling money", "correct": true, "rationale": "Handling money is an IADL." },
+        { "id": "f", "text": "Eating", "correct": false, "rationale": "Eating is an ADL." }
+      ],
+      "explanation": "IADLs (Lawton & Brody, 1969) are shopping, cooking, housekeeping, laundry, and handling money. ADLs (Katz, 1963) are bathing, dressing, eating, transferring, and toileting."
+    },
+    {
+      "id": "health-care-settings-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Why does the chapter emphasize functional ability over the number of diseases an older adult has?",
+      "options": [
+        { "id": "a", "text": "Because Medicare eligibility is based on the client's ADL score at 65", "correct": false, "rationale": "Medicare eligibility is based on age, certain disabilities, or ESRD." },
+        { "id": "b", "text": "Because the ability to do basic self-care ensures health and well-being", "correct": true, "rationale": "Correct. Functional ability is the capacity to carry out basic self-care that ensures health and well-being." },
+        { "id": "c", "text": "Because chronic disease is rare among older adults living at home", "correct": false, "rationale": "Most older adults have at least one chronic condition." },
+        { "id": "d", "text": "Because diagnoses cannot be confirmed reliably after the age of 75", "correct": false, "rationale": "The chapter makes no such claim; function simply matters more for daily life." }
+      ],
+      "explanation": "Functional ability is the capacity to carry out the basic self-care that ensures health and well-being. Preventing physical frailty and cognitive impairment matters because they increase institutionalization."
+    },
+    {
+      "id": "health-care-settings-12",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "According to the chapter, which actions must gerontologic nurses take urgently to meet the needs of an aging society? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Create nursing roles across the continuum of care", "correct": true, "rationale": "Creating roles across the continuum is the first urgent task." },
+        { "id": "b", "text": "Limit gerontologic practice to acute care hospitals", "correct": false, "rationale": "Nurses are urged to work across the continuum, not in one setting." },
+        { "id": "c", "text": "Develop care models for all levels of prevention", "correct": true, "rationale": "Care models should cover all levels of prevention, especially primary prevention and health promotion in the community." },
+        { "id": "d", "text": "Assume leadership in care settings and the political arena", "correct": true, "rationale": "Leadership in care settings and politics is the third urgent task." },
+        { "id": "e", "text": "Leave health policy decisions to physicians", "correct": false, "rationale": "Nurses are urged to lead in the political arena themselves." }
+      ],
+      "explanation": "Gerontologic nurses must create roles across the continuum, develop care models for all levels of prevention (especially primary prevention and health promotion in the community), and lead in care settings and politics. Most older adults' problems fall within the scope of nursing practice."
+    },
+    {
+      "id": "health-care-settings-13",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A director of nursing reports that residents admitted to the facility are sicker than in the past and that several have had unexpected declines. Which explanation best fits the chapter's description of nursing facilities?",
+      "options": [
+        { "id": "a", "text": "Residents are healthier than before, so declines point to poor documentation", "correct": false, "rationale": "Residents are now more acutely ill, not healthier." },
+        { "id": "b", "text": "Facilities have too many advanced practice nurses overseeing direct care", "correct": false, "rationale": "The chapter names too few qualified staff, not too many APNs." },
+        { "id": "c", "text": "Too few qualified staff and an environment not suited to unstable residents", "correct": true, "rationale": "Correct. Problems include too few qualified staff, insufficient staff mix, and an environment not suited to unstable residents." },
+        { "id": "d", "text": "Medicare no longer pays for skilled nursing care, so staffing has stopped", "correct": false, "rationale": "Part A covers skilled nursing facility care." }
+      ],
+      "explanation": "Nursing facility residents are now more acutely ill. The chapter names three problems: too few qualified staff, an insufficient staff mix, and an environment not suited to unstable residents. APNs fill key roles there."
+    },
+    {
+      "id": "health-care-settings-14",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 84-year-old client is admitted to an acute care unit after surgery for a hip fracture. Given why the chapter calls the hospital one of the most dangerous settings for older persons, which nursing focus is most important?",
+      "options": [
+        { "id": "a", "text": "Preventing functional decline and promoting the client's independence", "correct": true, "rationale": "Correct. The hospital is dangerous because few acute care hospitals adequately prevent functional decline or promote independence." },
+        { "id": "b", "text": "Doing all self-care for the client to conserve energy until discharge", "correct": false, "rationale": "Doing everything for the client promotes the functional decline the chapter warns about." },
+        { "id": "c", "text": "Keeping the client in bed until transfer to a long-term care facility", "correct": false, "rationale": "Prolonged bed rest promotes functional decline, and placement is not assumed." },
+        { "id": "d", "text": "Limiting visitors because hospital infection rates are the main danger", "correct": false, "rationale": "The chapter's reason is failure to prevent functional decline, not infection rates." }
+      ],
+      "explanation": "Few acute care hospitals adequately prevent functional decline or promote independence, so the hospital continues to be one of the most dangerous settings for older persons. Common acute conditions include stroke, hip fracture, CHF, and infections."
+    },
+    {
+      "id": "health-care-settings-15",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse manager is orienting a new nurse to an acute care unit where most clients are older adults. Which competencies does the chapter say acute care nurses need? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Telling normal aging changes from abnormal ones", "correct": true, "rationale": "Knowledge of normal vs. abnormal aging is the first need listed." },
+        { "id": "b", "text": "Strong assessment skills to detect subtle changes", "correct": true, "rationale": "Older adults often show subtle changes, so strong assessment is essential." },
+        { "id": "c", "text": "Treating new confusion as an expected part of aging", "correct": false, "rationale": "New confusion is not normal aging; the nurse must distinguish normal from abnormal." },
+        { "id": "d", "text": "Communicating with clients who have delirium, dementia, or depression", "correct": true, "rationale": "Communication with these clients is a listed need." },
+        { "id": "e", "text": "Applying rehabilitation principles", "correct": true, "rationale": "Rehabilitation principles are listed, along with sensitivity and patience." },
+        { "id": "f", "text": "Completing care for clients quickly to save time", "correct": false, "rationale": "Doing care for clients undermines independence; the chapter calls for sensitivity and patience." }
+      ],
+      "explanation": "Acute care nurses need five things: knowledge of normal vs. abnormal aging, strong assessment to detect subtle changes, communication skills for delirium, dementia, and depression, rehabilitation principles, and sensitivity and patience that preserve dignity and respect."
+    },
+    {
+      "id": "health-care-settings-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 78-year-old client is ready to leave the hospital but still needs IV therapy and complex wound care before going home. Which setting best fits the client's needs?",
+      "options": [
+        { "id": "a", "text": "A pay-as-you-go clinic for outpatient care", "correct": false, "rationale": "Pay-as-you-go clinics are integrated system types focused on health promotion, not a bridge for IV therapy." },
+        { "id": "b", "text": "Discharge home with no added services", "correct": false, "rationale": "The client still needs IV therapy and wound care." },
+        { "id": "c", "text": "Remaining in the acute care hospital bed", "correct": false, "rationale": "The client no longer needs acute care, and the hospital carries a risk of functional decline." },
+        { "id": "d", "text": "A subacute unit bridging hospital to home", "correct": true, "rationale": "Correct. Subacute units bridge hospital to home for chemotherapy, wound care, IV therapy, and ventilator care." }
+      ],
+      "explanation": "Subacute units bridge the hospital and home for clients who need chemotherapy, wound care, IV therapy, or ventilator care but no longer need acute care."
+    },
+    {
+      "id": "health-care-settings-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Nursing facility staff report that they feel unprepared to care for several residents with complex needs. Which advanced practice nurse is best suited to provide staff education and consultation?",
+      "options": [
+        { "id": "a", "text": "The AGPCNP who gives residents primary care", "correct": false, "rationale": "In facilities, the AGPCNP provides primary care." },
+        { "id": "b", "text": "The AGCNS who serves as educator and consultant", "correct": true, "rationale": "Correct. In nursing facilities, the AGCNS provides staff education and consultation." },
+        { "id": "c", "text": "The AGACNP who works as the facility's case manager", "correct": false, "rationale": "In facilities, the AGACNP is case manager/coordinator." },
+        { "id": "d", "text": "The UAP who has worked longest at the facility", "correct": false, "rationale": "UAP are not advanced practice nurses and do not educate licensed staff." }
+      ],
+      "explanation": "Nursing facility APN roles: AGACNP = case manager/coordinator, AGPCNP = primary care, AGCNS = staff education and consultant."
+    },
+    {
+      "id": "health-care-settings-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nursing facility wants an advanced practice nurse to coordinate care and manage cases for residents moving between the hospital and the facility. Which role matches this need?",
+      "options": [
+        { "id": "a", "text": "AGCNS acting as the facility's staff educator", "correct": false, "rationale": "The AGCNS role in facilities is staff education and consultation." },
+        { "id": "b", "text": "AGPCNP acting as the residents' primary care provider", "correct": false, "rationale": "The AGPCNP role in facilities is primary care." },
+        { "id": "c", "text": "AGACNP acting as case manager and coordinator", "correct": true, "rationale": "Correct. In nursing facilities, the AGACNP serves as case manager/coordinator." },
+        { "id": "d", "text": "Generalist RN holding GERO-BC certification", "correct": false, "rationale": "The generalist is not an advanced practice nurse and consults the APN for complex needs." }
+      ],
+      "explanation": "Each APN has a distinct facility role: the AGACNP is case manager/coordinator, the AGPCNP provides primary care, and the AGCNS provides staff education and consultation."
+    },
+    {
+      "id": "health-care-settings-19",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 86-year-old client with heart failure who lives alone tells the home care nurse, \"I will not leave my house.\" The nurse notes loose rugs and stairs to the only bathroom. Which action is most appropriate?",
+      "options": [
+        { "id": "a", "text": "Contact the family to arrange nursing facility placement right away", "correct": false, "rationale": "This overrides the client's right to live at home without a full assessment." },
+        { "id": "b", "text": "Tell the client home care will stop unless the client agrees to move", "correct": false, "rationale": "Threatening to end services is coercive and ignores the client's rights." },
+        { "id": "c", "text": "Document the hazards and wait for the provider to give instructions", "correct": false, "rationale": "Home care nurses must be self-directed and use clinical judgment, including deciding on referrals." },
+        { "id": "d", "text": "Respect the client's choice and assess home safety and community resources", "correct": true, "rationale": "Correct. The home care nurse respects the right to live at home and assesses functional status, home safety, family dynamics, and community resources." }
+      ],
+      "explanation": "Home care grows because people wish to stay home and sicker patients are sent home sooner. The home care nurse must be self-directed with keen clinical judgment, assess functional status, home safety, family dynamics, and community resources, and respect the client's right to live at home."
+    },
+    {
+      "id": "health-care-settings-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse educator asks students about integrated healthcare systems for older adults. Which student statement shows the best understanding?",
+      "options": [
+        { "id": "a", "text": "\"They include ACOs and PCMHs, stress prevention, and ease movement along the continuum.\"", "correct": true, "rationale": "Correct. Integrated systems (MCOs, PCMHs, ACOs, concierge practices, pay-as-you-go clinics) emphasize health promotion and disease prevention and must allow ease of movement along the continuum." },
+        { "id": "b", "text": "\"They focus mainly on acute hospital care, so prevention is left to the client's own family.\"", "correct": false, "rationale": "Integrated systems emphasize health promotion and disease prevention." },
+        { "id": "c", "text": "\"They keep each client in a single setting so care stays consistent from start to finish.\"", "correct": false, "rationale": "Systems must allow ease of movement along the continuum, not confine clients to one setting." },
+        { "id": "d", "text": "\"They are limited to Medicare Part D plans that pay only for prescription drugs for older adults.\"", "correct": false, "rationale": "Part D is a Medicare drug benefit, not a type of integrated system." }
+      ],
+      "explanation": "Integrated system types include MCOs, PCMHs, ACOs, concierge practices, and pay-as-you-go clinics. They emphasize health promotion and disease prevention, and systems must allow older adults to move easily along the continuum of care."
+    }
+  ]
+}
