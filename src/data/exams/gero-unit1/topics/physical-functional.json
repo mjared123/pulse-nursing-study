@@ -1,0 +1,910 @@
+{
+  "slug": "physical-functional",
+  "title": "Physical & Functional Assessment",
+  "short": "Physical & Functional",
+  "icon": "activity",
+  "description": "How to conduct the physical exam of an older adult, set priorities by care setting, and assess function with the Katz Index and Box 3.3 strategies.",
+  "keyPoints": [
+    "SPICES: Sleep disorders, Problems eating or feeding, Incontinence, Confusion, Evidence of falls, Skin breakdown.",
+    "Exam priority by setting: acute care with CHF → respiratory and cardiovascular; home care → musculoskeletal; LTC, frail and immobile → skin.",
+    "Physical exam comes after the history; head-to-toe takes about 30–45 minutes; probe painful areas last.",
+    "Katz Index: bathing, dressing, toileting, transferring, continence, feeding; independent only without supervision, direction, or assistance.",
+    "Katz independent details: help bathing one part, help tying shoes, mechanical transfer aids, someone else preparing food. Bedpan or commode = dependent.",
+    "Functional decline is often the first symptom of acute illness (pneumonia, UTI) and is usually reversible (Box 3.3).",
+    "ACE (Acute Care for Elders) units reduce the morbidity and mortality of hospitalization."
+  ],
+  "review": {
+    "pages": "pp. 47–51",
+    "bigIdea": "How do you examine an older adult efficiently, and why is function the best window into their health?",
+    "objectives": [
+      "List the principles for conducting physical examinations of older adults.",
+      "Explain the rationale for assessing functional status in older adults.",
+      "Describe the elements of a functional assessment."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Physical assessment",
+        "pages": "pp. 47–48"
+      },
+      {
+        "type": "mnemonic",
+        "title": "SPICES: 6 areas that raise mortality, cost, and length of stay",
+        "letters": [
+          {
+            "letter": "S",
+            "word": "Sleep disorders"
+          },
+          {
+            "letter": "P",
+            "word": "Problems with eating or feeding"
+          },
+          {
+            "letter": "I",
+            "word": "Incontinence"
+          },
+          {
+            "letter": "C",
+            "word": "Confusion"
+          },
+          {
+            "letter": "E",
+            "word": "Evidence of falls"
+          },
+          {
+            "letter": "S",
+            "word": "Skin breakdown"
+          }
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "When and how is the physical exam done?",
+        "a": "After the health history.\nHead-to-toe is generally most efficient; compare side to side, with the patient as their own control.\nThe exam lets you find strengths and limitations, verify subjective data, and find new data."
+      },
+      {
+        "type": "table",
+        "title": "Which system first in each setting?",
+        "columns": [
+          "Setting",
+          "First priority",
+          "Why"
+        ],
+        "rows": [
+          [
+            "Acute care, CHF",
+            "Respiratory and cardiovascular",
+            "The acute problem"
+          ],
+          [
+            "Home care",
+            "Musculoskeletal",
+            "Falls and self-care"
+          ],
+          [
+            "Long-term care, frail and immobile",
+            "Skin",
+            "Pressure injury risk"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Exam guidelines",
+        "ordered": false,
+        "items": [
+          "Explain each step.",
+          "If energy is low, do the most important parts first; a head-to-toe exam takes about 30–45 minutes.",
+          "Respect modesty and drape.",
+          "Minimize position changes; work from one side (generally the right).",
+          "Warn of discomfort and probe painful areas last.",
+          "Share findings and use teachable moments.",
+          "Use a standard format.",
+          "Have equipment ready beforehand."
+        ]
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Why does the exam priority change with the setting?"
+      },
+      {
+        "type": "heading",
+        "text": "Functional assessment",
+        "pages": "pp. 48–51"
+      },
+      {
+        "type": "cue",
+        "q": "Why assess function, and what should you remember about tools?",
+        "a": "Functional status is key to quality of life.\nUse valid, reliable, and relevant tools.\nThe environment affects scores, and affect and cognition affect performance.\nA functional tool is only one piece of the assessment."
+      },
+      {
+        "type": "cue",
+        "q": "What does the Katz Index measure? (Fig. 3.1)",
+        "a": "Six functions: bathing, dressing, toileting, transferring, continence, and feeding.\nA person is independent only without supervision, direction, or assistance.\nIt takes about 5 minutes.\nFig. 3.1 scoring: 6 = high (independent), 0 = low (very dependent); see the book conflict below."
+      },
+      {
+        "type": "table",
+        "title": "Katz details that get tested",
+        "columns": [
+          "Function",
+          "Still counts as independent",
+          "Counts as dependent"
+        ],
+        "rows": [
+          [
+            "Bathing",
+            "Help with only one part of the body",
+            "Help with more than one part"
+          ],
+          [
+            "Dressing",
+            "Help tying shoes",
+            ""
+          ],
+          [
+            "Transferring",
+            "Mechanical transfer aids",
+            ""
+          ],
+          [
+            "Feeding",
+            "Someone else may prepare the food",
+            ""
+          ],
+          [
+            "Toileting",
+            "",
+            "Uses a bedpan or commode"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "conflict",
+        "title": "Book conflict: Katz scoring",
+        "text": "The text (p. 48) says \"one point is given for each dependent item.\" Fig. 3.1 (p. 49) gives 1 point for independence, so 6 = independent. Ask your instructor which to use."
+      },
+      {
+        "type": "cue",
+        "q": "Why do acute care patients especially need a functional assessment?",
+        "a": "Iatrogenic risks: incontinence, falls, delirium, polypharmacy.\nFunction is lost from aggressive treatment, bed rest, lack of exercise, poor nutrition, and iatrogenic infection.\nACE (Acute Care for Elders) units reduce morbidity and mortality."
+      },
+      {
+        "type": "cue",
+        "q": "Box 3.3: what are the key background points?",
+        "a": "Functional status is a sensitive indicator of health or illness.\nFunctional decline is often the first symptom of acute illness (pneumonia, UTI) and is usually reversible.\nRisk factors: injuries, acute illness, drug side effects, depression, malnutrition, decreased mobility (including restraints)."
+      },
+      {
+        "type": "cue",
+        "q": "Box 3.3: what are the care strategies and outcomes?",
+        "a": "Strategies: keep the routine; ambulate; minimize bed rest; use alternatives to restraints; use psychoactive drugs judiciously in geriatric doses; handrails, raised toilet seats, low beds; PT/OT; adequate protein and calories.\nOutcomes: less functional decline, fewer restraints, less delirium, more discharges at baseline function, fewer readmissions."
+      },
+      {
+        "type": "callout",
+        "tone": "nurse",
+        "title": "What the nurse does: prevent functional decline (Box 3.3)",
+        "text": "Minimize bed rest. Encourage ambulation and the daily routine. Use alternatives to physical restraints. Use psychoactive drugs judiciously. Provide handrails, raised toilet seats, and low beds. Involve PT/OT. Ensure enough protein and calories."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Why is functional decline often the first sign of acute illness?"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "physical-functional-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "In the SPICES framework, what does the letter E stand for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elimination problems",
+          "correct": false,
+          "rationale": "Elimination is covered by I (Incontinence), not E."
+        },
+        {
+          "id": "b",
+          "text": "Emotional distress",
+          "correct": false,
+          "rationale": "Emotional distress is not part of SPICES."
+        },
+        {
+          "id": "c",
+          "text": "Evidence of falls",
+          "correct": true,
+          "rationale": "Correct. E stands for Evidence of falls."
+        },
+        {
+          "id": "d",
+          "text": "Edema of the extremities",
+          "correct": false,
+          "rationale": "Edema is not one of the six SPICES areas."
+        }
+      ],
+      "explanation": "SPICES: Sleep disorders, Problems with eating or feeding, Incontinence, Confusion, Evidence of falls, Skin breakdown. These six areas raise mortality, cost, and length of stay."
+    },
+    {
+      "id": "physical-functional-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A home health nurse makes a first visit to an 81-year-old client living alone. Which body system should be the assessment priority?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musculoskeletal",
+          "correct": true,
+          "rationale": "Correct. In home care, the musculoskeletal system is the priority because of fall risk and self-care."
+        },
+        {
+          "id": "b",
+          "text": "Cardiovascular",
+          "correct": false,
+          "rationale": "Cardiovascular and respiratory are the priority in acute care for a client with CHF."
+        },
+        {
+          "id": "c",
+          "text": "Integumentary",
+          "correct": false,
+          "rationale": "Skin is the priority for a frail, immobile resident in long-term care."
+        },
+        {
+          "id": "d",
+          "text": "Gastrointestinal",
+          "correct": false,
+          "rationale": "GI is not identified as the home care priority."
+        }
+      ],
+      "explanation": "Exam priority depends on the setting: acute care with CHF, respiratory and cardiovascular; home care, musculoskeletal (falls, self-care); LTC with a frail, immobile resident, skin (pressure injury)."
+    },
+    {
+      "id": "physical-functional-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse in a long-term care facility admits a frail 92-year-old resident who is immobile. Which assessment should the nurse complete first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lung sounds in all fields",
+          "correct": false,
+          "rationale": "Respiratory assessment is the first priority in acute care with CHF."
+        },
+        {
+          "id": "b",
+          "text": "Visual acuity and hearing",
+          "correct": false,
+          "rationale": "Sensory checks matter, but the first priority for a frail, immobile LTC resident is the skin."
+        },
+        {
+          "id": "c",
+          "text": "Mental status examination",
+          "correct": false,
+          "rationale": "Mental status is assessed, but the setting priority here is the skin."
+        },
+        {
+          "id": "d",
+          "text": "Skin, for pressure injury",
+          "correct": true,
+          "rationale": "Correct. For a frail, immobile resident in LTC, skin is the first priority because of pressure injury risk."
+        }
+      ],
+      "explanation": "In long-term care, a frail, immobile resident's first assessment priority is the skin because of the risk of pressure injury."
+    },
+    {
+      "id": "physical-functional-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 77-year-old client is admitted to an acute care unit with an exacerbation of heart failure. Which systems should the nurse assess first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musculoskeletal and neurologic systems",
+          "correct": false,
+          "rationale": "Musculoskeletal is the home care priority."
+        },
+        {
+          "id": "b",
+          "text": "Respiratory and cardiovascular systems",
+          "correct": true,
+          "rationale": "Correct. In acute care for a client with CHF, respiratory and cardiovascular systems come first."
+        },
+        {
+          "id": "c",
+          "text": "Skin and mucous membranes for breakdown",
+          "correct": false,
+          "rationale": "Skin is the priority for a frail, immobile resident in LTC."
+        },
+        {
+          "id": "d",
+          "text": "Gastrointestinal and genitourinary systems",
+          "correct": false,
+          "rationale": "These are not the setting-based priority for CHF in acute care."
+        }
+      ],
+      "explanation": "The first system assessed changes with the setting: acute care with CHF, respiratory and cardiovascular; home care, musculoskeletal; LTC frail and immobile, skin."
+    },
+    {
+      "id": "physical-functional-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Ten minutes into a physical exam, an 88-year-old client says she is very tired. Which action by the nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Complete the full head-to-toe exam quickly so she can rest afterward",
+          "correct": false,
+          "rationale": "Rushing a 30–45 minute exam in a tired client is not appropriate; prioritize instead."
+        },
+        {
+          "id": "b",
+          "text": "Stop the exam and document that the client refused the assessment",
+          "correct": false,
+          "rationale": "Fatigue is not refusal; the nurse adapts the exam to her energy."
+        },
+        {
+          "id": "c",
+          "text": "Do the most important parts of the exam first and finish later",
+          "correct": true,
+          "rationale": "Correct. With low energy, do the most important parts first; the assessment may take more than one session."
+        },
+        {
+          "id": "d",
+          "text": "Have her change positions often to keep her alert for the exam",
+          "correct": false,
+          "rationale": "Position changes should be minimized."
+        }
+      ],
+      "explanation": "When energy is low, perform the most important parts of the exam first. A head-to-toe exam takes about 30–45 minutes, and the assessment may need more than one session."
+    },
+    {
+      "id": "physical-functional-06",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client reports a painful left shoulder. When should the nurse examine the painful area during the physical exam?",
+      "options": [
+        {
+          "id": "a",
+          "text": "First, so the main concern is addressed right away",
+          "correct": false,
+          "rationale": "Probing a painful area first can cause discomfort that affects the rest of the exam."
+        },
+        {
+          "id": "b",
+          "text": "Last, after warning the client of possible discomfort",
+          "correct": true,
+          "rationale": "Correct. Warn of discomfort and probe painful areas last."
+        },
+        {
+          "id": "c",
+          "text": "Only after the provider has ordered imaging studies",
+          "correct": false,
+          "rationale": "The nurse examines the area as part of the exam; the guide says to probe it last."
+        },
+        {
+          "id": "d",
+          "text": "At a separate visit, so pain does not affect the exam",
+          "correct": false,
+          "rationale": "The painful area is included in the same exam, done last."
+        }
+      ],
+      "explanation": "Exam guidelines include warning of discomfort and probing painful areas last. Other guidelines: explain each step, drape, minimize position changes, share findings, and have equipment ready."
+    },
+    {
+      "id": "physical-functional-07",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "About how long does a head-to-toe physical examination of an older adult take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "About 5–10 minutes",
+          "correct": false,
+          "rationale": "This is too short; about 5 minutes is the time for the Katz Index."
+        },
+        {
+          "id": "b",
+          "text": "About 60–90 minutes",
+          "correct": false,
+          "rationale": "This overstates the time given in the guide."
+        },
+        {
+          "id": "c",
+          "text": "About 15–20 minutes",
+          "correct": false,
+          "rationale": "This is shorter than the guide states."
+        },
+        {
+          "id": "d",
+          "text": "About 30–45 minutes",
+          "correct": true,
+          "rationale": "Correct. A head-to-toe exam takes about 30–45 minutes."
+        }
+      ],
+      "explanation": "A head-to-toe exam of an older adult takes about 30–45 minutes, which is why low-energy clients have the most important parts done first."
+    },
+    {
+      "id": "physical-functional-08",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning a physical examination for a 79-year-old client. Which actions follow the exam guidelines for older adults? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Explain each step before doing it",
+          "correct": true,
+          "rationale": "Correct. Explaining each step is a listed guideline."
+        },
+        {
+          "id": "b",
+          "text": "Drape the client to protect modesty",
+          "correct": true,
+          "rationale": "Correct. Modesty and draping are listed."
+        },
+        {
+          "id": "c",
+          "text": "Work from one side to minimize position changes",
+          "correct": true,
+          "rationale": "Correct. Minimize position changes and work from one side, generally the right."
+        },
+        {
+          "id": "d",
+          "text": "Gather equipment before the exam begins",
+          "correct": true,
+          "rationale": "Correct. Equipment should be ready beforehand."
+        },
+        {
+          "id": "e",
+          "text": "Probe painful areas first to get them over with",
+          "correct": false,
+          "rationale": "Painful areas are probed last."
+        },
+        {
+          "id": "f",
+          "text": "Keep findings from the client to avoid worry",
+          "correct": false,
+          "rationale": "The guidelines say to share findings and use teachable moments."
+        }
+      ],
+      "explanation": "Exam guidelines: explain each step; do the most important parts first if energy is low; drape for modesty; minimize position changes, working from one side; warn of discomfort and probe painful areas last; share findings; use a standard format; have equipment ready."
+    },
+    {
+      "id": "physical-functional-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "During a head-to-toe exam, the nurse finds that a client's right hand grip is clearly weaker than the left. Which principle of the physical exam makes this finding meaningful?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comparing results with published strength norms for the client's age group",
+          "correct": false,
+          "rationale": "The chapter emphasizes the client's own patterns and side-to-side comparison rather than group norms."
+        },
+        {
+          "id": "b",
+          "text": "Comparing the two sides, with the client serving as her own control",
+          "correct": true,
+          "rationale": "Correct. Side-to-side comparison with the patient as the control reveals the difference."
+        },
+        {
+          "id": "c",
+          "text": "Repeating the grip test in each position so all postures are covered",
+          "correct": false,
+          "rationale": "Position changes should be minimized during the exam."
+        },
+        {
+          "id": "d",
+          "text": "Doing the hand exam first, before the history, to get objective data",
+          "correct": false,
+          "rationale": "The physical exam is done after the history."
+        }
+      ],
+      "explanation": "The physical exam is done after the history, generally head-to-toe, comparing side to side with the patient as the control. It finds strengths and limitations, verifies subjective data, and uncovers new data."
+    },
+    {
+      "id": "physical-functional-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "Using the Katz Index, the nurse observes that an 84-year-old client bathes himself except that his wife washes his back. How should the nurse rate his bathing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dependent, because he needs any help at all",
+          "correct": false,
+          "rationale": "Help with only one part of the body still counts as independent for bathing."
+        },
+        {
+          "id": "b",
+          "text": "Dependent, because his wife assists him with it daily",
+          "correct": false,
+          "rationale": "Daily help with one body part does not make bathing dependent on the Katz Index."
+        },
+        {
+          "id": "c",
+          "text": "Unable to rate without a second observer",
+          "correct": false,
+          "rationale": "No second observer is required; the Katz Index takes about 5 minutes."
+        },
+        {
+          "id": "d",
+          "text": "Independent, since he needs help with one part",
+          "correct": true,
+          "rationale": "Correct. On the Katz Index, help bathing only one part of the body counts as independent."
+        }
+      ],
+      "explanation": "Katz bathing: help with only one part of the body (such as the back) counts as independent. Help with more than one part counts as dependent."
+    },
+    {
+      "id": "physical-functional-11",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is scoring the Katz Index for a resident. Which findings still count as independent? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Needs help only tying shoes",
+          "correct": true,
+          "rationale": "Correct. Help tying shoes is acceptable for independence in dressing."
+        },
+        {
+          "id": "b",
+          "text": "Uses a mechanical aid to transfer",
+          "correct": true,
+          "rationale": "Correct. Mechanical transferring aids are acceptable."
+        },
+        {
+          "id": "c",
+          "text": "Uses a bedside commode at night",
+          "correct": false,
+          "rationale": "Using a bedpan or commode counts as dependent in toileting."
+        },
+        {
+          "id": "d",
+          "text": "Feeds self after staff prepare the food",
+          "correct": true,
+          "rationale": "Correct. Someone else may prepare the food and feeding is still independent."
+        },
+        {
+          "id": "e",
+          "text": "Needs help bathing several body parts",
+          "correct": false,
+          "rationale": "Help bathing more than one part counts as dependent."
+        }
+      ],
+      "explanation": "Katz independence details: bathing with help for only one part, help tying shoes, mechanical transfer aids, and food prepared by someone else all count as independent. Bedpan or commode use counts as dependent in toileting."
+    },
+    {
+      "id": "physical-functional-12",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which activity is NOT one of the six functions measured by the Katz Index?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Managing money",
+          "correct": true,
+          "rationale": "Correct. Managing money is not a Katz function; the Katz measures six basic ADLs."
+        },
+        {
+          "id": "b",
+          "text": "Continence",
+          "correct": false,
+          "rationale": "Continence is one of the six Katz functions."
+        },
+        {
+          "id": "c",
+          "text": "Transferring",
+          "correct": false,
+          "rationale": "Transferring is one of the six Katz functions."
+        },
+        {
+          "id": "d",
+          "text": "Feeding",
+          "correct": false,
+          "rationale": "Feeding is one of the six Katz functions."
+        }
+      ],
+      "explanation": "The Katz Index measures bathing, dressing, toileting, transferring, continence, and feeding. A person is independent only without supervision, direction, or assistance."
+    },
+    {
+      "id": "physical-functional-13",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "According to Box 3.3, which factors place a hospitalized older adult at risk for functional decline? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "An acute illness such as pneumonia",
+          "correct": true,
+          "rationale": "Correct. Acute illness is a listed risk factor; functional decline is often its first symptom."
+        },
+        {
+          "id": "b",
+          "text": "Side effects of medications",
+          "correct": true,
+          "rationale": "Correct. Drug side effects are a listed risk factor."
+        },
+        {
+          "id": "c",
+          "text": "Depression",
+          "correct": true,
+          "rationale": "Correct. Depression is a listed risk factor."
+        },
+        {
+          "id": "d",
+          "text": "Decreased mobility from physical restraints",
+          "correct": true,
+          "rationale": "Correct. Decreased mobility, including from restraints, is a listed risk factor."
+        },
+        {
+          "id": "e",
+          "text": "Daily ambulation with PT",
+          "correct": false,
+          "rationale": "Ambulation and PT are strategies that prevent decline, not risk factors."
+        },
+        {
+          "id": "f",
+          "text": "Adequate protein and calorie intake",
+          "correct": false,
+          "rationale": "Adequate protein and calories protect function; malnutrition is the risk factor."
+        }
+      ],
+      "explanation": "Box 3.3 risk factors for functional decline: injuries, acute illness, drug side effects, depression, malnutrition, and decreased mobility (including restraints). Functional decline is often the first symptom of acute illness and is usually reversible."
+    },
+    {
+      "id": "physical-functional-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 88-year-old client who was fully independent last week now needs help dressing and getting out of a chair. She has no fever and no cough. What should the nurse suspect first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An acute illness, such as a UTI or pneumonia, presenting as decline",
+          "correct": true,
+          "rationale": "Correct. Functional decline is often the first symptom of acute illness and is usually reversible; classic signs may be absent."
+        },
+        {
+          "id": "b",
+          "text": "Expected loss of function that comes with very advanced age",
+          "correct": false,
+          "rationale": "Sudden decline should not be attributed to aging; it is a sensitive indicator of illness."
+        },
+        {
+          "id": "c",
+          "text": "Low motivation that will improve with firm, steady encouragement",
+          "correct": false,
+          "rationale": "This ignores the possibility of an acute, reversible illness."
+        },
+        {
+          "id": "d",
+          "text": "Permanent disability that requires long-term care placement",
+          "correct": false,
+          "rationale": "Functional decline from acute illness is usually reversible."
+        }
+      ],
+      "explanation": "A sudden loss of function is often the first sign of acute illness such as pneumonia or UTI, and it is usually reversible once the cause is treated. Fever and cough may be absent in older adults."
+    },
+    {
+      "id": "physical-functional-15",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is planning care to prevent functional decline in a hospitalized 82-year-old client. Which interventions are consistent with Box 3.3? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minimize time spent on bed rest",
+          "correct": true,
+          "rationale": "Correct. Minimizing bed rest prevents functional loss."
+        },
+        {
+          "id": "b",
+          "text": "Encourage ambulation and the usual routine",
+          "correct": true,
+          "rationale": "Correct. Ambulation and keeping the daily routine are listed strategies."
+        },
+        {
+          "id": "c",
+          "text": "Use alternatives to physical restraints",
+          "correct": true,
+          "rationale": "Correct. Restraints decrease mobility; alternatives are preferred."
+        },
+        {
+          "id": "d",
+          "text": "Give sedatives routinely to promote rest",
+          "correct": false,
+          "rationale": "Psychoactive drugs are used judiciously in geriatric doses, not routinely."
+        },
+        {
+          "id": "e",
+          "text": "Provide a low bed and raised toilet seat",
+          "correct": true,
+          "rationale": "Correct. Handrails, raised toilet seats, and low beds are listed."
+        },
+        {
+          "id": "f",
+          "text": "Limit protein until discharge to protect kidneys",
+          "correct": false,
+          "rationale": "Box 3.3 calls for adequate protein and calories."
+        }
+      ],
+      "explanation": "Box 3.3 strategies: keep the routine, ambulate, minimize bed rest, use alternatives to restraints, use psychoactive drugs judiciously in geriatric doses, provide handrails, raised toilet seats, and low beds, involve PT/OT, and ensure protein and calories."
+    },
+    {
+      "id": "physical-functional-16",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 79-year-old client has been on bed rest for 5 days on a medical unit and is receiving several new medications. Which set of problems is the nurse most concerned about developing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypertension, tachycardia, weight gain, and high blood glucose",
+          "correct": false,
+          "rationale": "These are not the iatrogenic risks the chapter lists for hospitalized older adults."
+        },
+        {
+          "id": "b",
+          "text": "Day/night reversal, delusions, and slowly worsening memory",
+          "correct": false,
+          "rationale": "These describe dementia, which has a slow onset and is not an iatrogenic risk."
+        },
+        {
+          "id": "c",
+          "text": "Pressure injury only, since bed rest affects only the skin",
+          "correct": false,
+          "rationale": "Bed rest causes functional loss beyond the skin, and several iatrogenic risks apply."
+        },
+        {
+          "id": "d",
+          "text": "Incontinence, falls, delirium, and problems from polypharmacy",
+          "correct": true,
+          "rationale": "Correct. These are the iatrogenic risks of acute care listed in the chapter."
+        }
+      ],
+      "explanation": "Acute care carries iatrogenic risks: incontinence, falls, delirium, and polypharmacy. Function is lost through aggressive treatment, bed rest, lack of exercise, poor nutrition, and iatrogenic infection."
+    },
+    {
+      "id": "physical-functional-17",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A hospital is opening an Acute Care for Elders (ACE) unit. What outcome are ACE units associated with?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shorter physical exams for each older adult",
+          "correct": false,
+          "rationale": "The chapter does not link ACE units to exam length."
+        },
+        {
+          "id": "b",
+          "text": "Reduced morbidity and mortality of hospitalization",
+          "correct": true,
+          "rationale": "Correct. ACE units reduce the morbidity and mortality of hospitalization."
+        },
+        {
+          "id": "c",
+          "text": "Greater use of restraints to prevent falls",
+          "correct": false,
+          "rationale": "Reducing restraint use is a goal of functional care, not an increase."
+        },
+        {
+          "id": "d",
+          "text": "Fewer functional assessments needed during the hospital stay",
+          "correct": false,
+          "rationale": "Function is central to acute care of older adults, not assessed less."
+        }
+      ],
+      "explanation": "ACE (Acute Care for Elders) units reduce the morbidity and mortality of hospitalization for older adults, who face iatrogenic risks such as incontinence, falls, delirium, and polypharmacy."
+    },
+    {
+      "id": "physical-functional-18",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "An 80-year-old client who is grieving her husband scores poorly on a functional tool in an unfamiliar clinic room. Her daughter says she manages well at home. How should the nurse interpret the score?",
+      "options": [
+        {
+          "id": "a",
+          "text": "As a reliable measure, since a valid tool should not be affected by setting",
+          "correct": false,
+          "rationale": "Even valid tools are affected by the environment, and affect influences performance."
+        },
+        {
+          "id": "b",
+          "text": "As proof she needs placement, since the score shows she is now dependent",
+          "correct": false,
+          "rationale": "A single score is only one piece of the assessment and should be validated."
+        },
+        {
+          "id": "c",
+          "text": "With caution, since setting and mood affect performance; reassess later",
+          "correct": true,
+          "rationale": "Correct. The environment affects scores, affect and cognition affect performance, and the tool is only one piece of the assessment."
+        },
+        {
+          "id": "d",
+          "text": "As the daughter's error, since family reports are usually unreliable",
+          "correct": false,
+          "rationale": "Family is used to validate findings, not dismissed."
+        }
+      ],
+      "explanation": "Functional tools should be valid, reliable, and relevant, but the environment affects scores and affect and cognition affect performance. A score is only one piece of the assessment, so the nurse validates it with family and reassesses under favorable conditions."
+    },
+    {
+      "id": "physical-functional-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A unit implemented the Box 3.3 strategies for hospitalized older adults. Which finding best shows that the strategies were effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "More clients were discharged at their baseline function",
+          "correct": true,
+          "rationale": "Correct. Increased discharge at baseline function is an expected outcome of Box 3.3 strategies."
+        },
+        {
+          "id": "b",
+          "text": "Physical restraint use on the unit increased by 10%",
+          "correct": false,
+          "rationale": "Box 3.3 outcomes include decreased restraint use."
+        },
+        {
+          "id": "c",
+          "text": "Readmissions within 30 days rose over the next quarter",
+          "correct": false,
+          "rationale": "The expected outcome is fewer readmissions."
+        },
+        {
+          "id": "d",
+          "text": "More clients were placed on bed rest to prevent falls",
+          "correct": false,
+          "rationale": "Bed rest is minimized because it causes functional loss."
+        }
+      ],
+      "explanation": "Box 3.3 outcomes: less functional decline, fewer restraints, less delirium, more discharges at baseline function, and fewer readmissions."
+    },
+    {
+      "id": "physical-functional-20",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse uses SPICES to screen older adults for problems that raise mortality, cost, and length of stay. Which areas are part of SPICES? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sleep disorders",
+          "correct": true,
+          "rationale": "Correct. S = Sleep disorders."
+        },
+        {
+          "id": "b",
+          "text": "Problems with eating or feeding",
+          "correct": true,
+          "rationale": "Correct. P = Problems with eating or feeding."
+        },
+        {
+          "id": "c",
+          "text": "Social isolation",
+          "correct": false,
+          "rationale": "Social isolation is not one of the SPICES areas; the first S is Sleep disorders."
+        },
+        {
+          "id": "d",
+          "text": "Confusion",
+          "correct": true,
+          "rationale": "Correct. C = Confusion."
+        },
+        {
+          "id": "e",
+          "text": "Polypharmacy",
+          "correct": false,
+          "rationale": "Polypharmacy is an iatrogenic risk but not one of the SPICES areas."
+        },
+        {
+          "id": "f",
+          "text": "Skin breakdown",
+          "correct": true,
+          "rationale": "Correct. The final S = Skin breakdown."
+        }
+      ],
+      "explanation": "SPICES: Sleep disorders, Problems with eating or feeding, Incontinence, Confusion, Evidence of falls, Skin breakdown. These six areas raise mortality, cost, and length of stay."
+    }
+  ]
+}

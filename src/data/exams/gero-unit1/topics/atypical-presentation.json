@@ -1,0 +1,849 @@
+{
+  "slug": "atypical-presentation",
+  "title": "Atypical Presentation of Illness",
+  "short": "Atypical Presentation",
+  "icon": "alert",
+  "description": "Why illness often looks different in older adults and how UTI, MI, pneumonia, heart failure, thyroid disease, and depression may present.",
+  "keyPoints": [
+    "Diminished physiologic reserve means the body responds less vigorously under stress, so signs are blunted or atypical.",
+    "Three patterns: a different symptom (pneumonia with dry cough), an unrelated symptom (UTI with confusion), or an expected symptom absent (MI without chest pain).",
+    "UTI: dysuria, frequency, and urgency are often absent; look for incontinence, delirium, falls, confusion, and anorexia.",
+    "MI: may have no chest pain; jaw, neck, or epigastric pain, syncope, confusion; a fall may be a prodrome.",
+    "Five predictors of atypical AMI: age ≥75, female, diabetes, previous AMI, no history of hyperlipidemia.",
+    "Compare findings with the person's own previous patterns.",
+    "A sudden change in cognitive function is often the result of illness, not aging."
+  ],
+  "review": {
+    "pages": "pp. 38–39",
+    "bigIdea": "Why does illness so often look different in an older adult, and what should the nurse look for instead of the textbook signs?",
+    "objectives": [
+      "Describe how the atypical presentation of illness affects assessment."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Atypical presentation of illness",
+        "pages": "pp. 38–39"
+      },
+      {
+        "type": "cue",
+        "q": "Why does illness look different in older adults?",
+        "a": "Diminished physiologic reserve: it is fine for daily life, but under stress the body responds less vigorously, so signs are blunted or atypical.\nCompare findings with the person's own previous patterns."
+      },
+      {
+        "type": "table",
+        "title": "The 3 patterns of atypical presentation",
+        "columns": [
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "A different symptom",
+            "Pneumonia presenting with a dry cough"
+          ],
+          [
+            "An unrelated symptom",
+            "Confusion with a UTI"
+          ],
+          [
+            "An expected symptom is absent",
+            "MI without chest pain"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Atypical presentations in older adults (Table 3.2)",
+        "columns": [
+          "Condition",
+          "What may be missing or blunted",
+          "What you may see instead"
+        ],
+        "rows": [
+          [
+            "UTI",
+            "Dysuria, frequency, and urgency often absent",
+            "Nocturia sometimes; incontinence, delirium, falls, dizziness, confusion, fatigue, anorexia"
+          ],
+          [
+            "MI",
+            "May have no chest pain",
+            "Jaw, neck, shoulder, or epigastric pain; tachypnea, arrhythmia, hypotension, syncope, confusion; a fall may be a prodrome"
+          ],
+          [
+            "Pneumonia",
+            "Cough mild, nonproductive, or absent; fever and increased WBC may be absent",
+            "Tachypnea, delirium, confusion, anorexia, tachycardia"
+          ],
+          [
+            "CHF",
+            "May not report dyspnea",
+            "Anorexia, confusion, agitation, weakness, falls, cough"
+          ],
+          [
+            "Hyperthyroidism",
+            "Subtle presentation",
+            "Lethargy, weakness, depression, atrial fibrillation, weight loss"
+          ],
+          [
+            "Hypothyroidism",
+            "Often no overt symptoms",
+            "Delirium, dementia, depression, unsteady gait"
+          ],
+          [
+            "Depression",
+            "Not always reported as sad mood",
+            "Memory and concentration problems, increased dependency, anxiety, increased sleep, aches, headaches"
+          ]
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "UTI and MI in older adults (Table 3.2)?",
+        "a": "UTI: dysuria, frequency, and urgency are often absent; nocturia is sometimes present. Look for incontinence, delirium, falls, dizziness, confusion, fatigue, and anorexia.\nMI: may have no chest pain, or jaw, neck, shoulder, or epigastric pain; tachypnea, arrhythmia, hypotension, syncope, confusion. A fall may be a prodrome."
+      },
+      {
+        "type": "cue",
+        "q": "Pneumonia and CHF in older adults?",
+        "a": "Pneumonia: cough mild, nonproductive, or absent; fever and increased WBC may be absent; tachypnea, delirium, confusion, anorexia, tachycardia.\nCHF: anorexia, confusion, agitation, weakness, falls, cough; the person may not report dyspnea."
+      },
+      {
+        "type": "cue",
+        "q": "Thyroid disease and depression in older adults?",
+        "a": "Hyperthyroidism: subtle; lethargy, weakness, depression, atrial fibrillation, weight loss.\nHypothyroidism: often no overt symptoms; delirium, dementia, depression, unsteady gait.\nDepression: memory and concentration problems, increased dependency, anxiety, increased sleep, aches, headaches."
+      },
+      {
+        "type": "cue",
+        "q": "Evidence-based practice: what are the 5 predictors of atypical AMI?",
+        "a": "About 24% of AMIs present atypically. Predictors:\nAge ≥75\nFemale\nDiabetes\nPrevious AMI\nNo history of hyperlipidemia"
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Explain why an older adult with a UTI might come in for a fall."
+      },
+      {
+        "type": "callout",
+        "tone": "alert",
+        "title": "Sudden confusion = look for illness",
+        "text": "A sudden change in cognitive function is often the result of illness, not aging. Delirium may be the first sign of a serious illness such as a heart attack. (p. 40)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "atypical-presentation-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Older adults often show blunted or atypical signs of illness primarily because of which factor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diminished physiologic reserve",
+          "correct": true,
+          "rationale": "Correct. Physiologic reserve is adequate for daily life, but under stress the body responds less vigorously, producing blunted or atypical signs."
+        },
+        {
+          "id": "b",
+          "text": "A higher threshold for reporting pain to staff",
+          "correct": false,
+          "rationale": "Underreporting is a history-taking trap, but the chapter's explanation for atypical signs is diminished physiologic reserve."
+        },
+        {
+          "id": "c",
+          "text": "Increased number of daily medications taken",
+          "correct": false,
+          "rationale": "Medications are a major cause of delirium, but they are not the stated reason illness presents atypically."
+        },
+        {
+          "id": "d",
+          "text": "Normal cognitive decline that masks symptoms",
+          "correct": false,
+          "rationale": "Cognitive change is not normal decline; a sudden change usually signals illness."
+        }
+      ],
+      "explanation": "Diminished physiologic reserve is enough for daily life, but under the stress of illness the older body responds less vigorously. Signs are therefore blunted or atypical, and findings must be compared with the person's own previous patterns."
+    },
+    {
+      "id": "atypical-presentation-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which client situation is an example of the \"unrelated symptom\" pattern of atypical presentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An 84-year-old with an MI who reports no chest pain at all",
+          "correct": false,
+          "rationale": "This is the \"expected symptom absent\" pattern."
+        },
+        {
+          "id": "b",
+          "text": "A 79-year-old with pneumonia who has only a dry cough",
+          "correct": false,
+          "rationale": "This is the \"different symptom\" pattern."
+        },
+        {
+          "id": "c",
+          "text": "An 81-year-old with a UTI who becomes newly confused",
+          "correct": true,
+          "rationale": "Correct. Confusion has no obvious link to the urinary tract, so it is an unrelated symptom."
+        },
+        {
+          "id": "d",
+          "text": "A 76-year-old with influenza who has a fever and body aches",
+          "correct": false,
+          "rationale": "Fever with infection is a typical presentation, not an atypical one."
+        }
+      ],
+      "explanation": "The three patterns are a different symptom (pneumonia with dry cough), an unrelated symptom (confusion with UTI), and an expected symptom absent (MI without chest pain)."
+    },
+    {
+      "id": "atypical-presentation-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A 78-year-old client is diagnosed with a myocardial infarction but never reported chest pain. Which pattern of atypical presentation does this illustrate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A different symptom replaced the usual one",
+          "correct": false,
+          "rationale": "A different symptom would be a changed form of the usual sign, as in pneumonia with a dry cough."
+        },
+        {
+          "id": "b",
+          "text": "An unrelated symptom appeared instead",
+          "correct": false,
+          "rationale": "An unrelated symptom is something like confusion with a UTI; here the issue is that the expected sign is missing."
+        },
+        {
+          "id": "c",
+          "text": "A typical sign appeared later than usual",
+          "correct": false,
+          "rationale": "The chapter does not describe a delayed-sign pattern; the chest pain is absent."
+        },
+        {
+          "id": "d",
+          "text": "An expected symptom was absent",
+          "correct": true,
+          "rationale": "Correct. MI without chest pain is the guide's example of an expected symptom being absent."
+        }
+      ],
+      "explanation": "MI without chest pain is the classic example of an expected symptom being absent. The other two patterns are a different symptom and an unrelated symptom."
+    },
+    {
+      "id": "atypical-presentation-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 82-year-old client is brought to the emergency department after a fall at home. The daughter says he has been more confused and tired for 2 days and is not eating. He denies burning or urgency with urination. Which condition should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normal age-related decline that explains the fall",
+          "correct": false,
+          "rationale": "A sudden change in cognition and function is often the result of illness, not aging."
+        },
+        {
+          "id": "b",
+          "text": "Urinary tract infection despite no urinary symptoms",
+          "correct": true,
+          "rationale": "Correct. In older adults, dysuria, frequency, and urgency are often absent; falls, confusion, fatigue, and anorexia may be the presentation."
+        },
+        {
+          "id": "c",
+          "text": "Hyperthyroidism because he is tired and not eating",
+          "correct": false,
+          "rationale": "Hyperthyroidism is subtle, but the combination of a fall, new confusion, fatigue, and anorexia fits the UTI pattern in Table 3.2 more closely."
+        },
+        {
+          "id": "d",
+          "text": "A dementia diagnosis because he has become confused",
+          "correct": false,
+          "rationale": "Dementia has a slow onset; confusion that appeared over 2 days points to an acute illness."
+        }
+      ],
+      "explanation": "In older adults, a UTI may present without dysuria, frequency, or urgency. Instead the nurse may see incontinence, delirium, falls, dizziness, confusion, fatigue, or anorexia."
+    },
+    {
+      "id": "atypical-presentation-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse is screening a long-term care resident for a possible urinary tract infection. Which findings are consistent with how a UTI may present in an older adult? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "New urinary incontinence",
+          "correct": true,
+          "rationale": "Correct. Incontinence is listed as a possible presentation of UTI in older adults."
+        },
+        {
+          "id": "b",
+          "text": "Delirium or new confusion",
+          "correct": true,
+          "rationale": "Correct. Delirium and confusion are common atypical signs of UTI."
+        },
+        {
+          "id": "c",
+          "text": "Reliable reports of dysuria and urgency",
+          "correct": false,
+          "rationale": "Dysuria, frequency, and urgency are often absent in older adults."
+        },
+        {
+          "id": "d",
+          "text": "A recent fall with dizziness",
+          "correct": true,
+          "rationale": "Correct. Falls and dizziness are listed as possible presentations."
+        },
+        {
+          "id": "e",
+          "text": "Anorexia and fatigue",
+          "correct": true,
+          "rationale": "Correct. Anorexia and fatigue may be the only clues."
+        },
+        {
+          "id": "f",
+          "text": "Expected rise in WBC with high fever",
+          "correct": false,
+          "rationale": "Classic signs are often blunted in older adults; the chapter does not list these as reliable UTI findings."
+        }
+      ],
+      "explanation": "UTI in an older adult may lack dysuria, frequency, and urgency. Nocturia is sometimes present, and the nurse should look for incontinence, delirium, falls, dizziness, confusion, fatigue, and anorexia."
+    },
+    {
+      "id": "atypical-presentation-06",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 77-year-old woman with diabetes and a previous MI reports sudden fatigue and pain in her jaw. She has no chest pain. Her BP is 92/56 mm Hg and RR is 26/min. Which action should the nurse take first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Refer her to a dentist to evaluate the jaw pain",
+          "correct": false,
+          "rationale": "Jaw pain may be an atypical MI symptom in an older adult; treating it as dental delays recognition."
+        },
+        {
+          "id": "b",
+          "text": "Reassure her that the absence of chest pain rules out MI",
+          "correct": false,
+          "rationale": "Older adults may have an MI without chest pain, and she has several predictors of atypical AMI."
+        },
+        {
+          "id": "c",
+          "text": "Report findings suggestive of MI to the provider",
+          "correct": true,
+          "rationale": "Correct. Jaw pain, hypotension, and tachypnea without chest pain fit atypical MI, and she has risk predictors (female, diabetes, previous AMI)."
+        },
+        {
+          "id": "d",
+          "text": "Encourage rest and recheck her vital signs tomorrow",
+          "correct": false,
+          "rationale": "Waiting ignores a possible MI presenting atypically."
+        }
+      ],
+      "explanation": "MI in an older adult may present with no chest pain and with jaw, neck, shoulder, or epigastric pain, tachypnea, arrhythmia, hypotension, syncope, or confusion. Female sex, diabetes, and previous AMI are predictors of atypical AMI."
+    },
+    {
+      "id": "atypical-presentation-07",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to Table 3.2, a fall in an older adult may be a prodrome of which condition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypothyroidism in a frail adult",
+          "correct": false,
+          "rationale": "Hypothyroidism may cause unsteady gait, but the guide identifies a fall as a possible prodrome of MI."
+        },
+        {
+          "id": "b",
+          "text": "Myocardial infarction",
+          "correct": true,
+          "rationale": "Correct. Table 3.2 states that a fall may be a prodrome of MI."
+        },
+        {
+          "id": "c",
+          "text": "Late-life depression",
+          "correct": false,
+          "rationale": "Depression may present with increased dependency and aches, not a fall as a prodrome."
+        },
+        {
+          "id": "d",
+          "text": "Late-onset hyperthyroidism",
+          "correct": false,
+          "rationale": "Hyperthyroidism presents subtly with lethargy, weakness, AFib, and weight loss."
+        }
+      ],
+      "explanation": "A fall may be a prodrome of MI in an older adult. Falls are also listed among the possible presentations of UTI and heart failure, which is why an unexplained fall always needs a search for illness."
+    },
+    {
+      "id": "atypical-presentation-08",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The nurse reviews research on atypical acute myocardial infarction (AMI). Which client characteristics are predictors of an atypical AMI presentation? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Age 80 years",
+          "correct": true,
+          "rationale": "Correct. Age 75 or older is a predictor."
+        },
+        {
+          "id": "b",
+          "text": "Female sex",
+          "correct": true,
+          "rationale": "Correct. Female sex is a predictor of atypical AMI."
+        },
+        {
+          "id": "c",
+          "text": "History of hyperlipidemia",
+          "correct": false,
+          "rationale": "The predictor is NO history of hyperlipidemia."
+        },
+        {
+          "id": "d",
+          "text": "Diabetes mellitus",
+          "correct": true,
+          "rationale": "Correct. Diabetes is one of the five predictors."
+        },
+        {
+          "id": "e",
+          "text": "Previous AMI",
+          "correct": true,
+          "rationale": "Correct. A previous AMI is a predictor."
+        },
+        {
+          "id": "f",
+          "text": "Age 68 years",
+          "correct": false,
+          "rationale": "The age predictor is 75 or older."
+        }
+      ],
+      "explanation": "About 24% of AMIs present atypically. The five predictors are age ≥75, female sex, diabetes, previous AMI, and no history of hyperlipidemia."
+    },
+    {
+      "id": "atypical-presentation-09",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 86-year-old resident has RR 28/min, HR 108/min, new confusion, and poor appetite. Temperature is 98.4°F (36.9°C), WBC is within normal limits, and she has only a mild, nonproductive cough. Which interpretation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pneumonia is unlikely because she has no fever and a normal WBC count",
+          "correct": false,
+          "rationale": "Fever and increased WBC may be absent in older adults with pneumonia."
+        },
+        {
+          "id": "b",
+          "text": "Her confusion most likely reflects worsening dementia from aging",
+          "correct": false,
+          "rationale": "New confusion is often the result of illness, not aging."
+        },
+        {
+          "id": "c",
+          "text": "The findings suggest a viral cold that only needs fluids and rest",
+          "correct": false,
+          "rationale": "Tachypnea, tachycardia, and delirium are not explained by a simple cold; they fit pneumonia's atypical presentation."
+        },
+        {
+          "id": "d",
+          "text": "These findings may be pneumonia even without fever or a high WBC",
+          "correct": true,
+          "rationale": "Correct. Tachypnea, tachycardia, delirium, confusion, anorexia, and a mild or nonproductive cough fit pneumonia in an older adult."
+        }
+      ],
+      "explanation": "In older adults, pneumonia may present with a mild, nonproductive, or absent cough, and fever and increased WBC may be absent. Tachypnea, tachycardia, delirium, confusion, and anorexia may be the clues."
+    },
+    {
+      "id": "atypical-presentation-10",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 91-year-old client with heart failure denies shortness of breath. Which findings should alert the nurse that his heart failure may be worsening? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Poor appetite over the past week",
+          "correct": true,
+          "rationale": "Correct. Anorexia is a listed presentation of CHF in older adults."
+        },
+        {
+          "id": "b",
+          "text": "New agitation and confusion",
+          "correct": true,
+          "rationale": "Correct. Confusion and agitation may be the presenting signs of CHF."
+        },
+        {
+          "id": "c",
+          "text": "Weakness and two recent falls",
+          "correct": true,
+          "rationale": "Correct. Weakness and falls are listed presentations of CHF."
+        },
+        {
+          "id": "d",
+          "text": "His denial of dyspnea, which rules out worsening",
+          "correct": false,
+          "rationale": "Older adults with CHF may not report dyspnea, so its absence does not rule out worsening."
+        },
+        {
+          "id": "e",
+          "text": "A new cough",
+          "correct": true,
+          "rationale": "Correct. Cough is listed among CHF presentations in older adults."
+        },
+        {
+          "id": "f",
+          "text": "Weight loss, tremor, and heat intolerance",
+          "correct": false,
+          "rationale": "These are not listed as CHF presentations; weight loss appears under hyperthyroidism in Table 3.2."
+        }
+      ],
+      "explanation": "Heart failure in an older adult may present with anorexia, confusion, agitation, weakness, falls, and cough, and the person may not report dyspnea."
+    },
+    {
+      "id": "atypical-presentation-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which set of findings is most consistent with hyperthyroidism in an older adult?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heat intolerance, tremor, and a markedly enlarged thyroid",
+          "correct": false,
+          "rationale": "The guide describes hyperthyroidism in older adults as subtle; these prominent signs are not the presentation it lists."
+        },
+        {
+          "id": "b",
+          "text": "Lethargy, weakness, depression, AFib, and weight loss",
+          "correct": true,
+          "rationale": "Correct. Table 3.2 lists lethargy, weakness, depression, atrial fibrillation, and weight loss."
+        },
+        {
+          "id": "c",
+          "text": "No overt symptoms, delirium, and an unsteady gait",
+          "correct": false,
+          "rationale": "This describes hypothyroidism in older adults."
+        },
+        {
+          "id": "d",
+          "text": "Dysuria, frequency, urgency, and new nocturia",
+          "correct": false,
+          "rationale": "These are urinary symptoms, discussed under UTI."
+        }
+      ],
+      "explanation": "Hyperthyroidism in older adults is subtle: lethargy, weakness, depression, atrial fibrillation, and weight loss. Hypothyroidism often has no overt symptoms and may show delirium, dementia, depression, or unsteady gait."
+    },
+    {
+      "id": "atypical-presentation-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 79-year-old client has developed an unsteady gait and seems depressed and forgetful but reports no other symptoms. Which condition from Table 3.2 should the nurse consider?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyperthyroidism with rapid weight gain",
+          "correct": false,
+          "rationale": "Hyperthyroidism in older adults is associated with weight loss, not weight gain, and with AFib and lethargy."
+        },
+        {
+          "id": "b",
+          "text": "Pneumonia with a productive cough",
+          "correct": false,
+          "rationale": "Nothing in the scenario points to a respiratory infection."
+        },
+        {
+          "id": "c",
+          "text": "Hypothyroidism",
+          "correct": true,
+          "rationale": "Correct. Hypothyroidism often has no overt symptoms and may present with delirium, dementia, depression, and unsteady gait."
+        },
+        {
+          "id": "d",
+          "text": "Myocardial infarction with chest pain",
+          "correct": false,
+          "rationale": "Nothing suggests a cardiac event, and older adults with MI may have no chest pain anyway."
+        }
+      ],
+      "explanation": "Hypothyroidism in older adults often has no overt symptoms. Delirium, dementia, depression, and an unsteady gait may be the only signs."
+    },
+    {
+      "id": "atypical-presentation-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "The nurse suspects depression in a 75-year-old widower. Which findings are consistent with how depression may present in an older adult? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Memory and concentration problems",
+          "correct": true,
+          "rationale": "Correct. Depression may present as memory and concentration problems, which is why it is often mislabeled as dementia."
+        },
+        {
+          "id": "b",
+          "text": "Increased dependency on family",
+          "correct": true,
+          "rationale": "Correct. Increased dependency is a listed presentation."
+        },
+        {
+          "id": "c",
+          "text": "Sleeping more than usual",
+          "correct": true,
+          "rationale": "Correct. Increased sleep is listed."
+        },
+        {
+          "id": "d",
+          "text": "Aches and headaches",
+          "correct": true,
+          "rationale": "Correct. Aches and headaches are listed presentations of depression."
+        },
+        {
+          "id": "e",
+          "text": "Elevated mood and high energy",
+          "correct": false,
+          "rationale": "These are not signs of depression."
+        }
+      ],
+      "explanation": "Depression in older adults may show up as memory and concentration problems, increased dependency, anxiety, increased sleep, aches, and headaches rather than a reported sad mood."
+    },
+    {
+      "id": "atypical-presentation-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A home health nurse notes that a client's BP today is 138/84 mm Hg and HR is 88/min. Which comparison gives the nurse the most meaningful interpretation of these values?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Published normal ranges for adults over 65",
+          "correct": false,
+          "rationale": "Group norms can hide a meaningful change; older adults are heterogeneous."
+        },
+        {
+          "id": "b",
+          "text": "The client's own previous patterns",
+          "correct": true,
+          "rationale": "Correct. Because signs are often blunted, the guide says to compare findings with the person's own previous patterns."
+        },
+        {
+          "id": "c",
+          "text": "Values of other clients on the caseload",
+          "correct": false,
+          "rationale": "Other clients are not a valid standard; each person's own baseline is."
+        },
+        {
+          "id": "d",
+          "text": "The client's report of how they feel today",
+          "correct": false,
+          "rationale": "Subjective report matters, but blunted responses mean the person's own previous objective patterns are the key comparison."
+        }
+      ],
+      "explanation": "Because older adults respond less vigorously to illness, a small change may be significant. The best standard is the person's own previous patterns."
+    },
+    {
+      "id": "atypical-presentation-15",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A student asks why an 83-year-old with a UTI was admitted for a fall rather than for urinary symptoms. Which explanation by the nurse is most accurate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Older adults rarely get UTIs, so the fall must have a different cause.\"",
+          "correct": false,
+          "rationale": "The chapter presents UTI as a common illness that often presents atypically."
+        },
+        {
+          "id": "b",
+          "text": "\"The fall caused the UTI by injuring the bladder during the event.\"",
+          "correct": false,
+          "rationale": "The fall is a presentation of the UTI, not its cause."
+        },
+        {
+          "id": "c",
+          "text": "\"With less physiologic reserve, illness can show up as an unrelated problem.\"",
+          "correct": true,
+          "rationale": "Correct. Diminished reserve blunts typical signs, and a UTI may present with falls, dizziness, and confusion instead of dysuria."
+        },
+        {
+          "id": "d",
+          "text": "\"Urinary symptoms are always present but older adults hide them.\"",
+          "correct": false,
+          "rationale": "Dysuria, frequency, and urgency are often truly absent, not hidden."
+        }
+      ],
+      "explanation": "Diminished physiologic reserve means older adults respond less vigorously to illness. A UTI may present as a fall, dizziness, confusion, or incontinence instead of the usual urinary symptoms."
+    },
+    {
+      "id": "atypical-presentation-16",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A preceptor is evaluating a new graduate's understanding of atypical presentation. Which statement by the new graduate indicates a need for further teaching?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"An older adult with pneumonia may have no fever and a normal WBC.\"",
+          "correct": false,
+          "rationale": "This is accurate; fever and increased WBC may be absent with pneumonia in older adults."
+        },
+        {
+          "id": "b",
+          "text": "\"Heart failure may show up as falls and agitation instead of dyspnea.\"",
+          "correct": false,
+          "rationale": "This is accurate; older adults with CHF may not report dyspnea."
+        },
+        {
+          "id": "c",
+          "text": "\"Sudden confusion may be the first sign of an illness such as an MI.\"",
+          "correct": false,
+          "rationale": "This is accurate; delirium may be the first sign of a serious illness such as a heart attack."
+        },
+        {
+          "id": "d",
+          "text": "\"With no chest pain, I can rule out MI in a client who is 85.\"",
+          "correct": true,
+          "rationale": "Correct. This statement is wrong and needs correction: older adults may have an MI with no chest pain."
+        }
+      ],
+      "explanation": "Absence of an expected symptom does not rule out illness in an older adult. MI may occur without chest pain, pneumonia without fever or increased WBC, and CHF without reported dyspnea."
+    },
+    {
+      "id": "atypical-presentation-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 72-year-old client who was alert and oriented yesterday is now confused and picking at the bed linens. Which action should the nurse take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document the change as expected and recheck at the end of the shift",
+          "correct": false,
+          "rationale": "A sudden change in cognition is often the result of illness, not aging, and should not wait."
+        },
+        {
+          "id": "b",
+          "text": "Look for an underlying illness and report the change to the provider",
+          "correct": true,
+          "rationale": "Correct. Sudden confusion signals possible illness; delirium may be the first sign of a serious illness such as a heart attack."
+        },
+        {
+          "id": "c",
+          "text": "Ask the family whether there is a history of Alzheimer disease",
+          "correct": false,
+          "rationale": "Family history may be useful later, but an abrupt change points to an acute cause that needs to be found now."
+        },
+        {
+          "id": "d",
+          "text": "Apply restraints to prevent the client from pulling out the IV",
+          "correct": false,
+          "rationale": "Restraints decrease mobility and do not address the cause; alternatives to restraints are preferred."
+        }
+      ],
+      "explanation": "A sudden change in cognitive function is often the result of illness, not aging. Delirium may be the first sign of a serious illness such as a heart attack, so the nurse searches for the cause."
+    },
+    {
+      "id": "atypical-presentation-18",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to the evidence-based practice findings in the chapter, about what proportion of acute myocardial infarctions present atypically?",
+      "options": [
+        {
+          "id": "a",
+          "text": "About 5%",
+          "correct": false,
+          "rationale": "This is far below the figure reported."
+        },
+        {
+          "id": "b",
+          "text": "About 50%",
+          "correct": false,
+          "rationale": "This overstates the figure."
+        },
+        {
+          "id": "c",
+          "text": "About 75%",
+          "correct": false,
+          "rationale": "This is not the figure reported."
+        },
+        {
+          "id": "d",
+          "text": "About 24%",
+          "correct": true,
+          "rationale": "Correct. About 24% of AMIs presented atypically in the cited evidence."
+        }
+      ],
+      "explanation": "About 24% of AMIs present atypically. Predictors are age ≥75, female sex, diabetes, previous AMI, and no history of hyperlipidemia."
+    },
+    {
+      "id": "atypical-presentation-19",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement best describes diminished physiologic reserve in an older adult?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The body is adequate for daily life but responds less vigorously under stress",
+          "correct": true,
+          "rationale": "Correct. Reserve is fine for daily life, but under stress the body responds less vigorously, so signs are blunted or atypical."
+        },
+        {
+          "id": "b",
+          "text": "The body cannot meet the demands of ordinary daily activity at any time",
+          "correct": false,
+          "rationale": "Reserve is described as adequate for daily life; the deficit shows under stress."
+        },
+        {
+          "id": "c",
+          "text": "The body overreacts to stress, producing exaggerated fever and pain",
+          "correct": false,
+          "rationale": "The response is blunted, not exaggerated."
+        },
+        {
+          "id": "d",
+          "text": "The body loses reserve only in clients who already have dementia",
+          "correct": false,
+          "rationale": "Diminished reserve is part of aging in general, not limited to dementia."
+        }
+      ],
+      "explanation": "Diminished physiologic reserve is adequate for ordinary daily life, but under the stress of illness the body responds less vigorously. This is why signs are blunted or atypical."
+    },
+    {
+      "id": "atypical-presentation-20",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "An 88-year-old client is admitted with suspected pneumonia. Which findings would the nurse recognize as consistent with pneumonia in an older adult? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tachypnea",
+          "correct": true,
+          "rationale": "Correct. Tachypnea is a listed sign of pneumonia in older adults."
+        },
+        {
+          "id": "b",
+          "text": "A mild, nonproductive cough",
+          "correct": true,
+          "rationale": "Correct. The cough may be mild, nonproductive, or absent."
+        },
+        {
+          "id": "c",
+          "text": "New delirium or confusion",
+          "correct": true,
+          "rationale": "Correct. Delirium and confusion are common presentations."
+        },
+        {
+          "id": "d",
+          "text": "Copious purulent sputum in every case",
+          "correct": false,
+          "rationale": "The cough may be nonproductive or absent; copious sputum is not expected."
+        },
+        {
+          "id": "e",
+          "text": "Fever that is always above 102°F",
+          "correct": false,
+          "rationale": "Fever may be absent in older adults with pneumonia."
+        },
+        {
+          "id": "f",
+          "text": "Tachycardia and anorexia",
+          "correct": true,
+          "rationale": "Correct. Tachycardia and anorexia are listed findings."
+        }
+      ],
+      "explanation": "Pneumonia in an older adult may present with a mild, nonproductive, or absent cough, possibly no fever or increased WBC, and tachypnea, delirium, confusion, anorexia, and tachycardia."
+    }
+  ]
+}

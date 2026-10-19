@@ -1,0 +1,333 @@
+{
+  "slug": "demographics",
+  "title": "Demographics of an Aging Population",
+  "short": "Demographics",
+  "icon": "users",
+  "description": "Who today's older adults are: population growth, why 65 means old, age subgroups, life expectancy, and how sex, marital status, race, living situation, education, income, and work affect health.",
+  "keyPoints": [
+    "About 17% of Americans (1 in 6) are 65+, projected to reach 1 in 5 by 2030; growth surged as Baby Boomers began turning 65 in 2011.",
+    "65 comes from the 1935 Social Security Act: the government wanted 70, citizens wanted 60, so 65 was the compromise. Full retirement age is rising to 67; earliest benefits remain 62.",
+    "Age subgroups: young-old 65–74, middle-old 75–84, old-old ≥85. Older adults are not alike, so compare each client with their own past status.",
+    "About 11% of older adults are institutionalized; 27% of those living in the community live alone.",
+    "U.S. life expectancy fell 1.8 years in 2020 to 76.4, the lowest in two decades; COVID-19 caused 60% of the drop.",
+    "Sex and race are significant indicators of poverty: women 10.1% vs. men 7.6%; African American 17.2%, Hispanic 16.6%, Asian 11.5%, White 6.8%.",
+    "People who cannot meet basic needs reduce or avoid healthcare spending; low education and literacy shape teaching and discharge planning."
+  ],
+  "review": {
+    "pages": "pp. 5–8",
+    "bigIdea": "Who are today's older adults, and how do sex, marital status, race, living situation, education, income, and work shape their health and life expectancy?",
+    "objectives": [
+      "Discuss the major U.S. demographic trends in the older adult population.",
+      "Describe how sex, marital status, race/ethnicity, living situation, education, economic status, and functional status affect health, well-being, and life expectancy."
+    ],
+    "blocks": [
+      { "type": "heading", "text": "Demographic profile", "pages": "pp. 5–8" },
+      { "type": "cue", "q": "How big is the older population, and how fast is it growing?", "a": "1 in 6 Americans is 65+ (17%), projected to be 1 in 5 by 2030.\n55.7 million people, up 38% since 2010; 36% growth from 2009 to 2019. The fastest growing segment of the population.\nPeople 100+: 104,819 in 2020 vs. 32,194 in 1980.\nGrowth surged as the Baby Boomers began turning 65 in 2011." },
+      { "type": "cue", "q": "Why is \"old\" set at 65?", "a": "The 1935 Social Security Act (FDR). The government wanted 70; Depression-era citizens wanted 60, which was too expensive. 65 was chosen to appease citizens and move older adults out of the workforce.\nThe choice is considered arbitrary; planners looked at Civil War pensions, Germany's Bismarck program, and the ILO.\n1983: Congress began raising full retirement age: 66 years 2 months for those born in 1955, and 67 for those born in 1960 or later. The earliest benefits are still available at 62." },
+      {
+        "type": "table",
+        "title": "The three age subgroups",
+        "columns": ["Subgroup", "Ages", "Number"],
+        "rows": [
+          ["Young-old", "65–74", "32.5 million"],
+          ["Middle-old", "75–84", "16.5 million"],
+          ["Old-old", "85 and older", "6.7 million (will double by 2040)"]
+        ]
+      },
+      { "type": "cue", "q": "Why use the patient as their own standard?", "a": "Older adults are not homogeneous: a 65-year-old and a 95-year-old can differ as much as a 2-year-old and a 5-year-old.\nCompare the client's current status with the client's own past status." },
+      { "type": "cue", "q": "What is happening to life expectancy?", "a": "World: 66.8 years (2000) → 73.4 years (2019). The share of people over 60 nearly doubles, 12% → 22% (2015–2050).\nU.S.: the lowest in two decades. It fell 1.8 years in 2020 to 76.4. COVID-19 caused 60% of the drop.\nOther contributors: 106,000 overdose deaths, suicide, alcohol-related liver disease, injuries, homicide, heart disease, and diabetes." },
+      { "type": "cue", "q": "How do sex and marital status matter?", "a": "Females live longer worldwide.\nMarried: 69% of older men vs. 47% of older women. 30% of women 65+ are widows; 43% of women over 75 live alone.\nMarital status influences income, mobility, housing, intimacy, and social interaction.\nOlder women are more often poor, alone, and impaired, so aging is a significant female problem, and nurses should advocate politically." },
+      { "type": "cue", "q": "Race/ethnicity: key numbers?", "a": "Among people 65+ in 2020: 24% minorities (African American 9%, Asian American 5%, less than 1% American Indian/Alaska Native or Native Hawaiian/Pacific Islander); Hispanic (any race) 8%.\nWhole U.S. population: Latino/Hispanic and Asian Americans are the fastest growing groups (18.7% and 6.1%; African American 12.1%)." },
+      { "type": "cue", "q": "Living arrangements and frailty?", "a": "Aging in place is preferred. About 11% are institutionalized.\n27% (15.2 million) of community-dwelling older adults live alone.\nLiving with a spouse: men 72%, women 49%. Living alone: men 21%, women 33%.\nFrailty rises with chronic disease, vulnerability, low function, and cognitive impairment (plus psychological, social, environmental, and financial factors), but not all older adults are frail: expect wellness.\nHousing in 2019: median home value $200,000; median year built 1972." },
+      { "type": "cue", "q": "Education: the trend, and why it matters?", "a": "High school completion rose from 28% (1970) to 89% (2021); 33% hold a bachelor's degree or more.\nBy group: White 93%, Asian 83%, African American 83%, Hispanic 62%.\nLow education impairs a healthy lifestyle, accessing benefits, recognizing problems, seeking care, and following recommendations. Literacy shapes teaching and discharge planning." },
+      { "type": "cue", "q": "Income and poverty: the most testable facts?", "a": "Median income in 2020: men $35,808; women $21,245.\nMore than 5 million live below the poverty level, plus 2.6 million near-poor (at or below 125% of poverty).\nSex and race are significant indicators of poverty (see table).\nKey link to health: people who cannot meet basic needs reduce or avoid healthcare spending." },
+      {
+        "type": "table",
+        "title": "Poverty rates among older adults",
+        "columns": ["Group", "Poverty rate"],
+        "rows": [
+          ["Women", "10.1%"],
+          ["Men", "7.6%"],
+          ["African American", "17.2%"],
+          ["Hispanic", "16.6%"],
+          ["Asian", "11.5%"],
+          ["White", "6.8%"]
+        ]
+      },
+      { "type": "cue", "q": "Employment, and what did COVID do?", "a": "18.9% (10.6 million) were in the labor force in 2021; the older workforce is about 96% of its pre-COVID level.\nLaid off during COVID: 22% of those over 55 vs. 14% of those under 55.\nOlder adults are expected to be more than 25% of the workforce by 2030.\nOlder adults move for health (to be near caregivers), money (a cheaper area), or affluence (a retirement community)." },
+      { "type": "callout", "tone": "exam", "title": "Most testable", "text": "Sex and race are the two significant indicators of poverty. Women are poorer than men (10.1% vs. 7.6%), and African American (17.2%) and Hispanic (16.6%) older adults have the highest rates." },
+      { "type": "recall", "text": "Summarize from memory: Pick three factors (sex, race, income, education, living situation) and explain how each affects an older adult's health." },
+      { "type": "callout", "tone": "key", "title": "Key points (p. 16)", "text": "65 is the reporting standard, but turning 65 doesn't make someone \"old.\" Don't assume all older adults are alike. People 65+ are about 17% of the U.S., and the fastest growth is now, as Baby Boomers reach 65. About 11% live in long-term care, a share that rises sharply with age. Sex and race are significant indicators of poverty." }
+    ]
+  },
+  "questions": [
+    {
+      "id": "demographics-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A community health nurse is preparing a talk on the aging population. About what share of Americans is currently 65 or older?",
+      "options": [
+        { "id": "a", "text": "About 17%, or 1 in 6, projected to be 1 in 5 by 2030", "correct": true, "rationale": "Correct. About 17% of Americans (1 in 6) are 65+, projected to reach 1 in 5 by 2030." },
+        { "id": "b", "text": "About 11%, or 1 in 9, projected to be 1 in 6 by 2030", "correct": false, "rationale": "About 11% is the share of older adults who are institutionalized, not the share of Americans who are 65+." },
+        { "id": "c", "text": "About 27%, or 1 in 4, projected to be 1 in 3 by 2030", "correct": false, "rationale": "27% is the share of community-dwelling older adults who live alone." },
+        { "id": "d", "text": "About 33%, or 1 in 3, projected to be 1 in 2 by 2030", "correct": false, "rationale": "33% is the share of older adults with a bachelor's degree or more." }
+      ],
+      "explanation": "One in six Americans (17%) is 65 or older, about 55.7 million people, up 38% since 2010. The share is projected to reach 1 in 5 by 2030 as Baby Boomers continue to turn 65."
+    },
+    {
+      "id": "demographics-02",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A nurse is caring for a 79-year-old client. Which age subgroup does this client belong to?",
+      "options": [
+        { "id": "a", "text": "Young-old, ages 65 to 79", "correct": false, "rationale": "The young-old subgroup is 65–74." },
+        { "id": "b", "text": "Old-old, ages 75 and older", "correct": false, "rationale": "Old-old begins at 85." },
+        { "id": "c", "text": "Middle-old, ages 75 to 84", "correct": true, "rationale": "Correct. The middle-old subgroup is 75–84 (16.5 million people)." },
+        { "id": "d", "text": "Oldest-old, ages 70 to 89", "correct": false, "rationale": "This is not one of the chapter's subgroups; the three are young-old, middle-old, and old-old." }
+      ],
+      "explanation": "The three subgroups are young-old 65–74 (32.5 million), middle-old 75–84 (16.5 million), and old-old 85 and older (6.7 million, expected to double by 2040)."
+    },
+    {
+      "id": "demographics-03",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client asks the nurse, \"Why is 65 considered old in this country?\" Which explanation is accurate?",
+      "options": [
+        { "id": "a", "text": "It matched the average U.S. life expectancy when Social Security began.", "correct": false, "rationale": "The chapter does not tie 65 to life expectancy; it was a political compromise." },
+        { "id": "b", "text": "It was a 1935 compromise: the government wanted 70 and citizens wanted 60.", "correct": true, "rationale": "Correct. Under the 1935 Social Security Act, 65 was chosen between the government's 70 and citizens' 60, which was too expensive." },
+        { "id": "c", "text": "It was required by the International Labour Organization for all members.", "correct": false, "rationale": "Planners looked at the ILO, but the ILO did not require 65." },
+        { "id": "d", "text": "Congress set it in 1983 when it reorganized the Social Security program.", "correct": false, "rationale": "In 1983 Congress began raising the full retirement age; 65 dates from 1935." }
+      ],
+      "explanation": "Age 65 comes from the 1935 Social Security Act under FDR. The government wanted 70 and Depression-era citizens wanted 60, so 65 was chosen to appease citizens and move older adults out of the workforce. The choice is considered arbitrary."
+    },
+    {
+      "id": "demographics-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 63-year-old client born in 1961 asks the nurse when she can collect Social Security. Which response is accurate?",
+      "options": [
+        { "id": "a", "text": "\"Full benefits start at 65 for everyone, and early benefits are not available.\"", "correct": false, "rationale": "Since 1983 Congress has raised the full retirement age above 65, and early benefits remain available at 62." },
+        { "id": "b", "text": "\"Full benefits start at 66 years 2 months; you cannot collect anything before 65.\"", "correct": false, "rationale": "66 years 2 months applies to people born in 1955, and benefits can begin at 62." },
+        { "id": "c", "text": "\"Full benefits start at 70, the age the government first wanted in 1935.\"", "correct": false, "rationale": "The government wanted 70 in 1935, but that age was not adopted." },
+        { "id": "d", "text": "\"Full benefits start at 67, though the earliest benefits are available at 62.\"", "correct": true, "rationale": "Correct. For people born in 1960 or later, full retirement age is 67, and the earliest benefits are still available at 62." }
+      ],
+      "explanation": "In 1983 Congress began raising the full retirement age: 66 years 2 months for people born in 1955 and 67 for those born in 1960 or later. The earliest age for benefits is still 62."
+    },
+    {
+      "id": "demographics-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A classmate says, \"All of my clinical patients are over 65, so their care is basically the same.\" Which response by the nursing student is best?",
+      "options": [
+        { "id": "a", "text": "\"That's true; once people reach 65, they share the same health needs.\"", "correct": false, "rationale": "Older adults are not homogeneous; turning 65 does not make care uniform." },
+        { "id": "b", "text": "\"Care differs only between people who are frail and people who are not.\"", "correct": false, "rationale": "Frailty is one difference among many; older adults differ in many ways." },
+        { "id": "c", "text": "\"A 65- and 95-year-old can differ as much as a 2- and a 5-year-old.\"", "correct": true, "rationale": "Correct. Older adults are heterogeneous, so each client is compared with their own past status." },
+        { "id": "d", "text": "\"Care should be planned from norms for the client's age subgroup.\"", "correct": false, "rationale": "The chapter says to use the patient as their own standard, not a group norm." }
+      ],
+      "explanation": "Older adults are not homogeneous: differences between a 65- and a 95-year-old may be as great as between a 2- and a 5-year-old. The nurse uses each client as their own standard, comparing current status with past status."
+    },
+    {
+      "id": "demographics-06",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "About what percentage of adults over 65 are institutionalized?",
+      "options": [
+        { "id": "a", "text": "About 5%", "correct": false, "rationale": "This underestimates the chapter's figure." },
+        { "id": "b", "text": "About 11%", "correct": true, "rationale": "Correct. About 11% of older adults are institutionalized, and the share rises sharply with age." },
+        { "id": "c", "text": "About 27%", "correct": false, "rationale": "27% is the share of community-dwelling older adults who live alone." },
+        { "id": "d", "text": "About 43%", "correct": false, "rationale": "43% is the share of women over 75 who live alone." }
+      ],
+      "explanation": "Most older adults prefer to age in place. About 11% are institutionalized, a share that rises sharply with age."
+    },
+    {
+      "id": "demographics-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which statement about U.S. life expectancy in 2020 is accurate?",
+      "options": [
+        { "id": "a", "text": "It fell 1.8 years to 76.4, and COVID-19 caused 60% of the decline.", "correct": true, "rationale": "Correct. U.S. life expectancy fell 1.8 years in 2020 to 76.4, the lowest in two decades, and COVID-19 accounted for 60% of the drop." },
+        { "id": "b", "text": "It rose 1.8 years to 76.4, the highest it has been in two decades.", "correct": false, "rationale": "Life expectancy fell in 2020; it did not rise." },
+        { "id": "c", "text": "It fell to 73.4, matching the world average reported for 2019.", "correct": false, "rationale": "73.4 is the 2019 world life expectancy, not the 2020 U.S. figure." },
+        { "id": "d", "text": "It held steady because COVID-19 deaths were offset by fewer overdoses.", "correct": false, "rationale": "Overdose deaths (106,000) also contributed to the decline." }
+      ],
+      "explanation": "In 2020 U.S. life expectancy fell 1.8 years to 76.4, the lowest in two decades. COVID-19 caused 60% of the drop; other contributors included overdoses, suicide, alcohol-related liver disease, injuries, homicide, heart disease, and diabetes. Worldwide, life expectancy rose from 66.8 (2000) to 73.4 (2019)."
+    },
+    {
+      "id": "demographics-08",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "Which factors does the chapter list as contributors to the drop in U.S. life expectancy in 2020? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "COVID-19", "correct": true, "rationale": "COVID-19 accounted for 60% of the decline." },
+        { "id": "b", "text": "Drug overdose deaths", "correct": true, "rationale": "About 106,000 overdose deaths contributed to the drop." },
+        { "id": "c", "text": "Suicide and alcohol-related liver disease", "correct": true, "rationale": "Both are listed among the contributors." },
+        { "id": "d", "text": "A shrinking share of adults over 60", "correct": false, "rationale": "The share of people over 60 is growing, not shrinking." },
+        { "id": "e", "text": "Lower high school completion among older adults", "correct": false, "rationale": "High school completion among older adults rose from 28% in 1970 to 89% in 2021." }
+      ],
+      "explanation": "U.S. life expectancy fell 1.8 years in 2020 to 76.4. COVID-19 was 60% of the drop. Other contributors were 106,000 overdose deaths, suicide, alcohol-related liver disease, injuries, homicide, heart disease, and diabetes."
+    },
+    {
+      "id": "demographics-09",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A home health nurse is screening four older clients for financial need. Based on the chapter's poverty data, which client is at highest statistical risk of living in poverty?",
+      "options": [
+        { "id": "a", "text": "A 70-year-old White man who is married", "correct": false, "rationale": "Men (7.6%) and White older adults (6.8%) have the lowest poverty rates." },
+        { "id": "b", "text": "A 76-year-old Asian American man who is married", "correct": false, "rationale": "Asian older adults have an 11.5% poverty rate, and men have lower rates than women." },
+        { "id": "c", "text": "A 74-year-old White woman who is widowed", "correct": false, "rationale": "Women have higher poverty rates than men, but White older adults have the lowest rate by race (6.8%)." },
+        { "id": "d", "text": "An 80-year-old African American woman who is widowed", "correct": true, "rationale": "Correct. Sex and race are significant indicators of poverty: women 10.1% vs. men 7.6%, and African American older adults 17.2%, the highest rate listed." }
+      ],
+      "explanation": "Sex and race are significant indicators of poverty among older adults. Women (10.1%) are poorer than men (7.6%), and by race the rates are African American 17.2%, Hispanic 16.6%, Asian 11.5%, and White 6.8%."
+    },
+    {
+      "id": "demographics-10",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "The chapter calls aging \"a significant female problem.\" Which data support this conclusion? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Women live longer than men worldwide.", "correct": true, "rationale": "Females live longer worldwide, so more women reach old age." },
+        { "id": "b", "text": "30% of women 65 and older are widows.", "correct": true, "rationale": "Widowhood is common among older women and affects income, housing, and social interaction." },
+        { "id": "c", "text": "Older women are more likely than older men to be married.", "correct": false, "rationale": "The opposite is true: 69% of older men are married vs. 47% of older women." },
+        { "id": "d", "text": "43% of women over 75 live alone.", "correct": true, "rationale": "Living alone is common among the oldest women." },
+        { "id": "e", "text": "The poverty rate is 10.1% for older women vs. 7.6% for older men.", "correct": true, "rationale": "Sex is a significant indicator of poverty." },
+        { "id": "f", "text": "Older women's median income is higher than older men's.", "correct": false, "rationale": "In 2020 median income was $21,245 for women vs. $35,808 for men." }
+      ],
+      "explanation": "Older women are more often poor, alone, and impaired. They live longer, are less often married (47% vs. 69% of men), are often widowed (30%), often live alone after 75 (43%), and have higher poverty rates and lower incomes than men."
+    },
+    {
+      "id": "demographics-11",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse reviews data showing that older women are more often poor, alone, and impaired than older men. Which nursing action does the chapter call for in response?",
+      "options": [
+        { "id": "a", "text": "Advocate politically on issues that affect older women", "correct": true, "rationale": "Correct. Because aging is a significant female problem, the chapter says nurses should advocate politically." },
+        { "id": "b", "text": "Recommend long-term care placement for widowed women", "correct": false, "rationale": "Aging in place is preferred, and widowhood alone is not a reason for placement." },
+        { "id": "c", "text": "Assume impaired function in each woman older than 75", "correct": false, "rationale": "Not all older adults are frail; the nurse expects wellness and assesses each person." },
+        { "id": "d", "text": "Direct all health teaching to older women's adult children", "correct": false, "rationale": "Older adults participate in their own decisions; bypassing them is not supported." }
+      ],
+      "explanation": "Marital status influences income, mobility, housing, intimacy, and social interaction. Older women are more often poor, alone, and impaired, making aging a significant female problem, and nurses should advocate politically."
+    },
+    {
+      "id": "demographics-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 76-year-old client who left school after eighth grade is being discharged with three new medications. Which nursing action best reflects the chapter's guidance on education?",
+      "options": [
+        { "id": "a", "text": "Give the standard written handout and ask the client to read it at home", "correct": false, "rationale": "Literacy shapes teaching, so a standard handout may not meet this client's needs." },
+        { "id": "b", "text": "Skip medication teaching and give the instructions to a neighbor instead", "correct": false, "rationale": "Low education does not justify leaving the client out of teaching." },
+        { "id": "c", "text": "Assess literacy and tailor the teaching and discharge plan to the client", "correct": true, "rationale": "Correct. Literacy shapes teaching and discharge planning, and low education can impair following recommendations." },
+        { "id": "d", "text": "Postpone discharge until the client completes a reading program", "correct": false, "rationale": "Delaying discharge for this reason is not a chapter recommendation." }
+      ],
+      "explanation": "Low education can impair a healthy lifestyle, accessing benefits, recognizing problems, seeking care, and following recommendations. Literacy shapes how the nurse teaches and plans discharge."
+    },
+    {
+      "id": "demographics-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is planning care for an older client with limited formal education. According to the chapter, low education can impair which abilities? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Maintaining a healthy lifestyle", "correct": true, "rationale": "Low education impairs maintaining a healthy lifestyle." },
+        { "id": "b", "text": "Accessing benefits", "correct": true, "rationale": "Accessing benefits is listed as impaired by low education." },
+        { "id": "c", "text": "Qualifying for Medicare at 65", "correct": false, "rationale": "Medicare eligibility is based on age, certain disabilities, or ESRD, not education." },
+        { "id": "d", "text": "Recognizing problems and seeking care", "correct": true, "rationale": "Low education affects recognizing health problems and seeking care." },
+        { "id": "e", "text": "Following care recommendations", "correct": true, "rationale": "Following recommendations is impaired by low education." },
+        { "id": "f", "text": "Being compared with their own past status", "correct": false, "rationale": "Using the patient as their own standard applies to every older adult, regardless of education." }
+      ],
+      "explanation": "Education among older adults rose sharply (high school completion 28% in 1970 to 89% in 2021), but gaps remain by group. Low education impairs a healthy lifestyle, accessing benefits, recognizing problems, seeking care, and following recommendations."
+    },
+    {
+      "id": "demographics-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A 78-year-old client's blood pressure remains uncontrolled. The client admits to cutting antihypertensive pills in half to make them last longer. Which factor from the chapter most likely explains this behavior?",
+      "options": [
+        { "id": "a", "text": "Older adults lack the cognitive ability to understand dosing", "correct": false, "rationale": "Assuming cognitive impairment is not supported; not all older adults are impaired." },
+        { "id": "b", "text": "People who cannot meet basic needs cut healthcare spending", "correct": true, "rationale": "Correct. The key link between income and health is that people who cannot meet basic needs reduce or avoid healthcare spending." },
+        { "id": "c", "text": "Older adults rate their own health negatively and give up", "correct": false, "rationale": "Older adults tend to rate their own health positively." },
+        { "id": "d", "text": "Medication splitting is a normal, expected part of aging", "correct": false, "rationale": "This behavior is a cue to explore finances, not a normal aging change." }
+      ],
+      "explanation": "More than 5 million older adults live below poverty and 2.6 million are near-poor. People who cannot meet basic needs reduce or avoid healthcare spending, which can show up as stretching medications. Sex, race, and education also influence this risk."
+    },
+    {
+      "id": "demographics-15",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "Which groups are the fastest growing in the overall U.S. population?",
+      "options": [
+        { "id": "a", "text": "African American and White Americans", "correct": false, "rationale": "African Americans are 12.1% of the population, but they are not named as the fastest growing." },
+        { "id": "b", "text": "American Indian/Alaska Native and Native Hawaiian/Pacific Islander", "correct": false, "rationale": "These groups make up less than 1% of older adults and are not named as fastest growing." },
+        { "id": "c", "text": "Non-Hispanic White Americans of all ages", "correct": false, "rationale": "The chapter does not name this group as fastest growing; it names Latino/Hispanic and Asian Americans." },
+        { "id": "d", "text": "Latino/Hispanic and Asian Americans", "correct": true, "rationale": "Correct. Latino/Hispanic (18.7%) and Asian Americans (6.1%) are the fastest growing groups in the U.S." }
+      ],
+      "explanation": "Among people 65+ in 2020, 24% were minorities (African American 9%, Asian American 5%, less than 1% AI/AN/NHPI) and 8% were Hispanic. In the whole U.S. population, Latino/Hispanic and Asian Americans are the fastest growing groups."
+    },
+    {
+      "id": "demographics-16",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse is planning discharge for an 81-year-old widowed woman recovering from pneumonia. Which question is most important to ask first?",
+      "options": [
+        { "id": "a", "text": "\"Who lives with you, and who can help you at home?\"", "correct": true, "rationale": "Correct. 33% of older women and 43% of women over 75 live alone, so living arrangements shape discharge planning." },
+        { "id": "b", "text": "\"Would you like to move to a nursing facility now?\"", "correct": false, "rationale": "Aging in place is preferred; only about 11% are institutionalized." },
+        { "id": "c", "text": "\"What year was your house built, and its value?\"", "correct": false, "rationale": "Housing data describe the population; they are not the priority for this discharge." },
+        { "id": "d", "text": "\"Are you still working at least part-time now?\"", "correct": false, "rationale": "Employment matters less than whether she has help at home after discharge." }
+      ],
+      "explanation": "Living arrangements differ by sex: 72% of older men live with a spouse vs. 49% of women, and 21% of men live alone vs. 33% of women. Widowed older women are especially likely to live alone, so the nurse first finds out who can help at home."
+    },
+    {
+      "id": "demographics-17",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A nurse admits an 88-year-old client who lives independently, drives, and volunteers weekly. Which nursing approach is most appropriate?",
+      "options": [
+        { "id": "a", "text": "Plan care as for a frail client because the client is old-old", "correct": false, "rationale": "Not all older adults are frail; age alone does not define frailty." },
+        { "id": "b", "text": "Compare the client with average function for adults over 85", "correct": false, "rationale": "The client should be compared with their own past status, not a group average." },
+        { "id": "c", "text": "Expect wellness and compare findings with the client's baseline", "correct": true, "rationale": "Correct. Not all older adults are frail; the nurse expects wellness and uses the client as their own standard." },
+        { "id": "d", "text": "Recommend a move to be near caregivers before any decline", "correct": false, "rationale": "Moving for health reasons is a client choice, and nothing here suggests a need." }
+      ],
+      "explanation": "Frailty rises with chronic disease, vulnerability, low function, and cognitive impairment, along with psychological, social, environmental, and financial factors. But not all older adults are frail, so the nurse expects wellness and compares the client's current status with their own past status."
+    },
+    {
+      "id": "demographics-18",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is screening older adults in a community clinic for frailty. Which findings increase a client's frailty risk? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "Several chronic diseases", "correct": true, "rationale": "Frailty rises with chronic disease." },
+        { "id": "b", "text": "Cognitive impairment", "correct": true, "rationale": "Cognitive impairment raises frailty." },
+        { "id": "c", "text": "Having just turned 65", "correct": false, "rationale": "Turning 65 does not make someone old or frail." },
+        { "id": "d", "text": "Low functional status", "correct": true, "rationale": "Low function is a frailty factor." },
+        { "id": "e", "text": "Serious financial strain", "correct": true, "rationale": "Financial factors, along with psychological, social, and environmental ones, contribute to frailty." },
+        { "id": "f", "text": "Living in an older home", "correct": false, "rationale": "Housing age (median built 1972) is a population statistic, not a listed frailty factor." }
+      ],
+      "explanation": "Frailty rises with chronic disease, vulnerability, low function, and cognitive impairment, plus psychological, social, environmental, and financial factors. Not every older adult is frail, so the nurse still expects wellness."
+    },
+    {
+      "id": "demographics-19",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A community health nurse reviews population data to plan services for older adults. Which conclusions are supported by the chapter? Select all that apply.",
+      "options": [
+        { "id": "a", "text": "The older population reached 55.7 million, up 38% since 2010.", "correct": true, "rationale": "This is the chapter's figure for growth of the 65+ population." },
+        { "id": "b", "text": "People 100 and older rose from 32,194 in 1980 to 104,819 in 2020.", "correct": true, "rationale": "The number of centenarians more than tripled over this period." },
+        { "id": "c", "text": "Growth surged once the Baby Boomers began turning 65 in 2011.", "correct": true, "rationale": "Baby Boomers reaching 65 drive today's rapid growth." },
+        { "id": "d", "text": "Older adults will be 1 in 4 Americans by 2030.", "correct": false, "rationale": "The projection is 1 in 5 by 2030." },
+        { "id": "e", "text": "The old-old group is expected to shrink by 2040.", "correct": false, "rationale": "The old-old (85+) group is expected to double by 2040." }
+      ],
+      "explanation": "Older adults are the fastest growing segment of the population: 55.7 million, up 38% since 2010, with growth surging as Baby Boomers began turning 65 in 2011. Centenarians rose from 32,194 in 1980 to 104,819 in 2020, and the old-old group will double by 2040."
+    },
+    {
+      "id": "demographics-20",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nursing instructor asks students what they learned about older adults in the workforce. Which student statement is accurate?",
+      "options": [
+        { "id": "a", "text": "\"About half of adults 65 and older were in the labor force in 2021.\"", "correct": false, "rationale": "18.9% (10.6 million) of older adults were in the labor force in 2021." },
+        { "id": "b", "text": "\"During COVID, 22% of those over 55 were laid off vs. 14% of younger workers.\"", "correct": true, "rationale": "Correct. Workers over 55 were laid off at a higher rate (22%) than those under 55 (14%)." },
+        { "id": "c", "text": "\"Older adults will make up less than 10% of the workforce by 2030.\"", "correct": false, "rationale": "Older adults are expected to be more than 25% of the workforce by 2030." },
+        { "id": "d", "text": "\"The older workforce fully returned to its pre-COVID size by 2021.\"", "correct": false, "rationale": "The older workforce was about 96% of its pre-COVID level." }
+      ],
+      "explanation": "In 2021, 18.9% (10.6 million) of older adults were in the labor force, about 96% of the pre-COVID level. COVID layoffs hit workers over 55 harder (22% vs. 14%). Older adults are expected to be more than 25% of the workforce by 2030, and they move for health, money, or affluence."
+    }
+  ]
+}

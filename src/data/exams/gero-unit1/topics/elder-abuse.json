@@ -1,0 +1,849 @@
+{
+  "slug": "elder-abuse",
+  "title": "Elder Abuse & Protective Services",
+  "short": "Elder Abuse & APS",
+  "icon": "shield",
+  "description": "The three categories and seven types of elder abuse, the signs of each (Table 2.1), caregiver risk factors, adult protective services, and the nurse's duty as a mandated reporter.",
+  "keyPoints": [
+    "Elder abuse affects 1 in 10 people age 60+ (CDC); it is underreported and usually recurrent and episodic.",
+    "3 categories: domestic (family member or caregiver), institutional (usually a paid caregiver), self-neglect/self-abuse.",
+    "7 types: physical, sexual, emotional, financial/material, neglect, abandonment, self-neglect.",
+    "Signs of financial exploitation: money diverted from care, utilities not paid, medications not purchased.",
+    "Physical abuse signs: bruises not caused by medications, untreated wounds, unexplained (spiral) fractures.",
+    "Caregiver risk: caregiver stress, less social support and poor coping, history of mental illness or drug/alcohol abuse.",
+    "Nurses are mandated reporters: most states require reporting on reasonable suspicion; failure → civil and/or criminal penalties."
+  ],
+  "review": {
+    "pages": "pp. 20–21",
+    "bigIdea": "Why are frail older adults a vulnerable population, how do you recognize each type of elder abuse, and what does the law require the nurse to do about it?",
+    "objectives": [
+      "Explore why older adults are a vulnerable population and the legal implications of that designation.",
+      "Identify the three categories of elder abuse, define the seven types, and discuss the nurse's responsibility."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Elder abuse and protective services",
+        "pages": "pp. 20–21"
+      },
+      {
+        "type": "list",
+        "title": "Elder abuse: 3 categories",
+        "ordered": true,
+        "items": [
+          "Domestic: abuse by a family member or caregiver",
+          "Institutional: abuse in a facility, usually by a PAID caregiver",
+          "Self-neglect / self-abuse: the person fails to provide self with food, shelter, or care"
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Elder abuse: 7 types (can occur in any category)",
+        "ordered": false,
+        "items": [
+          "Physical: force causing injury, pain, or impairment",
+          "Sexual: nonconsensual contact of any kind",
+          "Emotional: anguish or distress caused by verbal or nonverbal acts",
+          "Financial/material: illegal or improper use of funds, property, or assets",
+          "Neglect: refusal or failure to fulfill duties to the older adult",
+          "Abandonment: desertion by the person who has custody",
+          "Self-neglect: the person's own behavior threatens his or her health or safety"
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "exam",
+        "title": "Category vs. type",
+        "text": "Domestic, institutional, and self-neglect are CATEGORIES (who or where). Physical, sexual, emotional, financial/material, neglect, abandonment, and self-neglect are TYPES (what happened). Abuse by paid nursing facility staff = institutional."
+      },
+      {
+        "type": "cue",
+        "q": "How common is elder abuse, and why is it missed?",
+        "a": "It affects 1 in 10 people age 60 and older (CDC).\nIt is underreported: hidden as a \"family secret\" or out of fear; cultural differences also play a part.\nIt is defined by state laws, which vary.\nIt occurs recurrently and episodically, not usually just once."
+      },
+      {
+        "type": "cue",
+        "q": "Why are older adults vulnerable?",
+        "a": "Cognitive decline is often followed by functional decline.\nThe person can no longer do ADLs or live independently.\nTurning affairs over to others can open the door to mistreatment."
+      },
+      {
+        "type": "table",
+        "title": "Signs that point to each type (Table 2.1)",
+        "columns": [
+          "Type",
+          "Signs"
+        ],
+        "rows": [
+          [
+            "Physical",
+            "Bruises not caused by medications; untreated wounds; unexplained (spiral) fractures"
+          ],
+          [
+            "Sexual",
+            "Genital bruising; vaginal bleeding or discharge"
+          ],
+          [
+            "Emotional",
+            "Behavior change; depression; withdrawal"
+          ],
+          [
+            "Financial",
+            "Money diverted; utilities unpaid; medications not purchased"
+          ],
+          [
+            "Neglect / abandonment / self-neglect",
+            "Dirty, odor; unsanitary home; unmanaged illness; drugs not taken as prescribed; increased ED visits; hungry, malnourished, dehydrated"
+          ]
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "What puts caregivers at risk of abusing?",
+        "a": "Caregiver stress: physical and emotional demands, lack of resources, financial strain.\nLess social support and poor coping, leading to depression, anxiety, and burnout.\nA history of mental illness or drug/alcohol abuse.\nNurses need ongoing education in stress management and in abuse identification and prevention."
+      },
+      {
+        "type": "cue",
+        "q": "What is APS, and what must the nurse do?",
+        "a": "Adult protective services (APS): laws and regulations carried out by a designated state agency, which may work with the police.\nTools include protective orders and criminal penalties, which are often enhanced for offenses against elders.\nMost states require mandatory reporting on reasonable suspicion; nurses are mandated reporters.\nFailure to report brings civil and/or criminal penalties (Tennessee is the book's example).\nThe nurse still respects the older adult's autonomy and rights."
+      },
+      {
+        "type": "callout",
+        "tone": "alert",
+        "title": "Suspected abuse = report it",
+        "text": "Nurses are mandated reporters. Most states require reporting on reasonable suspicion; failure to report leads to civil and/or criminal penalties. (p. 21)"
+      },
+      {
+        "type": "callout",
+        "tone": "nurse",
+        "title": "What the nurse does",
+        "text": "Recognize the signs in Table 2.1, report on reasonable suspicion (proof is not required), document objectively, and do not let a client's confusion talk you out of the duty to report. Support caregivers and staff with education in stress management and abuse prevention."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: A patient has multiple stages of bruising on the upper arms and a caregiver who answers for them. What do you suspect, and what is your duty?"
+      },
+      {
+        "type": "callout",
+        "tone": "key",
+        "title": "Chapter key point for this topic (pp. 32–33)",
+        "text": "Frail older adults are a vulnerable population; their care is carefully regulated."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "elder-abuse-01",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to the CDC figure cited in the textbook, about how many people age 60 and older experience elder abuse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 in every 50 people",
+          "correct": false,
+          "rationale": "This underestimates the problem; the textbook cites 1 in 10."
+        },
+        {
+          "id": "b",
+          "text": "1 in every 10 people",
+          "correct": true,
+          "rationale": "Correct. Elder abuse affects 1 in 10 people age 60 and older (CDC)."
+        },
+        {
+          "id": "c",
+          "text": "1 in every 3 people",
+          "correct": false,
+          "rationale": "This overstates the figure given in the textbook."
+        },
+        {
+          "id": "d",
+          "text": "1 in every 100 people",
+          "correct": false,
+          "rationale": "This greatly underestimates the problem; the cited figure is 1 in 10."
+        }
+      ],
+      "explanation": "Elder abuse affects 1 in 10 people age 60 and older (CDC). It is underreported, hidden as a family secret or out of fear, and usually occurs recurrently and episodically."
+    },
+    {
+      "id": "elder-abuse-02",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A resident of a nursing facility reports that a paid nursing assistant slapped her during morning care. Which category of elder abuse does this represent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Domestic abuse",
+          "correct": false,
+          "rationale": "Domestic abuse is committed by a family member or caregiver in the home setting."
+        },
+        {
+          "id": "b",
+          "text": "Self-neglect or self-abuse",
+          "correct": false,
+          "rationale": "Self-neglect is when the person fails to provide self with food, shelter, or care."
+        },
+        {
+          "id": "c",
+          "text": "Institutional abuse",
+          "correct": true,
+          "rationale": "Correct. Institutional abuse occurs in a facility, usually by a paid caregiver."
+        },
+        {
+          "id": "d",
+          "text": "Financial abuse",
+          "correct": false,
+          "rationale": "Financial/material abuse is a type, not a category, and involves misuse of money or property."
+        }
+      ],
+      "explanation": "The three categories are domestic (family member or caregiver), institutional (facility, usually a paid caregiver), and self-neglect/self-abuse. Slapping is the physical type of abuse, occurring in the institutional category."
+    },
+    {
+      "id": "elder-abuse-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "An 81-year-old client in the emergency department has bruises in multiple stages of healing on both upper arms. The client says vaguely, \"I fell,\" and the caregiver quickly adds, \"She's just clumsy.\" The client takes no anticoagulants. What is the nurse's priority legal action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wait to report until the client clearly confirms that someone hurt her",
+          "correct": false,
+          "rationale": "Proof or confirmation is not required; most states require reporting on reasonable suspicion."
+        },
+        {
+          "id": "b",
+          "text": "Confront the caregiver privately and ask whether he or she caused the bruises",
+          "correct": false,
+          "rationale": "Confronting the suspected abuser does not meet the legal duty and may put the client at greater risk."
+        },
+        {
+          "id": "c",
+          "text": "Document the bruises as fall-related injuries and teach fall prevention",
+          "correct": false,
+          "rationale": "Bruising in multiple stages with a vague history and a caregiver who answers is a red flag for abuse; labeling it a fall ignores the cues."
+        },
+        {
+          "id": "d",
+          "text": "Report the suspected physical abuse according to mandatory reporting law",
+          "correct": true,
+          "rationale": "Correct. Nurses are mandated reporters; reasonable suspicion of abuse must be reported to adult protective services."
+        }
+      ],
+      "explanation": "Bruises not caused by medications, a vague story, and a caregiver who answers for the client suggest physical abuse. Most states require reporting on reasonable suspicion, nurses are mandated reporters, and failure to report brings civil and/or criminal penalties."
+    },
+    {
+      "id": "elder-abuse-04",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "During a home visit, the nurse finds that a 79-year-old client's electricity bill is overdue and several prescriptions were never filled, even though the client's pension is deposited monthly into an account managed by a nephew. Which type of abuse should the nurse suspect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Financial or material exploitation",
+          "correct": true,
+          "rationale": "Correct. Money diverted from care, unpaid utilities, and medications not purchased are signs of financial exploitation."
+        },
+        {
+          "id": "b",
+          "text": "Emotional or psychological abuse",
+          "correct": false,
+          "rationale": "Emotional abuse shows as behavior change, depression, and withdrawal, not unpaid bills with available income."
+        },
+        {
+          "id": "c",
+          "text": "Abandonment by the person with custody",
+          "correct": false,
+          "rationale": "Abandonment is desertion by the person with custody; the nephew is still involved but misusing funds."
+        },
+        {
+          "id": "d",
+          "text": "Self-neglect by the older adult",
+          "correct": false,
+          "rationale": "The client's money is controlled by someone else, so the pattern points to another person's misuse of funds."
+        }
+      ],
+      "explanation": "Financial/material abuse is the illegal or improper use of funds, property, or assets. Table 2.1 signs: money diverted, utilities unpaid, and medications not purchased."
+    },
+    {
+      "id": "elder-abuse-05",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A home health nurse suspects neglect of a 90-year-old client who lives with her son. Which findings support this suspicion? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strong odor and soiled clothing",
+          "correct": true,
+          "rationale": "Being dirty and having an odor are signs of neglect (Table 2.1)."
+        },
+        {
+          "id": "b",
+          "text": "Repeated emergency department visits in the past 2 months",
+          "correct": true,
+          "rationale": "Increased ED visits are listed as a sign of neglect, abandonment, or self-neglect."
+        },
+        {
+          "id": "c",
+          "text": "Genital bruising noted during personal care",
+          "correct": false,
+          "rationale": "Genital bruising is a sign of sexual abuse."
+        },
+        {
+          "id": "d",
+          "text": "Signs of dehydration and weight loss",
+          "correct": true,
+          "rationale": "Being hungry, malnourished, or dehydrated is a sign of neglect."
+        },
+        {
+          "id": "e",
+          "text": "Blood pressure drugs not taken as prescribed",
+          "correct": true,
+          "rationale": "Drugs not taken as prescribed and unmanaged illness are signs of neglect."
+        },
+        {
+          "id": "f",
+          "text": "Bank withdrawals the client cannot explain",
+          "correct": false,
+          "rationale": "Diverted money points to financial exploitation."
+        }
+      ],
+      "explanation": "Table 2.1 signs of neglect, abandonment, or self-neglect: dirty, odor; unsanitary home; unmanaged illness; drugs not taken as prescribed; increased ED visits; hungry, malnourished, dehydrated."
+    },
+    {
+      "id": "elder-abuse-06",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Which definition describes self-neglect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desertion of an older adult by the person who has custody",
+          "correct": false,
+          "rationale": "This defines abandonment."
+        },
+        {
+          "id": "b",
+          "text": "Refusal or failure of a caregiver to fulfill caregiving duties",
+          "correct": false,
+          "rationale": "This defines neglect by another person."
+        },
+        {
+          "id": "c",
+          "text": "A person's own behavior that threatens his or her health or safety",
+          "correct": true,
+          "rationale": "Correct. In self-neglect, the person's own behavior threatens health or safety, such as failing to provide self with food, shelter, or care."
+        },
+        {
+          "id": "d",
+          "text": "Improper use of an older adult's funds by a trusted relative",
+          "correct": false,
+          "rationale": "This defines financial or material abuse."
+        }
+      ],
+      "explanation": "Self-neglect is both a category (self-neglect/self-abuse) and a type: the person's own behavior threatens his or her health or safety, such as failing to provide self with food, shelter, or care."
+    },
+    {
+      "id": "elder-abuse-07",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A nurse educator explains that elder abuse is underreported. Which reason is supported by the textbook?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is often hidden as a family secret or not reported out of fear",
+          "correct": true,
+          "rationale": "Correct. Abuse is hidden as a \"family secret\" or out of fear, and cultural differences also contribute."
+        },
+        {
+          "id": "b",
+          "text": "A single federal law defines abuse too narrowly for most cases to qualify",
+          "correct": false,
+          "rationale": "Elder abuse is defined by state laws, which vary; there is no single narrow federal definition cited."
+        },
+        {
+          "id": "c",
+          "text": "Most abuse happens only once, so few signs remain to be noticed",
+          "correct": false,
+          "rationale": "Abuse usually occurs recurrently and episodically, not just once."
+        },
+        {
+          "id": "d",
+          "text": "Nurses in most states are not permitted to report suspected abuse",
+          "correct": false,
+          "rationale": "Nurses are mandated reporters; most states require them to report on reasonable suspicion."
+        }
+      ],
+      "explanation": "Elder abuse is underreported because it is hidden as a family secret or out of fear, and because of cultural differences. It is defined by state laws, which vary, and it usually occurs recurrently and episodically."
+    },
+    {
+      "id": "elder-abuse-08",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A client with early cognitive decline has begun needing help with bathing and bill paying and recently gave a neighbor access to her bank account. Which explanation best describes why this client is at increased risk for mistreatment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Older adults lose all legal rights once they need help with ADLs",
+          "correct": false,
+          "rationale": "Needing help with ADLs does not remove legal rights; the nurse must still respect autonomy and rights."
+        },
+        {
+          "id": "b",
+          "text": "Abuse is most often committed by strangers who target people who live alone",
+          "correct": false,
+          "rationale": "The textbook focuses on family members, caregivers, and paid caregivers as abusers, not strangers."
+        },
+        {
+          "id": "c",
+          "text": "Cognitive decline causes the person to invent reports of abuse",
+          "correct": false,
+          "rationale": "Nothing in the textbook supports dismissing reports from cognitively impaired clients; confusion does not remove the duty to report."
+        },
+        {
+          "id": "d",
+          "text": "Functional decline that follows cognitive decline means turning affairs over to others",
+          "correct": true,
+          "rationale": "Correct. Cognitive decline is often followed by functional decline; turning affairs over to others can open the door to mistreatment."
+        }
+      ],
+      "explanation": "Older adults are vulnerable because cognitive decline is often followed by functional decline. When they can no longer do ADLs or live independently, turning affairs over to others can open the door to mistreatment."
+    },
+    {
+      "id": "elder-abuse-09",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A nurse is assessing the daughter who is the sole caregiver for her father with advanced dementia. Which findings place this caregiver at increased risk of becoming abusive? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She lost her job and is struggling to pay bills",
+          "correct": true,
+          "rationale": "Financial strain is part of caregiver stress, a risk factor for abuse."
+        },
+        {
+          "id": "b",
+          "text": "She has no friends or relatives who help with care",
+          "correct": true,
+          "rationale": "Less social support is a risk factor that can lead to depression, anxiety, and burnout."
+        },
+        {
+          "id": "c",
+          "text": "She attends a weekly caregiver support group",
+          "correct": false,
+          "rationale": "Support and coping resources lower risk rather than raise it."
+        },
+        {
+          "id": "d",
+          "text": "She has a history of alcohol abuse",
+          "correct": true,
+          "rationale": "A history of drug or alcohol abuse is a caregiver risk factor."
+        },
+        {
+          "id": "e",
+          "text": "She reports feeling exhausted and hopeless most days",
+          "correct": true,
+          "rationale": "Poor coping leading to depression and burnout increases risk."
+        },
+        {
+          "id": "f",
+          "text": "She has completed a stress management course",
+          "correct": false,
+          "rationale": "Education in stress management is a protective measure, not a risk factor."
+        }
+      ],
+      "explanation": "Caregiver risk factors include caregiver stress (physical and emotional demands, lack of resources, financial strain), less social support and poor coping leading to depression, anxiety, and burnout, and a history of mental illness or drug/alcohol abuse."
+    },
+    {
+      "id": "elder-abuse-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A resident who is sometimes confused tells the charge nurse that a nurse aide \"pushed her around\" at dinner. Which action by the charge nurse is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reassure the resident, since confusion makes the report unreliable",
+          "correct": false,
+          "rationale": "Confusion does not remove the duty to report; dismissing the report fails the resident's right to freedom from abuse."
+        },
+        {
+          "id": "b",
+          "text": "Ask the aide's coworkers whether they think the aide would do this",
+          "correct": false,
+          "rationale": "Opinions from coworkers do not replace the legal duty to report on reasonable suspicion."
+        },
+        {
+          "id": "c",
+          "text": "Report the possible abuse and document the resident's words objectively",
+          "correct": true,
+          "rationale": "Correct. This is possible institutional physical abuse; the nurse is a mandated reporter on reasonable suspicion and should document objectively."
+        },
+        {
+          "id": "d",
+          "text": "Wait to see whether the resident repeats the complaint on another shift",
+          "correct": false,
+          "rationale": "Waiting delays a required report; abuse tends to recur, which places the resident at continued risk."
+        }
+      ],
+      "explanation": "A report of being pushed by an aide is possible institutional physical abuse and violates the resident's right to freedom from abuse. The nurse is a mandated reporter on reasonable suspicion; confusion does not remove the duty, and documentation should be objective."
+    },
+    {
+      "id": "elder-abuse-11",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "An older woman has become withdrawn and tearful. Her son often yells at her, calls her a burden, and threatens to \"put her away\" if she complains. Which type of abuse does this describe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neglect",
+          "correct": false,
+          "rationale": "Neglect is refusal or failure to fulfill duties; this scenario centers on verbal acts causing distress."
+        },
+        {
+          "id": "b",
+          "text": "Emotional abuse",
+          "correct": true,
+          "rationale": "Correct. Emotional abuse is anguish or distress caused by verbal or nonverbal acts; signs include behavior change, depression, and withdrawal."
+        },
+        {
+          "id": "c",
+          "text": "Abandonment",
+          "correct": false,
+          "rationale": "Abandonment is desertion by the person with custody; the son is still present."
+        },
+        {
+          "id": "d",
+          "text": "Physical abuse",
+          "correct": false,
+          "rationale": "Physical abuse requires force causing injury, pain, or impairment."
+        }
+      ],
+      "explanation": "Emotional abuse is the infliction of anguish or distress by verbal or nonverbal acts. Signs include behavior change, depression, and withdrawal."
+    },
+    {
+      "id": "elder-abuse-12",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A daughter who is her mother's legal custodian brings the mother to the emergency department, leaves without giving contact information, and does not return or answer calls. Which type of abuse has most likely occurred?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Self-neglect",
+          "correct": false,
+          "rationale": "Self-neglect involves the older adult's own behavior, not a caregiver's actions."
+        },
+        {
+          "id": "b",
+          "text": "Financial exploitation",
+          "correct": false,
+          "rationale": "Nothing in the scenario involves misuse of funds, property, or assets."
+        },
+        {
+          "id": "c",
+          "text": "Emotional abuse",
+          "correct": false,
+          "rationale": "Emotional abuse involves verbal or nonverbal acts causing distress, not desertion."
+        },
+        {
+          "id": "d",
+          "text": "Abandonment",
+          "correct": true,
+          "rationale": "Correct. Abandonment is desertion of the older adult by the person who has custody."
+        }
+      ],
+      "explanation": "Abandonment is desertion by the person with custody. Its signs overlap with neglect and self-neglect in Table 2.1."
+    },
+    {
+      "id": "elder-abuse-13",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "Who carries out adult protective services (APS) laws and regulations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A designated state agency, which may work with the police",
+          "correct": true,
+          "rationale": "Correct. APS is run by a designated state agency that may work with law enforcement."
+        },
+        {
+          "id": "b",
+          "text": "The facility's ethics committee, which makes binding decisions",
+          "correct": false,
+          "rationale": "Ethics committees are consultative with no legal authority; they do not run APS."
+        },
+        {
+          "id": "c",
+          "text": "The Joint Commission, during voluntary accreditation surveys",
+          "correct": false,
+          "rationale": "The Joint Commission accredits facilities; it does not carry out APS law."
+        },
+        {
+          "id": "d",
+          "text": "The county medical examiner, after a report is confirmed",
+          "correct": false,
+          "rationale": "APS is a designated state agency; reports do not need to be confirmed first."
+        }
+      ],
+      "explanation": "Adult protective services consist of laws and regulations carried out by a designated state agency, which may work with police. Protective orders and criminal penalties, often enhanced for offenses against elders, are available."
+    },
+    {
+      "id": "elder-abuse-14",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "The nurse assesses four older adults. Which finding is most suggestive of physical abuse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scattered forearm bruises in a client taking warfarin who bumps into furniture",
+          "correct": false,
+          "rationale": "Table 2.1 lists bruises NOT caused by medications as a sign of abuse; these may be explained by the anticoagulant."
+        },
+        {
+          "id": "b",
+          "text": "Weight loss in a client who lives alone and forgets to shop for groceries",
+          "correct": false,
+          "rationale": "This points to self-neglect rather than physical abuse."
+        },
+        {
+          "id": "c",
+          "text": "A spiral fracture of the arm that no one in the home can explain",
+          "correct": true,
+          "rationale": "Correct. Unexplained (spiral) fractures are a sign of physical abuse."
+        },
+        {
+          "id": "d",
+          "text": "New withdrawal and sadness since a son moved into the client's home",
+          "correct": false,
+          "rationale": "Withdrawal and depression are signs of emotional abuse, not physical abuse."
+        }
+      ],
+      "explanation": "Signs of physical abuse in Table 2.1: bruises not caused by medications, untreated wounds, and unexplained (spiral) fractures. The nurse must also recognize when another explanation, such as an anticoagulant, may account for a finding."
+    },
+    {
+      "id": "elder-abuse-15",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A new graduate nurse asks about her legal duty as a mandated reporter of elder abuse. Which statements by the preceptor are accurate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Most states require you to report when you have reasonable suspicion.\"",
+          "correct": true,
+          "rationale": "Most states require mandatory reporting on reasonable suspicion."
+        },
+        {
+          "id": "b",
+          "text": "\"You must have proof of abuse before you are allowed to report it.\"",
+          "correct": false,
+          "rationale": "Proof is not required; reasonable suspicion is the threshold."
+        },
+        {
+          "id": "c",
+          "text": "\"Failing to report can lead to civil and/or criminal penalties.\"",
+          "correct": true,
+          "rationale": "Failure to report brings civil and/or criminal penalties (for example, in Tennessee)."
+        },
+        {
+          "id": "d",
+          "text": "\"A client's confusion does not remove your duty to report.\"",
+          "correct": true,
+          "rationale": "The duty to report on reasonable suspicion stands even when the client is confused."
+        },
+        {
+          "id": "e",
+          "text": "\"Only physicians are legally required to report elder abuse.\"",
+          "correct": false,
+          "rationale": "Nurses are mandated reporters."
+        },
+        {
+          "id": "f",
+          "text": "\"You should still respect the client's autonomy and rights.\"",
+          "correct": true,
+          "rationale": "Protective action is taken while still respecting the older adult's autonomy and rights."
+        }
+      ],
+      "explanation": "Nurses are mandated reporters. Most states require reporting on reasonable suspicion, failure to report brings civil and/or criminal penalties, and the nurse still respects the client's autonomy and rights."
+    },
+    {
+      "id": "elder-abuse-16",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nursing student is listing the seven TYPES of elder abuse. Which items belong on the list? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Financial/material",
+          "correct": true,
+          "rationale": "Financial/material abuse is one of the seven types."
+        },
+        {
+          "id": "b",
+          "text": "Institutional",
+          "correct": false,
+          "rationale": "Institutional is a category (where or by whom), not a type."
+        },
+        {
+          "id": "c",
+          "text": "Abandonment",
+          "correct": true,
+          "rationale": "Abandonment is one of the seven types."
+        },
+        {
+          "id": "d",
+          "text": "Sexual",
+          "correct": true,
+          "rationale": "Sexual abuse is one of the seven types."
+        },
+        {
+          "id": "e",
+          "text": "Domestic",
+          "correct": false,
+          "rationale": "Domestic is a category (abuse by a family member or caregiver), not a type."
+        },
+        {
+          "id": "f",
+          "text": "Neglect",
+          "correct": true,
+          "rationale": "Neglect is one of the seven types."
+        }
+      ],
+      "explanation": "The 7 types are physical, sexual, emotional, financial/material, neglect, abandonment, and self-neglect. Domestic, institutional, and self-neglect/self-abuse are the 3 categories."
+    },
+    {
+      "id": "elder-abuse-17",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "While giving perineal care to a 76-year-old resident who has dementia, the nurse notes genital bruising and new vaginal discharge. Which type of abuse do these findings suggest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neglect by the resident's caregivers",
+          "correct": false,
+          "rationale": "Neglect shows as poor hygiene, unmanaged illness, and malnutrition rather than genital bruising."
+        },
+        {
+          "id": "b",
+          "text": "Physical abuse with untreated wounds",
+          "correct": false,
+          "rationale": "Although bruising is present, genital bruising and vaginal discharge specifically point to sexual abuse in Table 2.1."
+        },
+        {
+          "id": "c",
+          "text": "Emotional abuse from verbal threats",
+          "correct": false,
+          "rationale": "Emotional abuse shows as behavior change, depression, and withdrawal."
+        },
+        {
+          "id": "d",
+          "text": "Sexual abuse with nonconsensual contact",
+          "correct": true,
+          "rationale": "Correct. Genital bruising and vaginal bleeding or discharge are signs of sexual abuse, which is nonconsensual contact of any kind."
+        }
+      ],
+      "explanation": "Sexual abuse is nonconsensual contact of any kind. Table 2.1 signs include genital bruising and vaginal bleeding or discharge."
+    },
+    {
+      "id": "elder-abuse-18",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A nurse manager reviews what new staff learned in an elder abuse in-service. Which staff statement shows the most accurate understanding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"One federal law defines elder abuse the same way in every state.\"",
+          "correct": false,
+          "rationale": "Elder abuse is defined by state laws, which vary."
+        },
+        {
+          "id": "b",
+          "text": "\"Elder abuse usually happens repeatedly, in episodes, rather than once.\"",
+          "correct": true,
+          "rationale": "Correct. Elder abuse occurs recurrently and episodically, not usually once."
+        },
+        {
+          "id": "c",
+          "text": "\"Most older adults report abuse promptly because they fear no one.\"",
+          "correct": false,
+          "rationale": "Abuse is underreported, often hidden as a family secret or out of fear."
+        },
+        {
+          "id": "d",
+          "text": "\"Abuse in a nursing home is called domestic abuse if a paid aide did it.\"",
+          "correct": false,
+          "rationale": "Abuse by a paid caregiver in a facility is institutional abuse."
+        }
+      ],
+      "explanation": "Elder abuse is defined by state laws that vary, is underreported (family secret, fear, cultural differences), and occurs recurrently and episodically. Abuse by paid staff in a facility is institutional."
+    },
+    {
+      "id": "elder-abuse-19",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A nurse is reviewing state elder protection law with the facility's staff. Which statements about adult protective services and related laws are accurate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protective orders can be used to protect an older adult",
+          "correct": true,
+          "rationale": "Protective orders are one of the legal tools available."
+        },
+        {
+          "id": "b",
+          "text": "Criminal penalties are often enhanced for offenses against elders",
+          "correct": true,
+          "rationale": "Criminal penalties are often enhanced when the victim is an elder."
+        },
+        {
+          "id": "c",
+          "text": "The definition of elder abuse is identical across all states",
+          "correct": false,
+          "rationale": "Elder abuse is defined by state laws, which vary."
+        },
+        {
+          "id": "d",
+          "text": "APS may work together with the police",
+          "correct": true,
+          "rationale": "The designated state agency may work with police."
+        },
+        {
+          "id": "e",
+          "text": "APS is a private charity that has no legal authority",
+          "correct": false,
+          "rationale": "APS is carried out by a designated state agency under laws and regulations."
+        }
+      ],
+      "explanation": "APS involves laws and regulations run by a designated state agency, which may work with police. Protective orders and criminal penalties (often enhanced for offenses against elders) are available, and definitions vary by state."
+    },
+    {
+      "id": "elder-abuse-20",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A long-term care nurse manager notices that staff on one unit are showing burnout and frustration with residents. Which action best addresses the textbook's guidance on preventing abuse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assign the frustrated staff only to residents who are cognitively intact",
+          "correct": false,
+          "rationale": "Reassignment does not address the underlying stress and does not provide the education the textbook recommends."
+        },
+        {
+          "id": "b",
+          "text": "Provide ongoing education in stress management and abuse prevention",
+          "correct": true,
+          "rationale": "Correct. Nurses and caregivers need ongoing education in stress management and in abuse identification and prevention."
+        },
+        {
+          "id": "c",
+          "text": "Wait for a resident complaint before taking any action with the staff",
+          "correct": false,
+          "rationale": "Waiting ignores known risk factors; caregiver stress and burnout are warning signs."
+        },
+        {
+          "id": "d",
+          "text": "Increase residents' sedative use so they need less hands-on care",
+          "correct": false,
+          "rationale": "Using drugs for staff convenience is an improper chemical restraint and does not address caregiver stress."
+        }
+      ],
+      "explanation": "Caregiver stress, poor coping, and burnout increase the risk of abuse. Nurses need ongoing education in stress management and in abuse identification and prevention."
+    }
+  ]
+}

@@ -193,7 +193,7 @@
       "stem": "A generalist nurse begins home visits with an 81-year-old client who lives alone after a recent illness. Which approach best reflects the generalist's main challenge in gerontologic care?",
       "options": [
         { "id": "a", "text": "Take over the client's medication and meal routines to prevent errors", "correct": false, "rationale": "Taking over routines reduces independence, the opposite of the generalist's goal." },
-        { "id": "b", "text": "Recommend placement in long-term care because the client lives alone", "correct": false, "rationale": "Living alone does not by itself justify placement; the goal is to maximize independence." },
+        { "id": "b", "text": "Recommend placement in long-term care because the client now lives alone", "correct": false, "rationale": "Living alone does not by itself justify placement; the goal is to maximize independence." },
         { "id": "c", "text": "Identify the client's strengths and help the client maximize independence", "correct": true, "rationale": "Correct. The generalist's main challenge is to identify older adults' strengths and help them maximize independence, with the client participating in decisions." },
         { "id": "d", "text": "Focus the visits on the illness and leave health promotion for later", "correct": false, "rationale": "Health promotion and disease prevention are part of the generalist's role, not something to postpone." }
       ],
@@ -205,7 +205,7 @@
       "bloom": "apply",
       "stem": "A generalist RN caring for an older client in a nursing facility finds that the client's needs have become complex and are beyond the RN's scope. What is the nurse's best action?",
       "options": [
-        { "id": "a", "text": "Ask a UAP with long experience to manage the client's care", "correct": false, "rationale": "UAP perform delegated tasks; they cannot manage complex needs." },
+        { "id": "a", "text": "Ask a UAP with many years of experience to manage the client's care", "correct": false, "rationale": "UAP perform delegated tasks; they cannot manage complex needs." },
         { "id": "b", "text": "Postpone changes until the next annual care conference", "correct": false, "rationale": "Delaying leaves complex needs unaddressed." },
         { "id": "c", "text": "Plan care alone and document the client's complex needs", "correct": false, "rationale": "Working alone ignores the generalist's role of consulting the APN for complex needs." },
         { "id": "d", "text": "Consult the advanced practice nurse about the complex needs", "correct": true, "rationale": "Correct. The generalist consults the APN (AGCNS or AGNP) for complex needs." }
@@ -232,7 +232,7 @@
       "stem": "A student writes, \"Gerontology is the branch of medicine that treats the diseases of old age.\" Which correction should the instructor give?",
       "options": [
         { "id": "a", "text": "Gerontology is the nursing term for assessing functional status and planning care", "correct": false, "rationale": "This describes gerontologic nursing, not gerontology." },
-        { "id": "b", "text": "Gerontology is the art and practice of nurturing, caring, and comforting older adults", "correct": false, "rationale": "This is the definition of gerontic nursing (Gunter and Estes, 1979)." },
+        { "id": "b", "text": "Gerontology is the art and practice of nurturing, caring for, and comforting all older adults", "correct": false, "rationale": "This is the definition of gerontic nursing (Gunter and Estes, 1979)." },
         { "id": "c", "text": "Gerontology is the federal program that defines old age as beginning at 65", "correct": false, "rationale": "Age 65 comes from the 1935 Social Security Act; gerontology is a field of study, not a program." },
         { "id": "d", "text": "Gerontology is the scientific study of the process of aging and older adults' problems", "correct": true, "rationale": "Correct. Gerontology (Greek geron, old man) studies aging and older adults' problems from biologic, sociologic, psychological, and economic angles." }
       ],

@@ -22,65 +22,192 @@
       "State the sources and definitions of laws (statutes, regulations, case law) and the levels where they are made (federal, state, local)."
     ],
     "blocks": [
-      { "type": "heading", "text": "Standard of care and sources of law", "pages": "pp. 18–19" },
-      { "type": "text", "text": "Because Medicare is the primary insurer for people 65 and older, most legal issues in gerontologic care involve federal regulation. Professional standards are the legal measure of a nurse's practice." },
-      { "type": "cue", "q": "What is the standard of care, and who are you measured against?", "a": "A guideline that sets the expectation of safe, effective, and appropriate care.\nCare must meet accepted, prudent, or customary standards (regional or national), as set by the state board of nursing.\nA generalist nurse is measured against other generalists; an APN (minimum master's degree) is measured against other APNs." },
-      { "type": "cue", "q": "How does a patient's decline change the nurse's duty?", "a": "As the patient's physical or mental condition and ability to care for self decline, the nurse's duty of care and advocacy increase." },
-      { "type": "cue", "q": "Does meeting state minimums prove good care? What is a community standard?", "a": "No. Conformity with a state's minimum standards does not necessarily prove due care.\nA community standard of care can be more restrictive than the federal standard, but never lower.\nBenchmarking (comparison with similar facilities) may be evidence of proper care." },
-      { "type": "cue", "q": "What sources help establish the standard of care in court?", "a": "Published professional standards: ANA Gerontological Nursing: Scope and Standards, and ANA Nursing: Scope and Standards (2021), which has 18 standards.\nThe Joint Commission standards (accreditation is voluntary).\nRequired written facility policies.\nBylaws and internal rules.\nNot following your own rules = liability." },
-      { "type": "cue", "q": "Healthcare policy vs. regulations?", "a": "Healthcare policy = law created by the legislative, executive, or judicial branches.\nRegulations = rules that explain and interpret statutes and prescribe how to carry them out; they exist at the federal and state levels." },
-      { "type": "callout", "tone": "exam", "title": "Don't confuse", "text": "Meeting the state minimum is not proof of due care. A community standard may be stricter than the federal one, never lower. And a facility's own written policies count against you if you don't follow them." },
-      { "type": "recall", "text": "Summarize from memory: Explain why a nurse's legal duty grows as a patient becomes frailer." },
-
-      { "type": "heading", "text": "HIPAA (1996)", "pages": "pp. 19–20" },
-      { "type": "cue", "q": "What is HIPAA's purpose?", "a": "To give people additional protection when they buy, change, or continue health insurance (1996)." },
-      { "type": "list", "title": "What HIPAA DOES", "ordered": false, "items": [
-        "Makes it easier to get coverage with a new job",
-        "Lowers the chance of losing coverage",
-        "Helps keep coverage continuous when changing jobs",
-        "Limits preexisting condition exclusions",
-        "Bans group plans from discriminating based on health",
-        "Gives a right to buy coverage after losing job coverage",
-        "Guarantees renewal of coverage",
-        "Protects privacy with third parties, in EHRs, and in what is shared with family and friends"
-      ] },
-      { "type": "list", "title": "What HIPAA does NOT do (common trap)", "ordered": false, "items": [
-        "Require employers to offer or pay for coverage",
-        "Guarantee coverage for everyone",
-        "Control premiums (what insurers charge)",
-        "Require specific benefits",
-        "Let you keep your old job's plan",
-        "Eliminate preexisting condition exclusions (it only limits them)",
-        "Replace the state as the primary regulator of insurance"
-      ] },
-      { "type": "callout", "tone": "memory", "title": "Limits, not eliminates", "text": "HIPAA limits preexisting condition exclusions; it does not eliminate them. It guarantees renewal, but does not guarantee coverage or control premiums." },
-      { "type": "recall", "text": "Summarize from memory: Name two things HIPAA does and two things it does not do." },
-
-      { "type": "heading", "text": "Medicare, Medicaid, and CMS", "pages": "pp. 21–22" },
-      { "type": "timeline", "items": [
-        { "year": "July 30, 1965", "text": "Social Security Amendments of 1965 create Medicare and Medicaid", "star": true },
-        { "year": "Jan 1999", "text": "Medicare Part C begins as Medicare+Choice", "star": false },
-        { "year": "July 1, 2001", "text": "The Health Care Financing Administration (HCFA) becomes CMS", "star": true },
-        { "year": "Dec 2003", "text": "Medicare+Choice becomes Medicare Advantage (HMO/PPO)", "star": false }
-      ] },
-      { "type": "cue", "q": "Where did Medicare and Medicaid come from? What is CMS?", "a": "The Social Security Amendments of 1965 (July 30, 1965).\nHCFA became CMS (Centers for Medicare and Medicaid Services) on July 1, 2001.\nCoverage is only for what is \"reasonable and necessary.\"" },
-      { "type": "list", "title": "CMS 2022 strategic pillars", "ordered": false, "items": [
-        "Advance equity",
-        "Expand access (build on the ACA)",
-        "Engage partners",
-        "Drive innovation",
-        "Protect programs",
-        "Foster excellence"
-      ] },
-      { "type": "table", "title": "Medicare Parts A–D (Chapter 2 details)", "columns": ["Part", "Covers", "Cost / notes"], "rows": [
-        ["A", "Hospital, skilled nursing facility (limited stay), hospice, some home health", "Paid by payroll taxes; no cost at 65+"],
-        ["B", "Physician, outpatient, PT/OT and home health not covered in A", "Income-based premium"],
-        ["C", "Jan 1999 Medicare+Choice → Dec 2003 Medicare Advantage", "HMO/PPO plans"],
-        ["D", "Drugs", "Only with a Medicare-eligible plan; income-based premium"]
-      ] },
-      { "type": "text", "text": "IRMA = Income Related Monthly Adjustment, the income-based part of the Part B and Part D premiums." },
-      { "type": "recall", "text": "Summarize from memory: Explain why Part A is free at 65 but Parts B and D are not." },
-      { "type": "callout", "tone": "key", "title": "Chapter key points for this topic (pp. 32–33)", "text": "Medicare is the primary insurer for people 65 and older, so legal issues involve federal regulation. Professional standards are the legal measure of practice." }
+      {
+        "type": "heading",
+        "text": "Standard of care and sources of law",
+        "pages": "pp. 18–19"
+      },
+      {
+        "type": "text",
+        "text": "Because Medicare is the primary insurer for people 65 and older, most legal issues in gerontologic care involve federal regulation. Professional standards are the legal measure of a nurse's practice."
+      },
+      {
+        "type": "cue",
+        "q": "What is the standard of care, and who are you measured against?",
+        "a": "A guideline that sets the expectation of safe, effective, and appropriate care.\nCare must meet accepted, prudent, or customary standards (regional or national), as set by the state board of nursing.\nA generalist nurse is measured against other generalists; an APN (minimum master's degree) is measured against other APNs."
+      },
+      {
+        "type": "cue",
+        "q": "How does a patient's decline change the nurse's duty?",
+        "a": "As the patient's physical or mental condition and ability to care for self decline, the nurse's duty of care and advocacy increase."
+      },
+      {
+        "type": "cue",
+        "q": "Does meeting state minimums prove good care? What is a community standard?",
+        "a": "No. Conformity with a state's minimum standards does not necessarily prove due care.\nA community standard of care can be more restrictive than the federal standard, but never lower.\nBenchmarking (comparison with similar facilities) may be evidence of proper care."
+      },
+      {
+        "type": "cue",
+        "q": "What sources help establish the standard of care in court?",
+        "a": "Published professional standards: ANA Gerontological Nursing: Scope and Standards, and ANA Nursing: Scope and Standards (2021), which has 18 standards.\nThe Joint Commission standards (accreditation is voluntary).\nRequired written facility policies.\nBylaws and internal rules.\nNot following your own rules = liability."
+      },
+      {
+        "type": "cue",
+        "q": "Healthcare policy vs. regulations?",
+        "a": "Healthcare policy = law created by the legislative, executive, or judicial branches.\nRegulations = rules that explain and interpret statutes and prescribe how to carry them out; they exist at the federal and state levels."
+      },
+      {
+        "type": "callout",
+        "tone": "exam",
+        "title": "Don't confuse",
+        "text": "Meeting the state minimum is not proof of due care. A community standard may be stricter than the federal one, never lower. And a facility's own written policies count against you if you don't follow them."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Explain why a nurse's legal duty grows as a patient becomes frailer."
+      },
+      {
+        "type": "heading",
+        "text": "HIPAA (1996)",
+        "pages": "pp. 19–20"
+      },
+      {
+        "type": "cue",
+        "q": "What is HIPAA's purpose?",
+        "a": "To give people additional protection when they buy, change, or continue health insurance (1996)."
+      },
+      {
+        "type": "list",
+        "title": "What HIPAA DOES",
+        "ordered": false,
+        "items": [
+          "Makes it easier to get coverage with a new job",
+          "Lowers the chance of losing coverage",
+          "Helps keep coverage continuous when changing jobs",
+          "Limits preexisting condition exclusions",
+          "Bans group plans from discriminating based on health",
+          "Gives a right to buy coverage after losing job coverage",
+          "Guarantees renewal of coverage",
+          "Protects privacy with third parties, in EHRs, and in what is shared with family and friends"
+        ]
+      },
+      {
+        "type": "list",
+        "title": "What HIPAA does NOT do (common trap)",
+        "ordered": false,
+        "items": [
+          "Require employers to offer or pay for coverage",
+          "Guarantee coverage for everyone",
+          "Control premiums (what insurers charge)",
+          "Require specific benefits",
+          "Let you keep your old job's plan",
+          "Eliminate preexisting condition exclusions (it only limits them)",
+          "Replace the state as the primary regulator of insurance"
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "memory",
+        "title": "Limits, not eliminates",
+        "text": "HIPAA limits preexisting condition exclusions; it does not eliminate them. It guarantees renewal, but does not guarantee coverage or control premiums."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Name two things HIPAA does and two things it does not do."
+      },
+      {
+        "type": "heading",
+        "text": "Medicare, Medicaid, and CMS",
+        "pages": "pp. 21–22"
+      },
+      {
+        "type": "timeline",
+        "items": [
+          {
+            "year": "July 30, 1965",
+            "text": "Social Security Amendments of 1965 create Medicare and Medicaid",
+            "star": true
+          },
+          {
+            "year": "Jan 1999",
+            "text": "Medicare Part C begins as Medicare+Choice",
+            "star": false
+          },
+          {
+            "year": "July 1, 2001",
+            "text": "The Health Care Financing Administration (HCFA) becomes CMS",
+            "star": true
+          },
+          {
+            "year": "Dec 2003",
+            "text": "Medicare+Choice becomes Medicare Advantage (HMO/PPO)",
+            "star": false
+          }
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "Where did Medicare and Medicaid come from? What is CMS?",
+        "a": "The Social Security Amendments of 1965 (July 30, 1965).\nHCFA became CMS (Centers for Medicare and Medicaid Services) on July 1, 2001.\nCoverage is only for what is \"reasonable and necessary.\""
+      },
+      {
+        "type": "list",
+        "title": "CMS 2022 strategic pillars",
+        "ordered": false,
+        "items": [
+          "Advance equity",
+          "Expand access (build on the ACA)",
+          "Engage partners",
+          "Drive innovation",
+          "Protect programs",
+          "Foster excellence"
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Medicare Parts A–D (Chapter 2 details)",
+        "columns": [
+          "Part",
+          "Covers",
+          "Cost / notes"
+        ],
+        "rows": [
+          [
+            "A",
+            "Hospital, skilled nursing facility (limited stay), hospice, some home health",
+            "Paid by payroll taxes; no cost at 65+"
+          ],
+          [
+            "B",
+            "Physician, outpatient, PT/OT and home health not covered in A",
+            "Income-based premium"
+          ],
+          [
+            "C",
+            "Jan 1999 Medicare+Choice → Dec 2003 Medicare Advantage",
+            "HMO/PPO plans"
+          ],
+          [
+            "D",
+            "Drugs",
+            "Only with a Medicare-eligible plan; income-based premium"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "IRMA = Income Related Monthly Adjustment, the income-based part of the Part B and Part D premiums."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: Explain why Part A is free at 65 but Parts B and D are not."
+      },
+      {
+        "type": "callout",
+        "tone": "key",
+        "title": "Chapter key points for this topic (pp. 32–33)",
+        "text": "Medicare is the primary insurer for people 65 and older, so legal issues involve federal regulation. Professional standards are the legal measure of practice."
+      }
     ]
   },
   "questions": [
@@ -90,10 +217,30 @@
       "bloom": "remember",
       "stem": "A nursing student asks what the term \"standard of care\" means. Which definition should the nurse give?",
       "options": [
-        { "id": "a", "text": "A guideline that sets the expectation of safe, effective, and appropriate care", "correct": true, "rationale": "Correct. The standard of care is a guideline setting the expectation of safe, effective, and appropriate care, measured against nurses in similar roles." },
-        { "id": "b", "text": "The minimum staffing ratio a state requires on each unit for every shift", "correct": false, "rationale": "Staffing ratios may be state requirements, but meeting a state minimum does not define or prove the standard of care." },
-        { "id": "c", "text": "A facility's written promise to residents describing services it will provide", "correct": false, "rationale": "That describes an admission agreement or service description, not the legal yardstick for nursing practice." },
-        { "id": "d", "text": "A federal statute listing every procedure a nurse may legally perform", "correct": false, "rationale": "The standard of care is not a single statute; it comes from professional standards, accreditation standards, facility policies, and similar sources." }
+        {
+          "id": "a",
+          "text": "A guideline that sets the expectation of safe, effective, and appropriate care",
+          "correct": true,
+          "rationale": "Correct. The standard of care is a guideline setting the expectation of safe, effective, and appropriate care, measured against nurses in similar roles."
+        },
+        {
+          "id": "b",
+          "text": "The minimum staffing ratio a state requires on each unit for every shift",
+          "correct": false,
+          "rationale": "Staffing ratios may be state requirements, but meeting a state minimum does not define or prove the standard of care."
+        },
+        {
+          "id": "c",
+          "text": "A facility's written promise to residents describing services it will provide",
+          "correct": false,
+          "rationale": "That describes an admission agreement or service description, not the legal yardstick for nursing practice."
+        },
+        {
+          "id": "d",
+          "text": "A federal statute listing every procedure a nurse may legally perform",
+          "correct": false,
+          "rationale": "The standard of care is not a single statute; it comes from professional standards, accreditation standards, facility policies, and similar sources."
+        }
       ],
       "explanation": "The standard of care is a guideline setting the expectation of safe, effective, and appropriate care. Care must meet accepted, prudent, or customary standards as set by the state board of nursing, and a nurse is measured against nurses in similar roles."
     },
@@ -103,10 +250,30 @@
       "bloom": "apply",
       "stem": "An 88-year-old client in a long-term care facility has had a decline in cognition over the past month and now needs help with most self-care. How does this change affect the nurse's legal responsibilities?",
       "options": [
-        { "id": "a", "text": "The duty of care stays the same, because the standard is fixed for every client", "correct": false, "rationale": "The duty is not static; it changes with the client's condition and ability to care for self." },
-        { "id": "b", "text": "The duty of care and advocacy increase as the client's self-care ability declines", "correct": true, "rationale": "Correct. As physical or mental condition and self-care ability decline, the nurse's duty of care and advocacy increase." },
-        { "id": "c", "text": "The duty of care transfers to the family once the client cannot perform self-care", "correct": false, "rationale": "Family involvement does not remove the nurse's duty; the nurse's obligation actually grows." },
-        { "id": "d", "text": "The duty of care decreases because the provider now makes all decisions for the client", "correct": false, "rationale": "Declining ability increases, not decreases, the nurse's duty to protect and advocate for the client." }
+        {
+          "id": "a",
+          "text": "The duty of care stays the same, because the standard is fixed for every client",
+          "correct": false,
+          "rationale": "The duty is not static; it changes with the client's condition and ability to care for self."
+        },
+        {
+          "id": "b",
+          "text": "The duty of care and advocacy increase as the client's self-care ability declines",
+          "correct": true,
+          "rationale": "Correct. As physical or mental condition and self-care ability decline, the nurse's duty of care and advocacy increase."
+        },
+        {
+          "id": "c",
+          "text": "The duty of care transfers to the family once the client cannot perform self-care",
+          "correct": false,
+          "rationale": "Family involvement does not remove the nurse's duty; the nurse's obligation actually grows."
+        },
+        {
+          "id": "d",
+          "text": "The duty of care decreases because the provider now makes all decisions for the client",
+          "correct": false,
+          "rationale": "Declining ability increases, not decreases, the nurse's duty to protect and advocate for the client."
+        }
       ],
       "explanation": "Frail older adults are a vulnerable population. The more a client depends on others because of physical or mental decline, the greater the nurse's duty of care and advocacy."
     },
@@ -116,10 +283,30 @@
       "bloom": "understand",
       "stem": "A generalist RN working on a geriatric medical unit is named in a negligence lawsuit. Against whose practice will this nurse's care most likely be measured?",
       "options": [
-        { "id": "a", "text": "An advanced practice nurse holding at least a master's degree in gerontology", "correct": false, "rationale": "APNs (minimum master's degree) are measured against other APNs, not used as the yardstick for generalists." },
-        { "id": "b", "text": "The most experienced nurse who has worked longest on the same unit", "correct": false, "rationale": "The comparison is to a reasonably prudent nurse in a similar role, not to the single most experienced person on the unit." },
-        { "id": "c", "text": "Other generalist nurses practicing in similar roles", "correct": true, "rationale": "Correct. A generalist is measured against other generalists who meet accepted, prudent, or customary standards." },
-        { "id": "d", "text": "The attending physician who wrote the client's admission orders", "correct": false, "rationale": "Nurses are measured against nursing standards, not medical practice." }
+        {
+          "id": "a",
+          "text": "An advanced practice nurse holding at least a master's degree in gerontology",
+          "correct": false,
+          "rationale": "APNs (minimum master's degree) are measured against other APNs, not used as the yardstick for generalists."
+        },
+        {
+          "id": "b",
+          "text": "The most experienced nurse who has worked longest on the same unit",
+          "correct": false,
+          "rationale": "The comparison is to a reasonably prudent nurse in a similar role, not to the single most experienced person on the unit."
+        },
+        {
+          "id": "c",
+          "text": "Other generalist nurses practicing in similar roles",
+          "correct": true,
+          "rationale": "Correct. A generalist is measured against other generalists who meet accepted, prudent, or customary standards."
+        },
+        {
+          "id": "d",
+          "text": "The attending physician who wrote the client's admission orders",
+          "correct": false,
+          "rationale": "Nurses are measured against nursing standards, not medical practice."
+        }
       ],
       "explanation": "The standard of care compares a nurse with others in similar roles: generalist vs. other generalists, and APN (minimum master's) vs. other APNs. Care must meet accepted, prudent, or customary standards set by the state board of nursing."
     },
@@ -129,10 +316,30 @@
       "bloom": "analyze",
       "stem": "A nursing facility met every state minimum staffing and care requirement during the month a resident developed serious harm. The facility's attorney argues that this proves the staff gave proper care. Which statement best evaluates the attorney's argument?",
       "options": [
-        { "id": "a", "text": "It is valid, because meeting state minimums legally establishes due care", "correct": false, "rationale": "The textbook states that conformity with state minimum standards does not necessarily prove due care." },
-        { "id": "b", "text": "It is irrelevant, because only federal standards apply to nursing facilities", "correct": false, "rationale": "State and community standards also apply; the community standard may even be stricter than the federal one." },
-        { "id": "c", "text": "It is valid only if the facility also holds Joint Commission accreditation", "correct": false, "rationale": "Joint Commission accreditation is voluntary; it can help show the standard but does not convert minimum compliance into proof of due care." },
-        { "id": "d", "text": "It is weak, because meeting state minimums does not necessarily prove due care", "correct": true, "rationale": "Correct. Compliance with a state's minimums is not proof that the care met the standard of care." }
+        {
+          "id": "a",
+          "text": "It is valid, because meeting state minimums legally establishes due care",
+          "correct": false,
+          "rationale": "The textbook states that conformity with state minimum standards does not necessarily prove due care."
+        },
+        {
+          "id": "b",
+          "text": "It is irrelevant, because only federal standards apply to nursing facilities",
+          "correct": false,
+          "rationale": "State and community standards also apply; the community standard may even be stricter than the federal one."
+        },
+        {
+          "id": "c",
+          "text": "It is valid only if the facility also holds Joint Commission accreditation",
+          "correct": false,
+          "rationale": "Joint Commission accreditation is voluntary; it can help show the standard but does not convert minimum compliance into proof of due care."
+        },
+        {
+          "id": "d",
+          "text": "It is weak, because meeting state minimums does not necessarily prove due care",
+          "correct": true,
+          "rationale": "Correct. Compliance with a state's minimums is not proof that the care met the standard of care."
+        }
       ],
       "explanation": "Meeting state minimum standards does not necessarily prove due care. Courts look to professional standards, accreditation standards, facility policies, and comparisons with similar facilities (benchmarking) to decide whether care was proper."
     },
@@ -142,10 +349,30 @@
       "bloom": "remember",
       "stem": "How may a community standard of care relate to the federal standard?",
       "options": [
-        { "id": "a", "text": "It may be lower in rural regions that have fewer resources", "correct": false, "rationale": "A community standard can never be lower than the federal standard, regardless of region." },
-        { "id": "b", "text": "It is set only by The Joint Commission during accreditation", "correct": false, "rationale": "The Joint Commission is one source of standards, and its accreditation is voluntary; it does not alone set a community standard." },
-        { "id": "c", "text": "It may be more restrictive but never lower than the federal standard", "correct": true, "rationale": "Correct. A community standard can be stricter than the federal standard but can never fall below it." },
-        { "id": "d", "text": "It must match the federal standard exactly in every community", "correct": false, "rationale": "Communities may set stricter standards; they do not have to mirror the federal standard." }
+        {
+          "id": "a",
+          "text": "It may be lower in rural regions that have fewer resources",
+          "correct": false,
+          "rationale": "A community standard can never be lower than the federal standard, regardless of region."
+        },
+        {
+          "id": "b",
+          "text": "It is set only by The Joint Commission during accreditation",
+          "correct": false,
+          "rationale": "The Joint Commission is one source of standards, and its accreditation is voluntary; it does not alone set a community standard."
+        },
+        {
+          "id": "c",
+          "text": "It may be more restrictive but never lower than the federal standard",
+          "correct": true,
+          "rationale": "Correct. A community standard can be stricter than the federal standard but can never fall below it."
+        },
+        {
+          "id": "d",
+          "text": "It must match the federal standard exactly in every community",
+          "correct": false,
+          "rationale": "Communities may set stricter standards; they do not have to mirror the federal standard."
+        }
       ],
       "explanation": "The federal standard is the floor. A community standard of care can be more restrictive but never lower than the federal standard."
     },
@@ -155,12 +382,42 @@
       "bloom": "understand",
       "stem": "An attorney is trying to establish the standard of care for a nurse who works in a gerontological setting. Which sources may be used? Select all that apply.",
       "options": [
-        { "id": "a", "text": "ANA Gerontological Nursing: Scope and Standards", "correct": true, "rationale": "Published professional standards from the ANA help establish the standard of care." },
-        { "id": "b", "text": "The Joint Commission standards", "correct": true, "rationale": "Joint Commission standards are a recognized source, even though accreditation is voluntary." },
-        { "id": "c", "text": "The facility's required written policies and procedures", "correct": true, "rationale": "Written facility policies are used to set expectations; not following your own rules creates liability." },
-        { "id": "d", "text": "Online reviews of the facility posted by former residents", "correct": false, "rationale": "Public reviews are opinions, not professional or legal standards of practice." },
-        { "id": "e", "text": "The facility's bylaws and internal rules", "correct": true, "rationale": "Bylaws and internal rules are among the sources that help establish the standard." },
-        { "id": "f", "text": "The personal expectations of the resident's adult children", "correct": false, "rationale": "Family expectations are important to care planning but do not define the legal standard of care." }
+        {
+          "id": "a",
+          "text": "ANA Gerontological Nursing: Scope and Standards",
+          "correct": true,
+          "rationale": "Published professional standards from the ANA help establish the standard of care."
+        },
+        {
+          "id": "b",
+          "text": "The Joint Commission standards",
+          "correct": true,
+          "rationale": "Joint Commission standards are a recognized source, even though accreditation is voluntary."
+        },
+        {
+          "id": "c",
+          "text": "The facility's required written policies and procedures",
+          "correct": true,
+          "rationale": "Written facility policies are used to set expectations; not following your own rules creates liability."
+        },
+        {
+          "id": "d",
+          "text": "Online reviews of the facility posted by former residents",
+          "correct": false,
+          "rationale": "Public reviews are opinions, not professional or legal standards of practice."
+        },
+        {
+          "id": "e",
+          "text": "The facility's bylaws and internal rules",
+          "correct": true,
+          "rationale": "Bylaws and internal rules are among the sources that help establish the standard."
+        },
+        {
+          "id": "f",
+          "text": "The personal expectations of the resident's adult children",
+          "correct": false,
+          "rationale": "Family expectations are important to care planning but do not define the legal standard of care."
+        }
       ],
       "explanation": "Sources of the standard of care include published professional standards (ANA Gerontological Nursing: Scope and Standards; ANA Nursing: Scope and Standards 2021 with 18 standards), Joint Commission standards, required written facility policies, and bylaws and internal rules."
     },
@@ -170,10 +427,30 @@
       "bloom": "apply",
       "stem": "A facility's written policy requires a fall-risk reassessment after every fall. A nurse skips the reassessment after a resident's minor fall, and the resident falls again and fractures a hip. Which statement about the nurse's legal position is most accurate?",
       "options": [
-        { "id": "a", "text": "Internal policies are only guidance and cannot be used against the nurse", "correct": false, "rationale": "Required written facility policies help establish the standard of care and can be used as evidence." },
-        { "id": "b", "text": "Not following the facility's own written policy can create liability", "correct": true, "rationale": "Correct. Failing to follow your own rules is a source of liability." },
-        { "id": "c", "text": "Liability exists only if the nurse also broke a federal regulation", "correct": false, "rationale": "Liability can arise from failing to meet the standard of care, which includes facility policies, not only federal rules." },
-        { "id": "d", "text": "The nurse is protected because the facility's accreditation is voluntary", "correct": false, "rationale": "Whether accreditation is voluntary has nothing to do with the nurse's duty to follow required facility policy." }
+        {
+          "id": "a",
+          "text": "Internal policies are only guidance and cannot be used against the nurse",
+          "correct": false,
+          "rationale": "Required written facility policies help establish the standard of care and can be used as evidence."
+        },
+        {
+          "id": "b",
+          "text": "Not following the facility's own written policy can create liability",
+          "correct": true,
+          "rationale": "Correct. Failing to follow your own rules is a source of liability."
+        },
+        {
+          "id": "c",
+          "text": "Liability exists only if the nurse also broke a federal regulation",
+          "correct": false,
+          "rationale": "Liability can arise from failing to meet the standard of care, which includes facility policies, not only federal rules."
+        },
+        {
+          "id": "d",
+          "text": "The nurse is protected because the facility's accreditation is voluntary",
+          "correct": false,
+          "rationale": "Whether accreditation is voluntary has nothing to do with the nurse's duty to follow required facility policy."
+        }
       ],
       "explanation": "Required written facility policies, bylaws, and internal rules help establish the standard of care. Not following \"your own rules\" equals liability."
     },
@@ -183,10 +460,30 @@
       "bloom": "understand",
       "stem": "Which statement correctly distinguishes healthcare policy from regulations?",
       "options": [
-        { "id": "a", "text": "Policy is set by facilities; regulations are set only by Congress", "correct": false, "rationale": "Healthcare policy is law created by government branches, and regulations exist at both federal and state levels." },
-        { "id": "b", "text": "Policy covers private insurers; regulations cover only Medicare", "correct": false, "rationale": "Neither term is limited to a type of payer." },
-        { "id": "c", "text": "Policy is voluntary guidance; regulations are written by the board of nursing", "correct": false, "rationale": "Healthcare policy is law, not voluntary guidance, and regulations are not limited to the board of nursing." },
-        { "id": "d", "text": "Policy is law made by government branches; regulations interpret statutes", "correct": true, "rationale": "Correct. Policy is law created by the legislative, executive, or judicial branches; regulations explain and interpret statutes and say how to carry them out." }
+        {
+          "id": "a",
+          "text": "Policy is set by facilities; regulations are set only by Congress",
+          "correct": false,
+          "rationale": "Healthcare policy is law created by government branches, and regulations exist at both federal and state levels."
+        },
+        {
+          "id": "b",
+          "text": "Policy covers private insurers; regulations cover only Medicare",
+          "correct": false,
+          "rationale": "Neither term is limited to a type of payer."
+        },
+        {
+          "id": "c",
+          "text": "Policy is voluntary guidance; regulations are written by the board of nursing",
+          "correct": false,
+          "rationale": "Healthcare policy is law, not voluntary guidance, and regulations are not limited to the board of nursing."
+        },
+        {
+          "id": "d",
+          "text": "Policy is law made by government branches; regulations interpret statutes",
+          "correct": true,
+          "rationale": "Correct. Policy is law created by the legislative, executive, or judicial branches; regulations explain and interpret statutes and say how to carry them out."
+        }
       ],
       "explanation": "Healthcare policy is law created by the legislative, executive, or judicial branches. Regulations are rules that explain and interpret statutes and prescribe how to carry them out, at the federal and state levels."
     },
@@ -196,10 +493,30 @@
       "bloom": "apply",
       "stem": "During a lawsuit, an expert compares a nursing facility's pressure-injury and fall rates with those of similar facilities in the region. What is this comparison called, and how may it be used?",
       "options": [
-        { "id": "a", "text": "Accreditation; it is required before any facility can receive Medicare funds", "correct": false, "rationale": "The comparison described is not accreditation, and Joint Commission accreditation is voluntary." },
-        { "id": "b", "text": "Benchmarking; it may serve as evidence that proper care was given", "correct": true, "rationale": "Correct. Benchmarking compares a facility with similar facilities and may be evidence of proper care." },
-        { "id": "c", "text": "Certification; it automatically proves the facility met the federal standard", "correct": false, "rationale": "Nothing automatically proves due care; even meeting state minimums does not necessarily prove it." },
-        { "id": "d", "text": "Regulation; it replaces the state board's standards for that facility", "correct": false, "rationale": "Regulations are rules that interpret statutes; a comparison of outcomes is not a regulation." }
+        {
+          "id": "a",
+          "text": "Accreditation; it is required before any facility can receive Medicare funds",
+          "correct": false,
+          "rationale": "The comparison described is not accreditation, and Joint Commission accreditation is voluntary."
+        },
+        {
+          "id": "b",
+          "text": "Benchmarking; it may serve as evidence that proper care was given",
+          "correct": true,
+          "rationale": "Correct. Benchmarking compares a facility with similar facilities and may be evidence of proper care."
+        },
+        {
+          "id": "c",
+          "text": "Certification; it automatically proves the facility met the federal standard",
+          "correct": false,
+          "rationale": "Nothing automatically proves due care; even meeting state minimums does not necessarily prove it."
+        },
+        {
+          "id": "d",
+          "text": "Regulation; it replaces the state board's standards for that facility",
+          "correct": false,
+          "rationale": "Regulations are rules that interpret statutes; a comparison of outcomes is not a regulation."
+        }
       ],
       "explanation": "Benchmarking is comparison with similar facilities. It may be evidence of proper care, alongside professional standards, Joint Commission standards, and facility policies."
     },
@@ -209,10 +526,30 @@
       "bloom": "apply",
       "stem": "A 64-year-old client is leaving one job for another and asks the nurse how HIPAA will help with health insurance. Which response by the nurse is accurate?",
       "options": [
-        { "id": "a", "text": "\"It requires your new employer to offer and pay for your coverage.\"", "correct": false, "rationale": "HIPAA does not require employers to offer or pay for coverage." },
-        { "id": "b", "text": "\"It lets you keep your old employer's plan after you change jobs.\"", "correct": false, "rationale": "HIPAA does not let a person keep the old job's plan." },
-        { "id": "c", "text": "\"It limits how a new plan can exclude preexisting conditions.\"", "correct": true, "rationale": "Correct. HIPAA limits preexisting condition exclusions and helps keep coverage continuous when changing jobs." },
-        { "id": "d", "text": "\"It caps the premium any insurer is allowed to charge you.\"", "correct": false, "rationale": "HIPAA does not control premiums." }
+        {
+          "id": "a",
+          "text": "\"It requires your new employer to offer and pay for your coverage.\"",
+          "correct": false,
+          "rationale": "HIPAA does not require employers to offer or pay for coverage."
+        },
+        {
+          "id": "b",
+          "text": "\"It lets you keep your old employer's plan after you change jobs.\"",
+          "correct": false,
+          "rationale": "HIPAA does not let a person keep the old job's plan."
+        },
+        {
+          "id": "c",
+          "text": "\"It limits how a new plan can exclude preexisting conditions.\"",
+          "correct": true,
+          "rationale": "Correct. HIPAA limits preexisting condition exclusions and helps keep coverage continuous when changing jobs."
+        },
+        {
+          "id": "d",
+          "text": "\"It caps the premium any insurer is allowed to charge you.\"",
+          "correct": false,
+          "rationale": "HIPAA does not control premiums."
+        }
       ],
       "explanation": "HIPAA (1996) gives added protection when people buy, change, or continue insurance: easier coverage with a new job, continuous coverage when changing jobs, limits on preexisting exclusions, a ban on health-based discrimination by group plans, guaranteed renewal, and privacy protections. It does not require employers to offer coverage, control premiums, or let you keep your old plan."
     },
@@ -222,12 +559,42 @@
       "bloom": "analyze",
       "stem": "A community health nurse is preparing a teaching sheet titled \"What HIPAA does NOT do.\" Which items belong on the sheet? Select all that apply.",
       "options": [
-        { "id": "a", "text": "Require employers to offer or pay for health coverage", "correct": true, "rationale": "HIPAA does not require employers to offer or pay for coverage." },
-        { "id": "b", "text": "Guarantee renewal of an existing health plan", "correct": false, "rationale": "HIPAA does guarantee renewal, so this belongs on the \"does\" list." },
-        { "id": "c", "text": "Control the premiums that insurers charge", "correct": true, "rationale": "HIPAA does not control premiums." },
-        { "id": "d", "text": "Eliminate all preexisting condition exclusions", "correct": true, "rationale": "HIPAA limits preexisting exclusions but does not eliminate them." },
-        { "id": "e", "text": "Ban group plans from discriminating based on health", "correct": false, "rationale": "HIPAA does ban group plans from discriminating based on health status." },
-        { "id": "f", "text": "Replace the state as the primary insurance regulator", "correct": true, "rationale": "HIPAA does not replace the state as the primary regulator." }
+        {
+          "id": "a",
+          "text": "Require employers to offer or pay for health coverage",
+          "correct": true,
+          "rationale": "HIPAA does not require employers to offer or pay for coverage."
+        },
+        {
+          "id": "b",
+          "text": "Guarantee renewal of an existing health plan",
+          "correct": false,
+          "rationale": "HIPAA does guarantee renewal, so this belongs on the \"does\" list."
+        },
+        {
+          "id": "c",
+          "text": "Control the premiums that insurers charge",
+          "correct": true,
+          "rationale": "HIPAA does not control premiums."
+        },
+        {
+          "id": "d",
+          "text": "Eliminate all preexisting condition exclusions",
+          "correct": true,
+          "rationale": "HIPAA limits preexisting exclusions but does not eliminate them."
+        },
+        {
+          "id": "e",
+          "text": "Ban group plans from discriminating based on health",
+          "correct": false,
+          "rationale": "HIPAA does ban group plans from discriminating based on health status."
+        },
+        {
+          "id": "f",
+          "text": "Replace the state as the primary insurance regulator",
+          "correct": true,
+          "rationale": "HIPAA does not replace the state as the primary regulator."
+        }
       ],
       "explanation": "HIPAA does NOT require employers to offer or pay for coverage, guarantee coverage for all, control premiums, require specific benefits, let you keep your old job's plan, eliminate preexisting exclusions, or replace the state as primary regulator. It DOES limit preexisting exclusions, ban health-based discrimination by group plans, and guarantee renewal."
     },
@@ -237,10 +604,30 @@
       "bloom": "understand",
       "stem": "After teaching about HIPAA, the nurse asks an older client to state its main purpose. Which client statement shows understanding?",
       "options": [
-        { "id": "a", "text": "\"It makes sure every person in the country has health insurance.\"", "correct": false, "rationale": "HIPAA does not guarantee coverage for all." },
-        { "id": "b", "text": "\"It adds protection when I buy, change, or keep my health insurance.\"", "correct": true, "rationale": "Correct. HIPAA's purpose is additional protection when people buy, change, or continue health insurance." },
-        { "id": "c", "text": "\"It takes over from my state as the main regulator of my insurance.\"", "correct": false, "rationale": "HIPAA does not replace the state as the primary regulator." },
-        { "id": "d", "text": "\"It requires my plan to cover the specific benefits that I choose.\"", "correct": false, "rationale": "HIPAA does not require specific benefits." }
+        {
+          "id": "a",
+          "text": "\"It adds protection when I buy, change, or keep my health insurance.\"",
+          "correct": true,
+          "rationale": "Correct. HIPAA's purpose is additional protection when people buy, change, or continue health insurance."
+        },
+        {
+          "id": "b",
+          "text": "\"It makes sure every person in the country has health insurance.\"",
+          "correct": false,
+          "rationale": "HIPAA does not guarantee coverage for all."
+        },
+        {
+          "id": "c",
+          "text": "\"It takes over from my state as the main regulator of my insurance.\"",
+          "correct": false,
+          "rationale": "HIPAA does not replace the state as the primary regulator."
+        },
+        {
+          "id": "d",
+          "text": "\"It requires my plan to cover the specific benefits that I choose.\"",
+          "correct": false,
+          "rationale": "HIPAA does not require specific benefits."
+        }
       ],
       "explanation": "HIPAA (1996) provides additional protection when people buy, change, or continue health insurance, and protects privacy with third parties, in EHRs, and in what is shared with family and friends."
     },
@@ -250,10 +637,30 @@
       "bloom": "remember",
       "stem": "Which legislation created the Medicare and Medicaid programs?",
       "options": [
-        { "id": "a", "text": "The Omnibus Budget Reconciliation Act of 1987", "correct": false, "rationale": "OBRA 1987 reformed nursing facilities; it was the most sweeping reform since Medicare and Medicaid began, but it did not create them." },
-        { "id": "b", "text": "The Health Insurance Portability and Accountability Act of 1996", "correct": false, "rationale": "HIPAA protects people when they buy, change, or continue insurance; it did not create Medicare or Medicaid." },
-        { "id": "c", "text": "The Patient Protection and Affordable Care Act of 2010", "correct": false, "rationale": "The ACA was the largest change since 1965, which means Medicare and Medicaid already existed." },
-        { "id": "d", "text": "The Social Security Amendments of 1965", "correct": true, "rationale": "Correct. Medicare and Medicaid came from the Social Security Amendments of 1965 (July 30, 1965)." }
+        {
+          "id": "a",
+          "text": "The Omnibus Budget Reconciliation Act of 1987",
+          "correct": false,
+          "rationale": "OBRA 1987 reformed nursing facilities; it was the most sweeping reform since Medicare and Medicaid began, but it did not create them."
+        },
+        {
+          "id": "b",
+          "text": "The Health Insurance Portability and Accountability Act of 1996",
+          "correct": false,
+          "rationale": "HIPAA protects people when they buy, change, or continue insurance; it did not create Medicare or Medicaid."
+        },
+        {
+          "id": "c",
+          "text": "The Patient Protection and Affordable Care Act of 2010",
+          "correct": false,
+          "rationale": "The ACA was the largest change since 1965, which means Medicare and Medicaid already existed."
+        },
+        {
+          "id": "d",
+          "text": "The Social Security Amendments of 1965",
+          "correct": true,
+          "rationale": "Correct. Medicare and Medicaid came from the Social Security Amendments of 1965 (July 30, 1965)."
+        }
       ],
       "explanation": "Medicare and Medicaid were created by the Social Security Amendments of 1965. The Health Care Financing Administration (HCFA) became CMS on July 1, 2001."
     },
@@ -263,10 +670,30 @@
       "bloom": "apply",
       "stem": "A Medicare beneficiary is upset that a requested service was denied and asks the nurse how Medicare decides what to pay for. Which response is accurate?",
       "options": [
-        { "id": "a", "text": "\"Medicare covers only services that are reasonable and necessary.\"", "correct": true, "rationale": "Correct. CMS provides coverage only for what is \"reasonable and necessary.\"" },
-        { "id": "b", "text": "\"Medicare pays for any service your provider is willing to order.\"", "correct": false, "rationale": "An order alone does not ensure coverage; the service must be reasonable and necessary." },
-        { "id": "c", "text": "\"Medicare covers a service once you have paid premiums for a year.\"", "correct": false, "rationale": "Coverage is not based on length of premium payment; it is based on whether the service is reasonable and necessary." },
-        { "id": "d", "text": "\"Medicare pays for services your state Medicaid office approves first.\"", "correct": false, "rationale": "Medicare coverage is not decided by prior state Medicaid approval." }
+        {
+          "id": "a",
+          "text": "\"Medicare covers only services that are reasonable and necessary.\"",
+          "correct": true,
+          "rationale": "Correct. CMS provides coverage only for what is \"reasonable and necessary.\""
+        },
+        {
+          "id": "b",
+          "text": "\"Medicare pays for any service your provider is willing to order.\"",
+          "correct": false,
+          "rationale": "An order alone does not ensure coverage; the service must be reasonable and necessary."
+        },
+        {
+          "id": "c",
+          "text": "\"Medicare covers a service once you have paid premiums for a year.\"",
+          "correct": false,
+          "rationale": "Coverage is not based on length of premium payment; it is based on whether the service is reasonable and necessary."
+        },
+        {
+          "id": "d",
+          "text": "\"Medicare pays for services your state Medicaid office approves first.\"",
+          "correct": false,
+          "rationale": "Medicare coverage is not decided by prior state Medicaid approval."
+        }
       ],
       "explanation": "CMS (formerly HCFA) administers Medicare and Medicaid. Coverage is limited to what is \"reasonable and necessary.\""
     },
@@ -276,10 +703,30 @@
       "bloom": "apply",
       "stem": "A client turning 65 asks why Medicare Part A has no premium while Parts B and D do. Which explanation by the nurse is accurate?",
       "options": [
-        { "id": "a", "text": "\"Part A is free only if you also buy a Medicare Advantage plan.\"", "correct": false, "rationale": "Part A's lack of cost at 65 is not tied to choosing a Part C (Medicare Advantage) plan." },
-        { "id": "b", "text": "\"Part A was prepaid through payroll taxes; B and D premiums depend on income.\"", "correct": true, "rationale": "Correct. Part A is paid by payroll taxes with no cost at 65+, while Parts B and D have income-based premiums (IRMA)." },
-        { "id": "c", "text": "\"Part A covers only hospice, so it costs much less to provide.\"", "correct": false, "rationale": "Part A covers hospital care, limited SNF stays, hospice, and some home health, not only hospice." },
-        { "id": "d", "text": "\"Part A is paid by your state; B and D are paid by your employer.\"", "correct": false, "rationale": "Part A is funded by payroll taxes; B and D premiums are income based, not employer paid." }
+        {
+          "id": "a",
+          "text": "\"Part A is free only if you also buy a Medicare Advantage plan.\"",
+          "correct": false,
+          "rationale": "Part A's lack of cost at 65 is not tied to choosing a Part C (Medicare Advantage) plan."
+        },
+        {
+          "id": "b",
+          "text": "\"Part A was prepaid through payroll taxes; B and D premiums depend on income.\"",
+          "correct": true,
+          "rationale": "Correct. Part A is paid by payroll taxes with no cost at 65+, while Parts B and D have income-based premiums (IRMA)."
+        },
+        {
+          "id": "c",
+          "text": "\"Part A covers only hospice, so it costs much less to provide.\"",
+          "correct": false,
+          "rationale": "Part A covers hospital care, limited SNF stays, hospice, and some home health, not only hospice."
+        },
+        {
+          "id": "d",
+          "text": "\"Part A is paid by your state; B and D are paid by your employer.\"",
+          "correct": false,
+          "rationale": "Part A is funded by payroll taxes; B and D premiums are income based, not employer paid."
+        }
       ],
       "explanation": "Medicare Part A (hospital, limited SNF stay, hospice, some home health) is paid by payroll taxes, so there is no cost at 65 and older. Parts B and D have income-based premiums; IRMA is the Income Related Monthly Adjustment."
     },
@@ -289,10 +736,30 @@
       "bloom": "apply",
       "stem": "A 72-year-old client who is not hospitalized needs outpatient physical therapy and regular physician office visits. Which part of Medicare covers these services?",
       "options": [
-        { "id": "a", "text": "Part A, which covers hospital care and limited skilled nursing stays", "correct": false, "rationale": "Part A covers hospital, limited SNF stays, hospice, and some home health, not outpatient physician care." },
-        { "id": "b", "text": "Part D, which covers drugs when added to a Medicare-eligible plan", "correct": false, "rationale": "Part D covers prescription drugs, not therapy or physician visits." },
-        { "id": "c", "text": "Part B, which covers physician, outpatient, and PT/OT not covered in A", "correct": true, "rationale": "Correct. Part B covers physician services, outpatient care, and PT/OT and home health not covered under Part A." },
-        { "id": "d", "text": "Part C, which began as Medicare+Choice in January 1999", "correct": false, "rationale": "Part C is the Medicare Advantage (HMO/PPO) option, not the part that defines outpatient physician and therapy coverage." }
+        {
+          "id": "a",
+          "text": "Part A, which covers hospital care and limited skilled nursing stays",
+          "correct": false,
+          "rationale": "Part A covers hospital, limited SNF stays, hospice, and some home health, not outpatient physician care."
+        },
+        {
+          "id": "b",
+          "text": "Part D, which covers drugs when added to a Medicare-eligible plan",
+          "correct": false,
+          "rationale": "Part D covers prescription drugs, not therapy or physician visits."
+        },
+        {
+          "id": "c",
+          "text": "Part B, which covers physician, outpatient, and PT/OT not covered in A",
+          "correct": true,
+          "rationale": "Correct. Part B covers physician services, outpatient care, and PT/OT and home health not covered under Part A."
+        },
+        {
+          "id": "d",
+          "text": "Part C, which began as Medicare+Choice in January 1999",
+          "correct": false,
+          "rationale": "Part C is the Medicare Advantage (HMO/PPO) option, not the part that defines outpatient physician and therapy coverage."
+        }
       ],
       "explanation": "Part A: hospital, limited SNF, hospice, some home health. Part B: physician, outpatient, PT/OT and home health not in A, with an income-based premium. Part C: Medicare Advantage. Part D: drugs, only with a Medicare-eligible plan."
     },
@@ -302,10 +769,30 @@
       "bloom": "evaluate",
       "stem": "The nurse reviews Medicare coverage with a group of older adults. Which participant statement indicates a need for further teaching?",
       "options": [
-        { "id": "a", "text": "\"My Part B premium can go up depending on my income.\"", "correct": false, "rationale": "Accurate. Part B has an income-based premium (Income Related Monthly Adjustment)." },
-        { "id": "b", "text": "\"Part A helps pay for hospice and a limited nursing facility stay.\"", "correct": false, "rationale": "Accurate. Part A covers hospital, SNF (limited stay), hospice, and some home health." },
-        { "id": "c", "text": "\"Medicare Advantage plans are HMOs or PPOs offered under Part C.\"", "correct": false, "rationale": "Accurate. Part C became Medicare Advantage (HMO/PPO) in December 2003." },
-        { "id": "d", "text": "\"Part D drug coverage comes free for everyone once they reach 65.\"", "correct": true, "rationale": "Correct choice: this statement is wrong. Part D is available only with a Medicare-eligible plan and carries an income-based premium." }
+        {
+          "id": "a",
+          "text": "\"My Part B premium can go up depending on my income.\"",
+          "correct": false,
+          "rationale": "Accurate. Part B has an income-based premium (Income Related Monthly Adjustment)."
+        },
+        {
+          "id": "b",
+          "text": "\"Part A helps pay for hospice and a limited nursing facility stay.\"",
+          "correct": false,
+          "rationale": "Accurate. Part A covers hospital, SNF (limited stay), hospice, and some home health."
+        },
+        {
+          "id": "c",
+          "text": "\"Medicare Advantage plans are HMOs or PPOs offered under Part C.\"",
+          "correct": false,
+          "rationale": "Accurate. Part C became Medicare Advantage (HMO/PPO) in December 2003."
+        },
+        {
+          "id": "d",
+          "text": "\"Part D drug coverage comes free for everyone once they reach 65.\"",
+          "correct": true,
+          "rationale": "Correct choice: this statement is wrong. Part D is available only with a Medicare-eligible plan and carries an income-based premium."
+        }
       ],
       "explanation": "Only Part A is free at 65 (funded by payroll taxes). Parts B and D carry income-based premiums, and Part D is available only with a Medicare-eligible plan."
     },
@@ -315,12 +802,42 @@
       "bloom": "apply",
       "stem": "A client asks which services Medicare Part A covers. Which services should the nurse include? Select all that apply.",
       "options": [
-        { "id": "a", "text": "Inpatient hospital care", "correct": true, "rationale": "Part A covers hospital care." },
-        { "id": "b", "text": "Skilled nursing facility care for a limited stay", "correct": true, "rationale": "Part A covers SNF care, but only for a limited stay." },
-        { "id": "c", "text": "Hospice care", "correct": true, "rationale": "Part A covers hospice." },
-        { "id": "d", "text": "Routine physician office visits", "correct": false, "rationale": "Physician services fall under Part B." },
-        { "id": "e", "text": "Outpatient prescription drugs", "correct": false, "rationale": "Drugs are covered under Part D." },
-        { "id": "f", "text": "Long-term custodial nursing home care", "correct": false, "rationale": "Part A covers skilled nursing only; OBRA, not Part A, covers both skilled nursing and long-term care." }
+        {
+          "id": "a",
+          "text": "Inpatient hospital care",
+          "correct": true,
+          "rationale": "Part A covers hospital care."
+        },
+        {
+          "id": "b",
+          "text": "Skilled nursing facility care for a limited stay",
+          "correct": true,
+          "rationale": "Part A covers SNF care, but only for a limited stay."
+        },
+        {
+          "id": "c",
+          "text": "Hospice care",
+          "correct": true,
+          "rationale": "Part A covers hospice."
+        },
+        {
+          "id": "d",
+          "text": "Routine physician office visits",
+          "correct": false,
+          "rationale": "Physician services fall under Part B."
+        },
+        {
+          "id": "e",
+          "text": "Outpatient prescription drugs",
+          "correct": false,
+          "rationale": "Drugs are covered under Part D."
+        },
+        {
+          "id": "f",
+          "text": "Long-term custodial nursing home care",
+          "correct": false,
+          "rationale": "Part A covers skilled nursing only; OBRA, not Part A, covers both skilled nursing and long-term care."
+        }
       ],
       "explanation": "Medicare Part A covers hospital care, skilled nursing facility care (limited stay), hospice, and some home health; it is paid by payroll taxes. Physician and outpatient care fall under Part B and drugs under Part D."
     },
@@ -330,12 +847,42 @@
       "bloom": "analyze",
       "stem": "A nurse leader is aligning a quality project with the CMS 2022 strategic plan. Which are CMS strategic pillars? Select all that apply.",
       "options": [
-        { "id": "a", "text": "Advance equity", "correct": true, "rationale": "Advancing equity is one of the CMS 2022 pillars." },
-        { "id": "b", "text": "Expand access, building on the ACA", "correct": true, "rationale": "Expanding access (building on the ACA) is a pillar." },
-        { "id": "c", "text": "Reduce the number of Medicaid waivers", "correct": false, "rationale": "This is not a CMS pillar; the 2017 ACA changes actually allowed more Medicaid waivers." },
-        { "id": "d", "text": "Drive innovation", "correct": true, "rationale": "Driving innovation is a pillar." },
-        { "id": "e", "text": "Protect programs", "correct": true, "rationale": "Protecting programs is a pillar." },
-        { "id": "f", "text": "Replace state insurance regulators", "correct": false, "rationale": "This is not a CMS pillar." }
+        {
+          "id": "a",
+          "text": "Advance equity",
+          "correct": true,
+          "rationale": "Advancing equity is one of the CMS 2022 pillars."
+        },
+        {
+          "id": "b",
+          "text": "Expand access, building on the ACA",
+          "correct": true,
+          "rationale": "Expanding access (building on the ACA) is a pillar."
+        },
+        {
+          "id": "c",
+          "text": "Reduce the number of Medicaid waivers",
+          "correct": false,
+          "rationale": "This is not a CMS pillar; the 2017 ACA changes actually allowed more Medicaid waivers."
+        },
+        {
+          "id": "d",
+          "text": "Drive innovation",
+          "correct": true,
+          "rationale": "Driving innovation is a pillar."
+        },
+        {
+          "id": "e",
+          "text": "Protect programs",
+          "correct": true,
+          "rationale": "Protecting programs is a pillar."
+        },
+        {
+          "id": "f",
+          "text": "Replace state insurance regulators",
+          "correct": false,
+          "rationale": "This is not a CMS pillar."
+        }
       ],
       "explanation": "The CMS 2022 strategic pillars are: advance equity, expand access (build on the ACA), engage partners, drive innovation, protect programs, and foster excellence."
     },
@@ -345,10 +892,22 @@
       "bloom": "analyze",
       "stem": "Place these events in the history of Medicare and CMS in chronological order, from earliest to most recent.",
       "items": [
-        { "id": "a", "text": "Social Security Amendments create Medicare and Medicaid" },
-        { "id": "b", "text": "Medicare Part C begins as Medicare+Choice" },
-        { "id": "c", "text": "HCFA is renamed the Centers for Medicare and Medicaid Services (CMS)" },
-        { "id": "d", "text": "Medicare+Choice becomes Medicare Advantage" }
+        {
+          "id": "a",
+          "text": "Social Security Amendments create Medicare and Medicaid"
+        },
+        {
+          "id": "b",
+          "text": "Medicare Part C begins as Medicare+Choice"
+        },
+        {
+          "id": "c",
+          "text": "HCFA is renamed the Centers for Medicare and Medicaid Services (CMS)"
+        },
+        {
+          "id": "d",
+          "text": "Medicare+Choice becomes Medicare Advantage"
+        }
       ],
       "explanation": "Medicare and Medicaid began with the Social Security Amendments (July 30, 1965). Part C started as Medicare+Choice in January 1999, HCFA became CMS on July 1, 2001, and Medicare+Choice became Medicare Advantage (HMO/PPO) in December 2003."
     }

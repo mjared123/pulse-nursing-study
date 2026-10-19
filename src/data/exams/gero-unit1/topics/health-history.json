@@ -1,0 +1,874 @@
+{
+  "slug": "health-history",
+  "title": "Tailoring the Assessment & Health History",
+  "short": "Health History",
+  "icon": "message",
+  "description": "How to adapt the setting and pace of an assessment for an older adult and how to collect a complete, accurate health history.",
+  "keyPoints": [
+    "Six patient factors needing special consideration: sensory deficits, anxiety, reduced energy, pain, multiple problems, tendency to reminisce.",
+    "Signs of fatigue: sighing, grimacing, irritability, leaning on objects, dropping head and shoulders, progressive slowing.",
+    "Avoid underestimating function: assess more than once, at different times of day, with glasses, hearing aids, and walkers in place.",
+    "No symptom is normal aging until it has been evaluated; functional decline may be the only sign of illness.",
+    "Health literacy: nearly 60% of older adults are limited; use teach-back and materials at a 6th-grade level or lower.",
+    "PQRSTU: Provocative/Palliative, Quality/Quantity, Region/Radiation, Severity 0–10, Timing/Treatment, Understanding.",
+    "Immunizations: Tdap/Td every 10 years, zoster over 60, COVID-19 per CDC, single RSV dose over 60, annual PPD if frail or institutionalized."
+  ],
+  "review": {
+    "pages": "pp. 42–47",
+    "bigIdea": "How do you set up and pace an assessment so an older adult can show their real abilities, and what goes into a complete health history?",
+    "objectives": [
+      "Describe the assessment modifications that may be necessary for older adults.",
+      "Describe strategies for collecting relevant, comprehensive health histories.",
+      "Identify the basic components of a health history for older adults."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Tailoring the assessment",
+        "pages": "p. 42"
+      },
+      {
+        "type": "cue",
+        "q": "How should the environment be prepared?",
+        "a": "Space for mobility aids\nMinimize noise\nWarm, with no drafts\nDiffuse lighting with increased illumination; no glossy surfaces\nComfortable seating\nNear a bathroom\nFluids available\nA place for belongings\nAbsolute privacy\nAtmosphere: trust, caring, and confidentiality"
+      },
+      {
+        "type": "cue",
+        "q": "How should you pace the assessment? What are signs of fatigue?",
+        "a": "Plan around the person's energy, pace, and adaptability; it may take more than one session.\nSchedule at the person's peak energy time; be unhurried, allow time, and use silence.\nSigns of fatigue: sighing, grimacing, irritability, leaning on objects, dropping the head and shoulders, progressive slowing."
+      },
+      {
+        "type": "cue",
+        "q": "How do you avoid underestimating function?",
+        "a": "Assess more than once, at different times of day, under the most favorable conditions.\nUse natural activities such as bathing, grooming, and meals.\nMake sure glasses, hearing aids, walkers, and canes are in place and working.\nValidate with family.\nWatch body language, touch, and eye contact; watch for fear, anxiety, or boredom."
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: What Would You Do? (p. 36) A frail patient on chemo sits barefoot, slumped, in pajamas at 3 p.m. What else should you assess?"
+      },
+      {
+        "type": "heading",
+        "text": "The health history",
+        "pages": "pp. 42–47"
+      },
+      {
+        "type": "cue",
+        "q": "What is the health history, and what does it always cover?",
+        "a": "The subjective first phase of assessment. It builds the therapeutic relationship and may act as a life review.\nIt always covers functional, cognitive, affective, and social well-being."
+      },
+      {
+        "type": "cue",
+        "q": "How do attitudes affect the interview?",
+        "a": "An attitude is a feeling, value, or belief that determines behavior.\nAssuming dependence is normal leads to never asking about strengths.\nBelieving older adults are not sexual leads to never asking about sexual health."
+      },
+      {
+        "type": "cue",
+        "q": "What interview strategies help?",
+        "a": "Explain the purpose and format.\nHave forms filled in beforehand.\nUse goal-directed questions plus guided reminiscence.\nSet a time limit, with a clock in view.\nInvolve the patient.\nAdjust distance and position so the person can see and hear you.\nUse appropriate touch.\nUse natural settings (meals, games, hobbies).\nWith an EHR: face the patient, enter data first, then alternate."
+      },
+      {
+        "type": "cue",
+        "q": "What six patient factors need special consideration?",
+        "a": "1. Sensory-perceptual deficits\n2. Anxiety\n3. Reduced energy\n4. Pain\n5. Multiple interrelated problems\n6. Tendency to reminisce"
+      },
+      {
+        "type": "list",
+        "title": "History-taking traps (Table 3.4)",
+        "ordered": false,
+        "items": [
+          "Underreporting because the person thinks it is normal aging: no symptom is normal aging until evaluated.",
+          "Unusual manifestations of illness.",
+          "Functional decline as the only sign: ask, \"How long have you been unable to do your own shopping?\"",
+          "Poor recall: use family and records.",
+          "Fear of hospitalization, which is linked to dying.",
+          "Depression, losses, and cognitive changes."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Health history components, in order",
+        "ordered": true,
+        "items": [
+          "Biographic information: source and reliability, advance directives, code status",
+          "Family, occupational, living, and recreation profiles (finances and health are interdependent)",
+          "Resources (for example, a church \"family\")",
+          "A typical 24-hour day",
+          "Present health status: past 1 and 5 years; chief concern in the person's own words (don't say \"complaint\")",
+          "Drugs",
+          "Immunizations",
+          "Allergies",
+          "Nutrition",
+          "Previous health status",
+          "Family history (family tree)",
+          "Review of systems"
+        ]
+      },
+      {
+        "type": "cue",
+        "q": "How do you take a drug history?",
+        "a": "Have the patient bring in all prescription and OTC drugs, home remedies, supplements, and herbals; ask the route.\nCheck labels for multiple physicians or pharmacies, adherence, knowledge, expiration dates, and interactions."
+      },
+      {
+        "type": "cue",
+        "q": "What are the immunization and screening recommendations?",
+        "a": "Tdap/Td every 10 years\nZoster for adults over 60, even with no remembered chickenpox\nCOVID-19 per CDC\nSingle RSV dose for adults over 60 (2023)\nAnnual PPD (TB) for the frail and institutionalized\nFlu and pneumococcal vaccines have been underused in the past."
+      },
+      {
+        "type": "cue",
+        "q": "Allergies, nutrition, and review of systems?",
+        "a": "Allergies: note the reaction and the usual treatment.\nNutrition: 24-hour diet recall; a 5–7 day food diary if needed. Causes of problems include money, mobility, teeth, and loneliness.\nReview of systems: head-to-toe, in lay terms, one piece of information at a time."
+      },
+      {
+        "type": "cue",
+        "q": "What is health literacy, and how do you address it?",
+        "a": "The capacity to obtain, process, and understand basic health information to make decisions.\nNearly 60% of older adults have limited health literacy, which is linked to higher mortality and misreading discharge prescriptions.\nUse teach-back and materials at a 6th-grade level or lower."
+      },
+      {
+        "type": "mnemonic",
+        "title": "PQRSTU symptom analysis (Table 3.6)",
+        "letters": [
+          {
+            "letter": "P",
+            "word": "Provocative / Palliative",
+            "text": "What brings it on, and what relieves it"
+          },
+          {
+            "letter": "Q",
+            "word": "Quality / Quantity",
+            "text": "What it feels like and how much"
+          },
+          {
+            "letter": "R",
+            "word": "Region / Radiation",
+            "text": "Where it is and where it spreads"
+          },
+          {
+            "letter": "S",
+            "word": "Severity",
+            "text": "Rated 0–10: get a baseline, intervene, then reassess"
+          },
+          {
+            "letter": "T",
+            "word": "Timing / Treatment",
+            "text": "When it occurs and what has been tried"
+          },
+          {
+            "letter": "U",
+            "word": "Understanding",
+            "text": "What the person understands about the symptom"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "nurse",
+        "title": "Clinical judgment (p. 56): hard of hearing and anxious",
+        "text": "For a newly admitted patient who is hard of hearing and restless: make sure the hearing aid is in place and working; face the patient in a quiet room and minimize distractions; explain the purpose and format to ease anxiety; be unhurried, allow time, and use silence; set a time limit; plan for more than one session if needed; validate with family. (Model answer built from chapter facts; the book prints no answer.)"
+      },
+      {
+        "type": "recall",
+        "text": "Summarize from memory: List the health history components in order without looking."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "health-history-01",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "Twenty minutes into an admission interview, the nurse observes an 85-year-old client. Which findings indicate fatigue and a need to pause or continue later? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frequent sighing",
+          "correct": true,
+          "rationale": "Correct. Sighing is a listed sign of fatigue."
+        },
+        {
+          "id": "b",
+          "text": "Leaning on the bedside table",
+          "correct": true,
+          "rationale": "Correct. Leaning on objects is a sign of fatigue."
+        },
+        {
+          "id": "c",
+          "text": "Dropping the head and shoulders",
+          "correct": true,
+          "rationale": "Correct. Dropping the head and shoulders signals fatigue."
+        },
+        {
+          "id": "d",
+          "text": "Answers that come more and more slowly",
+          "correct": true,
+          "rationale": "Correct. Progressive slowing is a sign of fatigue."
+        },
+        {
+          "id": "e",
+          "text": "Talking faster and telling more stories",
+          "correct": false,
+          "rationale": "This is not a listed fatigue sign; a tendency to reminisce is a separate patient factor."
+        },
+        {
+          "id": "f",
+          "text": "Sitting upright and keeping eye contact",
+          "correct": false,
+          "rationale": "Upright posture and engagement suggest the client is not yet fatigued."
+        }
+      ],
+      "explanation": "Signs of fatigue during assessment are sighing, grimacing, irritability, leaning on objects, dropping the head and shoulders, and progressive slowing. Plan around energy; the assessment may need more than one session."
+    },
+    {
+      "id": "health-history-02",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "The nurse is preparing an exam room for an 80-year-old client with low vision who uses a walker. Which room setup is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A small, cool room with a single bright overhead spotlight",
+          "correct": false,
+          "rationale": "The room should be warm with no drafts, and lighting should be diffuse, not a single spotlight that creates glare."
+        },
+        {
+          "id": "b",
+          "text": "A room with glossy floors that are easy to keep clean and dry",
+          "correct": false,
+          "rationale": "Glossy surfaces should be avoided because they create glare."
+        },
+        {
+          "id": "c",
+          "text": "Diffuse, increased lighting, no glossy surfaces, space for the walker",
+          "correct": true,
+          "rationale": "Correct. Diffuse lighting with increased illumination, no glossy surfaces, and space for mobility aids are recommended."
+        },
+        {
+          "id": "d",
+          "text": "A busy shared bay near the nurses' station so staff can help her quickly",
+          "correct": false,
+          "rationale": "Noise should be minimized and absolute privacy provided."
+        }
+      ],
+      "explanation": "Prepare the environment with space for mobility aids, minimal noise, warmth without drafts, diffuse lighting with increased illumination and no glossy surfaces, comfortable seating, nearby bathroom, fluids, a place for belongings, and absolute privacy."
+    },
+    {
+      "id": "health-history-03",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A home health nurse wants an accurate picture of a 78-year-old client's ability to care for herself. Which approach best avoids underestimating her function?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assess once, early in the morning, before she has her coffee",
+          "correct": false,
+          "rationale": "A single assessment at an arbitrary time may not reflect her best ability."
+        },
+        {
+          "id": "b",
+          "text": "Rely on her report alone, since she knows her own abilities best",
+          "correct": false,
+          "rationale": "Findings should be validated with family and observation."
+        },
+        {
+          "id": "c",
+          "text": "Remove her cane and glasses to see her true baseline ability",
+          "correct": false,
+          "rationale": "Glasses, hearing aids, walkers, and canes should be in place and working."
+        },
+        {
+          "id": "d",
+          "text": "Assess more than once, at different times, with her aids in place",
+          "correct": true,
+          "rationale": "Correct. Assess more than once, at different times of day, under the most favorable conditions, with aids in place."
+        }
+      ],
+      "explanation": "To avoid underestimating function, assess more than once at different times of day under the most favorable conditions, use natural activities like bathing and meals, keep sensory and mobility aids in place, and validate with family."
+    },
+    {
+      "id": "health-history-04",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "According to the chapter, about what proportion of older adults have limited health literacy, and at what reading level should teaching materials be written?",
+      "options": [
+        {
+          "id": "a",
+          "text": "About 25%; 10th-grade level",
+          "correct": false,
+          "rationale": "Both numbers are wrong; nearly 60% are limited, and materials should be at a 6th-grade level or lower."
+        },
+        {
+          "id": "b",
+          "text": "Nearly 60%; 6th-grade level or lower",
+          "correct": true,
+          "rationale": "Correct. Nearly 60% of older adults have limited health literacy; use materials at a 6th-grade level or lower."
+        },
+        {
+          "id": "c",
+          "text": "Nearly 90%; 3rd-grade level or lower",
+          "correct": false,
+          "rationale": "These numbers are not the ones the chapter gives."
+        },
+        {
+          "id": "d",
+          "text": "About 40%; 8th-grade level or lower",
+          "correct": false,
+          "rationale": "The chapter says nearly 60% and a 6th-grade level or lower."
+        }
+      ],
+      "explanation": "Health literacy is the capacity to obtain, process, and understand basic health information to make decisions. Nearly 60% of older adults are limited, so the nurse uses teach-back and materials at a 6th-grade level or lower."
+    },
+    {
+      "id": "health-history-05",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 76-year-old client is being discharged on a new anticoagulant. Which nursing action best addresses the risk of limited health literacy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ask the client to explain in her own words how she will take the drug",
+          "correct": true,
+          "rationale": "Correct. Teach-back confirms understanding and is the strategy the chapter recommends."
+        },
+        {
+          "id": "b",
+          "text": "Ask \"Do you understand?\" and document her answer of \"yes\" in the chart",
+          "correct": false,
+          "rationale": "A yes/no answer does not confirm understanding; limited literacy is linked to misreading discharge prescriptions."
+        },
+        {
+          "id": "c",
+          "text": "Give her the pharmacy's detailed drug monograph to read at home later",
+          "correct": false,
+          "rationale": "Complex written materials may not be understood; materials should be at a 6th-grade level or lower."
+        },
+        {
+          "id": "d",
+          "text": "Read the discharge instructions aloud quickly so she is not tired out",
+          "correct": false,
+          "rationale": "Rushing does not confirm understanding; the assessment should be unhurried."
+        }
+      ],
+      "explanation": "Limited health literacy is linked to higher mortality and misreading discharge prescriptions. Teach-back and simple materials at a 6th-grade level or lower help ensure understanding."
+    },
+    {
+      "id": "health-history-06",
+      "type": "sata",
+      "bloom": "understand",
+      "stem": "The nurse is reviewing history-taking traps with older adults (Table 3.4). Which problems can make a health history inaccurate? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Underreporting symptoms the client believes are normal aging",
+          "correct": true,
+          "rationale": "Correct. Underreporting is a major trap; no symptom is normal aging until evaluated."
+        },
+        {
+          "id": "b",
+          "text": "Functional decline as the only sign of illness",
+          "correct": true,
+          "rationale": "Correct. Functional decline may be the only sign of a problem."
+        },
+        {
+          "id": "c",
+          "text": "Poor recall of past illnesses and treatments",
+          "correct": true,
+          "rationale": "Correct. Poor recall is a trap; use family and records."
+        },
+        {
+          "id": "d",
+          "text": "Fear of hospitalization, which is linked to dying",
+          "correct": true,
+          "rationale": "Correct. Fear of hospitalization can lead clients to withhold symptoms."
+        },
+        {
+          "id": "e",
+          "text": "A tendency to exaggerate minor symptoms",
+          "correct": false,
+          "rationale": "The trap described is underreporting, not exaggeration."
+        }
+      ],
+      "explanation": "Table 3.4 traps: underreporting, unusual manifestations of illness, functional decline as the only sign, poor recall, fear of hospitalization, and depression, losses, and cognitive changes."
+    },
+    {
+      "id": "health-history-07",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 79-year-old client says she feels \"fine\" but her son mentions she no longer goes to the store. Which question by the nurse best uncovers a possible problem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Do you have any complaints you'd like to tell me about today?\"",
+          "correct": false,
+          "rationale": "The word \"complaint\" should be avoided, and a general question may not uncover functional decline."
+        },
+        {
+          "id": "b",
+          "text": "\"Is it just harder to get around now that you are older?\"",
+          "correct": false,
+          "rationale": "This invites the client to blame the change on aging, feeding the underreporting trap."
+        },
+        {
+          "id": "c",
+          "text": "\"Wouldn't it be easier to have your son do all the shopping?\"",
+          "correct": false,
+          "rationale": "This leading question assumes dependence and does not assess the cause."
+        },
+        {
+          "id": "d",
+          "text": "\"How long have you been unable to do your own shopping?\"",
+          "correct": true,
+          "rationale": "Correct. Functional decline may be the only sign of illness; this is the chapter's example question."
+        }
+      ],
+      "explanation": "Functional decline may be the only sign of illness in an older adult. Asking how long the person has been unable to do a usual activity, such as shopping, helps uncover it."
+    },
+    {
+      "id": "health-history-08",
+      "type": "order",
+      "bloom": "apply",
+      "stem": "The nurse is taking a health history from a 74-year-old client. Place these health history components in the order they are collected.",
+      "items": [
+        {
+          "id": "a",
+          "text": "Biographic information, including advance directives and code status"
+        },
+        {
+          "id": "b",
+          "text": "Description of a typical 24-hour day"
+        },
+        {
+          "id": "c",
+          "text": "Present health status and chief concern in the client's own words"
+        },
+        {
+          "id": "d",
+          "text": "Family history using a family tree"
+        },
+        {
+          "id": "e",
+          "text": "Review of systems"
+        }
+      ],
+      "explanation": "The history runs: biographic data; family, occupational, living, and recreation profiles; resources; a typical 24-hour day; present health; drugs; immunizations; allergies; nutrition; previous health; family history; and finally the review of systems."
+    },
+    {
+      "id": "health-history-09",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "When documenting the reason for a visit in the present health status, which approach is recommended?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Record the chief concern in the client's own words",
+          "correct": true,
+          "rationale": "Correct. The chief concern is recorded in the person's own words, and the term \"complaint\" is avoided."
+        },
+        {
+          "id": "b",
+          "text": "Record the chief complaint using standard medical terms",
+          "correct": false,
+          "rationale": "The guide says not to use the word \"complaint\" and to use the person's own words."
+        },
+        {
+          "id": "c",
+          "text": "Record only problems from the past 6 months",
+          "correct": false,
+          "rationale": "Present health covers the past 1 and 5 years."
+        },
+        {
+          "id": "d",
+          "text": "Record the family's view in place of the client's",
+          "correct": false,
+          "rationale": "Family can validate data, but the chief concern comes from the client."
+        }
+      ],
+      "explanation": "Present health status covers the past 1 and 5 years. The chief concern is recorded in the person's own words, and the nurse does not say \"complaint.\""
+    },
+    {
+      "id": "health-history-10",
+      "type": "single",
+      "bloom": "apply",
+      "stem": "A 77-year-old client takes several medications prescribed by different providers. Which instruction best prepares the client for an accurate drug history?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Write down the names of your prescription drugs and bring the list.\"",
+          "correct": false,
+          "rationale": "A written prescription list misses OTC drugs, home remedies, supplements, and herbals and does not allow label review."
+        },
+        {
+          "id": "b",
+          "text": "\"Bring all your pills, including OTC drugs, remedies, and herbals.\"",
+          "correct": true,
+          "rationale": "Correct. The patient brings in all Rx, OTC, home remedies, supplements, and herbals so labels can be checked."
+        },
+        {
+          "id": "c",
+          "text": "\"Ask your main doctor's office to fax us your current medication list.\"",
+          "correct": false,
+          "rationale": "One office's list may miss drugs from other physicians and pharmacies and OTC products."
+        },
+        {
+          "id": "d",
+          "text": "\"Bring only the medicines you take every day; skip the as-needed ones.\"",
+          "correct": false,
+          "rationale": "All products, including as-needed and OTC items, are needed for a complete history."
+        }
+      ],
+      "explanation": "For the drug history, the patient brings in all prescription and OTC drugs, home remedies, supplements, and herbals, and the nurse asks the route. Labels are checked for multiple prescribers or pharmacies, adherence, knowledge, expiration dates, and interactions."
+    },
+    {
+      "id": "health-history-11",
+      "type": "sata",
+      "bloom": "analyze",
+      "stem": "A client brings a bag of medication bottles to the visit. Which concerns can the nurse identify by inspecting the labels? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prescriptions from multiple physicians",
+          "correct": true,
+          "rationale": "Correct. Labels show when several physicians are prescribing."
+        },
+        {
+          "id": "b",
+          "text": "Use of more than one pharmacy",
+          "correct": true,
+          "rationale": "Correct. Multiple pharmacies can be seen on labels and raise the risk of missed interactions."
+        },
+        {
+          "id": "c",
+          "text": "Expired medications",
+          "correct": true,
+          "rationale": "Correct. Expiration dates are checked."
+        },
+        {
+          "id": "d",
+          "text": "Possible drug interactions",
+          "correct": true,
+          "rationale": "Correct. Reviewing all products together helps identify interactions."
+        },
+        {
+          "id": "e",
+          "text": "The client's level of education",
+          "correct": false,
+          "rationale": "Education is part of the cultural assessment, not something learned from labels."
+        },
+        {
+          "id": "f",
+          "text": "The client's code status",
+          "correct": false,
+          "rationale": "Code status is part of the biographic information, not the drug labels."
+        }
+      ],
+      "explanation": "Reviewing the actual containers lets the nurse check for multiple physicians or pharmacies, adherence, knowledge, expiration dates, and interactions."
+    },
+    {
+      "id": "health-history-12",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "How often is a Tdap or Td booster recommended for older adults?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every year",
+          "correct": false,
+          "rationale": "Annual is the interval given for PPD (TB) testing in frail or institutionalized adults, not Td."
+        },
+        {
+          "id": "b",
+          "text": "Every 5 years",
+          "correct": false,
+          "rationale": "This is not the interval in the guide."
+        },
+        {
+          "id": "c",
+          "text": "One dose after age 60",
+          "correct": false,
+          "rationale": "A single dose over 60 is the RSV recommendation."
+        },
+        {
+          "id": "d",
+          "text": "Every 10 years",
+          "correct": true,
+          "rationale": "Correct. Tdap/Td is recommended every 10 years."
+        }
+      ],
+      "explanation": "Recommendations: Tdap/Td every 10 years, zoster for adults over 60, COVID-19 per CDC, a single RSV dose over 60, and an annual PPD for frail and institutionalized adults."
+    },
+    {
+      "id": "health-history-13",
+      "type": "sata",
+      "bloom": "apply",
+      "stem": "A 68-year-old client in an outpatient clinic says, \"I've never had chickenpox, as far as I know.\" Which immunization recommendations should the nurse review with this client? Select all that apply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herpes zoster vaccine, even without a remembered case of chickenpox",
+          "correct": true,
+          "rationale": "Correct. Zoster vaccine is recommended for adults over 60 even if they do not remember having chickenpox."
+        },
+        {
+          "id": "b",
+          "text": "A single dose of RSV vaccine",
+          "correct": true,
+          "rationale": "Correct. A single RSV dose is recommended for adults over 60 (2023)."
+        },
+        {
+          "id": "c",
+          "text": "Tdap or Td booster every 10 years",
+          "correct": true,
+          "rationale": "Correct. Tdap/Td is recommended every 10 years."
+        },
+        {
+          "id": "d",
+          "text": "COVID-19 vaccination according to CDC guidance",
+          "correct": true,
+          "rationale": "Correct. COVID-19 vaccination follows CDC recommendations."
+        },
+        {
+          "id": "e",
+          "text": "An RSV vaccine dose every year",
+          "correct": false,
+          "rationale": "RSV is a single dose, not annual."
+        },
+        {
+          "id": "f",
+          "text": "Skip zoster vaccine because there was no chickenpox",
+          "correct": false,
+          "rationale": "Zoster vaccine is recommended even if the person does not remember chickenpox."
+        }
+      ],
+      "explanation": "Older adults should receive Tdap/Td every 10 years, zoster vaccine over 60 (even without remembered chickenpox), COVID-19 per CDC, and a single RSV dose over 60. Annual PPD is for frail and institutionalized adults."
+    },
+    {
+      "id": "health-history-14",
+      "type": "single",
+      "bloom": "remember",
+      "stem": "A 24-hour diet recall does not give enough information about an older client's intake. What should the nurse use next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A 2-day weighed food record",
+          "correct": false,
+          "rationale": "The guide recommends a 5–7 day food diary."
+        },
+        {
+          "id": "b",
+          "text": "A 5–7 day food diary",
+          "correct": true,
+          "rationale": "Correct. If a 24-hour recall is not enough, a 5–7 day food diary is used."
+        },
+        {
+          "id": "c",
+          "text": "A 30-day calorie count",
+          "correct": false,
+          "rationale": "This is not the tool given in the chapter."
+        },
+        {
+          "id": "d",
+          "text": "A repeat recall next year",
+          "correct": false,
+          "rationale": "Waiting a year does not address the current gap."
+        }
+      ],
+      "explanation": "Nutrition assessment starts with a 24-hour diet recall; a 5–7 day food diary is used if needed. Causes of nutrition problems include money, mobility, teeth, and loneliness."
+    },
+    {
+      "id": "health-history-15",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "A client rates knee pain at 7 on a 0–10 scale, and the nurse gives the prescribed analgesic. According to the PQRSTU approach to severity, what should the nurse do next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Document the 7 as the final pain score for the shift",
+          "correct": false,
+          "rationale": "The baseline score is only the first step; the nurse must reassess after intervening."
+        },
+        {
+          "id": "b",
+          "text": "Ask the family to rate the pain in the client's place",
+          "correct": false,
+          "rationale": "The client's own rating is used; family input does not replace reassessment."
+        },
+        {
+          "id": "c",
+          "text": "Reassess the pain using the same 0–10 scale",
+          "correct": true,
+          "rationale": "Correct. Severity is rated 0–10: baseline, intervene, then reassess."
+        },
+        {
+          "id": "d",
+          "text": "Switch to a new scale to avoid bias in the score",
+          "correct": false,
+          "rationale": "Using the same scale allows comparison with the baseline."
+        }
+      ],
+      "explanation": "In PQRSTU, S is severity rated 0–10: obtain a baseline, intervene, and reassess. The other elements are Provocative/Palliative, Quality/Quantity, Region/Radiation, Timing/Treatment, and Understanding."
+    },
+    {
+      "id": "health-history-16",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A nurse completes health histories with many older clients but never asks about sexual health. What best explains this gap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Older adults prefer that sexual health be addressed only by a provider",
+          "correct": false,
+          "rationale": "The chapter does not support this; it traces the gap to the nurse's own attitude."
+        },
+        {
+          "id": "b",
+          "text": "A belief that older adults are not sexual is shaping the nurse's behavior",
+          "correct": true,
+          "rationale": "Correct. An attitude is a feeling, value, or belief that determines behavior; believing older adults are not sexual leads to never asking."
+        },
+        {
+          "id": "c",
+          "text": "The review of systems does not include questions about sexual health",
+          "correct": false,
+          "rationale": "The review of systems is head-to-toe; the omission reflects attitude, not the format."
+        },
+        {
+          "id": "d",
+          "text": "Sexual health is not relevant to function or quality of life in later years",
+          "correct": false,
+          "rationale": "This reflects the very attitude the chapter warns against."
+        }
+      ],
+      "explanation": "An attitude is a feeling, value, or belief that determines behavior. Believing older adults are not sexual leads to never asking about sexual health, and assuming dependence is normal leads to not asking about strengths."
+    },
+    {
+      "id": "health-history-17",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "A newly admitted 83-year-old client says he is hard of hearing and appears restless and apprehensive. Which revision to the interview plan is best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Speak loudly from the doorway so the interview is completed quickly in one session",
+          "correct": false,
+          "rationale": "Position and distance should allow the client to see and hear; rushing increases anxiety, and more than one session may be needed."
+        },
+        {
+          "id": "b",
+          "text": "Collect the entire history from his daughter instead of from the client directly",
+          "correct": false,
+          "rationale": "Family validates data, but the client should be involved as a participant."
+        },
+        {
+          "id": "c",
+          "text": "Check his hearing aid, face him in a quiet room, and explain the interview's purpose",
+          "correct": true,
+          "rationale": "Correct. Aids in place and working, a quiet room, facing the client, and explaining purpose and format ease anxiety and support hearing."
+        },
+        {
+          "id": "d",
+          "text": "Postpone all questions until his anxiety resolves on its own over the next few days",
+          "correct": false,
+          "rationale": "The nurse should adapt the interview rather than delay the whole assessment."
+        }
+      ],
+      "explanation": "For a client with hearing loss and anxiety: ensure the hearing aid is in place and working, face the client in a quiet room, explain purpose and format, be unhurried and use silence, set a time limit, and plan more than one session if needed."
+    },
+    {
+      "id": "health-history-18",
+      "type": "single",
+      "bloom": "understand",
+      "stem": "During the history, a 90-year-old client keeps telling stories about her years as a schoolteacher. How should the nurse understand and use this behavior?",
+      "options": [
+        {
+          "id": "a",
+          "text": "As a sign of dementia that should be screened right away with the MoCA",
+          "correct": false,
+          "rationale": "A tendency to reminisce is a normal patient factor, not by itself a sign of dementia."
+        },
+        {
+          "id": "b",
+          "text": "As a distraction that should be stopped so the form can be finished",
+          "correct": false,
+          "rationale": "Reminiscence can be guided toward the interview's goals rather than shut down."
+        },
+        {
+          "id": "c",
+          "text": "As a reason to end the interview and reschedule it for a later date",
+          "correct": false,
+          "rationale": "Reminiscence alone does not require ending the interview."
+        },
+        {
+          "id": "d",
+          "text": "As a patient factor to guide with goal-directed, guided reminiscence",
+          "correct": true,
+          "rationale": "Correct. Tendency to reminisce is one of six patient factors; goal-directed questions plus guided reminiscence keep the history on track."
+        }
+      ],
+      "explanation": "The six patient factors are sensory-perceptual deficits, anxiety, reduced energy, pain, multiple interrelated problems, and a tendency to reminisce. Goal-directed questions with guided reminiscence use this tendency productively; the history may also act as a life review."
+    },
+    {
+      "id": "health-history-19",
+      "type": "single",
+      "bloom": "evaluate",
+      "stem": "A preceptor observes a new nurse using the electronic health record (EHR) during an interview with an older adult. Which behavior shows correct technique?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Typing continuously while the client speaks to save time",
+          "correct": false,
+          "rationale": "This blocks eye contact and body language, which are key in interviewing older adults."
+        },
+        {
+          "id": "b",
+          "text": "Facing the client and alternating between talking and typing",
+          "correct": true,
+          "rationale": "Correct. Face the patient, enter data first, then alternate between the client and the record."
+        },
+        {
+          "id": "c",
+          "text": "Turning the screen away and entering data after the visit",
+          "correct": false,
+          "rationale": "The guide describes entering data first and then alternating, not deferring all entry."
+        },
+        {
+          "id": "d",
+          "text": "Sitting behind the monitor so the client can see the clock",
+          "correct": false,
+          "rationale": "A clock in view helps with time limits, but sitting behind a monitor blocks seeing and hearing."
+        }
+      ],
+      "explanation": "When using an EHR, the nurse faces the patient, enters data first, then alternates. Distance and position should let the client see and hear the nurse."
+    },
+    {
+      "id": "health-history-20",
+      "type": "single",
+      "bloom": "analyze",
+      "stem": "At a 3 p.m. home visit, a frail client receiving chemotherapy is sitting slumped in a chair, unshaven, barefoot, and still in pajamas. Which additional assessments are most important for the nurse to complete?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Functional status, fatigue, depression screening, and nutrition",
+          "correct": true,
+          "rationale": "Correct. Self-care, energy, mood (dependency, increased sleep), and nutrition are all suggested by these cues; home care also prioritizes musculoskeletal and fall risk."
+        },
+        {
+          "id": "b",
+          "text": "A full cardiac and respiratory exam before any other assessment",
+          "correct": false,
+          "rationale": "Cardiopulmonary priority applies to acute care with CHF; in home care the priority is musculoskeletal, falls, and self-care."
+        },
+        {
+          "id": "c",
+          "text": "A MoCA screen only, since grooming problems indicate dementia",
+          "correct": false,
+          "rationale": "Poor grooming can reflect fatigue, depression, or functional decline; dementia should not be assumed."
+        },
+        {
+          "id": "d",
+          "text": "A review of the family tree and the client's occupational profile",
+          "correct": false,
+          "rationale": "These history components do not address the cues of decline seen at this visit."
+        }
+      ],
+      "explanation": "Cues such as being slumped, ungroomed, and in pajamas late in the day call for assessing function (ADLs), fatigue and energy, depression (GDS), nutrition, home safety, and social resources. In home care the musculoskeletal system (falls, self-care) is the priority."
+    }
+  ]
+}
